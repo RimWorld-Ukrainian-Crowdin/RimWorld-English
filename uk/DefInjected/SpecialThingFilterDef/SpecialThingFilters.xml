@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>дозволити трупи колоністів</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Дозволити рештки колишніх колоністів.</AllowCorpsesColonist.description>
+
+  <AllowCorpsesStranger.label>дозволити трупи чужинців</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Дозволити рештки чужинців і ворогів.</AllowCorpsesStranger.description>
+
+  <AllowRotten.label>дозволити гниль</AllowRotten.label>
+  <AllowRotten.description>Дозволити органічні речі, які почали гнити.</AllowRotten.description>
+
+  <AllowPlantFood.label>дозволити рослинну їжу</AllowPlantFood.label>
+  <AllowPlantFood.description>Дозволити продукти, які мають якість не зібраної рослини, як сіно.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>дозволити розбірне</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>дозволити не розбірне</AllowNonSmeltableWeapons.label>
+  <AllowNonDeadmansApparel.label>дозволити одяг знятий не з трупів</AllowNonDeadmansApparel.label>
+
+
+</LanguageData>
