@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shooting.label>стрільба</Shooting.label>
+  <Shooting.description>Користування всіма видами далекобійної зброї.</Shooting.description>
+  <Shooting.skillLabel>стрільба</Shooting.skillLabel>
+
+  <Melee.label>ближній бій</Melee.label>
+  <Melee.description>Використання усіх видів зброї ближнього бою та рукопашний бій без зброї.</Melee.description>
+  <Melee.skillLabel>ближній бій</Melee.skillLabel>
+
+  <Social.label>соціальність</Social.label>
+  <Social.description>Перемовини, переконування, маніпулювання, лідерство та підбадьорювання інших.</Social.description>
+  <Social.skillLabel>соціальність</Social.skillLabel>
+
+  <Animals.label>тваринництво</Animals.label>
+  <Animals.description>Приручення, тренування, управління та контроль тварин.</Animals.description>
+  <Animals.skillLabel>тваринництво</Animals.skillLabel>
+
+  <Medicine.label>медицина</Medicine.label>
+  <Medicine.description>Лікування поранень і хвороб та виконання хірургічних операцій.</Medicine.description>
+  <Medicine.skillLabel>медицина</Medicine.skillLabel>
+
+  <Cooking.label>кулінарія</Cooking.label>
+  <Cooking.description>Приготування страв із сирих інгредієнтів.</Cooking.description>
+  <Cooking.skillLabel>кулінарія</Cooking.skillLabel>
+
+  <Construction.label>будівництво</Construction.label>
+  <Construction.description>Кращі будівельники будують споруди та меблі швидше і більш якісно.</Construction.description>
+  <Construction.skillLabel>будівництво</Construction.skillLabel>
+
+  <Growing.label>рослинництво</Growing.label>
+  <Growing.description>Посів, догляд та збір урожаю.</Growing.description>
+  <Growing.skillLabel>рослинництво</Growing.skillLabel>
+
+  <Mining.label>шахтарство</Mining.label>
+  <Mining.description>Викопування тунелів та видобування мінералів і закопаних ресурсів.</Mining.description>
+  <Mining.skillLabel>шахтарство</Mining.skillLabel>
+
+  <Artistic.label>мистецтво</Artistic.label>
+  <Artistic.description>Створення творів мистецтва.</Artistic.description>
+  <Artistic.skillLabel>мистецтво</Artistic.skillLabel>
+
+  <Crafting.label>ремесло</Crafting.label>
+  <Crafting.description>Виготовлення загальних речей, у тому числі - зброї та інструментів.</Crafting.description>
+  <Crafting.skillLabel>ремесло</Crafting.skillLabel>
+
+  <Intellectual.label>дослідження</Intellectual.label>
+  <Intellectual.description>Розслідування доказів, створення зв'язків, обчислення та використання логіки.</Intellectual.description>
+  <Intellectual.skillLabel>дослідження</Intellectual.skillLabel>
+
+
+</LanguageData>
