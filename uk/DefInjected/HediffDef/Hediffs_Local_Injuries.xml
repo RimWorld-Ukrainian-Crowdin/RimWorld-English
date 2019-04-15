@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Missing body part -->
+
+  <MissingBodyPart.label>відсутні частини тіла</MissingBodyPart.label>
+  <MissingBodyPart.labelNoun>відсутня частина тіла</MissingBodyPart.labelNoun>
+
+
+  <!-- Injuries -->
+
+  <Misc.label>все інше</Misc.label>
+  <Misc.comps.0.labelTendedWell>перебинтовано</Misc.comps.0.labelTendedWell>
+  <Misc.comps.0.labelTendedWellInner>зшито</Misc.comps.0.labelTendedWellInner>
+  <Misc.comps.0.labelSolidTendedWell>встановлено</Misc.comps.0.labelSolidTendedWell>
+  <Misc.injuryProps.destroyedLabel>Знищено</Misc.injuryProps.destroyedLabel>
+  <Misc.labelNoun>рана</Misc.labelNoun>
+
+  <Burn.label>опік</Burn.label>
+  <Burn.comps.0.labelTendedWell>оброблено</Burn.comps.0.labelTendedWell>
+  <Burn.comps.0.labelTendedWellInner>зашитий</Burn.comps.0.labelTendedWellInner>
+  <Burn.comps.0.labelSolidTendedWell>зафіксований</Burn.comps.0.labelSolidTendedWell>
+  <Burn.comps.2.oldLabel>шрам від опіку</Burn.comps.2.oldLabel>
+  <Burn.injuryProps.destroyedLabel>Запечений</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedOutLabel>Згорілий</Burn.injuryProps.destroyedOutLabel>
+  <Burn.labelNoun>опік</Burn.labelNoun>
+
+  <Crush.label>роздроблений</Crush.label>
+  <Crush.comps.0.labelTendedWell>перев'зяний</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTendedWellInner>зашитий</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelSolidTendedWell>зафіксований</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.2.oldLabel>рубець</Crush.comps.2.oldLabel>
+  <Crush.injuryProps.destroyedLabel>Роздроблений</Crush.injuryProps.destroyedLabel>
+  <Crush.labelNoun>розтрощена рана</Crush.labelNoun>
+
+  <Crack.label>тріщина</Crack.label>
+  <Crack.comps.0.labelTendedWell>поліковано</Crack.comps.0.labelTendedWell>
+  <Crack.comps.0.labelTendedWellInner>поліковано</Crack.comps.0.labelTendedWellInner>
+  <Crack.comps.0.labelSolidTendedWell>зафіксовано</Crack.comps.0.labelSolidTendedWell>
+  <Crack.injuryProps.destroyedLabel>Розбито</Crack.injuryProps.destroyedLabel>
+  <Crack.labelNoun>тріснута рана</Crack.labelNoun>
+
+  <Cut.label>поріз</Cut.label>
+  <Cut.comps.0.labelTendedWell>забинтовано</Cut.comps.0.labelTendedWell>
+  <Cut.comps.0.labelTendedWellInner>зашито</Cut.comps.0.labelTendedWellInner>
+  <Cut.comps.0.labelSolidTendedWell>зафіксовано</Cut.comps.0.labelSolidTendedWell>
+  <Cut.comps.2.oldLabel>старий шрам</Cut.comps.2.oldLabel>
+  <Cut.injuryProps.destroyedLabel>Відрубано</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedOutLabel>Вирізано</Cut.injuryProps.destroyedOutLabel>
+  <Cut.labelNoun>поріз</Cut.labelNoun>
+
+  <SurgicalCut.label>хірургічний поріз</SurgicalCut.label>
+  <SurgicalCut.comps.0.labelTendedWell>забинтовано</SurgicalCut.comps.0.labelTendedWell>
+  <SurgicalCut.comps.0.labelTendedWellInner>зашито</SurgicalCut.comps.0.labelTendedWellInner>
+  <SurgicalCut.comps.0.labelSolidTendedWell>зафіксовано</SurgicalCut.comps.0.labelSolidTendedWell>
+  <SurgicalCut.comps.1.oldLabel>рубець від порізу</SurgicalCut.comps.1.oldLabel>
+  <SurgicalCut.labelNoun>хірургічний рубець</SurgicalCut.labelNoun>
+
+  <Scratch.label>подряпина</Scratch.label>
+  <Scratch.comps.0.labelTendedWell>перебинтовано</Scratch.comps.0.labelTendedWell>
+  <Scratch.comps.0.labelTendedWellInner>зашито</Scratch.comps.0.labelTendedWellInner>
+  <Scratch.comps.0.labelSolidTendedWell>зафіксовано</Scratch.comps.0.labelSolidTendedWell>
+  <Scratch.comps.2.oldLabel>рубець від подряпини</Scratch.comps.2.oldLabel>
+  <Scratch.injuryProps.destroyedLabel>Порваний</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedOutLabel>Розірваний</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.labelNoun>подряпина</Scratch.labelNoun>
+
+  <Bite.label>укус</Bite.label>
+  <Bite.comps.0.labelTendedWell>перев'язано</Bite.comps.0.labelTendedWell>
+  <Bite.comps.0.labelTendedWellInner>зашито</Bite.comps.0.labelTendedWellInner>
+  <Bite.comps.0.labelSolidTendedWell>зафіксовано</Bite.comps.0.labelSolidTendedWell>
+  <Bite.comps.2.oldLabel>рубець від укусу</Bite.comps.2.oldLabel>
+  <Bite.injuryProps.destroyedLabel>Прокушений</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedOutLabel>Відкушений</Bite.injuryProps.destroyedOutLabel>
+  <Bite.labelNoun>поранення від укусу</Bite.labelNoun>
+
+  <Stab.label>колота рана</Stab.label>
+  <Stab.comps.0.labelTendedWell>перев'язано</Stab.comps.0.labelTendedWell>
+  <Stab.comps.0.labelTendedWellInner>зашито</Stab.comps.0.labelTendedWellInner>
+  <Stab.comps.0.labelSolidTendedWell>зафіксовано</Stab.comps.0.labelSolidTendedWell>
+  <Stab.comps.2.oldLabel>рубуць від колотої рани</Stab.comps.2.oldLabel>
+  <Stab.injuryProps.destroyedLabel>Розрізаний</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>Відрізаний</Stab.injuryProps.destroyedOutLabel>
+  <Stab.labelNoun>колота рана</Stab.labelNoun>
+
+  <Gunshot.label>постріл</Gunshot.label>
+  <Gunshot.comps.0.labelTendedWell>перев'зяно</Gunshot.comps.0.labelTendedWell>
+  <Gunshot.comps.0.labelTendedWellInner>зашито</Gunshot.comps.0.labelTendedWellInner>
+  <Gunshot.comps.0.labelSolidTendedWell>зафіксовано</Gunshot.comps.0.labelSolidTendedWell>
+  <Gunshot.comps.2.oldLabel>старий постріл</Gunshot.comps.2.oldLabel>
+  <Gunshot.comps.2.instantlyOldLabel>довічне кульове поранення</Gunshot.comps.2.instantlyOldLabel>
+  <Gunshot.injuryProps.destroyedLabel>Прострелено</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>Відстрелено</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.labelNoun>кульове поранення</Gunshot.labelNoun>
+
+  <Shredded.label>подріблено</Shredded.label>
+  <Shredded.comps.0.labelTendedWell>перев'язано</Shredded.comps.0.labelTendedWell>
+  <Shredded.comps.0.labelTendedWellInner>зашито</Shredded.comps.0.labelTendedWellInner>
+  <Shredded.comps.0.labelSolidTendedWell>зафіксовано</Shredded.comps.0.labelSolidTendedWell>
+  <Shredded.comps.2.oldLabel>рубець</Shredded.comps.2.oldLabel>
+  <Shredded.injuryProps.destroyedLabel>Порвано</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedOutLabel>Розірвано</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.labelNoun>рвана рана</Shredded.labelNoun>
+
+  <Bruise.label>синяк</Bruise.label>
+  <Bruise.comps.0.labelTendedWell>забинтовано</Bruise.comps.0.labelTendedWell>
+  <Bruise.comps.0.labelTendedWellInner>зашито</Bruise.comps.0.labelTendedWellInner>
+  <Bruise.comps.0.labelSolidTendedWell>встановлено</Bruise.comps.0.labelSolidTendedWell>
+  <Bruise.injuryProps.destroyedLabel>Знищено</Bruise.injuryProps.destroyedLabel>
+  <Bruise.labelNoun>синяк</Bruise.labelNoun>
+
+  <Frostbite.label>обмороження</Frostbite.label>
+  <Frostbite.comps.0.labelTendedWell>перебинтовано</Frostbite.comps.0.labelTendedWell>
+  <Frostbite.comps.0.labelTendedWellInner>зашито</Frostbite.comps.0.labelTendedWellInner>
+  <Frostbite.comps.0.labelSolidTendedWell>встановлено</Frostbite.comps.0.labelSolidTendedWell>
+  <Frostbite.comps.2.oldLabel>ризик обмороження</Frostbite.comps.2.oldLabel>
+  <Frostbite.injuryProps.destroyedLabel>Відморожено</Frostbite.injuryProps.destroyedLabel>
+
+
+</LanguageData>
