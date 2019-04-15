@@ -1,66 +1,48 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PowerConduit.label>power conduit</PowerConduit.label>
-  <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
+  <PowerConduit.label>силовий кабель</PowerConduit.label>
+  <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit.description>
+  <PowerConduit_Blueprint.label>силовий кабель (проект)</PowerConduit_Blueprint.label>
+  <PowerConduit_Frame.label>силвоий кабель (прокладається)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit_Frame.description>
 
-  <Blueprint_PowerConduit.label>BlueprintLabelExtra</Blueprint_PowerConduit.label>
-  <Frame_PowerConduit.label>FrameLabelExtra</Frame_PowerConduit.label>
+  <PowerSwitch.label>силовий вимикач</PowerSwitch.label>
+  <PowerSwitch.description>Вмикає/вимикає живлення.</PowerSwitch.description>
+  <PowerSwitch_Blueprint.label>силовий вимикач (проект)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>силовий вимикач (будується)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Вмикає/вимикає живлення.</PowerSwitch_Frame.description>
 
-  <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
-  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
+  <WoodFiredGenerator.label>тверодопаливний генератор</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Виробляє електроенергію, споживаючи тверде паливо. Треба часто підкладати дрова.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>твердопаливний генератор (проект)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator_Frame.label>твердопаливний генератор (будується)</WoodFiredGenerator_Frame.label>
+  <WoodFiredGenerator_Frame.description>Виробляє електроенергію, споживаючи тверде паливо. Треба часто підкладати дрова.</WoodFiredGenerator_Frame.description>
 
-  <Blueprint_WaterproofConduit.label>BlueprintLabelExtra</Blueprint_WaterproofConduit.label>
-  <Frame_WaterproofConduit.label>FrameLabelExtra</Frame_WaterproofConduit.label>
+  <ChemfuelPoweredGenerator.label>генератор на хімпаливі</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Треба часто підкладати паливо.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator_Blueprint.label>генератор на хімпаливі (проект)</ChemfuelPoweredGenerator_Blueprint.label>
+  <ChemfuelPoweredGenerator_Frame.label>генератор на хімпаливі (будується)</ChemfuelPoweredGenerator_Frame.label>
+  <ChemfuelPoweredGenerator_Frame.description>Виробляє електроенергію, споживаючи хімпаливо. Треба часто підкладати паливо.</ChemfuelPoweredGenerator_Frame.description>
 
-  <PowerSwitch.label>power switch</PowerSwitch.label>
-  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
+  <Battery.label>акумулятор</Battery.label>
+  <Battery.description>Накопичує надлишок електроенергії та віддає при перебоях. Обережно! Заряджені батареї можуть вибухнути при пожежі або під дощем.</Battery.description>
+  <Battery_Blueprint.label>акумулятор (проект)</Battery_Blueprint.label>
+  <Battery_Blueprint_Install.label>акумулятор (проект)</Battery_Blueprint_Install.label>
+  <Battery_Frame.label>акумулятор (будується)</Battery_Frame.label>
+  <Battery_Frame.description>Накопичує надлишок електроенергії та віддає при перебоях. Обережно! Заряджені батареї можуть вибухнути при пожежі або під дощем.</Battery_Frame.description>
 
-  <Blueprint_PowerSwitch.label>BlueprintLabelExtra</Blueprint_PowerSwitch.label>
-  <Frame_PowerSwitch.label>FrameLabelExtra</Frame_PowerSwitch.label>
+  <SolarGenerator.label>сонячна панель</SolarGenerator.label>
+  <SolarGenerator.description>Виробляє електроенергію з сонячного світла. Не працює при недостантій освітленості.</SolarGenerator.description>
+  <SolarGenerator_Blueprint.label>сонячна панель (проект)</SolarGenerator_Blueprint.label>
+  <SolarGenerator_Frame.label>сонячна панель (будується)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Виробляє електроенергію з сонячного світла. Не працює при недостантій освітленості.</SolarGenerator_Frame.description>
 
-  <WoodFiredGenerator.label>wood-fired generator</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator.description>
-
-  <Blueprint_WoodFiredGenerator.label>BlueprintLabelExtra</Blueprint_WoodFiredGenerator.label>
-  <Frame_WoodFiredGenerator.label>FrameLabelExtra</Frame_WoodFiredGenerator.label>
-
-  <ChemfuelPoweredGenerator.label>chemfuel powered generator</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator.description>
-
-  <Blueprint_ChemfuelPoweredGenerator.label>BlueprintLabelExtra</Blueprint_ChemfuelPoweredGenerator.label>
-  <Frame_ChemfuelPoweredGenerator.label>FrameLabelExtra</Frame_ChemfuelPoweredGenerator.label>
-
-  <WindTurbine.label>wind turbine</WindTurbine.label>
-  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</WindTurbine.description>
-
-  <Blueprint_WindTurbine.label>BlueprintLabelExtra</Blueprint_WindTurbine.label>
-  <Frame_WindTurbine.label>FrameLabelExtra</Frame_WindTurbine.label>
-
-  <Battery.label>battery</Battery.label>
-  <Battery.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery.description>
-
-  <Blueprint_Battery.label>BlueprintLabelExtra</Blueprint_Battery.label>
-  <Blueprint_Install_Battery.label>BlueprintLabelExtra</Blueprint_Install_Battery.label>
-  <Frame_Battery.label>FrameLabelExtra</Frame_Battery.label>
-
-  <SolarGenerator.label>solar generator</SolarGenerator.label>
-  <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</SolarGenerator.description>
-
-  <Blueprint_SolarGenerator.label>BlueprintLabelExtra</Blueprint_SolarGenerator.label>
-  <Frame_SolarGenerator.label>FrameLabelExtra</Frame_SolarGenerator.label>
-
-  <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
-  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator.description>
-
-  <Blueprint_GeothermalGenerator.label>BlueprintLabelExtra</Blueprint_GeothermalGenerator.label>
-  <Frame_GeothermalGenerator.label>FrameLabelExtra</Frame_GeothermalGenerator.label>
-
-  <WatermillGenerator.label>watermill generator</WatermillGenerator.label>
-  <WatermillGenerator.description>Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation.</WatermillGenerator.description>
-
-  <Blueprint_WatermillGenerator.label>BlueprintLabelExtra</Blueprint_WatermillGenerator.label>
-  <Frame_WatermillGenerator.label>FrameLabelExtra</Frame_WatermillGenerator.label>
+  <GeothermalGenerator.label>геотермальний генератор</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</GeothermalGenerator.description>
+  <GeothermalGenerator_Blueprint.label>геотермальний генератор (проект)</GeothermalGenerator_Blueprint.label>
+  <GeothermalGenerator_Frame.label>геотермальний генератор (будується)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</GeothermalGenerator_Frame.description>
 
 
 </LanguageData>
