@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
-  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.label>спалена дерев'яна підлога</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.description>Спалений вщент дощаний настил.</BurnedWoodPlankFloor.description>
 
-  <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
-  <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
+  <BurnedCarpet.label>спалений килим</BurnedCarpet.label>
+  <BurnedCarpet.description>Спалений від пожежі килим.</BurnedCarpet.description>
 
 
 </LanguageData>
