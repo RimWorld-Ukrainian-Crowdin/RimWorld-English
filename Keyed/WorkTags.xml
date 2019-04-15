@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkTagNone>none</WorkTagNone>
-  <WorkTagIntellectual>intellectual</WorkTagIntellectual>
-  <WorkTagManualDumb>dumb labor</WorkTagManualDumb>
-  <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
-  <WorkTagViolent>violent</WorkTagViolent>
-  <WorkTagCaring>caring</WorkTagCaring>
-  <WorkTagSocial>social</WorkTagSocial>
-  <WorkTagAnimals>animals</WorkTagAnimals>
-  <WorkTagArtistic>artistic</WorkTagArtistic>
-  <WorkTagCrafting>crafting</WorkTagCrafting>
-  <WorkTagCooking>cooking</WorkTagCooking>
-  <WorkTagFirefighting>firefighting</WorkTagFirefighting>
-  <WorkTagCleaning>cleaning</WorkTagCleaning>
-  <WorkTagHauling>hauling</WorkTagHauling>
-  <WorkTagPlantWork>plant work</WorkTagPlantWork>
-  <WorkTagMining>mining</WorkTagMining>
+  <WorkTagNone>нічого</WorkTagNone>
+  <WorkTagIntellectual>дослідження</WorkTagIntellectual>
+  <WorkTagManualDumb>легка праця</WorkTagManualDumb>
+  <WorkTagManualSkilled>кваліфікована робота</WorkTagManualSkilled>
+  <WorkTagViolent>жорстокі</WorkTagViolent>
+  <WorkTagCaring>догляд</WorkTagCaring>
+  <WorkTagSocial>соціальний</WorkTagSocial>
+  <WorkTagAnimals>тваринництво</WorkTagAnimals>
+  <WorkTagArtistic>мистецтво</WorkTagArtistic>
+  <WorkTagCrafting>ремесло</WorkTagCrafting>
+  <WorkTagCooking>кулінарія</WorkTagCooking>
+  <WorkTagFirefighting>пожежогасіння</WorkTagFirefighting>
+  <WorkTagCleaning>чищення</WorkTagCleaning>
+  <WorkTagHauling>перетяжка</WorkTagHauling>
+  <WorkTagPlantWork>робота заводу</WorkTagPlantWork>
+  <WorkTagMining>шахтарство</WorkTagMining>
 
 </LanguageData>
