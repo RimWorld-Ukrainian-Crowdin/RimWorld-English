@@ -415,24 +415,24 @@ HECAP не вмів читати до девʼяти років.</desc>
 	<VatgrownSoldier83>
 		<title>Солдат-клон</title>
 		<titleShort>Клон</titleShort>
-		<desc>NAME був створений не як особистість, а як інструмент знищення. Grown in a bioweapons facility and taught combat during HIS accelerated growth, NAME still has a proclivity for combat of all kinds and an aversion to human contact.</desc>
+		<desc>NAME був створений не як особистість, а як інструмент знищення. Вирощений як досконала біологічна зброя та навчений битися під час свого прискореного зростання, NAME все ще має схильність до всіх видів бойового мистецтва і відразу до людського контакту.</desc>
 	</VatgrownSoldier83>
 	<SicklyChild40>
-		<title>Хворобливий дитина</title>
+		<title>Хвороблива дитина</title>
 		<titleShort>Пацієнт</titleShort>
-		<desc>As a child, NAME suffered from a rare disease. Quarantined in a research hospital, HE had minimal human contact and got little physical exercise. In the sterile hospital environment, however, HE became very familiar with science and medicine.</desc>
+		<desc>У дитинстві NAME страждав від рідкісного захворювання. Перебуваючи в карантині в дослідницькій лікарні, HE мав мінімальний контакт з людьми та мало фізичних вправ. Однак у стерильному лікарняному оточенні HE добре ознайомився з наукою і медициною.</desc>
 	</SicklyChild40>
 	<ShelterChild65>
-		<title>Shelter child</title>
-		<titleShort>Shelterkid</titleShort>
-		<desc>NAME grew up in a shelter deep beneath a toxic world. HECAP received a comprehensive education, but had no opportunity to do physical labour.</desc>
+		<title>Сирота з притулку</title>
+		<titleShort>Сирота</titleShort>
+		<desc>NAME виріс у притулку глибоко під токсичним світом. HECAP отримав всебічну освіту, але не мав можливості займатися фізичною працею.</desc>
 	</ShelterChild65>
 	<IndustrialOrphan55>
-		<title>Industrial orphan</title>
-		<titleShort>Сирітка</titleShort>
-		<desc>NAME never knew HIS parents. HISCAP earliest memories were of drudgery in the mines and workhouses of HIS industrial world.
+		<title>Промислова сирота</title>
+		<titleShort>Сирота</titleShort>
+		<desc>NAME ніколи не знав своїх батьків. Найбільш ранніми спогадами HISCAP була каторжна праця в шахтах і фабриках індустріального світу.
 
-Because of this, HE never received a proper education.</desc>
+Через це HE ніколи не отримував належної освіти.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
 		<title>Розвідник</title>
