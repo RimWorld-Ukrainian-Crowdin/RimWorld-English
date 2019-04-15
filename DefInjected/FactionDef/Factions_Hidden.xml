@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Ancients.label>ancients</Ancients.label>
-  <Ancients.fixedName>Ancients</Ancients.fixedName>
-  <Ancients.leaderTitle>leader</Ancients.leaderTitle>
-  <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
-  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
+  <Spacer.label>космічний мандрівник</Spacer.label>
+  <Spacer.description>Люди з далеких глибин космосу.</Spacer.description>
+  <Spacer.fixedName>Космічний мандрівник</Spacer.fixedName>
+  <Spacer.pawnsPlural>космічні мандрівники</Spacer.pawnsPlural>
 
-  <AncientsHostile.label>ancients</AncientsHostile.label>
-  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
-  <AncientsHostile.leaderTitle>leader</AncientsHostile.leaderTitle>
-  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
-  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
+  <SpacerHostile.label>космічний мандрівник</SpacerHostile.label>
+  <SpacerHostile.description>Люди з далеких глибин космосу.</SpacerHostile.description>
+  <SpacerHostile.fixedName>Космічний мандрівник</SpacerHostile.fixedName>
+  <SpacerHostile.pawnsPlural>космічні мандрівники</SpacerHostile.pawnsPlural>
 
-  <Mechanoid.label>mechanoid hive</Mechanoid.label>
-  <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
-  <Mechanoid.leaderTitle>leader</Mechanoid.leaderTitle>
-  <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
-  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
+  <Mechanoid.label>рій механоїдів</Mechanoid.label>
+  <Mechanoid.description>Рій древніх само-відтворювальних машин.</Mechanoid.description>
+  <Mechanoid.fixedName>рою механоїдів</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>механоїди</Mechanoid.pawnsPlural>
 
-  <Insect.label>insects</Insect.label>
-  <Insect.fixedName>insects</Insect.fixedName>
-  <Insect.leaderTitle>leader</Insect.leaderTitle>
-  <Insect.pawnSingular>insect</Insect.pawnSingular>
-  <Insect.pawnsPlural>insects</Insect.pawnsPlural>
+  <Insect.label>комахи</Insect.label>
+  <Insect.description>Зазвичай агресивні та настирливі комахи.</Insect.description>
+  <Insect.fixedName>комахи</Insect.fixedName>
+  <Insect.pawnsPlural>комахи</Insect.pawnsPlural>
 
 
 </LanguageData>
