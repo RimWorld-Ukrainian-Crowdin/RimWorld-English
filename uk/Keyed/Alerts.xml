@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Натисніть, щоб перейти до проблеми</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Незначний ризик зриву</BreakRiskMinor>
+  <BreakRiskMajor>Значний ризик зриву</BreakRiskMajor>
+  <BreakRiskExtreme>Екстремальний ризик зриву</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Ці колоністи в поганому настрої і можуть отримати незначний психічний зрив у будь який час:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ці колоністи в дуже поганому настрої і можуть отримати значний психічний зрив у будь який час:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ці колоністи панічно нервують і можуть отримати екстремальний (і скоріше за все небезпечний) психічний зрив у будь який час:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Перевірте вкладку Потреб цих колоністів щоб побачити що їх хвилює.\n\n Щоб колоністи почувалися краще, ви можете зробити такі речі як приготувати для них оригінальну страву, дати їм більше годин на день на розваги та кращі об'єкти для розваг, розмістити їх в затишному оточенні, дозволити їм пити та палити, та багато іншого.</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>Колоніст потребує порятунок</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Колоністи потребують порятунку</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Ці колоністи є недієздатними на землі:\n\n{0}\nВідправте іншого колоніста, щоб врятувати їх і віднести їх назад в ліжко.\n\n(Для спасіння, виберіть іншого колоніста, потім клацніть правою кнопкою миші на жертву і виберіть Порятунок.</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Потрібен захист</NeedDefenses>
+  <NeedDefensesDesc>Ви були тут деякий час і, напевно, бачили. Піратські рейди почнуться найближчим часом.\n\nВи повинні підготувати оборону, будь то пастки, мішки з піском, або турелі.</NeedDefensesDesc>
+
+  <NeedDoctor>Потрібен лікар</NeedDoctor>
+  <NeedDoctorDesc>Ці колоністи потребують медичної допомоги, але у вас немає здорових колоніств, призначених лікарями.\n\n{0}\nПризначте здорового колоніста на роботу лікаря. Якщо не лікувати рани, вони можуть ніколи не загоїтися і можуть стати постійними.</NeedDoctorDesc>
+
+  <NeedMiner>Потрібен шахтар</NeedMiner>
+  <NeedMinerDesc>Ви позначили деякі камені на видобуток, але у вас немає шахтарів.\n\nПризначте колоніста на роботу шахтаря.</NeedMinerDesc>
+
+  <NeedWarden>Потрібен наглядач</NeedWarden>
+  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+
+  <LowFood>Мало їжі</LowFood>
+  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+
+  <LowMedicine>Мало ліків</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>На складі закінчились ліки.\n\nКупіть більше ліків у торговців.</NoMedicineDesc>
+
+  <NeedColonistBeds>Необхідні ліжка для колоністів</NeedColonistBeds>
+  <NeedColonistBedsDesc>У вас більше колоністів, ніж ліжок. Комусть не вистачить місця для сну.\n\nЗбудуйте більше ліжок, або змініть тюремні ліжка на колоністські.\n\nЯкщо у вас нема ресурсів, спальні місця безкоштовні і миттєво розміщаються.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>У мисливця нема зброї дальнього бою</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Колоніст призначений мисливцем, але не має зброї дального бою.\n\nВін не буде полювати доки не отримають зброї.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Пошарпаний одяг</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+
+  <Starvation>Starvation</Starvation>
+  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+
+  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+
+  <Exhaustion>Exhaustion</Exhaustion>
+  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+
+  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
+  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Need meal source</NeedMealSource>
+  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+
+  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+
+  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+
+  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Need research project</NeedResearchProject>
+  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+
+  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
+  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Переохолодження</AlertHypothermia>
+  <AlertHypothermiaDesc>Ці колоністи страждать від переохолодження.\n\n{0}\nПеревірте відповідність їх одягу щодо сезону і внутрішні приміщення обігріваються належним чином.</AlertHypothermiaDesc>
+
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Пожежа!</FireInHomeArea>
+  <FireInHomeAreaDesc>В домашній зоні пожежа.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Важка хвороба</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Більярду недостатньо простору</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Мисливець має щит і далекобійну зброю</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Один з мисливців має далекобійну зброю і щит, котрий заважає стріляти на відстані.\n\nВін не зможе полювати, якщо не зняти щит.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Потрібен теплий одяг</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+
+</LanguageData>
