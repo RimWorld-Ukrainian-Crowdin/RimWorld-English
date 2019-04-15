@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkTagNone>нічого</WorkTagNone>
+  <WorkTagIntellectual>дослідження</WorkTagIntellectual>
+  <WorkTagManualDumb>легка праця</WorkTagManualDumb>
+  <WorkTagManualSkilled>кваліфікована робота</WorkTagManualSkilled>
+  <WorkTagViolent>жорстокі</WorkTagViolent>
+  <WorkTagCaring>догляд</WorkTagCaring>
+  <WorkTagSocial>соціальний</WorkTagSocial>
+  <WorkTagAnimals>тваринництво</WorkTagAnimals>
+  <WorkTagArtistic>мистецтво</WorkTagArtistic>
+  <WorkTagCrafting>ремесло</WorkTagCrafting>
+  <WorkTagCooking>кулінарія</WorkTagCooking>
+  <WorkTagFirefighting>пожежогасіння</WorkTagFirefighting>
+  <WorkTagCleaning>чищення</WorkTagCleaning>
+  <WorkTagHauling>перетяжка</WorkTagHauling>
+  <WorkTagPlantWork>робота заводу</WorkTagPlantWork>
+  <WorkTagMining>шахтарство</WorkTagMining>
+
+</LanguageData>
