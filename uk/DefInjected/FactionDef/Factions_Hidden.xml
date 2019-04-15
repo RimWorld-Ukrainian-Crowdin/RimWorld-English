@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Spacer.label>космічний мандрівник</Spacer.label>
+  <Spacer.description>Люди з далеких глибин космосу.</Spacer.description>
+  <Spacer.fixedName>Космічний мандрівник</Spacer.fixedName>
+  <Spacer.pawnsPlural>космічні мандрівники</Spacer.pawnsPlural>
+
+  <SpacerHostile.label>космічний мандрівник</SpacerHostile.label>
+  <SpacerHostile.description>Люди з далеких глибин космосу.</SpacerHostile.description>
+  <SpacerHostile.fixedName>Космічний мандрівник</SpacerHostile.fixedName>
+  <SpacerHostile.pawnsPlural>космічні мандрівники</SpacerHostile.pawnsPlural>
+
+  <Mechanoid.label>рій механоїдів</Mechanoid.label>
+  <Mechanoid.description>Рій древніх само-відтворювальних машин.</Mechanoid.description>
+  <Mechanoid.fixedName>рою механоїдів</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>механоїди</Mechanoid.pawnsPlural>
+
+  <Insect.label>комахи</Insect.label>
+  <Insect.description>Зазвичай агресивні та настирливі комахи.</Insect.description>
+  <Insect.fixedName>комахи</Insect.fixedName>
+  <Insect.pawnsPlural>комахи</Insect.pawnsPlural>
+
+
+</LanguageData>
