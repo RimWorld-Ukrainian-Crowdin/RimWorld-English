@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrenadierDestructive.label>гренадер</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>гренадери</GrenadierDestructive.labelPlural>
+
+  <GrenadierEMP.label>EMP гренадер</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>EMP гренадери</GrenadierEMP.labelPlural>
+
+  <MercenaryGunner.label>найманий стрілок</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>наймані стрільці</MercenaryGunner.labelPlural>
+
+  <MercenarySniper.label>найманий снайпер</MercenarySniper.label>
+  <MercenarySniper.labelPlural>наймані снайпери</MercenarySniper.labelPlural>
+
+  <MercenarySlasher.label>тітушка</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>тітушки</MercenarySlasher.labelPlural>
+
+  <MercenaryHeavy.label>досвідчений найманець</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>досвідчені найманці</MercenaryHeavy.labelPlural>
+
+  <PirateBoss.label>ватажок</PirateBoss.label>
+  <PirateBoss.labelPlural>ватажки</PirateBoss.labelPlural>
+
+  <MercenaryElite.label>елітний найманець</MercenaryElite.label>
+  <MercenaryElite.labelPlural>елітні найманці</MercenaryElite.labelPlural>
+
+
+</LanguageData>
