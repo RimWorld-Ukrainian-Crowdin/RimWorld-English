@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WakeUpHigh.label>високий на бадьорин</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>бадьорин високий</WakeUpHigh.labelNoun>
+
+
+  <!-- WakeUp addiction -->
+
+  <WakeUpTolerance.label>толерантність до бадьорина</WakeUpTolerance.label>
+  <WakeUpTolerance.stages.0.label>малий</WakeUpTolerance.stages.0.label>
+  <WakeUpTolerance.stages.1.label>малий</WakeUpTolerance.stages.1.label>
+  <WakeUpTolerance.stages.2.label>великий</WakeUpTolerance.stages.2.label>
+  <WakeUpTolerance.stages.3.label>масивний</WakeUpTolerance.stages.3.label>
+
+  <WakeUpAddiction.label>залежність від бадьорину</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.1.label>виведення</WakeUpAddiction.stages.1.label>
+
+
+</LanguageData>
