@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>уламок пси-корабля</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Таємничий уламок космічного корабля, що розбився. Схоже, що ця частина містить обладнання для випромінення психічних коливань.</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>уламок зараженого корабля</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Таємничий уламок космічного корабля, що містить всіляке обладнання, але наближатися до нього небезпечно хоча б тому, що він знищує всю рослинність навколо себе.</CrashedPoisonShipPart.description>
+
+
+  <!-- Misc -->
+
+  <ShipChunk.label>уламок корабля</ShipChunk.label>
+  <ShipChunk.description>Уламок корабля, який можна розібрати на сталь та запчастини.</ShipChunk.description>
+
+
+</LanguageData>
