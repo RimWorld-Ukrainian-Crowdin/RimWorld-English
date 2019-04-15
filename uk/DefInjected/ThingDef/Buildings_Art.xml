@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <SculptureSmall.label>невелика скуьптура</SculptureSmall.label>
+  <SculptureSmall.description>Художньо оброблений невеликий шматок матеріалу.</SculptureSmall.description>
+  <SculptureSmall_Blueprint_Install.label>невелика скульптура (проект)</SculptureSmall_Blueprint_Install.label>
+
+  <SculptureLarge.label>значна скульптура</SculptureLarge.label>
+  <SculptureLarge.description>Художньо оброблений шматок матеріалу розміром з людину.</SculptureLarge.description>
+  <SculptureLarge_Blueprint_Install.label>значна скульптура (проект)</SculptureLarge_Blueprint_Install.label>
+
+  <SculptureGrand.label>велична скульптура</SculptureGrand.label>
+  <SculptureGrand.description>Художньо обробений шматок матеріалу розміром з автівку.</SculptureGrand.description>
+  <SculptureGrand_Blueprint_Install.label>велична скульптура (проект)</SculptureGrand_Blueprint_Install.label>
+
+
+  <!-- Snowman -->
+
+  <Snowman.label>сніговик</Snowman.label>
+  <Snowman.description>Декілька великих сніжків поставили одне на одного і сформували щось схоже на людину.</Snowman.description>
+
+
+</LanguageData>
