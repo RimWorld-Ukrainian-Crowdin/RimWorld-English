@@ -1,48 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--======== Common to various mechanoids ========-->
-
-  <MechanicalNeck.label>neck</MechanicalNeck.label>
-  <MechanicalHead.label>head</MechanicalHead.label>
-  <ArtificialBrain.label>artificial brain</ArtificialBrain.label>
-  <SightSensor.label>sight sensor</SightSensor.label>
-  <HearingSensor.label>hearing sensor</HearingSensor.label>
-  <SmellSensor.label>smell sensor</SmellSensor.label>
-  <MechanicalShoulder.label>shoulder</MechanicalShoulder.label>
-  <MechanicalArm.label>arm</MechanicalArm.label>
-  <MechanicalHand.label>hand</MechanicalHand.label>
-  <MechanicalFinger.label>finger</MechanicalFinger.label>
-  <MechanicalLeg.label>leg</MechanicalLeg.label>
-  <MechanicalFoot.label>foot</MechanicalFoot.label>
-
-
-  <!--===================== Human-like specific (lancer, scyther) ====================-->
-
-  <MechanicalThorax.label>thorax</MechanicalThorax.label>
-
-
-  <!--===================== Scyther specific ====================-->
-
-  <Blade.label>blade</Blade.label>
-
-  <MechanicalCentipedeBodyFirstRing.label>first body ring</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodyFirstRing.labelShort>body ring</MechanicalCentipedeBodyFirstRing.labelShort>
-
-  <MechanicalCentipedeBodySecondRing.label>second body ring</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodySecondRing.labelShort>body ring</MechanicalCentipedeBodySecondRing.labelShort>
-
-  <MechanicalCentipedeBodyThirdRing.label>third body ring</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyThirdRing.labelShort>body ring</MechanicalCentipedeBodyThirdRing.labelShort>
-
-  <MechanicalCentipedeBodyFourthRing.label>fourth body ring</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFourthRing.labelShort>body ring</MechanicalCentipedeBodyFourthRing.labelShort>
-
-  <MechanicalCentipedeBodyFifthRing.label>fifth body ring</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodyFifthRing.labelShort>body ring</MechanicalCentipedeBodyFifthRing.labelShort>
-
-  <MechanicalCentipedeBodySixthRing.label>sixth body ring</MechanicalCentipedeBodySixthRing.label>
-  <MechanicalCentipedeBodySixthRing.labelShort>body ring</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalThorax.label>грудна клітка</MechanicalThorax.label>
+  <LeftBlade.label>ліве лезо</LeftBlade.label>
+  <RightBlade.label>праве лезо</RightBlade.label>
+  <MechanicalNeck.label>шия</MechanicalNeck.label>
+  <MechanicalHead.label>голова</MechanicalHead.label>
+  <LeftSightSensor.label>лівий оптичний сенсор</LeftSightSensor.label>
+  <RightSightSensor.label>правий оптичний сенсор</RightSightSensor.label>
+  <LeftHearingSensor.label>лівий звуковий сенсор</LeftHearingSensor.label>
+  <RightHearingSensor.label>правий звуковий сенсор</RightHearingSensor.label>
+  <SmellSensor.label>датчик запаху</SmellSensor.label>
+  <LeftMechanicalShoulder.label>ліве плече</LeftMechanicalShoulder.label>
+  <LeftMechanicalArm.label>ліва рука</LeftMechanicalArm.label>
+  <LeftMechanicalHand.label>ліва долоня</LeftMechanicalHand.label>
+  <LeftHandMechanicalPinky.label>мізинець лівої руки</LeftHandMechanicalPinky.label>
+  <LeftHandMechanicalMiddleFinger.label>середній палець лівої руки</LeftHandMechanicalMiddleFinger.label>
+  <LeftHandMechanicalIndexFinger.label>вказівний палець лівої руки</LeftHandMechanicalIndexFinger.label>
+  <LeftHandMechanicalThumb.label>великий палець лівої руки</LeftHandMechanicalThumb.label>
+  <RightMechanicalShoulder.label>праве плече</RightMechanicalShoulder.label>
+  <RightMechanicalArm.label>права рука</RightMechanicalArm.label>
+  <RightMechanicalHand.label>права долоня</RightMechanicalHand.label>
+  <RightHandMechanicalPinky.label>мізинець правої руки</RightHandMechanicalPinky.label>
+  <RightHandMechanicalMiddleFinger.label>середній палець правої руки</RightHandMechanicalMiddleFinger.label>
+  <RightHandMechanicalIndexFinger.label>вказівний палець правої руки</RightHandMechanicalIndexFinger.label>
+  <RightHandMechanicalThumb.label>великий палець правої руки</RightHandMechanicalThumb.label>
+  <LeftMechanicalLeg.label>ліва нога</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>ліва ступня</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>права нога</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>права ступня</RightMechanicalFoot.label>
+  <MechanicalCentipedeBodyFirstRing.label>перше кільце тіла</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodySecondRing.label>друге кільце тіла</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>третє кільце тіла</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>четверте кільце тіла</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>п’яте кільце тіла</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>шосте кільце тіла</MechanicalCentipedeBodySixthRing.label>
+  <ArtificialBrain.label>штучний мозок</ArtificialBrain.label>
 
 
 </LanguageData>
