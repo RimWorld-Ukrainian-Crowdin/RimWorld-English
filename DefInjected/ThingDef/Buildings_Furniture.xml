@@ -1,269 +1,212 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--============================== Beds ==============================-->
-
-  <SleepingSpot.label>sleeping spot</SleepingSpot.label>
-  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
-
-
-  <!--============================== Beds ==============================-->
-
-  <Blueprint_SleepingSpot.label>BlueprintLabelExtra</Blueprint_SleepingSpot.label>
-
-
-  <!--============================== Beds ==============================-->
-
-  <Frame_SleepingSpot.label>FrameLabelExtra</Frame_SleepingSpot.label>
-
-  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
-  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
-
-  <Blueprint_DoubleSleepingSpot.label>BlueprintLabelExtra</Blueprint_DoubleSleepingSpot.label>
-  <Frame_DoubleSleepingSpot.label>FrameLabelExtra</Frame_DoubleSleepingSpot.label>
-
-  <Bed.label>bed</Bed.label>
-  <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
-
-  <Blueprint_Bed.label>BlueprintLabelExtra</Blueprint_Bed.label>
-  <Blueprint_Install_Bed.label>BlueprintLabelExtra</Blueprint_Install_Bed.label>
-  <Frame_Bed.label>FrameLabelExtra</Frame_Bed.label>
-
-  <DoubleBed.label>double bed</DoubleBed.label>
-  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
-
-  <Blueprint_DoubleBed.label>BlueprintLabelExtra</Blueprint_DoubleBed.label>
-  <Blueprint_Install_DoubleBed.label>BlueprintLabelExtra</Blueprint_Install_DoubleBed.label>
-  <Frame_DoubleBed.label>FrameLabelExtra</Frame_DoubleBed.label>
-
-  <RoyalBed.label>royal bed</RoyalBed.label>
-  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
-
-  <Blueprint_RoyalBed.label>BlueprintLabelExtra</Blueprint_RoyalBed.label>
-  <Blueprint_Install_RoyalBed.label>BlueprintLabelExtra</Blueprint_Install_RoyalBed.label>
-  <Frame_RoyalBed.label>FrameLabelExtra</Frame_RoyalBed.label>
-
-  <HospitalBed.label>hospital bed</HospitalBed.label>
-  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
-
-  <Blueprint_HospitalBed.label>BlueprintLabelExtra</Blueprint_HospitalBed.label>
-  <Blueprint_Install_HospitalBed.label>BlueprintLabelExtra</Blueprint_Install_HospitalBed.label>
-  <Frame_HospitalBed.label>FrameLabelExtra</Frame_HospitalBed.label>
-
-  <Bedroll.label>bedroll</Bedroll.label>
-  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
-
-  <Blueprint_Bedroll.label>BlueprintLabelExtra</Blueprint_Bedroll.label>
-  <Blueprint_Install_Bedroll.label>BlueprintLabelExtra</Blueprint_Install_Bedroll.label>
-  <Frame_Bedroll.label>FrameLabelExtra</Frame_Bedroll.label>
-
-  <BedrollDouble.label>double bedroll</BedrollDouble.label>
-  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
-
-  <Blueprint_BedrollDouble.label>BlueprintLabelExtra</Blueprint_BedrollDouble.label>
-  <Blueprint_Install_BedrollDouble.label>BlueprintLabelExtra</Blueprint_Install_BedrollDouble.label>
-  <Frame_BedrollDouble.label>FrameLabelExtra</Frame_BedrollDouble.label>
-
-
-  <!--=========================== Animal beds ===============================-->
-
-  <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
-
-
-  <!--=========================== Animal beds ===============================-->
-
-  <Blueprint_AnimalSleepingSpot.label>BlueprintLabelExtra</Blueprint_AnimalSleepingSpot.label>
-
-
-  <!--=========================== Animal beds ===============================-->
-
-  <Frame_AnimalSleepingSpot.label>FrameLabelExtra</Frame_AnimalSleepingSpot.label>
-
-  <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
-
-  <Blueprint_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_AnimalSleepingBox.label>
-  <Blueprint_Install_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_Install_AnimalSleepingBox.label>
-  <Frame_AnimalSleepingBox.label>FrameLabelExtra</Frame_AnimalSleepingBox.label>
-
-  <AnimalBed.label>animal bed</AnimalBed.label>
-  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
-
-  <Blueprint_AnimalBed.label>BlueprintLabelExtra</Blueprint_AnimalBed.label>
-  <Blueprint_Install_AnimalBed.label>BlueprintLabelExtra</Blueprint_Install_AnimalBed.label>
-  <Frame_AnimalBed.label>FrameLabelExtra</Frame_AnimalBed.label>
-
-
-  <!--======================= Basic domestic furniture ==============================-->
-
-  <Stool.label>stool</Stool.label>
-  <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>
-
-
-  <!--======================= Basic domestic furniture ==============================-->
-
-  <Blueprint_Stool.label>BlueprintLabelExtra</Blueprint_Stool.label>
-
-
-  <!--======================= Basic domestic furniture ==============================-->
-
-  <Blueprint_Install_Stool.label>BlueprintLabelExtra</Blueprint_Install_Stool.label>
-
-
-  <!--======================= Basic domestic furniture ==============================-->
-
-  <Frame_Stool.label>FrameLabelExtra</Frame_Stool.label>
-
-  <DiningChair.label>dining chair</DiningChair.label>
-  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
-
-  <Blueprint_DiningChair.label>BlueprintLabelExtra</Blueprint_DiningChair.label>
-  <Blueprint_Install_DiningChair.label>BlueprintLabelExtra</Blueprint_Install_DiningChair.label>
-  <Frame_DiningChair.label>FrameLabelExtra</Frame_DiningChair.label>
-
-  <Armchair.label>armchair</Armchair.label>
-  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
-
-  <Blueprint_Armchair.label>BlueprintLabelExtra</Blueprint_Armchair.label>
-  <Blueprint_Install_Armchair.label>BlueprintLabelExtra</Blueprint_Install_Armchair.label>
-  <Frame_Armchair.label>FrameLabelExtra</Frame_Armchair.label>
-
-  <EndTable.label>end table</EndTable.label>
-  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
-
-  <Blueprint_EndTable.label>BlueprintLabelExtra</Blueprint_EndTable.label>
-  <Blueprint_Install_EndTable.label>BlueprintLabelExtra</Blueprint_Install_EndTable.label>
-  <Frame_EndTable.label>FrameLabelExtra</Frame_EndTable.label>
-
-  <Table1x2c.label>table (1x2)</Table1x2c.label>
-  <Table1x2c.description>People eat off tables when chairs are placed facing them.</Table1x2c.description>
-
-  <Blueprint_Table1x2c.label>BlueprintLabelExtra</Blueprint_Table1x2c.label>
-  <Blueprint_Install_Table1x2c.label>BlueprintLabelExtra</Blueprint_Install_Table1x2c.label>
-  <Frame_Table1x2c.label>FrameLabelExtra</Frame_Table1x2c.label>
-
-  <Table2x2c.label>table (2x2)</Table2x2c.label>
-  <Table2x2c.description>People eat off tables when chairs are placed facing them.</Table2x2c.description>
-
-  <Blueprint_Table2x2c.label>BlueprintLabelExtra</Blueprint_Table2x2c.label>
-  <Blueprint_Install_Table2x2c.label>BlueprintLabelExtra</Blueprint_Install_Table2x2c.label>
-  <Frame_Table2x2c.label>FrameLabelExtra</Frame_Table2x2c.label>
-
-  <Table2x4c.label>table (2x4)</Table2x4c.label>
-  <Table2x4c.description>People eat off tables when chairs are placed facing them.</Table2x4c.description>
-
-  <Blueprint_Table2x4c.label>BlueprintLabelExtra</Blueprint_Table2x4c.label>
-  <Blueprint_Install_Table2x4c.label>BlueprintLabelExtra</Blueprint_Install_Table2x4c.label>
-  <Frame_Table2x4c.label>FrameLabelExtra</Frame_Table2x4c.label>
-
-  <Table3x3c.label>table (3x3)</Table3x3c.label>
-  <Table3x3c.description>People eat off tables when chairs are placed facing them.</Table3x3c.description>
-
-  <Blueprint_Table3x3c.label>BlueprintLabelExtra</Blueprint_Table3x3c.label>
-  <Blueprint_Install_Table3x3c.label>BlueprintLabelExtra</Blueprint_Install_Table3x3c.label>
-  <Frame_Table3x3c.label>FrameLabelExtra</Frame_Table3x3c.label>
-
-  <PlantPot.label>plant pot</PlantPot.label>
-  <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
-
-  <Blueprint_PlantPot.label>BlueprintLabelExtra</Blueprint_PlantPot.label>
-  <Blueprint_Install_PlantPot.label>BlueprintLabelExtra</Blueprint_Install_PlantPot.label>
-  <Frame_PlantPot.label>FrameLabelExtra</Frame_PlantPot.label>
-
-
-  <!-- ======================== Lighting ======================= -->
-
-  <TorchLamp.label>torch lamp</TorchLamp.label>
-  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
-
-
-  <!-- ======================== Lighting ======================= -->
-
-  <Blueprint_TorchLamp.label>BlueprintLabelExtra</Blueprint_TorchLamp.label>
-
-
-  <!-- ======================== Lighting ======================= -->
-
-  <Frame_TorchLamp.label>FrameLabelExtra</Frame_TorchLamp.label>
-
-  <StandingLamp.label>standing lamp</StandingLamp.label>
-  <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
-
-  <Blueprint_StandingLamp.label>BlueprintLabelExtra</Blueprint_StandingLamp.label>
-  <Blueprint_Install_StandingLamp.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp.label>
-  <Frame_StandingLamp.label>FrameLabelExtra</Frame_StandingLamp.label>
-
-  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
-  <StandingLamp_Red.description>A standing lamp that lights an area in red.</StandingLamp_Red.description>
-
-  <Blueprint_StandingLamp_Red.label>BlueprintLabelExtra</Blueprint_StandingLamp_Red.label>
-  <Blueprint_Install_StandingLamp_Red.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Red.label>
-  <Frame_StandingLamp_Red.label>FrameLabelExtra</Frame_StandingLamp_Red.label>
-
-  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
-  <StandingLamp_Green.description>A standing lamp that lights an area in green.</StandingLamp_Green.description>
-
-  <Blueprint_StandingLamp_Green.label>BlueprintLabelExtra</Blueprint_StandingLamp_Green.label>
-  <Blueprint_Install_StandingLamp_Green.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Green.label>
-  <Frame_StandingLamp_Green.label>FrameLabelExtra</Frame_StandingLamp_Green.label>
-
-  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
-  <StandingLamp_Blue.description>A standing lamp that lights an area in blue.</StandingLamp_Blue.description>
-
-  <Blueprint_StandingLamp_Blue.label>BlueprintLabelExtra</Blueprint_StandingLamp_Blue.label>
-  <Blueprint_Install_StandingLamp_Blue.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Blue.label>
-  <Frame_StandingLamp_Blue.label>FrameLabelExtra</Frame_StandingLamp_Blue.label>
-
-  <SunLamp.label>sun lamp</SunLamp.label>
-  <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
-  <SunLamp.comps.2.offMessage>Off for plant resting period</SunLamp.comps.2.offMessage>
-
-  <Blueprint_SunLamp.label>BlueprintLabelExtra</Blueprint_SunLamp.label>
-  <Blueprint_Install_SunLamp.label>BlueprintLabelExtra</Blueprint_Install_SunLamp.label>
-  <Frame_SunLamp.label>FrameLabelExtra</Frame_SunLamp.label>
-
-
-  <!--============================== Storage ==============================-->
-
-  <Shelf.label>shelf</Shelf.label>
-  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.</Shelf.description>
-
-
-  <!--============================== Storage ==============================-->
-
-  <Blueprint_Shelf.label>BlueprintLabelExtra</Blueprint_Shelf.label>
-
-
-  <!--============================== Storage ==============================-->
-
-  <Blueprint_Install_Shelf.label>BlueprintLabelExtra</Blueprint_Install_Shelf.label>
-
-
-  <!--============================== Storage ==============================-->
-
-  <Frame_Shelf.label>FrameLabelExtra</Frame_Shelf.label>
-
-
-  <!--============================== Dressers ==============================-->
-
-  <Dresser.label>dresser</Dresser.label>
-  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
-
-
-  <!--============================== Dressers ==============================-->
-
-  <Blueprint_Dresser.label>BlueprintLabelExtra</Blueprint_Dresser.label>
-
-
-  <!--============================== Dressers ==============================-->
-
-  <Blueprint_Install_Dresser.label>BlueprintLabelExtra</Blueprint_Install_Dresser.label>
-
-
-  <!--============================== Dressers ==============================-->
-
-  <Frame_Dresser.label>FrameLabelExtra</Frame_Dresser.label>
+  <!-- Beds -->
+
+  <SleepingSpot.label>місце для сну</SleepingSpot.label>
+  <SleepingSpot.description>Відмічає місце на землі, де люди повинні спати. Занодто по-спартанськи.</SleepingSpot.description>
+  <SleepingSpot_Blueprint.label>місе для сну (проект)</SleepingSpot_Blueprint.label>
+  <SleepingSpot_Frame.label>місце для сну (будується)</SleepingSpot_Frame.label>
+  <SleepingSpot_Frame.description>Відмічає місце на землі, де люди повинні спати. Занадто по-спартанськи.</SleepingSpot_Frame.description>
+
+  <Bed.label>ліжко</Bed.label>
+  <Bed.description>Зручний матрас з простирадлом на міцному каркасі для доброго відпочинку.</Bed.description>
+  <Bed_Blueprint.label>ліжко (проект)</Bed_Blueprint.label>
+  <Bed_Blueprint_Install.label>ліжко (проект)</Bed_Blueprint_Install.label>
+  <Bed_Frame.label>ліжко (будується)</Bed_Frame.label>
+  <Bed_Frame.description>Зручний матрас з простирадлом на міцному каркасі для доброго відпочинку.</Bed_Frame.description>
+
+  <DoubleBed.label>двоспальне ліжко</DoubleBed.label>
+  <DoubleBed.description>Просте ліжко з удвоєною шириною для двох осіб.</DoubleBed.description>
+  <DoubleBed_Blueprint.label>двоспальне ліжко (проект)</DoubleBed_Blueprint.label>
+  <DoubleBed_Blueprint_Install.label>двоспальне ліжко (проект)</DoubleBed_Blueprint_Install.label>
+  <DoubleBed_Frame.label>двоспальне ліжко (будується)</DoubleBed_Frame.label>
+  <DoubleBed_Frame.description>Просте ліжко з удвоєною шириною для двох осіб.</DoubleBed_Frame.description>
+
+  <RoyalBed.label>розкішне ліжко</RoyalBed.label>
+  <RoyalBed.description>Розкішне ліжко з позолотою для вищих кіл суспільства. Дуже зручне і гарне. Для двох.</RoyalBed.description>
+  <RoyalBed_Blueprint.label>розкішне ліжко (проект)</RoyalBed_Blueprint.label>
+  <RoyalBed_Blueprint_Install.label>розкішне ліжко (проект)</RoyalBed_Blueprint_Install.label>
+  <RoyalBed_Frame.label>розкішне ліжко (будується)</RoyalBed_Frame.label>
+  <RoyalBed_Frame.description>Розкішне ліжко з позолотою для вищих кіл суспільства. Дуже зручне і гарне. Для двох.</RoyalBed_Frame.description>
+
+  <HospitalBed.label>лікарняне ліжко</HospitalBed.label>
+  <HospitalBed.description>Ліжко, розроблене для догляду за хворими. Підвищує шанс успішного лікування.</HospitalBed.description>
+  <HospitalBed_Blueprint.label>лікарняне ліжко (проект)</HospitalBed_Blueprint.label>
+  <HospitalBed_Blueprint_Install.label>лікарняне ліжко (проект)</HospitalBed_Blueprint_Install.label>
+  <HospitalBed_Frame.label>лікарняне ліжко (будується)</HospitalBed_Frame.label>
+  <HospitalBed_Frame.description>Ліжко, розроблене для догляду за хворими. Підвищує шанс успішного лікування.</HospitalBed_Frame.description>
+
+  <Bedroll.label>спальний мішок</Bedroll.label>
+  <Bedroll.description>Просте ліжко, яке розкладається на землі, зазвичай зроблене з тканини чи шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування.</Bedroll.description>
+  <Bedroll_Blueprint.label>спальний мішок (проект)</Bedroll_Blueprint.label>
+  <Bedroll_Blueprint_Install.label>спальний мішок (проект)</Bedroll_Blueprint_Install.label>
+  <Bedroll_Frame.label>спвльний мішок (будується)</Bedroll_Frame.label>
+  <Bedroll_Frame.description>Просте ліжко, яке розкладається на землі, зазвичай зроблене з тканини чи шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у руулон для зручного перенесення, але він не годиться для постійного ночування.</Bedroll_Frame.description>
+
+  <BedrollDouble.label>спальний мішок на двох</BedrollDouble.label>
+  <BedrollDouble.description>Звичайне ліжко з подвійною шириною, яке розкладається на підлозі, зазвичай виготовлене з тканини або шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування.</BedrollDouble.description>
+  <BedrollDouble_Blueprint.label>спальний мішок на двох (проект)</BedrollDouble_Blueprint.label>
+  <BedrollDouble_Blueprint_Install.label>спальний мішок на двох (проект)</BedrollDouble_Blueprint_Install.label>
+  <BedrollDouble_Frame.label>спальний мішок на двох (будується)</BedrollDouble_Frame.label>
+  <BedrollDouble_Frame.description>Звичайне ліжко з подвійною шириною, яке розкладається на підлозі, зазвичай виготовлене з тканини або шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування.</BedrollDouble_Frame.description>
+
+
+  <!-- Animal beds -->
+
+  <AnimalSleepingSpot.label>спальне місце для тварин</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Відмічає місце на землі, де повинні спати тварини.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot_Blueprint.label>спальне місце для тварин (проект)</AnimalSleepingSpot_Blueprint.label>
+  <AnimalSleepingSpot_Frame.label>спальне місце для тварин (будкється)</AnimalSleepingSpot_Frame.label>
+  <AnimalSleepingSpot_Frame.description>Відмічає місце на землі, де повинні спати тварини.</AnimalSleepingSpot_Frame.description>
+
+  <AnimalSleepingBox.label>спальна коробка для тварин</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>Маленька спальна коробка, яка може вмістити малих тварин, таких як кури, коти чи маленькі собачки.</AnimalSleepingBox.description>
+  <AnimalSleepingBox_Blueprint.label>спальна коробка для тварин (проект)</AnimalSleepingBox_Blueprint.label>
+  <AnimalSleepingBox_Blueprint_Install.label>спальна коробка для тварин (проект)</AnimalSleepingBox_Blueprint_Install.label>
+  <AnimalSleepingBox_Frame.label>спальна коробка для тварин (будується)</AnimalSleepingBox_Frame.label>
+  <AnimalSleepingBox_Frame.description>Маленька спальна коробка, яка може вмістити малих тварин, таких як кури, коти чи маленькі собачки.</AnimalSleepingBox_Frame.description>
+
+  <AnimalBed.label>лежанка для тварин</AnimalBed.label>
+  <AnimalBed.description>М'яка лежанка, яка може вмістити будь-яку тварину.</AnimalBed.description>
+  <AnimalBed_Blueprint.label>лежанка для тварин (проект)</AnimalBed_Blueprint.label>
+  <AnimalBed_Blueprint_Install.label>лежанка для тварин (проект)</AnimalBed_Blueprint_Install.label>
+  <AnimalBed_Frame.label>лежанка для тварин (будується)</AnimalBed_Frame.label>
+  <AnimalBed_Frame.description>М'яка лежанка, яка може вмістити будь-яку тварину.</AnimalBed_Frame.description>
+
+
+  <!-- Basic domestic furniture -->
+
+  <Stool.label>табурет</Stool.label>
+  <Stool.description>Проста дощечка на чотирьох ніжках.</Stool.description>
+  <Stool_Blueprint.label>табурет (проект)</Stool_Blueprint.label>
+  <Stool_Blueprint_Install.label>табурет (проект)</Stool_Blueprint_Install.label>
+  <Stool_Frame.label>табурет (будується)</Stool_Frame.label>
+  <Stool_Frame.description>Проста дощечка на чотирьох ніжках.</Stool_Frame.description>
+
+  <DiningChair.label>стілець</DiningChair.label>
+  <DiningChair.description>Зручний стілець для сидіння за столом.</DiningChair.description>
+  <DiningChair_Blueprint.label>стілець (проект)</DiningChair_Blueprint.label>
+  <DiningChair_Blueprint_Install.label>стілець (проект)</DiningChair_Blueprint_Install.label>
+  <DiningChair_Frame.label>стілець (будується)</DiningChair_Frame.label>
+  <DiningChair_Frame.description>Зручний стілець для сидіння за столом.</DiningChair_Frame.description>
+
+  <Armchair.label>крісло</Armchair.label>
+  <Armchair.description>Велике, м'яке, зручне крісло. Підходить для відпочинку.</Armchair.description>
+  <Armchair_Blueprint.label>крісло (проект)</Armchair_Blueprint.label>
+  <Armchair_Blueprint_Install.label>крісло (проект)</Armchair_Blueprint_Install.label>
+  <Armchair_Frame.label>крісло (будується)</Armchair_Frame.label>
+  <Armchair_Frame.description>Велике, м'яке, зручне крісло. Підходить для відпочинку.</Armchair_Frame.description>
+
+
+  <!-- Table base -->
+
+  <EndTable.label>тумбочка</EndTable.label>
+  <EndTable.description>Маленька тумбочка біля стола. З нею ліжко стає більш зручним. Вона повинна розташовуватись біля узголів'я ліжка. Більше одної тумбочки не буде мати жодного ефекту.</EndTable.description>
+  <EndTable_Blueprint.label>тумбочка (проект)</EndTable_Blueprint.label>
+  <EndTable_Blueprint_Install.label>тумбочка (проект)</EndTable_Blueprint_Install.label>
+  <EndTable_Frame.label>тумбочка (будується)</EndTable_Frame.label>
+  <EndTable_Frame.description>Маленька тумбочка біля стола. З нею ліжко стає більш зручним. Вона повинна розташовуватись біля узголів'я ліжка. Більше одної тумбочки не буде мати жодного ефекту.</EndTable_Frame.description>
+
+  <Table1x2c.label>стіл (1х2)</Table1x2c.label>
+  <Table1x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table1x2c.description>
+  <Table1x2c_Blueprint.label>стіл (1х2) (проект)</Table1x2c_Blueprint.label>
+  <Table1x2c_Blueprint_Install.label>стіл (1х2) (проект)</Table1x2c_Blueprint_Install.label>
+  <Table1x2c_Frame.label>стіл (1х2) (будується)</Table1x2c_Frame.label>
+  <Table1x2c_Frame.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table1x2c_Frame.description>
+
+  <Table2x2c.label>стіл (2х2)</Table2x2c.label>
+  <Table2x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x2c.description>
+  <Table2x2c_Blueprint.label>стіл (2х2) (проект)</Table2x2c_Blueprint.label>
+  <Table2x2c_Blueprint_Install.label>стіл (2х2) (проект)</Table2x2c_Blueprint_Install.label>
+  <Table2x2c_Frame.label>стіл (2х2) (будується)</Table2x2c_Frame.label>
+  <Table2x2c_Frame.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x2c_Frame.description>
+
+  <Table2x4c.label>стіл (2х4)</Table2x4c.label>
+  <Table2x4c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x4c.description>
+  <Table2x4c_Blueprint.label>стіл (2х4) (проект)</Table2x4c_Blueprint.label>
+  <Table2x4c_Blueprint_Install.label>стіл (2х4) (проект)</Table2x4c_Blueprint_Install.label>
+  <Table2x4c_Frame.label>стіл (2х4) (будується)</Table2x4c_Frame.label>
+  <Table2x4c_Frame.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x4c_Frame.description>
+
+  <Table3x3c.label>стіл (3х3)</Table3x3c.label>
+  <Table3x3c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table3x3c.description>
+  <Table3x3c_Blueprint.label>стіл (3х3) (проект)</Table3x3c_Blueprint.label>
+  <Table3x3c_Blueprint_Install.label>стіл (3х3) (проект)</Table3x3c_Blueprint_Install.label>
+  <Table3x3c_Frame.label>стіл (3х3) (будується)</Table3x3c_Frame.label>
+  <Table3x3c_Frame.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table3x3c_Frame.description>
+
+  <PlantPot.label>горщик для рослин</PlantPot.label>
+  <PlantPot.description>Посадіть сюди квіти, щоб покращити настрій людей поблизу.</PlantPot.description>
+  <PlantPot_Blueprint.label>горщик для рослин (проект)</PlantPot_Blueprint.label>
+  <PlantPot_Blueprint_Install.label>горщик для рослин (проект)</PlantPot_Blueprint_Install.label>
+  <PlantPot_Frame.label>горщик для рослин (будується)</PlantPot_Frame.label>
+  <PlantPot_Frame.description>Посадіть сюди квіти, щоб покращити настрій людей поблизу.</PlantPot_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <TorchLamp.label>факел</TorchLamp.label>
+  <TorchLamp.description>Дерев'яний факел вкопаний в землю для освітлення всього навкруги. Люди працюють в повну силу тільки при доброму освітленні. Щоб не прогорів треба підкладати деревину. Також виробляє трохи тепла.</TorchLamp.description>
+  <TorchLamp_Blueprint.label>факел (проект)</TorchLamp_Blueprint.label>
+  <TorchLamp_Frame.label>факел (будується)</TorchLamp_Frame.label>
+  <TorchLamp_Frame.description>Дерев'яний факел вкопаний в землю для освітлення всього навкруги. Люди працюють в повну силу тільки при доброму освітленні. Щоб не прогорів треба підкладати деревину. Також виробляє трохи тепла.</TorchLamp_Frame.description>
+
+  <StandingLamp.label>електрична лампочка</StandingLamp.label>
+  <StandingLamp.description>Електрична лампочка, яка освітлює все навкруги. Люди працюють в повну силу при доброму освітленні.</StandingLamp.description>
+  <StandingLamp_Blueprint.label>електрична лампочка (проект)</StandingLamp_Blueprint.label>
+  <StandingLamp_Blueprint_Install.label>електрична лампочка (проект)</StandingLamp_Blueprint_Install.label>
+  <StandingLamp_Frame.label>електрична лампочка (будується)</StandingLamp_Frame.label>
+  <StandingLamp_Frame.description>Електрична лампочка, яка освітлює все навкруги. Люди працюють в повну силу при доброму освітленні.</StandingLamp_Frame.description>
+
+  <StandingLamp_Red.label>електрична лампочка (червона)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Електрична лампочка, яка світить червоним.</StandingLamp_Red.description>
+  <StandingLamp_Red_Blueprint.label>електрична лампочка (червона) (проект)</StandingLamp_Red_Blueprint.label>
+  <StandingLamp_Red_Blueprint_Install.label>електрична лампочка (червона) (проект)</StandingLamp_Red_Blueprint_Install.label>
+  <StandingLamp_Red_Frame.label>електрична лампочка (червона) (будується)</StandingLamp_Red_Frame.label>
+  <StandingLamp_Red_Frame.description>Електрична лампочка, яка світить червоним.</StandingLamp_Red_Frame.description>
+
+  <StandingLamp_Green.label>електрична лампочка (зелена)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Електрична лампочка, яка світить зеленим.</StandingLamp_Green.description>
+  <StandingLamp_Green_Blueprint.label>електрична лампочка (зелена) (проект)</StandingLamp_Green_Blueprint.label>
+  <StandingLamp_Green_Blueprint_Install.label>електрична лампочка (зелена) (проект)</StandingLamp_Green_Blueprint_Install.label>
+  <StandingLamp_Green_Frame.label>електрична лампочка (зелена) (будується)</StandingLamp_Green_Frame.label>
+  <StandingLamp_Green_Frame.description>Електрична лампочка, яка світить зеленим.</StandingLamp_Green_Frame.description>
+
+  <StandingLamp_Blue.label>електрична лампочка (синя)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Електрична лампочка, яка світить синім.</StandingLamp_Blue.description>
+  <StandingLamp_Blue_Blueprint.label>електрична лампочка (синя) (проект)</StandingLamp_Blue_Blueprint.label>
+  <StandingLamp_Blue_Blueprint_Install.label>електрична лампочка (синя) (проект)</StandingLamp_Blue_Blueprint_Install.label>
+  <StandingLamp_Blue_Frame.label>електрична лампочка (синя) (будується)</StandingLamp_Blue_Frame.label>
+  <StandingLamp_Blue_Frame.description>Електрична лампочка, яка світить синім.</StandingLamp_Blue_Frame.description>
+
+  <SunLamp.label>лампа денного світла</SunLamp.label>
+  <SunLamp.description>Освітлює територію настільки яскраво, що можна вирощувати врожай. Автоматично вимикається вночі.</SunLamp.description>
+  <SunLamp.comps.3.offMessage>Вимкнена на час відпочинку рослин</SunLamp.comps.3.offMessage>
+  <SunLamp_Blueprint.label>лампа денного світла (проект)</SunLamp_Blueprint.label>
+  <SunLamp_Blueprint_Install.label>лампа денного світла (проект)</SunLamp_Blueprint_Install.label>
+  <SunLamp_Frame.label>лампа денного світла (будується)</SunLamp_Frame.label>
+  <SunLamp_Frame.description>Освітлює територію настільки яскраво, що можна вирощувати врожай. Автоматично вимикається вночі.</SunLamp_Frame.description>
+
+
+  <!-- Storage -->
+
+  <Shelf.label>стелаж</Shelf.label>
+  <Shelf.description>Якщо зберігати речі у стелажі, то вони не пропадуть, навіть якщо вони на відкритому повітрі.</Shelf.description>
+  <Shelf_Blueprint.label>стелаж (проект)</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>стелаж (проект)</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>стелаж (будується)</Shelf_Frame.label>
+  <Shelf_Frame.description>Якщо зберігати речі у стелажі, то вони не пропадуть, навіть якщо вони на відкритому повітрі.</Shelf_Frame.description>
+
+
+  <!-- Dressers -->
+
+  <Dresser.label>комод</Dresser.label>
+  <Dresser.description>Надає невеличкий бонус до комфорту для всіх ліжок. Розміщення більше одного комода на ліжко не матиме ніякого ефекту.</Dresser.description>
+  <Dresser_Blueprint.label>комод (проект)</Dresser_Blueprint.label>
+  <Dresser_Blueprint_Install.label>комод (проект)</Dresser_Blueprint_Install.label>
+  <Dresser_Frame.label>комод (будується)</Dresser_Frame.label>
+  <Dresser_Frame.description>Надає невеличкий бонус до комфорту для всіх ліжок. Розміщення більше одного комода на ліжко не матиме ніякого ефекту.</Dresser_Frame.description>
 
 
 </LanguageData>
