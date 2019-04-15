@@ -390,25 +390,26 @@ HE мав звичку говорити про свою колекцію ще д
 	<ConArtist96>
 		<title>Шахрай</title>
 		<titleShort>Шахрай</titleShort>
-		<desc>NAME never created anything in HIS life. HECAP did, however, prove to be a natural at getting others to give HIM what they had created.</desc>
+		<desc>NAME ніколи не створював нічого у своєму житті. Однак виявилося, що HECAP мав природний хист у змушуванні інших до того, щоб вони віддавали йому те, що створили.</desc>
 	</ConArtist96>
 	<MedievalSlave75>
 		<title>Середньовічний раб</title>
 		<titleShort>Раб</titleShort>
-		<desc>NAME grew up pulling carts and digging holes on a medieval world. Simple manual labor is HIS oldest companion - along with the master's lash.
+		<desc>NAME виріс, тягаючи візки та копаючи ями у середньовічному світі. 
+Проста ручна праця є HIS найдавнішою супутницею — разом з батогом господаря.
 
-HECAP didn't learn to read until age nine.</desc>
+HECAP не вмів читати до девʼяти років.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
 		<title>Середньовічний лорд</title>
-		<titleShort>Lordling</titleShort>
-		<desc>NAME was a minor noble in an old kingdom on a medieval world. HECAP grew up in a manor made of stone, served by bowing lowerclassmen.
+		<titleShort>Лорд</titleShort>
+		<desc>NAME був незначним шляхтичем у старому королівстві в середньовічному світі. HECAP виріс у камʼяному маєтку, і йому прислуговували, кланяючись, слуги.
 
-Such a life teaches no technical skills and instils a lifelong aversion to manual labor - but NAME learned early the ways of social manipulation.</desc>
+Таке життя не вчить ніяким технічним навичкам і прищеплює довічну відразу до ручної праці — але NAME рано дізнався про способи соціального маніпулювання.</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
-		<title>Urbworld urchin</title>
-		<titleShort>Urchin</titleShort>
+		<title>Безпритульник урбанізованого світу</title>
+		<titleShort>Безпритульник</titleShort>
 		<desc>The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. NAME grew up in the dark, unwanted reaches of such a place. HECAP had to fight for every scrap of food.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
