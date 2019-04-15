@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Consciousness.label>свідомість</Consciousness.label>
+  <Consciousness.labelMechanoids>Обробка даних</Consciousness.labelMechanoids>
+
+  <Moving.label>рухливість</Moving.label>
+  <Manipulation.label>фізична діяльність</Manipulation.label>
+
+  <Talking.label>спілкування</Talking.label>
+  <Talking.labelMechanoids>Комунікація</Talking.labelMechanoids>
+
+  <Eating.label>здатність їсти</Eating.label>
+  <Sight.label>зір</Sight.label>
+  <Hearing.label>слух</Hearing.label>
+  <Breathing.label>дихання</Breathing.label>
+  <BloodFiltration.label>фільтрація крові</BloodFiltration.label>
+  <BloodPumping.label>тиск крові</BloodPumping.label>
+  <Metabolism.label>метаболізм</Metabolism.label>
+
+
+</LanguageData>
