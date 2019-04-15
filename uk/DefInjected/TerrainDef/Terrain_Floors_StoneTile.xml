@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TileSandstone.label>пісчана плитка</TileSandstone.label>
+  <TileSandstone.description>Оброблені, ретельно вирізані кам'яні плитки які відчуваються як замок. Приємно виглядають, але вони довго лежали.</TileSandstone.description>
+
+  <TileGranite.label>гранітна плитка</TileGranite.label>
+  <TileGranite.description>Оброблені, ретельно вирізані кам'яні плитки які відчуваються як замок. Приємно виглядають, але вони довго лежали.</TileGranite.description>
+
+  <TileLimestone.label>вапняна плитка</TileLimestone.label>
+  <TileLimestone.description>Оброблені, ретельно вирізані кам'яні плитки які відчуваються як замок. Приємно виглядають, але вони довго лежали.</TileLimestone.description>
+
+  <TileSlate.label>шиферна плитка</TileSlate.label>
+  <TileSlate.description>Оброблені, ретельно вирізані кам'яні плитки які відчуваються як замок. Приємно виглядають, але вони довго лежали.</TileSlate.description>
+
+  <TileMarble.label>мармурова плитка</TileMarble.label>
+  <TileMarble.description>Оброблені, ретельно вирізані кам'яні плитки які відчуваються як замок. Приємно виглядають, але вони довго лежали.</TileMarble.description>
+
+  <FlagstoneSandstone.label>пісчаний плитняк</FlagstoneSandstone.label>
+  <FlagstoneSandstone.description>Плитки з грубо тесаного каменю. Не дуже красиві, але вони хороші для поверхонь доріг і прибудинкових доріжок. Деконструювання плитняка не дає ресурсів.</FlagstoneSandstone.description>
+
+  <FlagstoneGranite.label>гранітний плитняк</FlagstoneGranite.label>
+  <FlagstoneGranite.description>Плитки з грубо тесаного каменю. Не дуже красиві, але вони хороші для поверхонь доріг і прибудинкових доріжок. Деконструювання плитняка не дає ресурсів.</FlagstoneGranite.description>
+
+  <FlagstoneLimestone.label>вапняковий плитняк</FlagstoneLimestone.label>
+  <FlagstoneLimestone.description>Плитки з грубо тесаного каменю. Не дуже красиві, але вони хороші для поверхонь доріг і прибудинкових доріжок. Деконструювання плитняка не дає ресурсів.</FlagstoneLimestone.description>
+
+  <FlagstoneSlate.label>сланцевий плитняк</FlagstoneSlate.label>
+  <FlagstoneSlate.description>Плитки з грубо тесаного каменю. Не дуже красиві, але вони хороші для поверхонь доріг і прибудинкових доріжок. Деконструювання плитняка не дає ресурсів.</FlagstoneSlate.description>
+
+  <FlagstoneMarble.label>мармуровий плитняк</FlagstoneMarble.label>
+  <FlagstoneMarble.description>Плитки з грубо тесаного каменю. Не дуже красиві, але вони хороші для поверхонь доріг і прибудинкових доріжок. Деконструювання плитняка не дає ресурсів.</FlagstoneMarble.description>
+
+
+</LanguageData>
