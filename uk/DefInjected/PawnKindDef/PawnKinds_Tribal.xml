@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TribalWarrior.label>воїн</TribalWarrior.label>
+  <TribalWarrior.labelPlural>воїни</TribalWarrior.labelPlural>
+
+  <TribalTrader.label>торговець</TribalTrader.label>
+  <TribalTrader.labelPlural>торговці</TribalTrader.labelPlural>
+
+  <TribalArcher.label>лучник</TribalArcher.label>
+  <TribalArcher.labelPlural>лучники</TribalArcher.labelPlural>
+
+  <TribalHunter.label>мисливець</TribalHunter.label>
+  <TribalHunter.labelPlural>мисливці</TribalHunter.labelPlural>
+
+  <TribalHeavyArcher.label>важкий лучник</TribalHeavyArcher.label>
+  <TribalHeavyArcher.labelPlural>важкі лучники</TribalHeavyArcher.labelPlural>
+
+  <TribalBerserker.label>берсеркер</TribalBerserker.label>
+  <TribalBerserker.labelPlural>берсеркери</TribalBerserker.labelPlural>
+
+  <TribalChief.label>вождь</TribalChief.label>
+  <TribalChief.labelPlural>вожді</TribalChief.labelPlural>
+
+
+</LanguageData>
