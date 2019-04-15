@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
 
-  <RangedStab.label>stab</RangedStab.label>
-  <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
+  <RangedStab.label>колота рана</RangedStab.label>
+  <RangedStab.deathMessage>{0} був заколотий.</RangedStab.deathMessage>
 
-  <Bullet.label>bullet</Bullet.label>
-  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+  <Bullet.label>рана від кулі</Bullet.label>
+  <Bullet.deathMessage>{0} був застрелений.</Bullet.deathMessage>
 
-  <Arrow.label>arrow</Arrow.label>
-  <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
+  <Arrow.label>рана від стріли</Arrow.label>
+  <Arrow.deathMessage>{0} був застрелений.</Arrow.deathMessage>
 
-  <ArrowHighVelocity.label>arrow</ArrowHighVelocity.label>
-  <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.label>рана від стріли</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} був застрелений.</ArrowHighVelocity.deathMessage>
 
 
 </LanguageData>
