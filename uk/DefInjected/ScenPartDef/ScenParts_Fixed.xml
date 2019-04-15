@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayerFaction.label>Фракція гравця</PlayerFaction.label>
+  <ConfigPage_ConfigureStartingPawns.label>початкова кількість поселенців</ConfigPage_ConfigureStartingPawns.label>
+  <PlayerPawnsArriveMethod.label>спосіб прибуття</PlayerPawnsArriveMethod.label>
+
+
+</LanguageData>
