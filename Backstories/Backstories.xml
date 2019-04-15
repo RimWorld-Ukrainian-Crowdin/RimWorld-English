@@ -1,406 +1,406 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <BackstoryTranslations>
 	<ColonySettler43>
-		<title>Colony settler</title>
-		<titleShort>Settler</titleShort>
-		<desc>NAME was a settler on a new colony world.
+		<title>Поселенець</title>
+		<titleShort>Колоніст</titleShort>
+		<desc>NAME був поселенцем у новому колоніальному світі.
 
-Such a life requires a jack-of-all trades at basic hands-on tasks.</desc>
+Таке життя вимагає бути майстром на всі руки в основних практичних завданнях.</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
-		<title>Medieval farm oaf</title>
-		<titleShort>Oaf</titleShort>
-		<desc>Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.
+		<title>Середньовічний сільський дурник</title>
+		<titleShort>Дурник</titleShort>
+		<desc>Грунтообробка, розпушування, керування волами, що тягнуть вози. Риття канав, посадка насіння, прогнозування врожаю.
 
-Medieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities.</desc>
+Середньовічні фермери не освічені у звичайному розумінні, але багато знають про вирощування рослин без техніки. Тим не менш, таке життя залишає практично неможливою можливість брати участь у інтелектуальних і технологічних заходах.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
-		<title>Medieval lord</title>
-		<titleShort>Noble</titleShort>
-		<desc>NAME was a lord on a preindustrial planet. HECAP went to parties, managed the underlings, and even learned some swordplay.
+		<title>Середньовічний лорд</title>
+		<titleShort>Благородний</titleShort>
+		<desc>%Name був лордом на доіндустріальній планеті. HECAP ходив на вечірки, керував підлеглими, й навіть дізнався трішки про фехтування.
 
-HISCAP soft hands did not hold a work tool during that entire time. HECAP considers manual labor to be beneath HIM.</desc>
+Впродовж всього часу м'які руки HISCAP не тримали робочого інструмента. HECAP вважає, що ручна праця повинна бути під НІМ.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
-		<title>Urbworld entrepreneur</title>
-		<titleShort>Entrepreneur</titleShort>
-		<desc>In the urbworlds, most suffer. But someone has to run the corporations.
+		<title>Підприємець в урбанізованому світі</title>
+		<titleShort>Підприємець</titleShort>
+		<desc>В урбанізованих світах найбільше страждають. Але хтось має керувати корпораціями.
 
-NAME learned the skills of the trade - greasing palms and technical analysis. HECAP is a sociointellectual machine.</desc>
+%Name отримав навик в торгівлі - давання хабарів і технічний аналіз. HECAP соціально-інтелектуальна машина.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
-		<title>Deep space miner</title>
-		<titleShort>Miner</titleShort>
-		<desc>NAME did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. HECAP used HIS hands-on industrial skills daily - and wasn't bad in a bar fight either.</desc>
+		<title>Шахтар в глибокому космосі</title>
+		<titleShort>Шахтар</titleShort>
+		<desc>NAME робив пітну, брудну роботу, добуваючи метал з астероїдів на буровій вежі у глибокому космосі. HECAP використовував свої практичні професійні навички щодня — а також добре вправлявся у барних сутичках.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
-		<title>Navy scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Interstellar warfare is won by technology, so imperial navies are always on the peak of modern research. Even better, they have first access to Transcendent artifacts because they find them in space.
+		<title>Вчений ВМС</title>
+		<titleShort>Науковець</titleShort>
+		<desc>Міжпланетні війни виграються завдяки технологіям, саме тому імперські ВМС завжди знаходяться на піку сучасних досліджень. Особливо коли вони мають першочерговий доступ до незвичайних артефактів, знайдених ними у космосі.
 
-NAME worked in a navy lab.</desc>
+NAME працював у лабораторії одного з таких флотів.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
-		<title>Military commissar</title>
-		<titleShort>Commissar</titleShort>
-		<desc>NAME was an internal spymaster in an Imperial army battalion. HECAP made sure that the men were loyal, and did not fall back unless ordered. This made HIM unpopular, but HE gained great skill at detecting the slightest dishonesty.</desc>
+		<title>Військовий комісар</title>
+		<titleShort>Комісар</titleShort>
+		<desc>Name був внутрішнім розвідником в батальйоні імператорського війська. HECAP переконався, що люди були віддані йому, і не відступали, якщо не було наказано. Це зробило його непопулярним, але він отримав велику майстерність у виявленні найменшої нечесності.</desc>
 	</MilitaryCommissar49>
 	<MidworldChef39>
-		<title>Midworld chef</title>
-		<titleShort>Chef</titleShort>
-		<desc>NAME ran a high-class midworld restaurant. HECAP was famous among patrons for HIS creative culinary specialties, and infamous among kitchen workers for HIS casual disdain for grunt work.</desc>
+		<title>Шеф-кухар Середсвіту</title>
+		<titleShort>Шеф-кухар</titleShort>
+		<desc>NAME керував рестораном високого класу у Середсвіті. HECAP славився серед меценатів своїми творчими кулінарними стравами, а також сумнозвісно відомий серед кухонних працівників за свою зневагу до важкої роботи.</desc>
 	</MidworldChef39>
 	<MedievalMinstrel69>
-		<title>Medieval minstrel</title>
-		<titleShort>Minstrel</titleShort>
-		<desc>NAME was a traveling entertainer on a medieval world.
+		<title>Середньовічний менестрель</title>
+		<titleShort>Менестрель</titleShort>
+		<desc>NAME був мандрівним артистом у середньовічному світі.
 
-HECAP could always be found telling stories or singing songs, and is capable of protecting HIMself from the dangers of the road. However, HECAP was always conspicuously absent whenever there was hard labour to be done.</desc>
+Його можна застати за розповіданням різних історій чи виспівуванням різних пісень. Також він здатний захистити себе від різних небезпек, що підстерігають його на дорозі. Однак, його завжди нема, коли треба допомогти у важкій праці.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
-		<title>Housemate</title>
-		<titleShort>Housemate</titleShort>
-		<desc>As an adult, NAME kept house and cared for children while HIS spouse worked.</desc>
+		<title>Сусід</title>
+		<titleShort>Сусід</titleShort>
+		<desc>Як дорослий, NAME тримав будинок і піклувався про дітей, поки його дружина працювала.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
-		<title>Glitterworld empath</title>
-		<titleShort>Empath</titleShort>
-		<desc>NAME had an amazing ability to relate to others and mediate conflict. HECAP was selected to train as an empath. The training intensified HIS natural abilities, but HE became unable to harm others.</desc>
+		<title>Емпат Блискучого світу</title>
+		<titleShort>Емпат</titleShort>
+		<desc>NAME мав чудові здібності до знаходження друзів і вирішення конфліктів. Його вибрали для підготовки емпатха. Навчання розширило його здібності, але він став нездатним завдавати шкоди іншим.</desc>
 	</GlitterworldEmpath39>
 	<MedievalDoctor6>
-		<title>Medieval doctor</title>
-		<titleShort>Quack</titleShort>
-		<desc>NAME worked as a doctor on a medieval planet. HECAP firmly believes that most ailments can be cured with a little bloodletting.
+		<title>Середньовічний лікар</title>
+		<titleShort>Знахар</titleShort>
+		<desc>NAME працював лікарем на середньовічній планеті. Він щиро вважає, що більшість хвороб можна вилікувати кровопусканням.
 
-HECAP was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head.</desc>
+Також він є майстром-анастезіологом, який розробив спеціальну техніку, в основу якої покладений сильний удар по голові.</desc>
 	</MedievalDoctor6>
 	<Inventor42>
-		<title>Inventor</title>
-		<titleShort>Inventor</titleShort>
-		<desc>On HIS homeworld, NAME worked as a moderately successful inventor. HECAP developed several minor technologies.</desc>
+		<title>Винахідник</title>
+		<titleShort>Винахідник</titleShort>
+		<desc>На батьківщині NAME працював помірно успішним винахідником. HECAP розробив кілька незначних технологій.</desc>
 	</Inventor42>
 	<Teacher24>
-		<title>Teacher</title>
-		<titleShort>Teacher</titleShort>
-		<desc>NAME was educated in the liberal arts and taught at a public school. HECAP was widely knowledgeable and well-liked by HIS students.</desc>
+		<title>Вчитель</title>
+		<titleShort>Вчитель</titleShort>
+		<desc>NAME отримав освіту в галузі вільних мистецтв і викладав у звичайній школі. Він був людиною ерудованою і мав популярність серед учнів.</desc>
 	</Teacher24>
 	<JoywireArtist62>
-		<title>Joywire artist</title>
-		<titleShort>Joywirer</titleShort>
-		<desc>NAME worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.
+		<title>Митець-чипороб</title>
+		<titleShort>Чипороб</titleShort>
+		<desc>NAME працював у лабораторії урбанізованого світу, розробляючи передове ПЗ для «чипів задоволення», щоб ще більш посилити задоволення користувачів.
 
-When the local government imposed harsh restrictions on joywire manufacturing, HE began selling HIS products on the black market.</desc>
+Коли місцева влада ввела жорсткі обмеження з виробництва цих чипів, він почав продавати їх на чорному ринку.</desc>
 	</JoywireArtist62>
 	<ConceptualArtist7>
-		<title>Conceptual artist</title>
-		<titleShort>Artist</titleShort>
-		<desc>NAME was well-known in art circles on HIS home world for HIS unique and creative conceptual artworks.
+		<title>Концептуальний митець</title>
+		<titleShort>Митець</titleShort>
+		<desc>На батьківщині NAME отримав славу у мистецьких колах своїми унікальними і творчими працями.
 
-Nobody was sure exactly what HE was trying to communicate, but HIS pieces were highly valued by collectors.</desc>
+Ніхто не був упевнений, що саме він намагався висловити цим, але його твори були високо оцінені колекціонерами.</desc>
 	</ConceptualArtist7>
 	<GlitterworldSurgeon7>
-		<title>Glitterworld surgeon</title>
-		<titleShort>Surgeon</titleShort>
-		<desc>NAME worked as a surgeon on a world mostly free of disease and human suffering.
+		<title>Хірург Блискучого світу</title>
+		<titleShort>Хірург</titleShort>
+		<desc>NAME працював хірургом в світі, в основному, вільному від хвороб та людських страждань.
 
-HISCAP job mostly involved elaborate and creative cosmetic surgeries. HECAP has a good understanding of human biology, but never had to remove a cancer — or a bullet.</desc>
+Його робота в своїй більшості полягала в складних та творчих пластичних операцій. Він має широкі пізнання в анатомії людини, але жодного разу не видаляв ракових пухлин чи кулі.</desc>
 	</GlitterworldSurgeon7>
 	<LudditeRebel42>
-		<title>Luddite rebel</title>
-		<titleShort>Luddite</titleShort>
-		<desc>When the majority of people on HIS world chose to give up their individuality and biological humanity to join together in an online hivemind, NAME joined a rebel faction that chose to forsake most technology.</desc>
+		<title>Луддітський бунтівник</title>
+		<titleShort>Луддит</titleShort>
+		<desc>Коли більшість людей його світу вирішили зректися своєї індивідуальності та природну людяність заради об'єднання в єдиний онлайн-розум, NAME приєднався до повстанців, які вирішили відмовитися від більшості сучасних технологій.</desc>
 	</LudditeRebel42>
 	<Bartender47>
-		<title>Bartender</title>
-		<titleShort>Barkeep</titleShort>
-		<desc>NAME worked as a bartender on a seedy space station. The job entailed one part drink mixing, one part diplomacy, and one part head-bashing.</desc>
+		<title>Бармен</title>
+		<titleShort>Бармен</titleShort>
+		<desc>NAME працював барменом на зубожілій космічній станції. Робота на одну третину складалась зі змішування напоїв, на одну третину — з дипломатії та ще на одну третину — з нагоняїв від начальства.</desc>
 	</Bartender47>
 	<HiveworldDrone29>
-		<title>Hiveworld drone</title>
-		<titleShort>Drone</titleShort>
-		<desc>NAME worked as a mindless construction drone in a massive hiveworld civilization. Though HE is now freed from the brutal social experiments to which HE was subjected, HE remains incapable of creative thought and leadership.</desc>
+		<title>Трутень вулика</title>
+		<titleShort>Трутень</titleShort>
+		<desc>NAME працював бездумним будівельником в крупній цивілізації-вулику. І хоча над ним перестали ставити жорстокі експерименти, він нездатний творчо мислити та бути лідером.</desc>
 	</HiveworldDrone29>
 	<Evangelist66>
-		<title>Evangelist</title>
-		<titleShort>Evangelist</titleShort>
-		<desc>On HIS 21st birthday, NAME experienced a religious awakening. HECAP decided to spend the rest of HIS life spreading the word of HIS deity, the beauty of its culture, and its unusual medical tradition.</desc>
+		<title>Євангеліст</title>
+		<titleShort>Євангеліст</titleShort>
+		<desc>На своєму 21-му році народження, Name пережив релігійне пробудження. HECAP вирішив провести решту свого життя, поширюючи слово Свого божества, красу його культури та незвичайну медичну традицію.</desc>
 	</Evangelist66>
 	<TunnelworldIlluminator50>
-		<title>Tunnelworld illuminator</title>
-		<titleShort>Illuminator</titleShort>
-		<desc>Among tunnel-dwellers, those with vision as strong as NAME’s are revered as sages. HECAP would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger.</desc>
+		<title>Тунельний освітлювач</title>
+		<titleShort>Освітлювач</titleShort>
+		<desc>Серед мешканців тунелів, тих, хто має зір настільки ж гострий, як і NAME, шанують як мудреців. HECAP прокладе шлях, відзначаючи місця викопування біолюмінесцентних грибів і попереджаючи інших про насуваючу загрозу.</desc>
 	</TunnelworldIlluminator50>
 	<Herbalist89>
-		<title>Herbalist</title>
-		<titleShort>Herbalist</titleShort>
-		<desc>NAME lived in the forest near a village. Though many of the villagers feared HIM, sick villagers would come to HIM to purchase salves and poultices made from the herbs HE grew in HIS garden. HECAP was happy to help them — for a price.</desc>
+		<title>Лікар-травник</title>
+		<titleShort>Лікар-травник</titleShort>
+		<desc>%Name жив у лісі неподалік поселення. Багато хто боявся його, проте хворі приходили до нього, аби купити лікувальні мазі та припарки, зроблені з трав, що він виростив у своєму саду. HECAP був радий їм допомогти — за певну ціну.</desc>
 	</Herbalist89>
 	<CivilServant75>
-		<title>Civil servant</title>
-		<titleShort>Clerk</titleShort>
-		<desc>NAME worked as a low-ranking administrator for a moribund government bureaucracy. HECAP is most at home filling out complicated paperwork and playing office politics.</desc>
+		<title>Держслужбовець</title>
+		<titleShort>Клерк</titleShort>
+		<desc>NAME працював дрібним чиновником для помираючої урядової бюрократії. HECAP відчуває себе як вдома, заповнюючи складні документи і граючи в офісну політику.</desc>
 	</CivilServant75>
 	<AsceticPriest87>
-		<title>Ascetic priest</title>
-		<titleShort>Priest</titleShort>
-		<desc>After taking a vow of silence, NAME joined a monastery on a peaceful backwater planet to spend HIS days in quiet contemplation.
+		<title>Аскетичний священик</title>
+		<titleShort>Священик</titleShort>
+		<desc>Прийнявши обітницю мовчання, NAME приєднався до монастиря на мирній затоці планети, щоб провести свої дні в тихому спогляданні.
 
-HECAP found happiness growing vegetables in the garden and making cheese in the monastery cellars.</desc>
+HECAP знайшов щастя у вирощуванні овочів у саду та приготуванні сиру в монастирських підвалах.</desc>
 	</AsceticPriest87>
 	<EscapedConvict68>
-		<title>Escaped convict</title>
-		<titleShort>Escapee</titleShort>
-		<desc>NAME denies involvement in the crimes that brought about HIS incarceration in a brutal penal colony. HECAP escaped by tunnelling beneath the perimeter using modified cutlery.</desc>
+		<title>Біглий вʼязень</title>
+		<titleShort>Втікач</titleShort>
+		<desc>NAME заперечує свою причетність до злочинів, з-за яких він потрапив до виправної колонії суворого режиму. Він втік, зробивши підкоп столовим приладдям.</desc>
 	</EscapedConvict68>
 	<StarshipJanitor15>
-		<title>Starship janitor</title>
-		<titleShort>Janitor</titleShort>
-		<desc>While other passengers pass the years between star systems in cryptosleep sarcophagi, NAME had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids.</desc>
+		<title>Космічний прибиральник</title>
+		<titleShort>Прибиральник</titleShort>
+		<desc>В той час, як інші пасажири подорожують між зоряними системами в креогенному сні, NAME повинен періодично прокидатися, щоб перевірити роботу механізмів, навігаційної системи та рівень мастила у механоїдів.</desc>
 	</StarshipJanitor15>
 	<Nurse0>
-		<title>Nurse</title>
-		<titleShort>Nurse</titleShort>
-		<desc>NAME worked in an industrial-era hospital, doing routine work such as changing bandages and taking temperatures.
+		<title>Медсестра</title>
+		<titleShort>Медсестра</titleShort>
+		<desc>NAME працювала в лікарні промислової епохи, виконуючи рутинну роботу, таку як зміна бинтів та вимірювання температури.
 
-It was a busy job, but HE could always find time for a chat with a patient.</desc>
+Це була клопітна робота, але HE завжди міг знайти час для спілкування з пацієнтом.</desc>
 	</Nurse0>
 	<HouseServant78>
-		<title>House servant</title>
-		<titleShort>Servant</titleShort>
-		<desc>Early in HIS adulthood, NAME was kidnapped and sold to wealthy aristocrats as a domestic servant.
+		<title>Покоївка</title>
+		<titleShort>Покоївка</titleShort>
+		<desc>На початку свого дорослого життя NAME був викрадений і проданий заможним аристократам в якості домашньої прислуги.
 
-HECAP got to know the kitchens and basements of HIS master's mansion well, but never did any work outside.</desc>
+HECAP добре знав кухні та підвали особняка свого господаря, але ніколи не працював на вулиці.</desc>
 	</HouseServant78>
 	<Bodyguard22>
-		<title>Bodyguard</title>
-		<titleShort>Bodyguard</titleShort>
-		<desc>NAME found work on a midworld, protecting whoever paid HIM from harm. HECAP gained proficiency in many different combat forms, and was known for HIS ruthlessness against those who crossed HIM.</desc>
+		<title>Охоронець</title>
+		<titleShort>Охоронець</titleShort>
+		<desc>NAME знайшов роботу у середньому світі, захищаючи від небезпеки тих, хто платили HIM. HECAP оволодів різними бойовими мистецтвами та славився своєю безжальністю до тих, хто перетнув йому дорогу.</desc>
 	</Bodyguard22>
 	<Novelist96>
-		<title>Novelist</title>
-		<titleShort>Novelist</titleShort>
-		<desc>NAME lived on a glitterworld, penning wildly successful novels. HECAP lived a carefree lifestyle, spending HIS days writing and HIS nights partying...and never did a day's manual labour in HIS life.</desc>
+		<title>Письменник</title>
+		<titleShort>Письменник</titleShort>
+		<desc>NAME жив у блискучому світі, пишучи романи-бестселлери. Він жив безтурботним життям, пишучи вдень та гуляючи вночі... і ніколи нічого не робив своїми руками.</desc>
 	</Novelist96>
 	<Mathematician18>
-		<title>Mathematician</title>
-		<titleShort>Math prof</titleShort>
-		<desc>NAME did mathematical research at a university.
+		<title>Математик</title>
+		<titleShort>Професор математики</titleShort>
+		<desc>NAME займався математичними дослідженнями в університеті.
 
-HECAP spent much of HIS spare time immersed in shooting simulations, though HE was frequently ridiculed by other players for HIS terrible aim.</desc>
+HECAP витратив більшу частину свого вільного часу, занурившись у симуляцію стрільби, хоча його часто висміювали інші гравці за своє жахливе прицілювання.</desc>
 	</Mathematician18>
 	<Paramedic85>
-		<title>Paramedic</title>
-		<titleShort>Paramedic</titleShort>
-		<desc>NAME's job was to respond rapidly to medical emergencies. HECAP is used to dealing with severe injuries with only limited medical supplies.
+		<title>Парамедик</title>
+		<titleShort>Парамедик</titleShort>
+		<desc>Робота %NAME полягала в тому, щоб швидко реагувати на невідкладні медичні ситуації. HECAP звик до тяжких травм з обмеженням медичних приладь.
 
-HECAP treated so many gunshot wounds over the years that even seeing a gun made HIM uncomfortable.</desc>
+HECAP обробляв стільки вогнепальних поранень за ці роки, що навіть побачивши пістолет HIM стає ніяково.</desc>
 	</Paramedic85>
 	<Castaway74>
-		<title>Castaway</title>
-		<titleShort>Castaway</titleShort>
-		<desc>NAME was the only survivor of a ship crash on an unhabited animal world. For many years until HIS rescue HE scrounged an existence out of whatever HE could find.
+		<title>Вигнанець</title>
+		<titleShort>Вигнанець</titleShort>
+		<desc>NAME був єдиним, хто пережив аварію корабля на безлюдному тваринному світі. Протягом багатьох років, поки його не врятували, він виживав з того, що міг знайти.
 
-HISCAP survival skills became razor-sharp, but spending so long alone severely dampened HIS conversatial abilities.</desc>
+Навички виживання HISCAP стали гострими як бритва, однак виживання так довго наодинці серйозно позначилося на HIS розмовні здібності.</desc>
 	</Castaway74>
 	<Gardener25>
-		<title>Gardener</title>
-		<titleShort>Gardener</titleShort>
-		<desc>On industrial worlds, wealth concentrates in the hands of those who own the factories and sell the goods. NAME worked at the mansion of one such rich family, tending the lavish gardens as part of a team of servants.</desc>
+		<title>Садівник</title>
+		<titleShort>Садівник</titleShort>
+		<desc>На промислових світах багатство концентрується в руках тих, хто володіє заводами та продає товари. NAME працював на садибі одного з таких багатіїв, доглядаючи за пишними садами разом з іншою обслугою.</desc>
 	</Gardener25>
 	<MafiaBoss49>
-		<title>Mafia boss</title>
-		<titleShort>Boss</titleShort>
-		<desc>NAME was a high-ranking member of an urbworld crime syndicate.
+		<title>Бос мафії</title>
+		<titleShort>Ватажок</titleShort>
+		<desc>NAME був високопоставленим членом злочинного синдикату урбаністичного світу.
 
-HECAP bribed officials, maintained the loyalty of HIS subordinates, and extracted overdue payments - by any means necessary.</desc>
+HECAP підкупляв чиновників, підтримував лояльність своїх підлеглих, і вилучав прострочені платежі — будь-якими засобами.</desc>
 	</MafiaBoss49>
 	<Torturer24>
-		<title>Torturer</title>
-		<titleShort>Torturer</titleShort>
-		<desc>Working for a tyrannical monarch on a medieval world, NAME earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with NAME's smile scarred permanently into their nightmares.</desc>
+		<title>Кат</title>
+		<titleShort>Кат</titleShort>
+		<desc>Працюючи на тиранічного монарха в середньовічному світі, NAME здобув репутацію експерта в «переконанні». Кожен вʼязень, що спустився у підземелля, залишався без таємниць — і посмішка ката постійно сниться їм у кошмарах.</desc>
 	</Torturer24>
 	<ConstructionEngineer77>
-		<title>Construction engineer</title>
-		<titleShort>Builder</titleShort>
-		<desc>NAME was a construction worker on a midworld. HECAP lead a team which built everything from office blocks to cathedrals.
+		<title>Інженер-будівельник</title>
+		<titleShort>Будівельник</titleShort>
+		<desc>NAME був будівельником у середньому світі. HECAP керував бригадою, яка будувала все: від офісних будівель до соборів.
 
-HISCAP busy job and numerous nearby fast-food outlets meant HE never cooked for HIMself.</desc>
+Його висока зайнятість на роботі та часте відвідування фаст-фудів говорить про те, що він ніколи не готував для себе їжу.</desc>
 	</ConstructionEngineer77>
 	<Blacksmith19>
-		<title>Blacksmith</title>
-		<titleShort>Blacksmith</titleShort>
-		<desc>As a smith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</desc>
+		<title>Коваль</title>
+		<titleShort>Коваль</titleShort>
+		<desc>Як коваль у середньовічному світі, NAME здобув репутацію за високу якість своєї роботи. Також HECAP не погано володів мечами, які він викував.</desc>
 	</Blacksmith19>
 	<CharityWorker80>
-		<title>Charity worker</title>
-		<titleShort>Altruist</titleShort>
-		<desc>Glitterworlds are havens of safety and comfort for those lucky enough to live there, but NAME could not ignore nearby planets where people suffered in poverty. HECAP spent HIS working life appealing for donations and supporting those in need.</desc>
+		<title>Благодійник</title>
+		<titleShort>Альтруїст</titleShort>
+		<desc>Блискучі світи — це притулок безпеки та комфорту для тих, кому пощастило жити там, але NAME не може ігнорувати факт, що на сусідніх планетах люди живуть у злиднях. Він все своє життя працював, не покладаючи рук, збираючи благодійні внески та направляючи зібрані кошти на поміч нужденним.</desc>
 	</CharityWorker80>
 	<Defector59>
-		<title>Defector</title>
-		<titleShort>Defector</titleShort>
-		<desc>Early in HIS adulthood, NAME decided to leave the oppressive dictatorship where HE lived. HISCAP defection was not well-received, and agents were sent out after HIM.
+		<title>Дезертир</title>
+		<titleShort>Дезертир</titleShort>
+		<desc>У своє повноліття NAME вирішив покинути жорстоку диктатуру, під якою він жив. Його дезертирство не залишилось непоміченим, і за ним були відправлені агенти.
 
-HECAP spent years on the run, treating HIS own wounds so no doctor could betray HIM. The ordeal made HIM bitter and untrusting.</desc>
+HECAP провів роки у бігах, обробляючи власні рани, щоб жоден лікар не міг зрадити його. Ці випробування зробили його колючим і недовірливим.</desc>
 	</Defector59>
 	<FactoryWorker82>
-		<title>Factory worker</title>
-		<titleShort>Worker</titleShort>
-		<desc>NAME did menial, unskilled work in an industrial-era factory. HISCAP job also included caring for the mules and horses which transported goods around the city.</desc>
+		<title>Працівник заводу</title>
+		<titleShort>Робочий</titleShort>
+		<desc>NAME робив чорну, некваліфіковану роботу на заводі промислової епохи. Робота HISCAP також включала догляд за мулами та конями, які перевозили товари по всьому місту.</desc>
 	</FactoryWorker82>
 	<RanchOwner88>
-		<title>Ranch owner</title>
-		<titleShort>Rancher</titleShort>
-		<desc>NAME owned and operated a successful ranch where HE raised animals for meat and wool.
+		<title>Власник ранчо</title>
+		<titleShort>Фермер</titleShort>
+		<desc>NAME володів і керував успішним ранчо, де він вирощував тварин для мʼяса та вовни.
 
-HECAP refused to do any dumb labour HE could pay someone else to do for HIM.</desc>
+HECAP відмовлявся робити будь-яку тупу працю, якщо він міг заплатити комусь ще, щоб вони зробили її для HIM.</desc>
 	</RanchOwner88>
 	<LowWageWorker94>
-		<title>Low-wage worker</title>
-		<titleShort>Grunt</titleShort>
-		<desc>NAME worked a variety of casual jobs to support HIS family, gaining a set of basic hands-on skills.</desc>
+		<title>Низькооплачуваний робочий</title>
+		<titleShort>Різнороб</titleShort>
+		<desc>NAME працював на різноманітних випадкових роботах для підтримки своєї сімʼї, отримавши набір основних практичних навичок.</desc>
 	</LowWageWorker94>
 	<Model51>
-		<title>Model</title>
-		<titleShort>Model</titleShort>
-		<desc>NAME modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations.</desc>
+		<title>Модель</title>
+		<titleShort>Модель</titleShort>
+		<desc>NAME демонструвала одяг і прикраси для рекламодавців, а також використовувалася як фізичний зразок для персонажів у симуляціях віртуальної реальності.</desc>
 	</Model51>
 	<Taxonomist49>
-		<title>Taxonomist</title>
-		<titleShort>Taxonomist</titleShort>
-		<desc>NAME travelled between star systems, studying and classifying the plant and animal life HE found in the hopes of creating a complete catalogue.</desc>
+		<title>Таксономіст</title>
+		<titleShort>Таксономіст</titleShort>
+		<desc>%Name їздив між зірковими системами, вивчаючи та класифікуючи рослинну та тваринну форму життя, яку він знайшов, у надії створити повний каталог.</desc>
 	</Taxonomist49>
 	<Geologist2>
-		<title>Geologist</title>
-		<titleShort>Geologist</titleShort>
-		<desc>NAME worked with miners and cave-diggers, identifying rock types and natural formations.
+		<title>Геолог</title>
+		<titleShort>Геолог</titleShort>
+		<desc>NAME працював з шахтарями та печерними копальниками, визначаючи типи порід та природні утворення.
 
-During HIS years underground HE also gained experience repairing drilling machines and other technical equipment.</desc>
+За роки роботи під землею HE також набув досвіду ремонту бурових машин та іншого технічного обладнання.</desc>
 	</Geologist2>
 	<Sailor53>
-		<title>Sailor</title>
-		<titleShort>Sailor</titleShort>
-		<desc>NAME traversed the oceans on journeys of exploration, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. HECAP loved the sea so much HE refused to do all but the barest minimum of work on land, except to sell the treasures HE collected.</desc>
+		<title>Моряк</title>
+		<titleShort>Моряк</titleShort>
+		<desc>NAME перетинав океани під час дослідницьких подорожей, розшукуючи зразки рослин і тварин з екзотичних місць, та іноді відбиваючись від піратів. HECAP любив море так сильно, що відмовлявся робити все, крім найменшого мінімуму роботи на землі, за винятком того, щоб продати зібрані ним скарби.</desc>
 	</Sailor53>
 	<Jailbird93>
-		<title>Jailbird</title>
-		<titleShort>Jailbird</titleShort>
-		<desc>NAME spent most of HIS life in prisons, where HE was put to work in the kitchens. HECAP had a habit of getting into fights, and developed an aggressive way of speaking.</desc>
+		<title>Арештант</title>
+		<titleShort>Арештант</titleShort>
+		<desc>Більшу частину свого життя NAME провів у вʼязницях, де HE був поставлений працювати на кухні. HECAP мав звичку потрапляти у бійки та розробив агресивну манеру говорити.</desc>
 	</Jailbird93>
 	<Actor76>
-		<title>Actor</title>
-		<titleShort>Actor</titleShort>
-		<desc>NAME travelled HIS homeworld with a company of actors, playing to packed theatres and loving audiences everywhere. HECAP was a perfectionist, and made HIS own props and costumes rather than use the ones HE was given.</desc>
+		<title>Актор</title>
+		<titleShort>Актор</titleShort>
+		<desc>NAME обʼїздив свій рідний світ з компанією акторів, граючи в переповнених театрах та люблячи глядачів скрізь. HECAP був перфекціоністом, і зробив свої власні реквізити та костюми, а не використовував ті, які йому дали.</desc>
 	</Actor76>
 	<Tactician22>
-		<title>Tactician</title>
-		<titleShort>Tactician</titleShort>
-		<desc>NAME joined the space navy in an unstable system, fraught with large-scale interplanetary wars. HECAP turned out to have a sharp mind for battle, and became adept at commanding large armies to great effect.</desc>
+		<title>Тактик</title>
+		<titleShort>Тактик</titleShort>
+		<desc>NAME приєднався до космічного флоту в нестабільній системі, що загрожувала великомасштабними міжпланетними війнами. Виявилося, що HECAP має гострий розум для битви, й тому став досвідченим командувачем великими арміями з великим ефектом.</desc>
 	</Tactician22>
 	<GlitterworldOfficer93>
-		<title>Glitterworld officer</title>
-		<titleShort>Officer</titleShort>
-		<desc>Though glitterworlds are peaceful places, they often remain prepared for war. NAME's unit rarely saw any real action.
+		<title>Офіцер Блискучого світу</title>
+		<titleShort>Офіцер</titleShort>
+		<desc>Хоча блискучі світи є мирними місцями, вони часто залишаються готовими до війни. HIS підрозділ рідко бачив реальні дії.
 
-Though HE pursued HIS artistic hobbies, HIS subordinates preferred to entertain themselves by brawling, so NAME got good at breaking up fights.</desc>
+Хоча HE займався своїми мистецькими захопленнями, HIS підлеглі віддавали перевагу кулачним бійкам, тому NAME був хорошим рефері, що вирішував сутички.</desc>
 	</GlitterworldOfficer93>
 	<Taster35>
-		<title>Taster</title>
-		<titleShort>Taster</titleShort>
-		<desc>As the taster for a medieval king, any dish served at the royal table had to be sampled first by NAME. HECAP lived a decadent lifestyle at court, getting fat and doing very little work.</desc>
+		<title>Дегустатор</title>
+		<titleShort>Дегустатор</titleShort>
+		<desc>Як дегустатор середньовічного короля, будь-яка страва, що подавалася за королівським столом, повинна була спершу спробувана NAME. HECAP вів декадентське життя при дворі, товстішав і робив дуже мало роботи.</desc>
 	</Taster35>
 	<BiosphereManager30>
-		<title>Biosphere manager</title>
-		<titleShort>Botanist</titleShort>
-		<desc>NAME lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. HECAP managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty.</desc>
+		<title>Менеджер біосфери</title>
+		<titleShort>Ботанік</titleShort>
+		<desc>NAME жив у мирному блискучому світі, де вся праця виконувалася роботами, а люди присвятили себе дозвіллю. HECAP керував рослинним і тваринним життям розгалуженого парку, куди громадяни приходили, щоб помилуватися природною красою.</desc>
 	</BiosphereManager30>
 	<Veterinarian19>
-		<title>Veterinarian</title>
-		<titleShort>Vet</titleShort>
-		<desc>NAME treated sick and injured animals for a living. Seeing their suffering affected HIS stance on the practice of eating meat, and for many years HE lived as a vegetarian, rejecting the meat-loving culinary tradition of HIS homeworld.</desc>
+		<title>Ветеринар</title>
+		<titleShort>Ветеринар</titleShort>
+		<desc>%Name лікував хворих і поранених тварин, і повертав їх до життя. Бачення їх страждань вплинуло на його позицію щодо практики вживання мʼяса, і протягом багатьох років він жив як вегетаріанець, відкидаючи м'ясні кулінарні традиції HIS батьківщини.</desc>
 	</Veterinarian19>
 	<ExplosivesExpert30>
-		<title>Explosives expert</title>
-		<titleShort>Blaster</titleShort>
-		<desc>NAME was an explosive engineer employed in mines. HECAP took HIS job very seriously and was well-versed in the technicalities - so much so that HE refused to demean HIMself by helping with the clean-up once HIS carefully-calculated explosion was complete.</desc>
+		<title>Експерт по вибухівці</title>
+		<titleShort>Підривник</titleShort>
+		<desc>NAME був інженером по вибухівці, який працював у шахтах. HECAP дуже серйозно ставився до своєї роботи та був добре обізнаний у технічних питаннях — настільки, що він відмовився принижуватися, допомагаючи з очищенням після того, як HIS ретельно розрахований вибух був завершений.</desc>
 	</ExplosivesExpert30>
 	<Counselor20>
-		<title>Counselor</title>
-		<titleShort>Counselor</titleShort>
-		<desc>A terrifying trauma when NAME was a young adult caused HIM to develop a serious eating disorder. With counseling HE learned to have a healthier relationship with food, and decided to put HIS new skills to use helping others overcome their emotional problems.</desc>
+		<title>Радник</title>
+		<titleShort>Радник</titleShort>
+		<desc>Жахлива травма, коли NAME був підлітком, викликала у HIM серйозний розлад харчування. З консультуванням HE навчився мати здоровіші стосунки з їжею і вирішив використати нові навички, щоб допомогти іншим подолати емоційні проблеми.</desc>
 	</Counselor20>
 	<Recruiter51>
-		<title>Recruiter</title>
-		<titleShort>Recruiter</titleShort>
-		<desc>NAME was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.
+		<title>Рекрутер</title>
+		<titleShort>Рекрутер</titleShort>
+		<desc>NAME був частиною шанованого ордену бойових мистецтв, сумно відомого як за їхню майстерність у бою, так і за практику відмови від лікування своїх поранених.
 
-HECAP travelled HIS homeworld, judging the young people HE met to determine if they might be suitable for training.</desc>
+HECAP обʼїхав свою батьківщину, оцінюючи молодь, яких HE зустрічав, щоб визначити, чи будуть вони придатні для навчання.</desc>
 	</Recruiter51>
 	<PsychiatricPatient28>
-		<title>Psychiatric patient</title>
-		<titleShort>Patient</titleShort>
-		<desc>NAME spent most of HIS adult life in an insane asylum. HIS industrial homeworld had a poor understanding of mental illness, and HE was treated more like an animal than a person.
+		<title>Психіатричний пацієнт</title>
+		<titleShort>Пацієнт</titleShort>
+		<desc>%Name більшу частину свого дорослого життя провів у психлікарні. HIS індустріальний світ мав слабке розуміння психічних захворювань, і до HIM ставилися більш як до тварини, ніж до людини.
 
-Though HE eventually recovered and was released, HIS experience dampened many of HIS basic life skills.</desc>
+Незважаючи на те, що HE зрештою одужав і був звільнений, HIS досвід послабив багато HIS базових життєвих навичок.</desc>
 	</PsychiatricPatient28>
 	<Drifter25>
-		<title>Drifter</title>
-		<titleShort>Drifter</titleShort>
-		<desc>NAME never figured out what to do with HIS life. HECAP travelled often, taking up casual work wherever HE found it.
+		<title>Пройдисвіт</title>
+		<titleShort>Пройдисвіт</titleShort>
+		<desc>NAME ніколи не розумів, що робити зі своїм життям. HECAP часто подорожував, беручи випадкову роботу, де б не знаходив.
 
-HECAP also occasionally worked on a novel that HE knew would be a bestseller - just as soon as HE could find a publisher who was interested.</desc>
+Також HECAP час від часу працював над романом, про який HE знав, що він буде бестселером — як тільки HE зможе знайти зацікавленого видавця.</desc>
 	</Drifter25>
 	<VRDesigner15>
-		<title>VR designer</title>
-		<titleShort>Game dev</titleShort>
-		<desc>NAME designed virtual reality simulations for glitterworld citizens. HECAP paid great attention to the details of HIS worlds, including learning all HE could about plant life to make HIS landscapes more realistic.</desc>
+		<title>Дизайнер VR</title>
+		<titleShort>Ігровий розробник</titleShort>
+		<desc>NAME розробив симуляцію віртуальної реальності для громадян блискучого світу. HECAP приділяв велику увагу деталям своїх світів, включаючи вивчення усього можливого про рослинний світ, щоб зробити свої пейзажі більш реалістичними.</desc>
 	</VRDesigner15>
 	<HumanComputer63>
-		<title>Human computer</title>
-		<titleShort>Computer</titleShort>
-		<desc>NAME turned out to have an excellent memory and a gift for performing complex calculations in HIS head. A midworld dictator decided to employ NAME to keep track of HIS state's finances and expenditure, since electrical computers were too susceptible to hacking.</desc>
+		<title>Людина-комп'ютер</title>
+		<titleShort>Комп'ютер</titleShort>
+		<desc>Виявилося, що NAME має відмінну памʼять і хист для виконання складних обчислень подумки. Диктатор середнього світу вирішив використовувати NAME, щоб стежити за фінансами та витратами своєї держави, оскільки електричні компʼютери були занадто чутливі до злому.</desc>
 	</HumanComputer63>
 	<Architect11>
-		<title>Architect</title>
-		<titleShort>Architect</titleShort>
-		<desc>NAME designed and constructed buildings. On HIS glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled HIM to push the artistic limits of the craft, but also meant HE never had to get HIS hands dirty at building sites.</desc>
+		<title>Архітектор</title>
+		<titleShort>Архітектор</titleShort>
+		<desc>NAME проектував та будував будівлі. У HIS рідному блискучому світі більшість технічних аспектів архітектури оброблялися ШІ. Це дозволило HIM просунути художні межі ремесла, але це також означало, що HIM ніколи не доводилося брудити руки на будівельних майданчиках.</desc>
 	</Architect11>
 	<MessageCarrier61>
-		<title>Message carrier</title>
-		<titleShort>Messenger</titleShort>
-		<desc>On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. NAME was that somebody.</desc>
+		<title>Носій повідомлення</title>
+		<titleShort>Посланець</titleShort>
+		<desc>У середньовічному світі найшвидший спосіб відправити повідомлення — дати його комусь на коні і сподіватися, що вони переживуть подорож. NAME — був цим хтось.</desc>
 	</MessageCarrier61>
 	<Sculptor16>
-		<title>Sculptor</title>
-		<titleShort>Sculptor</titleShort>
-		<desc>NAME started off sculpting person-sized chunks of stone, but HE soon began to think bigger. With the help of mining robots, HECAP learned how to carve huge monuments out of cliffsides. Soon the nature parks of the glitterworld where HE lived were full of giant rock figures.</desc>
+		<title>Скульптор</title>
+		<titleShort>Скульптор</titleShort>
+		<desc>NAME розпочав ліпити шматки каменю розміром з людину, але незабаром почав думати про більше. За допомогою гірничодобувних роботів, HECAP навчився вирізати величезні памʼятники зі скель. Незабаром природні парки блискучого світу, де жив HE, були сповнені гігантськими фігурами.</desc>
 	</Sculptor16>
 	<MachineCollector23>
-		<title>Machine collector</title>
-		<titleShort>Collector</titleShort>
-		<desc>NAME was obsessed with old machines and arcane pieces of technology. HECAP obtained them wherever HE could, and loved taking them apart to see how they worked.
+		<title>Колекціонер машин</title>
+		<titleShort>Колекціонер</titleShort>
+		<desc>NAME був одержимий старими машинами та таємничими технологіями. HECAP отримував їх звідусіль, де він мав змогу, і любив розбирати їх, щоб побачити, як вони працюють.
 
-HE had a habit of talking about HIS collection long after people around HIM had stopped listening.</desc>
+HE мав звичку говорити про свою колекцію ще довго після того, як люди навколо HIM переставали слухати.</desc>
 	</MachineCollector23>
 	<Sheriff37>
-		<title>Sheriff</title>
-		<titleShort>Sheriff</titleShort>
+		<title>Шериф</title>
+		<titleShort>Шериф</titleShort>
 		<desc>NAME was the law enforcer in an isolated industrial town. HECAP was known for having an arrogant attitude and a mean streak. HECAP refused to lift so much as a finger unless it was for money, alcohol, or revenge.</desc>
 	</Sheriff37>
 	<ConArtist96>
-		<title>Con artist</title>
-		<titleShort>Con artist</titleShort>
+		<title>Шахрай</title>
+		<titleShort>Шахрай</titleShort>
 		<desc>NAME never created anything in HIS life. HECAP did, however, prove to be a natural at getting others to give HIM what they had created.</desc>
 	</ConArtist96>
 	<MedievalSlave75>
-		<title>Medieval slave</title>
-		<titleShort>Slave</titleShort>
+		<title>Середньовічний раб</title>
+		<titleShort>Раб</titleShort>
 		<desc>NAME grew up pulling carts and digging holes on a medieval world. Simple manual labor is HIS oldest companion - along with the master's lash.
 
 HECAP didn't learn to read until age nine.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
-		<title>Medieval lordling</title>
+		<title>Середньовічний лорд</title>
 		<titleShort>Lordling</titleShort>
 		<desc>NAME was a minor noble in an old kingdom on a medieval world. HECAP grew up in a manor made of stone, served by bowing lowerclassmen.
 
@@ -412,13 +412,13 @@ Such a life teaches no technical skills and instils a lifelong aversion to manua
 		<desc>The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. NAME grew up in the dark, unwanted reaches of such a place. HECAP had to fight for every scrap of food.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
-		<title>Vatgrown soldier</title>
-		<titleShort>Vatgrown</titleShort>
+		<title>Солдат-клон</title>
+		<titleShort>Клон</titleShort>
 		<desc>NAME wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during HIS accelerated growth, NAME still has a proclivity for combat of all kinds and an aversion to human contact.</desc>
 	</VatgrownSoldier83>
 	<SicklyChild40>
-		<title>Sickly child</title>
-		<titleShort>Patient</titleShort>
+		<title>Хворобливий дитина</title>
+		<titleShort>Пацієнт</titleShort>
 		<desc>As a child, NAME suffered from a rare disease. Quarantined in a research hospital, HE had minimal human contact and got little physical exercise. In the sterile hospital environment, however, HE became very familiar with science and medicine.</desc>
 	</SicklyChild40>
 	<ShelterChild65>
@@ -428,200 +428,200 @@ Such a life teaches no technical skills and instils a lifelong aversion to manua
 	</ShelterChild65>
 	<IndustrialOrphan55>
 		<title>Industrial orphan</title>
-		<titleShort>Orphan</titleShort>
+		<titleShort>Сирітка</titleShort>
 		<desc>NAME never knew HIS parents. HISCAP earliest memories were of drudgery in the mines and workhouses of HIS industrial world.
 
 Because of this, HE never received a proper education.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
-		<title>Scout</title>
-		<titleShort>Scout</titleShort>
+		<title>Розвідник</title>
+		<titleShort>Розвідник</titleShort>
 		<desc>Born to colonial administrators from a small imperial power, NAME was enrolled in a youth program that taught military scouting skills.
 
 HECAP learned to survive in the wilderness, to obey, and not to ask questions.</desc>
 	</Scout67>
 	<FrightenedChild6>
-		<title>Frightened child</title>
+		<title>Заполохана дитина</title>
 		<titleShort>Scared</titleShort>
 		<desc>NAME grew up with a laundry list of phobias and neuroses. HECAP feared, among other things, doctors and foodborne pathogens.
 
 As a result, HE learned to cook and care for HIMself, but many of HIS fears dog HIM in adulthood.</desc>
 	</FrightenedChild6>
 	<CaveworldTender5>
-		<title>Caveworld tender</title>
-		<titleShort>Cave kid</titleShort>
-		<desc>NAME grew up in cave complex deep beneath the surface of an inhospitable world. HECAP worked with the other children tending the tribe’s fungus crops.</desc>
+		<title>Печерний шахтар</title>
+		<titleShort>Печерна дитина</titleShort>
+		<desc>Name виріс в печерному комплексі глибоко під поверхнею непривітного світу. HECAP працював з іншими дітьми, котрі тренують племінні гриби.</desc>
 	</CaveworldTender5>
 	<CaveworldTunneler74>
-		<title>Caveworld tunneler</title>
-		<titleShort>Tunneler</titleShort>
+		<title>Печерний шахтар</title>
+		<titleShort>Прохідник</titleShort>
 		<desc>NAME worked as a digger in the massive underground cave complex.
 
 HECAP knows rock so well that HE can almost navigate caves by smell.</desc>
 	</CaveworldTunneler74>
 	<ComaChild18>
-		<title>Coma child</title>
-		<titleShort>Coma child</titleShort>
+		<title>Дитина коми</title>
+		<titleShort>Дитина коми</titleShort>
 		<desc>A childhood accident put NAME into a coma. HECAP didn’t wake up until HE was in HIS late teens. HISCAP body never recovered from the years of inactivity, but people tend to take pity on HIM when they hear HIS story.</desc>
 	</ComaChild18>
 	<Pyromaniac68>
-		<title>Pyromaniac</title>
-		<titleShort>Pyro</titleShort>
+		<title>Піроман</title>
+		<titleShort>Піро</titleShort>
 		<desc>From an early age, NAME had an unhealthy fascination with fire. HECAP would set refuse heaps ablaze and become so entranced by the flames HE would absent-mindedly burn HIMself.
 
 One day while playing with matches, HE carelessly burned down HIS home.</desc>
 	</Pyromaniac68>
 	<Mute55>
-		<title>Mute</title>
-		<titleShort>Mute</titleShort>
-		<desc>NAME was greatly affected by a traumatic event early in HIS life. For many years HE refused to speak to people, preferring instead to play with HIS household's numerous pets.</desc>
+		<title>Німий</title>
+		<titleShort>Німий</titleShort>
+		<desc>Name сильно постраждала від травматичної події на початку його життя. Протягом багатьох років він відмовлявся спілкуватися з людьми, вважаючи за краще грати з численними домашніми тваринами свого домогосподарства.</desc>
 	</Mute55>
 	<WarRefugee70>
-		<title>War refugee</title>
-		<titleShort>Refugee</titleShort>
+		<title>Біженець</title>
+		<titleShort>Біженець</titleShort>
 		<desc>War broke out in NAME's home when HE was a baby. HISCAP parents fled with HIM, seeking safety wherever they could find it. NAME's earliest memories are of being taught how to defend HIMself.
 
-The violence and destruction HE witnessed left HIM scarred for life.</desc>
+Насильство і руйнування, які він бачив, залишили йому шрами на все життя.</desc>
 	</WarRefugee70>
 	<MusicLover26>
-		<title>Music lover</title>
-		<titleShort>Musician</titleShort>
+		<title>Меломан</title>
+		<titleShort>Музикант</titleShort>
 		<desc>As a child, NAME had a talent for playing musical instruments and singing. HECAP was given expert training and loved to perform in recitals and concerts, though the lavish praise HE received made HIM a little self-obsessed.</desc>
 	</MusicLover26>
 	<ChildStar51>
-		<title>Child star</title>
-		<titleShort>Star</titleShort>
+		<title>Дитина-зірка</title>
+		<titleShort>Зірка</titleShort>
 		<desc>NAME was well-known throughout HIS homeworld as a child actor in films and TV shows. HISCAP fame put HIM in contact with many different kinds of people, but also tended to get in the way of HIS education.</desc>
 	</ChildStar51>
 	<ChildSpy95>
-		<title>Child spy</title>
-		<titleShort>Spy</titleShort>
-		<desc>Children are often presumed innocent, and can be ideal as spies. NAME was trained in the art of infiltration and information-gathering when HE was just nine years old.
+		<title>Дитина шпигуна</title>
+		<titleShort>Шпигун</titleShort>
+		<desc>Діти часто невинні, і можуть бути ідеальними шпигунами. NAME was trained in the art of infiltration and information-gathering when HE was just nine years old.
 
 HISCAP years behind enemy lines and the war-torn nature of HIS homeworld meant HE had limited opportunity for education.</desc>
 	</ChildSpy95>
 	<Shopkeeper18>
-		<title>Shopkeeper</title>
-		<titleShort>Shopkeep</titleShort>
+		<title>Крамар</title>
+		<titleShort>Крамар</titleShort>
 		<desc>NAME's mother was often ill, and it fell to HIM to run the store which was their only source of income. HECAP learned a little about the exotic artifacts which HE sold, and a lot about the art of the deal.</desc>
 	</Shopkeeper18>
 	<OrganFarm9>
-		<title>Organ farm</title>
-		<titleShort>Organ farm</titleShort>
+		<title>Ферма органів</title>
+		<titleShort>Ферма органів</titleShort>
 		<desc>NAME was raised in an illegal underground organ farm. HISCAP body was used to grow organic implants for wounded mercenaries. Though HIS upbringing has left HIM haunted, it has also given HIM a unique understanding of human biology.</desc>
 	</OrganFarm9>
 	<ConventChild41>
-		<title>Convent child</title>
+		<title>Монастирська дитина</title>
 		<titleShort>Illicit</titleShort>
 		<desc>The child of an illicit affair, NAME was bought up by nuns in a medieval convent. HECAP learned the value of hard work and submission, but was taught that technology is heretical.</desc>
 	</ConventChild41>
 	<TestSubject75>
-		<title>Test subject</title>
-		<titleShort>Testee</titleShort>
+		<title>Піддослідний</title>
+		<titleShort>Піддослідний</titleShort>
 		<desc>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
-		<title>Medical assistant</title>
-		<titleShort>Medic</titleShort>
+		<title>Фельдшер</title>
+		<titleShort>Медик</titleShort>
 		<desc>NAME was born during a catastrophic war in which both sides used napalm extensively. HECAP grew up helping HIS parents in an infirmary, treating the cascade of horrific burns from the battlefields. HECAP was left with a lifelong fear of fire.</desc>
 	</MedicalAssistant75>
 	<CultChild15>
-		<title>Cult child</title>
-		<titleShort>Cult kid</titleShort>
+		<title>Дитина культу</title>
+		<titleShort>Дитина культу</titleShort>
 		<desc>NAME was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.
 
 After HIS first glimpse of the outside world, HE decided to run away.</desc>
 	</CultChild15>
 	<WreckageExplorer75>
-		<title>Wreckage explorer</title>
-		<titleShort>Explorer</titleShort>
+		<title>Аварійно-рятувальний дослідник</title>
+		<titleShort>Дослідник</titleShort>
 		<desc>Two generations before NAME was born, an apocalyptic war dragged HIS home planet into anarchy. NAME was tasked with watching HIS tribe's herds, but often shirked HIS duties to go exploring the crashed warships scattered around the planet.</desc>
 	</WreckageExplorer75>
 	<ApocalypseSurvivor86>
-		<title>Apocalypse survivor</title>
-		<titleShort>Survivor</titleShort>
+		<title>Свідок апокаліпсису</title>
+		<titleShort>Вцілілий</titleShort>
 		<desc>NAME was born during a time of unrest on HIS homeworld, as climate change threatened mass starvation and flooding. As HE grew up the situation worsened - billions died and peaceful states descended into anarchy. NAME and HIS parents did whatever they had to to survive.</desc>
 	</ApocalypseSurvivor86>
 	<StoryWriter68>
-		<title>Story writer</title>
-		<titleShort>Writer</titleShort>
+		<title>Автор історій</title>
+		<titleShort>Письменник</titleShort>
 		<desc>As a child, NAME was addicted to reading. HECAP would spend all day in HIS local library with HIS nose in a book. When budget cuts forced the library to close, NAME was distraught. HE decided to fill the gap by writing HIS own stories instead.</desc>
 	</StoryWriter68>
 	<Hermit87>
-		<title>Hermit</title>
-		<titleShort>Hermit</titleShort>
+		<title>Самітник</title>
+		<titleShort>Самітник</titleShort>
 		<desc>Worn out by the pressures of social interaction, NAME left HIS crowded midworld city to live a simple life in the wilderness. There, HE spent HIS days alone, tending HIS garden and crafting the simple tools HE needed to survive.</desc>
 	</Hermit87>
 	<SpacePirate69>
-		<title>Space pirate</title>
-		<titleShort>Pirate</titleShort>
+		<title>Космічний пірат</title>
+		<titleShort>Пірат</titleShort>
 		<desc>Piracy appears everywhere that governments are weak and society spread thin. NAME was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit.</desc>
 	</SpacePirate69>
 	<PitBrawler20>
 		<title>Pit brawler</title>
-		<titleShort>Brawler</titleShort>
+		<titleShort>Буян</titleShort>
 		<desc>NAME was nine years old when HE got in HIS first fight. HECAP won, but more important was the enjoyment of HIS audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
-		<title>Illegal shipwright</title>
-		<titleShort>Shipwright</titleShort>
+		<title>Чорний кораблебудівник</title>
+		<titleShort>Кораблебудівник</titleShort>
 		<desc>There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. NAME discovered that there is great profit to be made, however, from those who are uninterested in these laws.</desc>
 	</IllegalShipwright28>
 	<Courtesean56>
-		<title>Courtesean</title>
-		<titleShort>Courtesean</titleShort>
+		<title>Куртизанка</title>
+		<titleShort>Куртизанка</titleShort>
 		<desc>NAME was used for HIS body by hundreds of customers in brothels on several planets. HECAP gained some mental marks and a special kind of street smarts.</desc>
 	</Courtesean56>
 	<SpaceMarine10>
-		<title>Space marine</title>
+		<title>Космічний десантник</title>
 		<titleShort>Marine</titleShort>
 		<desc>NAME was a warrior in an Imperial navy. HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</desc>
 	</SpaceMarine10>
 	<Assassin35>
-		<title>Assassin</title>
+		<title>Вбивця</title>
 		<titleShort>Assassin</titleShort>
 		<desc>NAME was a professional assassin. HECAP was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</desc>
 	</Assassin35>
 	<Gatherer34>
-		<title>Gatherer</title>
-		<titleShort>Gatherer</titleShort>
+		<title>Збирач</title>
+		<titleShort>Збирач</titleShort>
 		<desc>NAME is a master gatherer. HECAP can find food in the most barren of places using HIS deep knowledge of plants, roots, and berries.</desc>
 	</Gatherer34>
 	<Loner43>
-		<title>Loner</title>
-		<titleShort>Loner</titleShort>
+		<title>Одинак</title>
+		<titleShort>Одинак</titleShort>
 		<desc>Loner never much liked the tribal council or the yearly festivals. HECAP prefers the open plain and the lonely whistle of wind through the rocks.
 
 HECAP visits HIS tribe from time to time, but for the most part HE takes care of HIMself using HIS own survival skills.</desc>
 	</Loner43>
 	<Healer89>
-		<title>Healer</title>
-		<titleShort>Healer</titleShort>
+		<title>Цілитель</title>
+		<titleShort>Цілитель</titleShort>
 		<desc>After HIS tribe’s elder healer was killed in a raid, NAME took on the role. HECAP spent HIS days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies.</desc>
 	</Healer89>
 	<Scout93>
-		<title>Scout</title>
-		<titleShort>Scout</titleShort>
+		<title>Розвідник</title>
+		<titleShort>Розвідник</titleShort>
 		<desc>Since HIS tribe has made contact with local outlanders, NAME has contracted HIS services out as a guide to the local area. Frequent contact with ancient relics has made HIM fairly comfortable with the old technology.</desc>
 	</Scout93>
 	<Digger58>
-		<title>Digger</title>
-		<titleShort>Digger</titleShort>
+		<title>Копач</title>
+		<titleShort>Копач</titleShort>
 		<desc>NAME and HIS tribe carved their home deep into the side of a mountain. NAME feels most at home picking through rock and shoring up cave walls.</desc>
 	</Digger58>
 	<MuffaloShaman94>
-		<title>Muffalo shaman</title>
-		<titleShort>Shaman</titleShort>
+		<title>Заклинатель бізонів</title>
+		<titleShort>Характерник</titleShort>
 		<desc>Because of HIS quiet wisdom and great strength, NAME became the spiritual leader for a nomadic tribe that followed the herds of roaming muffalo.</desc>
 	</MuffaloShaman94>
 	<LoreKeeper35>
 		<title>Lore keeper</title>
-		<titleShort>Keeper</titleShort>
+		<titleShort>Охоронець</titleShort>
 		<desc>NAME was one of a long line of lore keepers in HIS tribe. Every night around the fire, HECAP would pass on ancient knowledge and helpful wisdom through stories.</desc>
 	</LoreKeeper35>
 	<Weaver90>
-		<title>Weaver</title>
-		<titleShort>Weaver</titleShort>
+		<title>Ткач</title>
+		<titleShort>Ткач</titleShort>
 		<desc>NAME was an expert at working muffalo wool, plant fibres and natural dyes into beautiful clothing for HIS kin. HISCAP beautiful handicrafts were traded frequently between local tribes.</desc>
 	</Weaver90>
 	<CaveTender26>
@@ -630,25 +630,25 @@ HECAP visits HIS tribe from time to time, but for the most part HE takes care of
 		<desc>While the others were out hunting and foraging, NAME would stay at home to cook and take care of the young and sick.</desc>
 	</CaveTender26>
 	<Warrior37>
-		<title>Warrior</title>
-		<titleShort>Warrior</titleShort>
+		<title>Воїн</title>
+		<titleShort>Воїн</titleShort>
 		<desc>NAME was a fearsome warrior, proficient with many weapons. HECAP participated in many battles.</desc>
 	</Warrior37>
 	<TribeChild78>
-		<title>Tribe child</title>
-		<titleShort>Tribal</titleShort>
+		<title>Дитя племені</title>
+		<titleShort>Племінний</titleShort>
 		<desc>NAME grew up in the tribe, running around the village, moving with the muffalo herds, learning essential skills from HIS parents.
 
 HECAP never learned to read and never saw a machine that wasn't an ancient ruin.</desc>
 	</TribeChild78>
 	<AbandonedChild27>
-		<title>Abandoned child</title>
-		<titleShort>Abandoned</titleShort>
+		<title>Покинута дитина</title>
+		<titleShort>Покинутий</titleShort>
 		<desc>NAME was born sickly. Thinking that HE would only burden the tribe, HIS parents left HIM out in the elements. Somehow, HE survived.</desc>
 	</AbandonedChild27>
 	<ReclusiveChild87>
-		<title>Reclusive child</title>
-		<titleShort>Reclusive</titleShort>
+		<title>Відлюдькувата дитина</title>
+		<titleShort>Відлюдькуватий</titleShort>
 		<desc>NAME didn’t learn to speak until HE was nearly 5 years old, and, even then, HE preferred to keep to HIMself. When HE was in HIS early teens, HE made a habit of wandering off from the village to live in the wilderness for weeks at a time.</desc>
 	</ReclusiveChild87>
 	<Herder89>
@@ -657,23 +657,23 @@ HECAP never learned to read and never saw a machine that wasn't an ancient ruin.
 		<desc>As a child, NAME tended the tribe’s muffalo herds, keeping them safe from predators and treating the sick. It was quiet work, but HE enjoyed being away from people.</desc>
 	</Herder89>
 	<Scavenger86>
-		<title>Scavenger</title>
-		<titleShort>Scavenger</titleShort>
+		<title>Сміттяр</title>
+		<titleShort>Сміттяр</titleShort>
 		<desc>NAME spent HIS childhood escaping grunt work to go digging through wrecks and ruins for treasures. HISCAP natural curiosity got HIM into a lot of trouble, but it also yielded many interesting finds.</desc>
 	</Scavenger86>
 	<CaveChild31>
-		<title>Cave child</title>
-		<titleShort>Cave child</titleShort>
+		<title>Печерне дитя</title>
+		<titleShort>Печерна дитина</titleShort>
 		<desc>NAME grew up in a large and intricate cave complex that extended deep into a mountainside. HECAP helped the adults maintain and improve the deep caves.</desc>
 	</CaveChild31>
 	<SoleSurvivor85>
-		<title>Sole survivor</title>
-		<titleShort>Survivor</titleShort>
+		<title>Виживальник</title>
+		<titleShort>Вцілілий</titleShort>
 		<desc>NAME’s entire tribe was wiped out in a raid. Though HE was adopted by another group, HE was emotionally scarred, and preferred to stay near home, cooking and tending crops.</desc>
 	</SoleSurvivor85>
 	<VengefulChild49>
-		<title>Vengeful child</title>
-		<titleShort>Vengeful</titleShort>
+		<title>Мстива дитина</title>
+		<titleShort>Мстивий</titleShort>
 		<desc>As a child, NAME returned to HIS village to find that it had been wiped out by bandits. HECAP swore revenge on the attackers and began a violent rampage across the wilderness.</desc>
 	</VengefulChild49>
 	<FireKeeper85>
@@ -683,73 +683,73 @@ HECAP never learned to read and never saw a machine that wasn't an ancient ruin.
 	</FireKeeper85>
 	<FallenProdigy22>
 		<title>Fallen prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<titleShort>Вундеркінд</titleShort>
 		<desc>NAME was born on a glitterworld falling into chaos. HISCAP father was killed in action.
 
 HECAP struggled for a scholarship at Utmaior Academy and had to prove his right to be there. A child genius, HE was bullied as a charity case and couldn't make friends with the other kids.</desc>
 	</FallenProdigy22>
 	<MadScientist28>
-		<title>Mad scientist</title>
-		<titleShort>Scientist</titleShort>
+		<title>Божевільний учений</title>
+		<titleShort>Учений</titleShort>
 		<desc>Stripped of his life’s work and exiled after his unethical experiments on the survivors of the Callos IX incident were published, NAME learned the skills necessary to survive in the outer rim.
 
 Continuing his research with nothing left to lose, he made minions to carry out the tasks that bored him.</desc>
 	</MadScientist28>
 	<FarmKid40>
-		<title>Farm kid</title>
-		<titleShort>Farm Kid</titleShort>
+		<title>Сільська дитина</title>
+		<titleShort>Сільська дитина</titleShort>
 		<desc>NAME grew up on his family's beef farm. He enjoyed working the fields and taking care of the animals.</desc>
 	</FarmKid40>
 	<CivilEngineer41>
-		<title>Civil engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>Інженер-будівельник</title>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME was a well-known civil engineer. HISCAP job involved designing and maintaining rock fortification structures. HECAP did enough statistical analysis to keep his mind sharp.</desc>
 	</CivilEngineer41>
 	<FarmerBoy63>
-		<title>Farmer boy</title>
-		<titleShort>Farmer</titleShort>
+		<title>Селюк</title>
+		<titleShort>Фермер</titleShort>
 		<desc>Benjamin's parents died in a fire when he was seven. He grew up on his uncle's farm, plowing fields and doing manual labor.
 
 He could not bear answering questions about his parents, so he replaced social contact with hard work.</desc>
 	</FarmerBoy63>
 	<ArmyCook51>
-		<title>Army cook</title>
-		<titleShort>Cook</titleShort>
+		<title>Армійський кухар</title>
+		<titleShort>Кухар</titleShort>
 		<desc>Ben joined the army as a worker and spent most of his time cooking and repairing. While he was stationed on a dangerous planet, he underwent basic shooting and survival training.</desc>
 	</ArmyCook51>
 	<UrbworldCriminal64>
 		<title>Urbworld criminal</title>
-		<titleShort>Criminal</titleShort>
+		<titleShort>Злочинець</titleShort>
 		<desc>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
 
-Robbery and murder were daily activities for him. Vladimir learned that surviving was winning.</desc>
+Грабежі та вбивства стали повсякденністю для нього. Vladimir learned that surviving was winning.</desc>
 	</UrbworldCriminal64>
 	<UrbworldPolitican16>
 		<title>Urbworld politican</title>
-		<titleShort>Politician</titleShort>
+		<titleShort>Політик</titleShort>
 		<desc>It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. Vladimir was one such figurehead.
 
 He learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</desc>
 	</UrbworldPolitican16>
 	<OptimisticChild43>
-		<title>Optimistic child</title>
-		<titleShort>Optimistic</titleShort>
+		<title>Оптимістична дитина</title>
+		<titleShort>Оптиміст</titleShort>
 		<desc>Kees was blessed with loving parents and a pleasant midworld life. He was an  optimistic and sociable kid who loved making friends and listening to their stories. His imagination would run wild with ideas and questions.</desc>
 	</OptimisticChild43>
 	<GraphicDesigner99>
-		<title>Graphic designer</title>
-		<titleShort>Designer</titleShort>
+		<title>Графічний дизайнер</title>
+		<titleShort>Дизайнер</titleShort>
 		<desc>Kees' interest in artistic expression led him to become a designer. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project.</desc>
 	</GraphicDesigner99>
 	<UrbworldHooligan8>
 		<title>Urbworld hooligan</title>
-		<titleShort>Hooligan</titleShort>
+		<titleShort>Хуліган</titleShort>
 		<desc>NAME grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</desc>
 	</UrbworldHooligan8>
 	<SpaceTechnician89>
-		<title>Space technician</title>
-		<titleShort>Technician</titleShort>
-		<desc>NAME finally managed to flee his criminal life by getting a maintenance job on a nearby space station. He performed multiple repairing and building operations. He also used to participate in basic research activities and often defused co-workers' arguments. He never liked doing art.</desc>
+		<title>Космічний технік</title>
+		<titleShort>Технік</titleShort>
+		<desc>NAME finally managed to flee his criminal life by getting a maintenance job on a nearby space station. Він виконав багато ремонтних і будівельних робіт. He also used to participate in basic research activities and often defused co-workers' arguments. Він ніколи не любив мистецтво.</desc>
 	</SpaceTechnician89>
 	<IndworldUrchin11>
 		<title>Indworld urchin</title>
@@ -757,8 +757,8 @@ He learned how to manipulate the hopes and dreams of the people while living com
 		<desc>NAME grew up on the streets of a world in the early stages of its industrial revolution. HECAP passed HIS days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty.</desc>
 	</IndworldUrchin11>
 	<DoomsdayPariah26>
-		<title>Doomsday pariah</title>
-		<titleShort>Pariah</titleShort>
+		<title>Знедолений свідок апокаліпсису</title>
+		<titleShort>Знедолений</titleShort>
 		<desc>NAME managed to open a vault of otherworldly technology while scavenging a dig site. HE unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, HE boarded the vault’s spacecraft and departed to find more relics to abuse.</desc>
 	</DoomsdayPariah26>
 	<MechanoidNerd80>
@@ -770,25 +770,25 @@ They encouraged HIS interest in the machines. Eventually, HE became obsessed wit
 Unfortunately this also lead to HIM being a loner as HE prefered technical books to friends.</desc>
 	</MechanoidNerd80>
 	<MilitaryEngineer44>
-		<title>Military engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>Військовий інженер</title>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME worked as an engineer for a colonial military. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
 
 HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tested them HIMself.</desc>
 	</MilitaryEngineer44>
 	<ColiseumCleaner12>
-		<title>Coliseum cleaner</title>
-		<titleShort>Cleaner</titleShort>
-		<desc>During the 'Inner Destrian War' fallout, HIS parents were captured and HE was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing HE ever knew. One night while cleaning the coliseum, HIS family was murdered.</desc>
+		<title>Колізейний прибиральник</title>
+		<titleShort>Прибиральник</titleShort>
+		<desc>During the 'Inner Destrian War' fallout, HIS parents were captured and HE was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Дивиться, чекає, і навчається. Колизей була єдина річ, яку він знав. Одного вечора під час чищення Колізею, його сім'я була убита.</desc>
 	</ColiseumCleaner12>
 	<ColiseumFighter29>
-		<title>Coliseum fighter</title>
-		<titleShort>Fighter</titleShort>
-		<desc>Applying the knowledge that he gained from years around fighters, HE became a successful gladiator in the coliseum that he once cleaned.</desc>
+		<title>Гладіатор</title>
+		<titleShort>Боєць</titleShort>
+		<desc>Застосовувавши знання, які він отримав після років поряд з бійцями, він став успішним гладіатором в Колізеї, що він колись чистив.</desc>
 	</ColiseumFighter29>
 	<OfficerCadet81>
-		<title>Officer cadet</title>
-		<titleShort>Cadet</titleShort>
+		<title>Офіцер-кадет</title>
+		<titleShort>Кадет</titleShort>
 		<desc>From a young age, Bashkire trained to be a leader of men. He enrolled in the Vanu Defense College when he was a boy and became proficient with a range of weapons and survival techniques.</desc>
 	</OfficerCadet81>
 	<FighterController64>
@@ -797,8 +797,8 @@ HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tes
 		<desc>During the Zartha crisis, Bashkire fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</desc>
 	</FighterController64>
 	<ReclusiveProdigy98>
-		<title>Reclusive prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<title>Замкнутий вундеркід</title>
+		<titleShort>Вундеркінд</titleShort>
 		<desc>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
 
 Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.</desc>
@@ -1067,9 +1067,9 @@ NAME found his freedom by joining a rebel organization whose goal was to break f
 He chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. His specialty was negotiation in combat situations.</desc>
 	</CombatNegotiator51>
 	<MedievalPlower12>
-		<title>Medieval plower</title>
-		<titleShort>Plower</titleShort>
-		<desc>NAME lived on a planet where kings and queens ruled with little regard for the peasants beneath them. HISCAP family owned a large farm, but the king took most of the food it produced. This left NAME's family poor, and unable to pay for HIS education. Instead, HE was required to work the fields with HIS parents, and never had time to practice creativity.</desc>
+		<title>Середньовічний раб</title>
+		<titleShort>Вибух</titleShort>
+		<desc>Name жив на планеті, де королі і королеви управляли мало уваги селян під ними. Сім'я HISCAP володіла великою фермою, але король зайняв більшу частину їжі, яку вона випускала. Це спричинило погане членство в "NAME" та неможливо заплатити за освіту за Школу. Замість цього він потрібно для роботи на полях з батьками, і ніколи не мав час для занять творчістю.</desc>
 	</MedievalPlower12>
 	<SpaceStationCook63>
 		<title>Space station cook</title>
@@ -1113,21 +1113,21 @@ He was a quick study at the arts of subterfuge and death. He soon earned the gui
 		<desc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</desc>
 	</AIResearcher30>
 	<MidworldGeek88>
-		<title>Midworld geek</title>
+		<title>Північний Гек</title>
 		<titleShort>Geek</titleShort>
 		<desc>NAME grew up in a quiet suburban neighborhood. He was never a master of social interaction, but his interest in computers blossomed into a true talent at an early age.</desc>
 	</MidworldGeek88>
 	<ArmyScientist54>
-		<title>Army scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>NAME did scientific research for a planetary army. HECAP studied war scenarios and designed weapon systems to help win battles with a minimum of fuss.</desc>
+		<title>Вченим армії</title>
+		<titleShort>Вчений</titleShort>
+		<desc>Name зробив наукове дослідження для планетарної армії. HECAP вивчав сценарії війни та розроблені системи зброї, щоб допомогти виграти битви з мінімумом суєти.</desc>
 	</ArmyScientist54>
 	<CatHerder45>
-		<title>Cat herder</title>
-		<titleShort>Herder</titleShort>
-		<desc>NAME helped out in his father's cat breeding business, socializing, herding, and feeding hundreds of cats.
+		<title>Кішка Ман</title>
+		<titleShort>Гердер</titleShort>
+		<desc>Name допомагав у вихованні дітьми батька, копання, пасуванні та годуванні сотень котів.
 
-When he refused to clean up after the cats, HE was transferred to the breeding science division.</desc>
+Коли він відмовився прибирати після кота, його перенесли в відділ селекційної науки.</desc>
 	</CatHerder45>
 	<FelineScientist25>
 		<title>Feline scientist</title>
@@ -1173,8 +1173,8 @@ When HE did go out onto the catwalks of the city, HE enjoyed playing war games, 
 NAME barely escaped his homeworld as it fell into chaos.</desc>
 	</Microbiologist37>
 	<Stableboy75>
-		<title>Stableboy</title>
-		<titleShort>Stableboy</titleShort>
+		<title>Стабільний хлопчик</title>
+		<titleShort>Стабільний хлопчик</titleShort>
 		<desc>NAME was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
 
 By the time HE was exiting childhood, NAME had saved up enough money to pay a space trader to take HIM offworld.</desc>
@@ -1869,14 +1869,14 @@ HECAP never got into trouble - mostly because he was good at not getting caught.
 HISCAP name has been linked more then once to strategies that overcame overwhelming odds.</desc>
 	</Pirate65>
 	<Orphan62>
-		<title>Orphan</title>
-		<titleShort>Orphan</titleShort>
-		<desc>Born on a deep space station, NAME was orphaned at a young age. In the orphanage, he stood up for the weaker kids and fought off the bullies.</desc>
+		<title>Сирота</title>
+		<titleShort>Сирота</titleShort>
+		<desc>ІМ'Я народився на космічній станції та осиротів у ранньому віці. Своє дитинство він провів у сиротинцях, захищаючи слабких дітей від забіяк.</desc>
 	</Orphan62>
 	<BountyHunter14>
-		<title>Bounty hunter</title>
-		<titleShort>Hunter</titleShort>
-		<desc>NAME is a self-employed bounty hunter. HECAP spent HIS days hunting space pirates and collecting cash bounties.</desc>
+		<title>Авантюрист</title>
+		<titleShort>Мисливець</titleShort>
+		<desc>ІМ'Я заробляє собі на життя полюванням за головами. Своє життя він провів відстежуючи космічних піратів та збирая нагороди за їх голови.</desc>
 	</BountyHunter14>
 	<Straggler99>
 		<title>Straggler</title>
@@ -2223,13 +2223,13 @@ After regaining his health, Nate arrested the mayor. HECAP left his homeworld an
 One day, a merchant landed his spaceship near NAME's home. HECAP decided to accompany the merchant in search for new worlds and challenges.</desc>
 	</ReligiousHierarch42>
 	<Pickpocket96>
-		<title>Pickpocket</title>
-		<titleShort>Thief</titleShort>
-		<desc>NAME witnessed HIS parents' murder at a young age. With no guidance, HE had to fend for HIMself any way possible. Joining a small group of misfits HE did whatever was necessary to survive.</desc>
+		<title>Кишеньковий злодій</title>
+		<titleShort>Щипач</titleShort>
+		<desc>ІМ'Я став свідком вбивства власних батьків, коли був ще дитиною. Без жодного прихистку, він приєднався до інших обездолених, де робив усе необхідне, щоб вижити.</desc>
 	</Pickpocket96>
 	<CriminalSurgeon8>
-		<title>Criminal surgeon</title>
-		<titleShort>Surgeon</titleShort>
+		<title>Підпольний лікар</title>
+		<titleShort>Зшивач</titleShort>
 		<desc>Being near many injured fellow criminals, NAME took it upon HIMself to work on them.
 
 Although many people died, HE did get better at using knives.</desc>
@@ -2903,8 +2903,8 @@ In his own time, he built small inventions. This sharpened his mind.</desc>
 Later, he reappeared at the head of his own military force. No one knows why he became who he was.</desc>
 	</LostMarine68>
 	<Killer70>
-		<title>Killer</title>
-		<titleShort>Killer</titleShort>
+		<title>Вбивця</title>
+		<titleShort>Вбивця</titleShort>
 		<desc>NAME was a bloodlusting child. Villagers thought her the product of a snake demon and human coupling.
 
 After watching how her human father betrayed and murdered her mother, she longed to see how many more humans she could get to fall into her hands.</desc>
@@ -3644,8 +3644,8 @@ A few years later, HIS career came to an end when someone poisoned the meal HE w
 In these desperate circumstances, against all odds, HE survived - and thrived.</desc>
 	</DiscardedYouth95>
 	<Mercenary19>
-		<title>Mercenary</title>
-		<titleShort>Mercenary</titleShort>
+		<title>Найманець</title>
+		<titleShort>Найманець</titleShort>
 		<desc>After escaping his home planet, NAME fell in with a band of mercenaries. HECAP fought alongside his brothers and sisters in arms for many years.
 
 One day, they were caught in a fight they couldn't win. Refusing to retreat, NAME was shot down by his enemies. HECAP was alarmed to awake in a heap of corpses, mysteriously unharmed.</desc>
@@ -3656,50 +3656,50 @@ One day, they were caught in a fight they couldn't win. Refusing to retreat, NAM
 		<desc>NAME's planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. HECAP was left in the ruins to fend for himself.</desc>
 	</DisasterSurvivor28>
 	<ExplorerWriter37>
-		<title>Explorer-writer</title>
-		<titleShort>Explorer</titleShort>
+		<title>Дослідник-письменник</title>
+		<titleShort>Мандрівник</titleShort>
 		<desc>NAME traveled from planet to planet, gathering samples, stories, and research. 
 
 HISCAP goal was to bring together enough knowledge to make a survival guide for future generations.</desc>
 	</ExplorerWriter37>
 	<RebelChild7>
-		<title>Rebel child</title>
+		<title>Повстанська дитина</title>
 		<titleShort>Rebel</titleShort>
 		<desc>NAME was born under authoritarian rule. Despite intense oppression from family and community, she never gave up fighting for her dignity and her freedom.
 
 She was often put into hopeless situations where even family would try to terrorize her into propriety. She learned to trust no one.</desc>
 	</RebelChild7>
 	<MilitiaSoldier83>
-		<title>Militia soldier</title>
-		<titleShort>Soldier</titleShort>
+		<title>Боєць ополчення</title>
+		<titleShort>Солдат</titleShort>
 		<desc>NAME joined the militia forces and fought for rights and peace.
 
 After her homeworld was unexpectedly destroyed in the wars, she traveled great distances, seeking a refuge where she could build a new, free way of life.</desc>
 	</MilitiaSoldier83>
 	<MidworldCadet20>
 		<title>Midworld cadet</title>
-		<titleShort>Cadet</titleShort>
+		<titleShort>Кадет</titleShort>
 		<desc>Growing up on a high-tech midworld with a flourishing space transit industry, NAME wished to leave for the stars and live among the growing spacer class.
 
 HECAP excelled in HIS studies, and gained entry to HIS homeworld's most prestigious naval academy.</desc>
 	</MidworldCadet20>
 	<WarshipCaptain77>
-		<title>Warship captain</title>
-		<titleShort>Captain</titleShort>
+		<title>Капітан корабля</title>
+		<titleShort>Капітан</titleShort>
 		<desc>Years of being commanding officer of an advanced corvette taught NAME the art of leadership, the techniques of higher engineering, and how to stay calm while enemies try to kill you.
 
 Unfortunately, NAME only very rarely had contact with nature.</desc>
 	</WarshipCaptain77>
 	<VatgrownScientist41>
 		<title>Vatgrown scientist</title>
-		<titleShort>Scientist</titleShort>
+		<titleShort>Учений</titleShort>
 		<desc>NAME was grown to be a perfect scientist, with a mind perfectly tuned for physics and chemistry.
 
 HISCAP creators used HIM as a teaching aid on mind design, hoping HE would eventually grow to be a great mind and continue their research.</desc>
 	</VatgrownScientist41>
 	<RunawayDancer10>
 		<title>Runaway dancer</title>
-		<titleShort>Dancer</titleShort>
+		<titleShort>Танцюрист</titleShort>
 		<desc>Grown by and for science, NAME gave it up. Instead, HECAP wanted to dance for crowds across many worlds, from the glamor of the glitterworlds to the dangers of the rim.
 
 Such work required wearing a smile on HIS face and a pistol under HIS costume.</desc>
@@ -3713,21 +3713,21 @@ When HIS mother died, NAME could not bear HIS father's loneliness, and became hi
 	</MusicIdol79>
 	<ProstituteIdol99>
 		<title>Prostitute idol</title>
-		<titleShort>Prostitute</titleShort>
+		<titleShort>Повія</titleShort>
 		<desc>After HIS father was deposed, NAME's beauty led HIM to be forced into pornography to survive.
 
 Over years of difficult treatments, HIS body was remodeled to appear temporarily ageless. Sold to an orbital brothel, HE became popular, with a steady stream of clients from all over the planet.</desc>
 	</ProstituteIdol99>
 	<SicklyLiar18>
-		<title>Sickly liar</title>
-		<titleShort>Liar</titleShort>
+		<title>Хворобливий брехун</title>
+		<titleShort>Брехун</titleShort>
 		<desc>It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.
 
 Using his quick wit and silver tongue, Lynn was able to get out of almost any situation - most of the time at the cost others around him.</desc>
 	</SicklyLiar18>
 	<SicklyLawyer36>
-		<title>Sickly lawyer</title>
-		<titleShort>Lawyer</titleShort>
+		<title>Некволий адвокат</title>
+		<titleShort>Адвокат</titleShort>
 		<desc>As a lawyer, Lynn could convict a deaf man for stealing music. His sharp mind and lack of empathy let him say anything to get the other person to talk. With the right amount of money, he knew, any case can be won.
 
 His childhood cough never went away.</desc>
@@ -3742,15 +3742,15 @@ HECAP got used to the cold. HECAP never got used to dealing with those strange g
 	<Tinkerer86>
 		<title>Tinkerer</title>
 		<titleShort>Tinkerer</titleShort>
-		<desc>"How does this work?
+		<desc>"Як це працює?
 
-Why does this move?
+Чому воно рухається?
 
-Maybe if I change this... oops, I hope it works better... or maybe I broke it..."</desc>
+Можливо, якщо я підправлю це... упс, я сподіваюся, що стало краще... чи може я зламав його..."</desc>
 	</Tinkerer86>
 	<TragicLoner16>
 		<title>Tragic loner</title>
-		<titleShort>Loner</titleShort>
+		<titleShort>Одинак</titleShort>
 		<desc>NAME was involved in a traumatic accident that resulted in HIM killing HIS own family.
 
 Cast out from society, HE was left with only HIS animal companions and several engineering textbooks to keep HIM company.</desc>
@@ -3763,29 +3763,29 @@ Cast out from society, HE was left with only HIS animal companions and several e
 HECAP later spent years of his life on several worlds, helping less-developed planets develop rocket technology.</desc>
 	</RocketPioneer19>
 	<AntisocialChild27>
-		<title>Antisocial child</title>
-		<titleShort>Antisocial</titleShort>
+		<title>Асоціальний дитина</title>
+		<titleShort>Асоціальний</titleShort>
 		<desc>NAME lacked typical social skills, and avoided social interaction.
 
 HECAP gained satisfaction only from steady work. HECAP especially disliked speaking with overly creative or outgoing individuals.</desc>
 	</AntisocialChild27>
 	<ArmySergeant81>
-		<title>Army sergeant</title>
-		<titleShort>Sergeant</titleShort>
+		<title>Сержант армії</title>
+		<titleShort>Сержант</titleShort>
 		<desc>NAME served in HIS nation's military, commanding small units as a non-commissioned officer.
 
 HECAP excelled creating tactically sound plans despite difficult circumstances.</desc>
 	</ArmySergeant81>
 	<YoungPirate59>
-		<title>Young pirate</title>
-		<titleShort>Pirate</titleShort>
+		<title>Молодий пірат</title>
+		<titleShort>Пірат</titleShort>
 		<desc>NAME was born to pirates, in a dirty metal room that smelled of motor oil.
 
 HECAP was never exactly taught anything, but HE still learned the ways of survival, barter, and combat.</desc>
 	</YoungPirate59>
 	<StellarPirate14>
-		<title>Stellar pirate</title>
-		<titleShort>Pirate</titleShort>
+		<title>Зоряний пірат</title>
+		<titleShort>Пірат</titleShort>
 		<desc>NAME was captain of a pirate ship. HECAP and his crew made their living capturing traders who wandered off-course.
 
 HECAP was known for HIS balanced approach to problems, building, fighting, or negotiating as needed.</desc>
@@ -3806,14 +3806,14 @@ NAME eventually found solace in physically demanding work. HECAP especially like
 	</LostSoldier35>
 	<DedicatedStudent61>
 		<title>Dedicated student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>The child of a wealthy manufacturer, NAME was pampered from an early age. HECAP developed an affinity for reading and art, and a distaste for menial chores.
 
 A revolution brought his father's businesses under state control. Penniless, NAME worked hard to complete HIS education.</desc>
 	</DedicatedStudent61>
 	<LanguageAnalyst65>
-		<title>Language analyst</title>
-		<titleShort>Linguist</titleShort>
+		<title>Мовний аналітик</title>
+		<titleShort>Лінгвіст</titleShort>
 		<desc>After war broke out on HIS homeworld, NAME was conscripted as a linguist. HECAP spent HIS days in a space station, decoding enemy communications and tending the hydroponic crops.
 
 After a meteorite damaged the station, HE was forced to enter cryptosleep and hope for rescue.</desc>
@@ -3826,7 +3826,7 @@ After a meteorite damaged the station, HE was forced to enter cryptosleep and ho
 At an early age, she was shown how to use guns and cruelty to project her will. She later distinguished herself by committing atrocities with more enthusiasm than anyone else.</desc>
 	</Infantry36>
 	<PrisonerOfWar83>
-		<title>Prisoner of war</title>
+		<title>Військовополонений</title>
 		<titleShort>Prisoner</titleShort>
 		<desc>NAME was captured and put on death row for war crimes.
 
@@ -3834,84 +3834,84 @@ Fortunately for her, someone cut the power to her cell block. Riots ignited. Gua
 	</PrisonerOfWar83>
 	<AngryStudent39>
 		<title>Angry student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>NAME trained towards HIS dream of working for his hometown's local council.
 
 For reasons he never quite understood, HE was bullied relentlessly by his classmates. HECAP chose to repress his rage.</desc>
 	</AngryStudent39>
 	<MadAccountant34>
 		<title>Mad accountant</title>
-		<titleShort>Accountant</titleShort>
+		<titleShort>Бухгалтер</titleShort>
 		<desc>As an accountant, NAME often socialized with colleagues, and made many friends in upper management.
 
 One day, NAME discovered a corruption racket run by some of HIS bosses. After reporting this, HE was fired. Wishing to hunt down those responsible, HE went on a mass murder spree.</desc>
 	</MadAccountant34>
 	<TransferStudent80>
 		<title>Transfer student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>A midworld child, NAME's wealthy parents sent HIM to a nearby glitterworld to receive a better education.
 
 NAME was a talented student. However, due to his family's wealth, HE never had to do dumb labor.</desc>
 	</TransferStudent80>
 	<Politician92>
-		<title>Politician</title>
-		<titleShort>Politician</titleShort>
+		<title>Політик</title>
+		<titleShort>Політик</titleShort>
 		<desc>NAME was an activist in a powerful political faction. There HE learned the art of persuasion and speech.
 
 HECAP had many enemies, so HE took secret courses in shooting and hand-to-hand combat.</desc>
 	</Politician92>
 	<DesertRat57>
-		<title>Desert rat</title>
-		<titleShort>Desert rat</titleShort>
+		<title>Пустельний щур</title>
+		<titleShort>Пустельний щур</titleShort>
 		<desc>NAME was born to a tribe of desert ascetics who wandered the endless wastes.
 
 They sought a mythical substance they believed could liberate them from ignorance through psychedelic revelation - and usher in a new period of interstellar peace.</desc>
 	</DesertRat57>
 	<Philosopher62>
-		<title>Philosopher</title>
-		<titleShort>Sage</titleShort>
+		<title>Філософ</title>
+		<titleShort>Мудрець</titleShort>
 		<desc>NAME's thirst for archaeo-technological knowledge drove HIM to spend years surveying abandoned data centers and studying ancient coding languages.
 
 HECAP claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future.</desc>
 	</Philosopher62>
 	<ArtisticWeirdo41>
 		<title>Artistic weirdo</title>
-		<titleShort>Weirdo</titleShort>
+		<titleShort>Дивак</titleShort>
 		<desc>NAME grew up in a house near a bustling midworld metropolis.
 
 HECAP was talented at art and creative work, but often acted strangely, and thus had few friends.</desc>
 	</ArtisticWeirdo41>
 	<AdventurousWeirdo48>
 		<title>Adventurous weirdo</title>
-		<titleShort>Weirdo</titleShort>
+		<titleShort>Дивак</titleShort>
 		<desc>A creative but strange individual, NAME dedicated his life to his twin passions of medieval world history and high technology.
 
 HECAP was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword.</desc>
 	</AdventurousWeirdo48>
 	<ApprenticeOracle81>
-		<title>Apprentice oracle</title>
-		<titleShort>Oracle</titleShort>
+		<title>Учень оракула</title>
+		<titleShort>Оракул</titleShort>
 		<desc>NAME was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.
 
 An irrepressibly curious child, NAME caused a religious crisis for HIS tribe when HE accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors.</desc>
 	</ApprenticeOracle81>
 	<CasketBuilder57>
 		<title>Casket builder</title>
-		<titleShort>Builder</titleShort>
+		<titleShort>Будівельник</titleShort>
 		<desc>NAME was fascinated with cryosleep, and spent HIS life learning about the mysterious technology.
 
 Working as an assembler on a midworld, NAME built an experimental prototype casket from discarded parts. Unfortunately, while HE was searching for the final component, HIS home was leveled by a bomb.</desc>
 	</CasketBuilder57>
 	<JunkyardMechanic0>
 		<title>Junkyard mechanic</title>
-		<titleShort>Mechanic</titleShort>
+		<titleShort>Механік</titleShort>
 		<desc>Left for dead at a young age, NAME was rescued by an old man who ran an urbworld junkyard. The old man forced NAME to do dangerous, demanding work. 
 
 NAME became very familiar with machines, but HE grew up with almost no other experiences.</desc>
 	</JunkyardMechanic0>
 	<MilitaryOfficer12>
-		<title>Military officer</title>
-		<titleShort>Officer</titleShort>
+		<title>Військовий офіцер</title>
+		<titleShort>Офіцер</titleShort>
 		<desc>Obsessed with interstellar travel, NAME left HIS desolate life behind to join a military academy in hopes of becoming a pilot.
 
 HECAP was trained in advanced combat and survival skills. While HE excelled in HIS studies, NAME was a loner and never cared about HIS crewmates.</desc>
@@ -3925,7 +3925,7 @@ NAME did try to use a gun one time, but it went very poorly, as the loud noise m
 	</Empath28>
 	<FearfulChef79>
 		<title>Fearful chef</title>
-		<titleShort>Chef</titleShort>
+		<titleShort>Шеф-кухар</titleShort>
 		<desc>NAME was a excellent chef who worked in a high-end restaurant.
 
 One day, HE left the stove on, and accidentally burned down the whole building. This event shook HIM so much that HE swore to never touch a stove again.</desc>
@@ -3952,64 +3952,64 @@ HECAP hoped to leave HIS past behind and find long-lived companions. HECAP knew 
 HECAP filled HIS days creating beautiful contraptions from the ship's cargo - but HE didn't learn a lot of basic planetary living skills.</desc>
 	</ShipChild6>
 	<ArtifactHunter88>
-		<title>Artifact hunter</title>
-		<titleShort>Artifacter</titleShort>
+		<title>Мисливець за артефактами</title>
+		<titleShort>Шукач артефактів</titleShort>
 		<desc>NAME became depressed and lost interest in life. HECAP travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in HIS soul.
 
 A steady trigger finger and careful planning kept NAME alive.</desc>
 	</ArtifactHunter88>
 	<ChildResearcher33>
 		<title>Child researcher</title>
-		<titleShort>Researcher</titleShort>
+		<titleShort>Дослідник</titleShort>
 		<desc>A frightfully intelligent child, NAME was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.
 
 HECAP vowed never to invent anything again.</desc>
 	</ChildResearcher33>
 	<Fugitive94>
-		<title>Fugitive</title>
-		<titleShort>Fugitive</titleShort>
+		<title>Утікач</title>
+		<titleShort>Утікач</titleShort>
 		<desc>NAME rebelled against the corporation HE worked for. HECAP failed, and was forced him to go on the run.
 
 HECAP was always on the move, always leaving everything behind. HECAP tried to gain supporters for HIS cause, but failed due to HIS poor social skills.</desc>
 	</Fugitive94>
 	<VidtubeStar2>
-		<title>Vidtube star</title>
-		<titleShort>Vidtuber</titleShort>
+		<title>Зірка Відтюба</title>
+		<titleShort>Відтюбер</titleShort>
 		<desc>NAME's hobby was making videos for the popular video sharing service Vidtube. HECAP made everything from video game reviews to pasta cooking guides.
 
 HECAP gained a over a million followers.</desc>
 	</VidtubeStar2>
 	<GunDealer81>
-		<title>Gun dealer</title>
-		<titleShort>Gun dealer</titleShort>
-		<desc>NAME traded high-tech firearms between warring factions.
+		<title>Торговець зброєю</title>
+		<titleShort>Торговець зброєю</titleShort>
+		<desc>Name торгуються високотехнологічними вогнепальними зброями між ворогуючими фракціями.
 
-Over time, HE became very skilled at conducting product demonstrations and negotiating profitable deals.</desc>
+З часом він став дуже кваліфікованим у проведенні демонстрацій продукту та переговорів про вигідні угоди.</desc>
 	</GunDealer81>
 	<AspiringPhysicist7>
-		<title>Aspiring physicist</title>
-		<titleShort>Student</titleShort>
-		<desc>The daughter of an engineer and doctor, NAME's early life was intellectually rich. After visiting a physics lab, she decided she wanted to be a quantum physicist.
+		<title>Початківець фізик</title>
+		<titleShort>Студент</titleShort>
+		<desc>Будучи дочкою енжинера і лікаря, раннє життя NAME було інтелектуально насичене. Після візиту до фізичної лабораторії, вона вирішила, що буде квантовим фізиком.
 
 Bitten by a camel, kicked off a horse, and chased by dogs, NAME developed a fear of animals.</desc>
 	</AspiringPhysicist7>
 	<DeepSpaceSurveor17>
-		<title>Deep space surveor</title>
-		<titleShort>Surveyor</titleShort>
-		<desc>NAME was a deep space surveyor. She studied which worlds were the most suitable for colonization.
+		<title>Космічний шахтар</title>
+		<titleShort>Геодезист</titleShort>
+		<desc>Name була космічним геодезистом. Вона досліджувала планети, які були найбільш придатними для колонізації.
 
-Her expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, she learned to build rudimentary lathes and rock cannons to fend off enemies.</desc>
+Її експедиція зустріла вороже налаштованих аборигенів, в зелений колір пофарбовану космос-жінку й наслідувача грецьких богів. Переживши безліч перестрілок, вона навчилася конструювати елементарні токарні й рок-гармати, щоб відбиватися від ворогів.</desc>
 	</DeepSpaceSurveor17>
 	<Punk70>
-		<title>Punk</title>
-		<titleShort>Punk</titleShort>
-		<desc>NAME spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings.</desc>
+		<title>Панк</title>
+		<titleShort>Панк</titleShort>
+		<desc>NAME провів усе дитинство продаючи несправжні цигарки для 15-літніх. Цигарки були начинені різною скошеною травою.</desc>
 	</Punk70>
 	<GameDeveloper59>
-		<title>Game developer</title>
-		<titleShort>Game dev</titleShort>
-		<desc>NAME was an independent game developer.
+		<title>Розробник ігор</title>
+		<titleShort>Ігровий розробник</titleShort>
+		<desc>Name був незалежним розробником відеоігор.
 
-After an early success, NAME's career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts.</desc>
+Після раннього успіху, кар'єра NAME швидко переросла в цирк помилкових ідей, справа пішла погано після невдалих піар-рішень.</desc>
 	</GameDeveloper59>
 </BackstoryTranslations>
