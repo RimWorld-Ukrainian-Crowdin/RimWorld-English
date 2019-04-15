@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alcohol addiction -->
+
+  <Chemical_Alcohol.label>пияка</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>Алкогольна залежність примушує цю людину до регулярних пияцтв, щоб втамувати абстенцію.</Chemical_Alcohol.description>
+
+
+</LanguageData>
