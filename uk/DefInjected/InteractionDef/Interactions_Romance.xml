@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RomanceAttempt.label>спроба пікапу</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Намагався добитися романтичних відносин з [other_nameShortIndef].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry-> Зазнав залицянь від [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Breakup.label>розставання</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry-> Розвівся з [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] розбив серце мені.</Breakup.logRulesRecipient.rulesStrings.0>
+
+  <MarriageProposal.label>пропозиція шлюбу</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry-> Запропонував одружитися [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry-> Було запропоновано одружитися з [other_nameShortIndef].</MarriageProposal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>
