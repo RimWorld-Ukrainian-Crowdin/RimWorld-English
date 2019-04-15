@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecruitPrisonerChance.label>шанс завербувати полоненого</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Базовий шанс того, що ця людина завербує полоненого.</RecruitPrisonerChance.description>
+
+  <TameAnimalChance.label>шанс приручення тварини</TameAnimalChance.label>
+  <TameAnimalChance.description>Базовий шанс того, що ця людина приручить тварину.</TameAnimalChance.description>
+
+  <TrainAnimalChance.label>шанс дресирування тварини</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Базовий шанс того, що ця людина зможе почати дресирувати тварину з цієї спроби. Реальний шанс даної спроби також залежить від дикості, від того чи є прив'язаність у тварини до дресирувальника тощо.</TrainAnimalChance.description>
+
+  <SocialImpact.label>вплив від спілкування</SocialImpact.label>
+  <SocialImpact.description>Коли ця людина спілкується, вона призводить певне враження на інших осіб.</SocialImpact.description>
+
+  <DiplomacyPower.label>дипломатичність</DiplomacyPower.label>
+  <DiplomacyPower.description>Наскільки ефективна ця людина як парламентер. Це впливає на те, наскільки сильно зміняться відносини з іншою фракцією, коли людина підносить їм дарунки. Також це впливає на результат мирних переговорів з іншими фракціями.</DiplomacyPower.description>
+
+  <TradePriceImprovement.label>навик торгівлі</TradePriceImprovement.label>
+  <TradePriceImprovement.description>Коли ця людина торгується, ціни купівлі-продажу змінюються на даний відсоток.</TradePriceImprovement.description>
+
+
+</LanguageData>
