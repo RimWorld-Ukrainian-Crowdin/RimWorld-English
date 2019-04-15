@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cassandra.label>Класична Касандра</Cassandra.label>
+  <Cassandra.description>Касандра створює події постійно підвищуючи рівень їх складності та напруженості.</Cassandra.description>
+
+  <Phoebe.label>Розслаблена Фібі</Phoebe.label>
+  <Phoebe.description>Вона дає вам багато часу між лихами, щоби відпочити і розбудовувати вашу колонію. Проте будьте обережні, на високих рівнях складності вона б'є сильніше за всіх.</Phoebe.description>
+
+  <Randy.label>Випадковий Ренді</Randy.label>
+  <Randy.description>Йому начхати на правила. Він робить випадкові події і зовсім не цікавиться, чи буде у вас шанс подолати їх, чи ні… Уся п'єса належить йому.</Randy.description>
+
+  <Tutor.label>Прихований оповідач</Tutor.label>
+
+
+</LanguageData>
