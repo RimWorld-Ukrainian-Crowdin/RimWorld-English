@@ -1,41 +1,53 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
-  <Shooting.skillLabel>shooting</Shooting.skillLabel>
+  <Shooting.label>стрільба</Shooting.label>
+  <Shooting.description>Користування всіма видами далекобійної зброї.</Shooting.description>
+  <Shooting.skillLabel>стрільба</Shooting.skillLabel>
 
-  <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
-  <Melee.skillLabel>melee</Melee.skillLabel>
+  <Melee.label>ближній бій</Melee.label>
+  <Melee.description>Використання усіх видів зброї ближнього бою та рукопашний бій без зброї.</Melee.description>
+  <Melee.skillLabel>ближній бій</Melee.skillLabel>
 
-  <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
-  <Construction.skillLabel>construction</Construction.skillLabel>
+  <Social.label>соціальність</Social.label>
+  <Social.description>Перемовини, переконування, маніпулювання, лідерство та підбадьорювання інших.</Social.description>
+  <Social.skillLabel>соціальність</Social.skillLabel>
 
-  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
-  <Mining.skillLabel>mining</Mining.skillLabel>
+  <Animals.label>тваринництво</Animals.label>
+  <Animals.description>Приручення, тренування, управління та контроль тварин.</Animals.description>
+  <Animals.skillLabel>тваринництво</Animals.skillLabel>
 
-  <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
-  <Cooking.skillLabel>cooking</Cooking.skillLabel>
+  <Medicine.label>медицина</Medicine.label>
+  <Medicine.description>Лікування поранень і хвороб та виконання хірургічних операцій.</Medicine.description>
+  <Medicine.skillLabel>медицина</Medicine.skillLabel>
 
-  <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
-  <Plants.skillLabel>plants</Plants.skillLabel>
+  <Cooking.label>кулінарія</Cooking.label>
+  <Cooking.description>Приготування страв із сирих інгредієнтів.</Cooking.description>
+  <Cooking.skillLabel>кулінарія</Cooking.skillLabel>
 
-  <Animals.description>Taming, training, and controlling animals.</Animals.description>
-  <Animals.skillLabel>animals</Animals.skillLabel>
+  <Construction.label>будівництво</Construction.label>
+  <Construction.description>Кращі будівельники будують споруди та меблі швидше і більш якісно.</Construction.description>
+  <Construction.skillLabel>будівництво</Construction.skillLabel>
 
-  <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
-  <Crafting.skillLabel>crafting</Crafting.skillLabel>
+  <Growing.label>рослинництво</Growing.label>
+  <Growing.description>Посів, догляд та збір урожаю.</Growing.description>
+  <Growing.skillLabel>рослинництво</Growing.skillLabel>
 
-  <Artistic.description>Crafting art.</Artistic.description>
-  <Artistic.skillLabel>artistic</Artistic.skillLabel>
+  <Mining.label>шахтарство</Mining.label>
+  <Mining.description>Викопування тунелів та видобування мінералів і закопаних ресурсів.</Mining.description>
+  <Mining.skillLabel>шахтарство</Mining.skillLabel>
 
-  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
-  <Medicine.skillLabel>medical</Medicine.skillLabel>
+  <Artistic.label>мистецтво</Artistic.label>
+  <Artistic.description>Створення творів мистецтва.</Artistic.description>
+  <Artistic.skillLabel>мистецтво</Artistic.skillLabel>
 
-  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
-  <Social.skillLabel>social</Social.skillLabel>
+  <Crafting.label>ремесло</Crafting.label>
+  <Crafting.description>Виготовлення загальних речей, у тому числі - зброї та інструментів.</Crafting.description>
+  <Crafting.skillLabel>ремесло</Crafting.skillLabel>
 
-  <Intellectual.description>Researching and drug synthesis.</Intellectual.description>
-  <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
+  <Intellectual.label>дослідження</Intellectual.label>
+  <Intellectual.description>Розслідування доказів, створення зв'язків, обчислення та використання логіки.</Intellectual.description>
+  <Intellectual.skillLabel>дослідження</Intellectual.skillLabel>
 
 
 </LanguageData>
