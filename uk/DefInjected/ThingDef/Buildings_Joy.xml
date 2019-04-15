@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HorseshoesPin.label>стовп для кидання підков</HorseshoesPin.label>
+  <HorseshoesPin.description>Старовинна гра, для якої треба кілька підков та великий кілок забитий в землю. Гравець кидає підкови з деякої дистанції і намагається докинути їх якомога ближче до кілка чи накинути на нього. Ця гра розважає і навіть тренує координацію рухів.</HorseshoesPin.description>
+  <HorseshoesPin_Blueprint.label>стовп для кидання підкови (проект)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>стовп для кидання підкови (проект)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>стовп для кидання підкови (будується)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.description>Старовинна гра, для якої треба кілька підков та великий кілок забитий в землю. Гравець кидає підкови з деякої дистанції і намагається докинути їх якомога ближче до кілка чи накинути на нього. Ця гра розважає і навіть тренує координацію рухів.</HorseshoesPin_Frame.description>
+
+  <HoopstoneRing.label>кільце для кидання каменів</HoopstoneRing.label>
+  <HoopstoneRing.description>Старовинна гра, для якої потрібно декілька камінців та великий обруч, покладений на землю. Гравці кидають камння з певної дистанції і намагаються влучити всередину нього. Ця гра розважає і навіть тренує координацію рухів.</HoopstoneRing.description>
+  <HoopstoneRing_Blueprint.label>кільце для кидання каменів (проект)</HoopstoneRing_Blueprint.label>
+  <HoopstoneRing_Blueprint_Install.label>кільце для кидання каменів (проект)</HoopstoneRing_Blueprint_Install.label>
+  <HoopstoneRing_Frame.label>кільце для кидання каменів (будується)</HoopstoneRing_Frame.label>
+  <HoopstoneRing_Frame.description>Старовинна гра, для якої потрібно декілька камінців та великий обруч, покладений на землю. Гравці кидають камння з певної дистанції і намагаються влучити всередину нього. Ця гра розважає і навіть тренує координацію рухів.</HoopstoneRing_Frame.description>
+
+  <ChessTable.label>стіл для шахів</ChessTable.label>
+  <ChessTable.description>Старовинна гра для аристократів. В неї можна грати протягом кількох годин навіть наодинці.</ChessTable.description>
+  <ChessTable_Blueprint.label>стіл для шахів (проект)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>стіл для шахів (проект)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>стіл для шахів (будується)</ChessTable_Frame.label>
+  <ChessTable_Frame.description>Старовинна гра для аристократів. В неї можна грати протягом кількох годин навіть наодинці.</ChessTable_Frame.description>
+
+  <BilliardsTable.label>більярдний стіл</BilliardsTable.label>
+  <BilliardsTable.description>Стіл з м'якою стільницею та з бортиками для гри в різні види більярду.</BilliardsTable.description>
+  <BilliardsTable_Blueprint.label>більярдний стіл (проект)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>більярдний стіл (проект)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>більярдний стіл (будується)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.description>Стіл з м'якою стільницею та з бортиками для гри в різні види більярду.</BilliardsTable_Frame.description>
+
+  <PokerTable.label>покерний стіл</PokerTable.label>
+  <PokerTable.description>Стіл, розроблений для гри в карткові азартні ігри, переважно покеру. Чудовий спосіб випробувати свої тактичні здібності та ще трошки удачі.</PokerTable.description>
+  <PokerTable_Blueprint.label>покерний стіл (проект)</PokerTable_Blueprint.label>
+  <PokerTable_Blueprint_Install.label>покерний стіл (проект)</PokerTable_Blueprint_Install.label>
+  <PokerTable_Frame.label>покерний стіл (будується)</PokerTable_Frame.label>
+  <PokerTable_Frame.description>Стіл, розроблений для гри в карткові азартні ігри, переважно покеру. Чудовий спосіб випробувати свої тактичні здібності та ще трошки удачі.</PokerTable_Frame.description>
+
+  <TubeTelevision.label>ламповий телевізор</TubeTelevision.label>
+  <TubeTelevision.description>Основна частина телевізора - електронно променева трубка для показу рухомих картинок, тобто фільмів. Навіть у всесвіті Rimworlds працює старий ретранслятор, який часто показує щось цікаве.</TubeTelevision.description>
+  <TubeTelevision_Blueprint.label>ламповий телевізор (проект)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>ламповий телевізор (проект)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>ламповий телевізор (будується)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.description>Основна частина телевізора - електронно променева трубка для показу рухомих картинок, тобто фільмів. Навіть у всесвіті Rimworlds працює старий ретранслятор, який часто показує щось цікаве.</TubeTelevision_Frame.description>
+
+  <FlatscreenTelevision.label>телевізор з пласким екраном</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Високотехнологічний телевізор з пласким екраном, який добре відтворює зображення. Його цікавіше переглядати за старий ламповий телевізор.</FlatscreenTelevision.description>
+  <FlatscreenTelevision_Blueprint_Install.label>телевізор з пласким екраном (проект)</FlatscreenTelevision_Blueprint_Install.label>
+
+  <MegascreenTelevision.label>телевізор з магічним екраном</MegascreenTelevision.label>
+  <MegascreenTelevision.description>Найбільш високотехнологічний телевізор на сьогоднішній день. Величезні об'ємні зображення дуже захоплюють глядачів.</MegascreenTelevision.description>
+  <MegascreenTelevision_Blueprint_Install.label>телевізор з магічним екраном (проект)</MegascreenTelevision_Blueprint_Install.label>
+
+  <Telescope.label>телескоп</Telescope.label>
+  <Telescope.description>Телескоп для спостереження за зоряним небом. Це цікаве заняття для деяких людей.</Telescope.description>
+  <Telescope_Blueprint_Install.label>телескоп (проект)</Telescope_Blueprint_Install.label>
+
+
+</LanguageData>
