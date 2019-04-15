@@ -1,27 +1,24 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
-parka
-duster
-space suit
-power armor suit
+капелюх
+сорочка
+куртка
+циліндр
+плащ
+джок ремінь
+пояс
+краватка
+офіційний костюм
+скафандр
+вечірня сукня
+пуховик
+важкий плащ
+взуття
+штани
+силова броня
+підтяжки
+метелик
+казанок
+бейсболка
+туга
+рубашка
 
-bow tie
-necktie
-belt
-jock strap
-
-hat
-bowler hat
-baseball cap
-tuque
-top hat
-
-shoe
-boot
-sandal
 
