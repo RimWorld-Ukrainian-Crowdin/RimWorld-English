@@ -1,55 +1,52 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Basic recipes - speed not affected by skill because there's no skill involved -->
-
-  <UnskilledLaborSpeed.label>unskilled labor speed</UnskilledLaborSpeed.label>
-  <UnskilledLaborSpeed.description>The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items.</UnskilledLaborSpeed.description>
-
 
   <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
 
-  <SculptingSpeed.label>sculpting speed</SculptingSpeed.label>
-  <SculptingSpeed.description>The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill.</SculptingSpeed.description>
+  <SculptingSpeed.label>швидкість ліплення</SculptingSpeed.label>
+  <SculptingSpeed.description>Швидкість, з якою ця людина ліпить. Примітка: вміння впливає на якість створюваної скульптури, але не на швидкість ліплення.</SculptingSpeed.description>
 
-  <TailoringSpeed.label>tailoring speed</TailoringSpeed.label>
-  <TailoringSpeed.description>The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill.</TailoringSpeed.description>
+  <TailoringSpeed.label>швидкість шиття</TailoringSpeed.label>
+  <TailoringSpeed.description>Швидкість, з якою ця людина робить одяг. Примітка: вміння впливає на якість створюваного одягу, але не на швидкість пошиття.</TailoringSpeed.description>
 
-  <SmithingSpeed.label>smithing speed</SmithingSpeed.label>
-  <SmithingSpeed.description>Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill.</SmithingSpeed.description>
+  <SmithingSpeed.label>швидкість кування</SmithingSpeed.label>
+  <SmithingSpeed.description>Швидкість, з якою ця особа кує або створює зброю, техніку, боєприпаси та інструменти. Примітка: вміння впливає на якість створюваних предметів, але не на швидкість кування.</SmithingSpeed.description>
 
 
   <!-- Production recipes - speed affected by skill because there is no output quality -->
 
-  <DrugSynthesisSpeed.label>drug synthesis speed</DrugSynthesisSpeed.label>
-  <DrugSynthesisSpeed.description>How fast this character synthesizes complex chemical drugs.</DrugSynthesisSpeed.description>
+  <DrugProductionSpeed.label>швидкість виробництва наркотиків</DrugProductionSpeed.label>
+  <DrugProductionSpeed.description>Як швидко цей персонаж виробляє наркотики.</DrugProductionSpeed.description>
 
-  <CookSpeed.label>cooking speed</CookSpeed.label>
-  <CookSpeed.description>The speed at which this person cooks meals.</CookSpeed.description>
+  <CookSpeed.label>швидкість приготування</CookSpeed.label>
+  <CookSpeed.description>Швидкість, з якою ця людина готує їжу.</CookSpeed.description>
 
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
-  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes.</FoodPoisonChance.description>
+  <FoodPoisonChance.label>вірогідність отруїти їжу</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Ймовірність того, що цей персонаж може ненароком отруїти їжу, яку вони готують.</FoodPoisonChance.description>
 
-  <DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
-  <DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
+  <BrewingSpeed.label>швидкість варіння</BrewingSpeed.label>
+  <BrewingSpeed.description>Швидкість, з якою ця людина варить пиво.</BrewingSpeed.description>
 
-  <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.label>швидкість розбирання тіл</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Швидкість, з якою ця людина розбирає тіла істот.</ButcheryFleshSpeed.description>
 
-  <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>The speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.label>швидкість розбирання механоїдів</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Швидкість, з якою ця людина може розібрати механоїдів.</ButcheryMechanoidSpeed.description>
 
-  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
+  <MechanoidOperationSuccessChance.label>шанс успішної операції на механоїді</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>Ймовірність того, що персонаж успішно виконає операцію на механоїді. Збої можуть виникнути в результаті втрати зібраних деталей і пошкодження предмета.</MechanoidOperationSuccessChance.description>
 
-  <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
+  <ButcheryFleshEfficiency.label>ефективність розбору тіл</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Множник на кількість виробленого м'яса при обробці тіла істоти.</ButcheryFleshEfficiency.description>
+
+  <ButcheryMechanoidEfficiency.label>ефективність розбирання механоїдів</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Множник на кількість отриманих матеріалів, коли ця людина розбирає мертвого механоїда.</ButcheryMechanoidEfficiency.description>
 
 
   <!-- Dumb recipes - not affected by skill because there's no skill component -->
 
-  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-  <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
+  <SmeltingSpeed.label>швидкість виплавки</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Швидкість, з якою ця людина переплавлює речі. Примітка: оскільки це не ручна праця, його швидкість не впливає на майстерність.</SmeltingSpeed.description>
 
 
 </LanguageData>
