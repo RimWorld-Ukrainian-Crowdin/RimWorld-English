@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WaterDeep.label>глибокі води</WaterDeep.label>
+  <WaterOceanDeep.label>глибокі води океану</WaterOceanDeep.label>
+  <WaterMovingDeep.label>глибокі рухомі води</WaterMovingDeep.label>
+  <WaterShallow.label>мілководдя</WaterShallow.label>
+  <WaterOceanShallow.label>океанське мілководдя</WaterOceanShallow.label>
+  <WaterMovingShallow.label>рухоме мілководдя</WaterMovingShallow.label>
+
+
+</LanguageData>
