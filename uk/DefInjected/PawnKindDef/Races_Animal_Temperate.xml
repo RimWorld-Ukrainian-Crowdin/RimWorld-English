@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Deer.label>олень</Deer.label>
+  <Deer.labelPlural>олень</Deer.labelPlural>
+  <Deer.lifeStages.0.label>олень</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelPlural>олень</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.0.labelMale>оленя самець</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelMalePlural>оленята самці</Deer.lifeStages.0.labelMalePlural>
+  <Deer.lifeStages.0.labelFemale>оленя самка</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.0.labelFemalePlural>оленята самки</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.1.label>олень</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelPlural>олень</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.1.labelMale>оленя самець</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>оленята самці</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelFemale>оленя самка</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>оленята самки</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.2.label>олень</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelPlural>олень</Deer.lifeStages.2.labelPlural>
+  <Deer.lifeStages.2.labelMale>олень самець</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>олені самці</Deer.lifeStages.2.labelMalePlural>
+  <Deer.lifeStages.2.labelFemale>олень самка</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>олені самки</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.labelMale>олень самець</Deer.labelMale>
+  <Deer.labelMalePlural>олені самці</Deer.labelMalePlural>
+  <Deer.labelFemale>олень самка</Deer.labelFemale>
+  <Deer.labelFemalePlural>олені самки</Deer.labelFemalePlural>
+
+  <Ibex.label>коза</Ibex.label>
+  <Ibex.labelPlural>кози</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>коза</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelPlural>кози</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.0.labelMale>козел</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelMalePlural>козли</Ibex.lifeStages.0.labelMalePlural>
+  <Ibex.lifeStages.0.labelFemale>коза</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>кози</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.1.label>коза</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelPlural>кози</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.1.labelMale>козел</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>козли</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelFemale>коза</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>кози</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.2.label>коза</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelPlural>коза</Ibex.lifeStages.2.labelPlural>
+  <Ibex.lifeStages.2.labelMale>козел</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>козли</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelFemale>коза</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>кози</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.labelMale>козел</Ibex.labelMale>
+  <Ibex.labelMalePlural>козли</Ibex.labelMalePlural>
+  <Ibex.labelFemale>коза</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>кози</Ibex.labelFemalePlural>
+
+  <Elk.label>лось</Elk.label>
+  <Elk.labelPlural>лось</Elk.labelPlural>
+  <Elk.lifeStages.0.label>лосеня</Elk.lifeStages.0.label>
+  <Elk.lifeStages.0.labelPlural>лосенята</Elk.lifeStages.0.labelPlural>
+  <Elk.lifeStages.0.labelMale>лосеня самець</Elk.lifeStages.0.labelMale>
+  <Elk.lifeStages.0.labelMalePlural>лосенята самці</Elk.lifeStages.0.labelMalePlural>
+  <Elk.lifeStages.0.labelFemale>лосеня самка</Elk.lifeStages.0.labelFemale>
+  <Elk.lifeStages.0.labelFemalePlural>лосенята самки</Elk.lifeStages.0.labelFemalePlural>
+  <Elk.lifeStages.1.label>лось</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelPlural>лось</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.1.labelMale>лось самець</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelMalePlural>лосі самці</Elk.lifeStages.1.labelMalePlural>
+  <Elk.lifeStages.1.labelFemale>лось самка</Elk.lifeStages.1.labelFemale>
+  <Elk.lifeStages.1.labelFemalePlural>лосі самки</Elk.lifeStages.1.labelFemalePlural>
+  <Elk.lifeStages.2.label>лось</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelPlural>лось</Elk.lifeStages.2.labelPlural>
+  <Elk.lifeStages.2.labelMale>лось самець</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelMalePlural>лосі самці</Elk.lifeStages.2.labelMalePlural>
+  <Elk.lifeStages.2.labelFemale>лось самка</Elk.lifeStages.2.labelFemale>
+  <Elk.lifeStages.2.labelFemalePlural>лосі самки</Elk.lifeStages.2.labelFemalePlural>
+  <Elk.labelMale>лось самець</Elk.labelMale>
+  <Elk.labelMalePlural>лосі самці</Elk.labelMalePlural>
+  <Elk.labelFemale>лось самка</Elk.labelFemale>
+  <Elk.labelFemalePlural>лосі самки</Elk.labelFemalePlural>
+
+  <Caribou.label>карибу</Caribou.label>
+  <Caribou.labelPlural>карибу</Caribou.labelPlural>
+  <Caribou.lifeStages.0.label>карібеня</Caribou.lifeStages.0.label>
+  <Caribou.lifeStages.0.labelPlural>карібенята</Caribou.lifeStages.0.labelPlural>
+  <Caribou.lifeStages.0.labelMale>карібеня самець</Caribou.lifeStages.0.labelMale>
+  <Caribou.lifeStages.0.labelMalePlural>карібенята самці</Caribou.lifeStages.0.labelMalePlural>
+  <Caribou.lifeStages.0.labelFemale>карібеня самка</Caribou.lifeStages.0.labelFemale>
+  <Caribou.lifeStages.0.labelFemalePlural>карібенята самки</Caribou.lifeStages.0.labelFemalePlural>
+  <Caribou.lifeStages.1.label>карибу</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelPlural>карибу</Caribou.lifeStages.1.labelPlural>
+  <Caribou.lifeStages.1.labelMale>карибу самець</Caribou.lifeStages.1.labelMale>
+  <Caribou.lifeStages.1.labelMalePlural>карибу самці</Caribou.lifeStages.1.labelMalePlural>
+  <Caribou.lifeStages.1.labelFemale>карибу самка</Caribou.lifeStages.1.labelFemale>
+  <Caribou.lifeStages.1.labelFemalePlural>карибу самки</Caribou.lifeStages.1.labelFemalePlural>
+  <Caribou.lifeStages.2.label>карибу</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelPlural>карибу</Caribou.lifeStages.2.labelPlural>
+  <Caribou.lifeStages.2.labelMale>карибу самець</Caribou.lifeStages.2.labelMale>
+  <Caribou.lifeStages.2.labelMalePlural>карибу самці</Caribou.lifeStages.2.labelMalePlural>
+  <Caribou.lifeStages.2.labelFemale>карибу самка</Caribou.lifeStages.2.labelFemale>
+  <Caribou.lifeStages.2.labelFemalePlural>карибу самки</Caribou.lifeStages.2.labelFemalePlural>
+  <Caribou.labelMale>карибу самець</Caribou.labelMale>
+  <Caribou.labelMalePlural>карибу самець</Caribou.labelMalePlural>
+  <Caribou.labelFemale>карибу самка</Caribou.labelFemale>
+  <Caribou.labelFemalePlural>карибу самки</Caribou.labelFemalePlural>
+
+  <WildBoar.label>дикий кабан</WildBoar.label>
+  <WildBoar.labelPlural>дикі кабани</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>дикий кабан</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelPlural>дикий кабан</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.0.labelMale>дикий кабан самець</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>дикі кабани самці</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelFemale>дикий кабан самка</WildBoar.lifeStages.0.labelFemale>
+  <WildBoar.lifeStages.0.labelFemalePlural>дикі кабани самки</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.1.label>дикий кабан</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelPlural>дикий кабан</WildBoar.lifeStages.1.labelPlural>
+  <WildBoar.lifeStages.1.labelMale>дикий кабан самець</WildBoar.lifeStages.1.labelMale>
+  <WildBoar.lifeStages.1.labelMalePlural>дикі кабани самці</WildBoar.lifeStages.1.labelMalePlural>
+  <WildBoar.lifeStages.1.labelFemale>дикий кабан самка</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelFemalePlural>дикі кабани самки</WildBoar.lifeStages.1.labelFemalePlural>
+  <WildBoar.lifeStages.2.label>дикий кабан</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelPlural>дикий кабан</WildBoar.lifeStages.2.labelPlural>
+  <WildBoar.lifeStages.2.labelMale>дикий кабан самець</WildBoar.lifeStages.2.labelMale>
+  <WildBoar.lifeStages.2.labelMalePlural>дикі кабани самці</WildBoar.lifeStages.2.labelMalePlural>
+  <WildBoar.lifeStages.2.labelFemale>дикий кабан самка</WildBoar.lifeStages.2.labelFemale>
+  <WildBoar.lifeStages.2.labelFemalePlural>дикі кабани самки</WildBoar.lifeStages.2.labelFemalePlural>
+  <WildBoar.labelMale>дикий кабан самець</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>дикі кабани самці</WildBoar.labelMalePlural>
+  <WildBoar.labelFemale>дикий кабан самка</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>дикі кабани самки</WildBoar.labelFemalePlural>
+
+  <Tortoise.label>черепаха</Tortoise.label>
+  <Tortoise.labelPlural>черепахи</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>черепаха</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelPlural>черепахи</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.0.labelMale>черепаха самець</Tortoise.lifeStages.0.labelMale>
+  <Tortoise.lifeStages.0.labelMalePlural>черепахи самці</Tortoise.lifeStages.0.labelMalePlural>
+  <Tortoise.lifeStages.0.labelFemale>черепаха самка</Tortoise.lifeStages.0.labelFemale>
+  <Tortoise.lifeStages.0.labelFemalePlural>черепахи самки</Tortoise.lifeStages.0.labelFemalePlural>
+  <Tortoise.lifeStages.1.label>черепаха</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelPlural>черепахи</Tortoise.lifeStages.1.labelPlural>
+  <Tortoise.lifeStages.1.labelMale>черепаха самець</Tortoise.lifeStages.1.labelMale>
+  <Tortoise.lifeStages.1.labelMalePlural>черепахи самці</Tortoise.lifeStages.1.labelMalePlural>
+  <Tortoise.lifeStages.1.labelFemale>черепаха самка</Tortoise.lifeStages.1.labelFemale>
+  <Tortoise.lifeStages.1.labelFemalePlural>черепахи самки</Tortoise.lifeStages.1.labelFemalePlural>
+  <Tortoise.lifeStages.2.label>черепаха</Tortoise.lifeStages.2.label>
+  <Tortoise.lifeStages.2.labelPlural>черепахи</Tortoise.lifeStages.2.labelPlural>
+  <Tortoise.lifeStages.2.labelMale>черепаха самець</Tortoise.lifeStages.2.labelMale>
+  <Tortoise.lifeStages.2.labelMalePlural>черепахи самці</Tortoise.lifeStages.2.labelMalePlural>
+  <Tortoise.lifeStages.2.labelFemale>черепаха самка</Tortoise.lifeStages.2.labelFemale>
+  <Tortoise.lifeStages.2.labelFemalePlural>черепахи самки</Tortoise.lifeStages.2.labelFemalePlural>
+  <Tortoise.labelMale>черепаха самець</Tortoise.labelMale>
+  <Tortoise.labelMalePlural>черепахи самці</Tortoise.labelMalePlural>
+  <Tortoise.labelFemale>черепаха самка</Tortoise.labelFemale>
+  <Tortoise.labelFemalePlural>черепахи самки</Tortoise.labelFemalePlural>
+
+
+</LanguageData>
