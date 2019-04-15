@@ -1,43 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkToBuild.label>work to build</WorkToBuild.label>
-  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+  <DoorOpenSpeed.label>швидкість відкривання двері</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Швидкість, з якою двері відкриваються.</DoorOpenSpeed.description>
 
-  <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
-  <DoorOpenSpeed.description>The speed at which the door opens. Slow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
+  <BedRestEffectiveness.label>ефективність відпочинку</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Як швидко люди відпочивають на цьому.</BedRestEffectiveness.description>
 
-  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
-  <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+  <TrapMeleeDamage.label>шкода від пастки</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Скільки шкоди наносить ця пастка за звичайних умов. Реальна шкода може дещо відрізнятися.</TrapMeleeDamage.description>
 
-  <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-  <TrapMeleeDamage.description>How much damage this trap does on average. The actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
+  <TrapSpringChance.label>шанс пастки на активацію</TrapSpringChance.label>
+  <TrapSpringChance.description>Ймовірність того, що пастка буде активована, коли не знаюча істота проходить над нею.</TrapSpringChance.description>
 
-  <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
-  <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+  <ResearchSpeedFactor.label>фактор швидкості дослідження</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Швидкість, з якою люди проводять дослідження множиться на це значення.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>Чистота кімнати</ResearchSpeedFactor.parts.1.customLabel>
 
-  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
-  <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+  <MedicalTendQualityOffset.label>зміщення якості лікування</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Якість лікування компенсується на це значення.</MedicalTendQualityOffset.description>
 
-  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
-  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+  <ImmunityGainSpeedFactor.label>фактор посилення імунітета</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Швидкість посилення імунітету множиться на це значення.</ImmunityGainSpeedFactor.description>
 
-  <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
-  <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>фактор швидкості роботи</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Швидкість виконання роботи множиться на це значення.</WorkTableWorkSpeedFactor.description>
 
-  <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
-  <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+  <EntertainmentStrengthFactor.label>фактор цікавості розваг</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Наскільки ефективно цей предмет розважає людей і веселить їх.</EntertainmentStrengthFactor.description>
 
-  <WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
-  <WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
-
-  <JoyGainFactor.label>recreation power</JoyGainFactor.label>
-  <JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
-
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
-  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
-  <SurgerySuccessChanceFactor.parts.0.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.0.customLabel>
+  <SurgerySuccessChanceFactor.label>фактор на успіх операції</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>Множник на шанс того, що операція буде успішною, коли буде проведеною тут. Шанс на успіх операції також залежить від хірурга і медикаментів, які були використані.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>Чистота кімнати</SurgerySuccessChanceFactor.parts.0.customLabel>
 
 
 </LanguageData>
