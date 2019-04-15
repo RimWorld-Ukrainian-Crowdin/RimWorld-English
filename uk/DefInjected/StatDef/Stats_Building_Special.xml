@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoorOpenSpeed.label>швидкість відкривання двері</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Швидкість, з якою двері відкриваються.</DoorOpenSpeed.description>
+
+  <BedRestEffectiveness.label>ефективність відпочинку</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Як швидко люди відпочивають на цьому.</BedRestEffectiveness.description>
+
+  <TrapMeleeDamage.label>шкода від пастки</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Скільки шкоди наносить ця пастка за звичайних умов. Реальна шкода може дещо відрізнятися.</TrapMeleeDamage.description>
+
+  <TrapSpringChance.label>шанс пастки на активацію</TrapSpringChance.label>
+  <TrapSpringChance.description>Ймовірність того, що пастка буде активована, коли не знаюча істота проходить над нею.</TrapSpringChance.description>
+
+  <ResearchSpeedFactor.label>фактор швидкості дослідження</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Швидкість, з якою люди проводять дослідження множиться на це значення.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>Чистота кімнати</ResearchSpeedFactor.parts.1.customLabel>
+
+  <MedicalTendQualityOffset.label>зміщення якості лікування</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Якість лікування компенсується на це значення.</MedicalTendQualityOffset.description>
+
+  <ImmunityGainSpeedFactor.label>фактор посилення імунітета</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Швидкість посилення імунітету множиться на це значення.</ImmunityGainSpeedFactor.description>
+
+  <WorkTableWorkSpeedFactor.label>фактор швидкості роботи</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Швидкість виконання роботи множиться на це значення.</WorkTableWorkSpeedFactor.description>
+
+  <EntertainmentStrengthFactor.label>фактор цікавості розваг</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Наскільки ефективно цей предмет розважає людей і веселить їх.</EntertainmentStrengthFactor.description>
+
+  <SurgerySuccessChanceFactor.label>фактор на успіх операції</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>Множник на шанс того, що операція буде успішною, коли буде проведеною тут. Шанс на успіх операції також залежить від хірурга і медикаментів, які були використані.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>Чистота кімнати</SurgerySuccessChanceFactor.parts.0.customLabel>
+
+
+</LanguageData>
