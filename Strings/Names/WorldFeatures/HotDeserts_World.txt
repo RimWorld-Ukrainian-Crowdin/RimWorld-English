@@ -1,7 +1,7 @@
-Sahara
-Gobi Desert
-Great Sandy Desert
-Gibson Desert
-Great Victoria Desert
-Little Sandy Desert
-Simpson Desert
+Сахара
+Пустеля Гобі
+Велика Піщана пустеля
+Пустеля Гібсона
+Велика Пустеля Вікторія
+Мала Піщана пустеля
+Пустеля Сімпсона
