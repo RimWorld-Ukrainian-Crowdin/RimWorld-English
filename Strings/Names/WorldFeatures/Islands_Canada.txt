@@ -1,32 +1,32 @@
-Baffin Island
-Victoria Island
-Ellesmere Island
-Newfoundland
-Banks Island
-Devon Island
-Axel Heiberg Island
-Melville Island
-Southampton Island
-Prince of Wales Island
-Vancouver Island
-Somerset Island
-Bathurst Island
-Prince Patrick Island
-King William Island
-Ellef Ringnes Island
-Bylot Island
-Cape Breton Island
-Prince Charles Island
-Anticosti Island
-Cornwallis Island
-Graham Island
-Prince Edward Island
-Coats Island
-Amund Ringnes Island
-Mackenzie King Island
-Stefansson Island
-Mansel Island
-Akimiski Island
-Borden Island
-Manitoulin Island
-Moresby Island
+Острів Баффін
+Острів Вікторія
+Острів Елсмір
+Ньюфаундленд
+Острів Банк
+Острів Девон
+Острові Аксель-Хейберг
+Острів Мелвілл
+Острів Саутгемптон
+Острів принца Уельського
+Острів Ванкувер
+Острів Сомерсет
+Острів Батерст
+Острів Принца Патріка
+Острів Короля Вільяма
+Острів Еллефа Рінгнеса
+Острів Байлот
+Острів Кейп-Бретон
+Острів Принца Чарльза
+Острів Антікості
+Острів Корнуолліс
+Острів Грем
+Острів Принца Едуарда
+Острів Пальто
+Острів Амунда Рінгнеса
+Острів Маккензі Короля
+Острів Стефанссон
+Острів Мансель
+Острів Акіміскі
+Острів Борден
+Острів Манитулин
+Острів Морсбі
