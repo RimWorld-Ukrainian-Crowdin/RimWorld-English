@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayerColony.label>New Arrivals</PlayerColony.label>
-  <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
-  <PlayerColony.leaderTitle>leader</PlayerColony.leaderTitle>
-  <PlayerColony.pawnSingular>colonist</PlayerColony.pawnSingular>
-  <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
+  <PlayerColony.label>Колонія</PlayerColony.label>
+  <PlayerColony.description>Ваша колонія.</PlayerColony.description>
+  <PlayerColony.pawnsPlural>колоністи</PlayerColony.pawnsPlural>
 
-  <PlayerTribe.label>New Tribe</PlayerTribe.label>
-  <PlayerTribe.description>A small tribe.</PlayerTribe.description>
-  <PlayerTribe.leaderTitle>leader</PlayerTribe.leaderTitle>
-  <PlayerTribe.pawnSingular>tribesman</PlayerTribe.pawnSingular>
-  <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
+  <PlayerTribe.label>Плем’я</PlayerTribe.label>
+  <PlayerTribe.description>Ваше плем’я.</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>члени племені</PlayerTribe.pawnsPlural>
 
 
 </LanguageData>
