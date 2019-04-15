@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSimple.label>приготувати звичайну страву</CookMealSimple.label>
+  <CookMealSimple.description>Приготувати звичайне блюдо з одного інгредієнта.</CookMealSimple.description>
+  <CookMealSimple.jobString>Готує звичайну страву.</CookMealSimple.jobString>
+
+  <CookMealSimpleCampfire.label>приготувати звичайну страву</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Приготувати звичайне блюдо з одного інгредієнта.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Готує звичайну страву.</CookMealSimpleCampfire.jobString>
+
+  <CookMealFine.label>приготувати чудову страву</CookMealFine.label>
+  <CookMealFine.description>Приготувати комплексне блюдо з сирого м'яса і рослин.</CookMealFine.description>
+  <CookMealFine.jobString>Готує чудову страву.</CookMealFine.jobString>
+
+  <CookMealLavish.label>приготувати делікатес</CookMealLavish.label>
+  <CookMealLavish.description>Приготувати дуже складне блюдо з сирого м'яса і рослин. Потребує великої кількості інгредієнтів.</CookMealLavish.description>
+  <CookMealLavish.jobString>Готує делікатес.</CookMealLavish.jobString>
+
+  <CookMealSurvival.label>приготувати консерви</CookMealSurvival.label>
+  <CookMealSurvival.description>Приготувати консервоване блюдо з сирого м'яса і рослин. Потребує великої кількості інгредієнтів.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Готує консерви.</CookMealSurvival.jobString>
+
+
+</LanguageData>
