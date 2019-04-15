@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RepeatCount.label>do X times</RepeatCount.label>
-  <TargetCount.label>do until you have X</TargetCount.label>
-  <Forever.label>do forever</Forever.label>
+  <RepeatCount.label>зробити X разів</RepeatCount.label>
+  <TargetCount.label>повторювати до X</TargetCount.label>
+  <Forever.label>нескінченно</Forever.label>
 
 
 </LanguageData>
