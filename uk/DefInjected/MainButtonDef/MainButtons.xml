@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inspect.label>перевірити</Inspect.label>
+
+  <Architect.label>архітектура</Architect.label>
+  <Architect.description>У цій вкладці можна позначити де і що будуть будувати або робити колоністи: будувати, створювати ферми, склади і тд.</Architect.description>
+
+  <Work.label>робота</Work.label>
+  <Work.description>Обрати, що саме буде робити кожен з ваших колоністів та позначте пріоритети.</Work.description>
+
+  <Restrict.label>обмеження</Restrict.label>
+  <Restrict.description>Задати колоністам обмеження на діяльність в певні години, пересування зонами тощо.</Restrict.description>
+
+  <Assign.label>призначення</Assign.label>
+  <Assign.description>Налаштувати тип одежі, реакцію на ворога та використання хімічних препаратів.</Assign.description>
+
+  <Animals.label>тварини</Animals.label>
+  <Animals.description>Обрати поводження з кожною твариною, якою володіє ваше поселення.</Animals.description>
+
+  <Research.label>дослідження</Research.label>
+  <Research.description>Продивитися вже вивчені та призначити нові дослідницькі проекти.</Research.description>
+
+  <World.label>світ</World.label>
+  <World.description>Оглянути мапу світу.</World.description>
+
+  <History.label>історія</History.label>
+  <History.description>Проглянути усі записи поселення.</History.description>
+
+  <Factions.label>фракції</Factions.label>
+  <Factions.description>Оглянути інші фракції, та їхнє відношення до вас.</Factions.description>
+
+  <Menu.label>меню</Menu.label>
+  <Menu.description>Змінити налаштування: зберегти, завантажити або вийти з гри.</Menu.description>
+
+
+</LanguageData>
