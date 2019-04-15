@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalTendSpeed.label>швидкість медичного огляду</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Швидкість, з якою персонаж оглядає рани і хвороби, діючи як лікар.</MedicalTendSpeed.description>
+
+  <MedicalTendQuality.label>якість медичного нагляду</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Якість надання пацієнтам медичного огляду, діючи в якості лікаря.</MedicalTendQuality.description>
+
+  <MedicalOperationSpeed.label>швидкість операції</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Швидкість, з якою персонаж виконує медичні операції.</MedicalOperationSpeed.description>
+
+  <MedicalSurgerySuccessChance.label>шанс на успішну операцію</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Шанс, за якої персонаж може провести успішну операцію. Шанс на успіх залежить від ліжка і локації для операції, використаних ліків і складності операції.</MedicalSurgerySuccessChance.description>
+
+
+</LanguageData>
