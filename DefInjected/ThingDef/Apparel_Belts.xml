@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack. It does nothing against melee attacks or shots from point-blank range. It prevents firing out the same as it prevents firing in.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.label>щитовий ремінь</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Енергозахисний пристрій з однією особою. Він намагатиметься зупинити будь-який швидко рухаючий снаряд або енергетичний атаку, що походить від дистанції. Це не робить нічого проти атак ближнього бою або пострілів з точкового діапазону. Це також запобігає вистріленню в минулому сенсорному діапазоні.</Apparel_ShieldBelt.description>
 
-  <Apparel_SmokepopBelt.label>smokepop belt</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.label>ремінець димпіпап</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>Автоматичний захисний кожух. Це дозволить випустити товсту хмарку диму, якщо користувач потрапляє у снаряд, забезпечуючи кришку прямої видимості та запобігаючи замикання башток. Одноразове використання.</Apparel_SmokepopBelt.description>
 
 
 </LanguageData>
