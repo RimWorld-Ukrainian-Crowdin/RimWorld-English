@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TemperateForest.label>temperate forest</TemperateForest.label>
-  <TemperateForest.description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains.</TemperateForest.description>
+  <TemperateForest.label>помірні ліси</TemperateForest.label>
+  <TemperateForest.description>Листяні ліси впереміж з плодючими галявинами. Різноманітні тварини живуть серед дерев і на рівнинах. Взимку переміщення ускладнює сніг.</TemperateForest.description>
 
-  <TemperateSwamp.label>temperate swamp</TemperateSwamp.label>
-  <TemperateSwamp.description>Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures.</TemperateSwamp.description>
+  <TemperateSwamp.label>болото</TemperateSwamp.label>
+  <TemperateSwamp.description>Надзвичайно густа рослинність та заболочена земля значно ускладнюють переміщення та будівництво у цій місцевості. Багато видів тварин мешкають тут.</TemperateSwamp.description>
 
 
 </LanguageData>
