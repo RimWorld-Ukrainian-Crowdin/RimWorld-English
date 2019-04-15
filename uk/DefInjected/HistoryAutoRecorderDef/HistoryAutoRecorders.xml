@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WealthTotal.label>багатство (загалом)</WealthTotal.label>
+  <WealthTotal.graphLabelY>Кільксть</WealthTotal.graphLabelY>
+
+  <WealthItems.label>багатство (предмети)</WealthItems.label>
+  <WealthItems.graphLabelY>Кількість</WealthItems.graphLabelY>
+
+  <WealthBuildings.label>багатство (будівлі)</WealthBuildings.label>
+  <WealthBuildings.graphLabelY>Кількість</WealthBuildings.graphLabelY>
+
+  <FreeColonists.label>вільні колоністи</FreeColonists.label>
+  <FreeColonists.graphLabelY>Колоністи</FreeColonists.graphLabelY>
+
+  <Prisoners.label>полонені</Prisoners.label>
+  <Prisoners.graphLabelY>Ув'язнені</Prisoners.graphLabelY>
+
+  <ColonistMood.label>настрій</ColonistMood.label>
+  <ColonistMood.graphLabelY>Відсотки</ColonistMood.graphLabelY>
+
+
+</LanguageData>
