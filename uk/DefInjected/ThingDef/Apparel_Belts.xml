@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_ShieldBelt.label>щитовий ремінь</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Енергозахисний пристрій з однією особою. Він намагатиметься зупинити будь-який швидко рухаючий снаряд або енергетичний атаку, що походить від дистанції. Це не робить нічого проти атак ближнього бою або пострілів з точкового діапазону. Це також запобігає вистріленню в минулому сенсорному діапазоні.</Apparel_ShieldBelt.description>
+
+  <Apparel_SmokepopBelt.label>ремінець димпіпап</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>Автоматичний захисний кожух. Це дозволить випустити товсту хмарку диму, якщо користувач потрапляє у снаряд, забезпечуючи кришку прямої видимості та запобігаючи замикання башток. Одноразове використання.</Apparel_SmokepopBelt.description>
+
+
+</LanguageData>
