@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkFrenzy.label>завзята праця</WorkFrenzy.label>
+  <WorkFrenzy.beginLetter>{0} щойно натхненний. HECAP буде працювати в 2,5 рази швидше протягом наступних 24 годин.</WorkFrenzy.beginLetter>
+  <WorkFrenzy.beginLetterLabel>Натхнення: завзята праця</WorkFrenzy.beginLetterLabel>
+  <WorkFrenzy.endMessage>{0} більше не відчуває натхнення (завзята праця).</WorkFrenzy.endMessage>
+  <WorkFrenzy.baseInspectLine>Натхнення: завзята праця</WorkFrenzy.baseInspectLine>
+
+  <GoFrenzy.label>енергійність</GoFrenzy.label>
+  <GoFrenzy.beginLetter>{0} бігає, немов на марафоні. HECAP буде рухатись в 1.5 разів швидше наступні 24 години.</GoFrenzy.beginLetter>
+  <GoFrenzy.beginLetterLabel>Натхнення: енергійність</GoFrenzy.beginLetterLabel>
+  <GoFrenzy.endMessage>{0} більше не відчуває натхнення (енергійність).</GoFrenzy.endMessage>
+  <GoFrenzy.baseInspectLine>Натхнення: енергійність</GoFrenzy.baseInspectLine>
+
+  <ShootFrenzy.label>соколине око</ShootFrenzy.label>
+  <ShootFrenzy.beginLetter>{0} стрілятиме влучніше наступні 3 дні.</ShootFrenzy.beginLetter>
+  <ShootFrenzy.beginLetterLabel>Натхнення: соколине око</ShootFrenzy.beginLetterLabel>
+  <ShootFrenzy.endMessage>{0} більше не відчуває натхнення (соколине око).</ShootFrenzy.endMessage>
+  <ShootFrenzy.baseInspectLine>Надихнувся: соколине око</ShootFrenzy.baseInspectLine>
+
+  <InspiredTrade.label>підвищена торгівля</InspiredTrade.label>
+  <InspiredTrade.beginLetter>{0} отримає значні бонуси при наступній торговельній угоді.\n\n Натхнення буде втрачене через 8 днів, або коли угоду буде укладено.</InspiredTrade.beginLetter>
+  <InspiredTrade.beginLetterLabel>Натхнення: підвищена торгівля</InspiredTrade.beginLetterLabel>
+  <InspiredTrade.endMessage>{0} більше не відчуває натхнення (натхненна торгівля).</InspiredTrade.endMessage>
+  <InspiredTrade.baseInspectLine>Натхнення: натхненна торгівля</InspiredTrade.baseInspectLine>
+
+  <InspiredRecruitment.label>натхненне рекрутування</InspiredRecruitment.label>
+  <InspiredRecruitment.beginLetter>{0} надихнуло. HECAP успішно зарекрутує наступного в'язня, незалежно від складності.\n\n Натхнення скінчиться через 8 днів або коли ув'язнений приєднається.</InspiredRecruitment.beginLetter>
+  <InspiredRecruitment.beginLetterLabel>Натхнення: покращення рекрутування</InspiredRecruitment.beginLetterLabel>
+  <InspiredRecruitment.endMessage>{0} більше не відчуває натхнення (натхненне рекрутування).</InspiredRecruitment.endMessage>
+  <InspiredRecruitment.baseInspectLine>Натхнення: покращення рекрутування</InspiredRecruitment.baseInspectLine>
+
+  <InspiredSurgery.label>натхнення в хірургії</InspiredSurgery.label>
+  <InspiredSurgery.beginLetter>{0} оперує як бог. Шанс помилки на наступній операції буде в 10 разів менший.\n\n Натхнення вичерпається через 8 днів або після проведення операції.</InspiredSurgery.beginLetter>
+  <InspiredSurgery.beginLetterLabel>Натхнення: натхненна хірургія</InspiredSurgery.beginLetterLabel>
+  <InspiredSurgery.endMessage>{0} більше не відчуває натхнення (натхненна хірургія).</InspiredSurgery.endMessage>
+  <InspiredSurgery.baseInspectLine>Натхненний: натхненна хірургія</InspiredSurgery.baseInspectLine>
+
+  <InspiredArt.label>натхненне мистецтво</InspiredArt.label>
+  <InspiredArt.beginLetter>{0} щойно натхненний. Будь-який художній предмет буде завершено на 3 рівня якості, вищий, ніж це було б в іншому випадку.\n\nНатхнення закінчиться через 8 днів або після закінчення твору мистецтва.</InspiredArt.beginLetter>
+  <InspiredArt.beginLetterLabel>Натхнення: натхненне мистецтво</InspiredArt.beginLetterLabel>
+  <InspiredArt.endMessage>{0} вже не надихає (натхненне мистецтво).</InspiredArt.endMessage>
+  <InspiredArt.baseInspectLine>Натхнення: натхненне мистецтво</InspiredArt.baseInspectLine>
+
+
+</LanguageData>
