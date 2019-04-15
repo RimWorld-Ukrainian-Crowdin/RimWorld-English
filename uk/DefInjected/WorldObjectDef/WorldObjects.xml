@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan.label>караван</Caravan.label>
+  <Caravan.description>Група подорожуючих людей.</Caravan.description>
+
+  <FactionBase.label>база фракції</FactionBase.label>
+  <FactionBase.description>База однієї з фракцій.</FactionBase.description>
+
+  <AbandonedFactionBase.label>покинута база фракції</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>Покинута база однієї з фракцій.</AbandonedFactionBase.description>
+
+  <DestroyedFactionBase.label>зруйнована база фракції</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>Зруйнована база фракції.</DestroyedFactionBase.description>
+
+  <EscapeShip.label>корабель що приземлився</EscapeShip.label>
+  <EscapeShip.description>Локація з прихованим кораблем який допоможе вам втекти з планети.</EscapeShip.description>
+
+  <AttackedCaravan.label>атакований караван</AttackedCaravan.label>
+  <AttackedCaravan.description>Караван який атакують.</AttackedCaravan.description>
+
+  <TravelingTransportPods.label>транспортні ракети</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Транспортні ракети які летять.</TravelingTransportPods.description>
+
+  <RoutePlannerWaypoint.label>точки маршруту</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Тимчасова точка маршруту.</RoutePlannerWaypoint.description>
+
+  <PeaceTalks.label>мирні переговори</PeaceTalks.label>
+  <PeaceTalks.description>Ділянка, відведена для мирних переговорів.</PeaceTalks.description>
+
+
+</LanguageData>
