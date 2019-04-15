@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neolithic -->
+
+  <Apparel_TribalA.label>трибалєар</Apparel_TribalA.label>
+  <Apparel_TribalA.description>Одяг, виготовлений без машин з використанням неолітових інструментів.</Apparel_TribalA.description>
+
+  <Apparel_Parka.label>пуховик</Apparel_Parka.label>
+  <Apparel_Parka.description>Товста парка для того, щоб залишатися теплим навіть у самих холодних температурах.</Apparel_Parka.description>
+
+
+  <!-- Medieval -->
+
+  <Apparel_Pants.label>штани</Apparel_Pants.label>
+  <Apparel_Pants.description>Простий набір штанів.</Apparel_Pants.description>
+
+  <Apparel_BasicShirt.label>Футболка</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.description>Проста футболка.</Apparel_BasicShirt.description>
+
+  <Apparel_CollarShirt.label>сорочка на гудзиках</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.description>Гарна сорочка з кнопочками.</Apparel_CollarShirt.description>
+
+  <Apparel_Duster.label>пильовик</Apparel_Duster.label>
+  <Apparel_Duster.description>Довга шуба для блокування сонця і піщинки пустелі.</Apparel_Duster.description>
+
+  <Apparel_Jacket.label>куртка</Apparel_Jacket.label>
+  <Apparel_Jacket.description>Жорстка міцна, щоб зупинити скрегіт і синці, і тримати його тепло в холодну погоду.</Apparel_Jacket.description>
+
+
+  <!-- Industrial -->
+
+  <Apparel_VestPlate.label>бронежилет</Apparel_VestPlate.label>
+  <Apparel_VestPlate.description>Жилет із броньовими плитами вставлений на груди і назад. Захищає від стрілянини.</Apparel_VestPlate.description>
+
+
+  <!-- Spacer -->
+
+  <Apparel_PowerArmor.label>силова броня</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>Приведена в дію броня, як правило, використовують штурмові загони з передових glitterworld планет.</Apparel_PowerArmor.description>
+
+
+</LanguageData>
