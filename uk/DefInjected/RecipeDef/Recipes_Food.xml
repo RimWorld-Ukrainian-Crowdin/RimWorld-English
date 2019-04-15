@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeKibble.label>приготувати корм</MakeKibble.label>
+  <MakeKibble.description>Приготувати їжу для тварин з м'яса і рослин.</MakeKibble.description>
+  <MakeKibble.jobString>Готує корм для тварин.</MakeKibble.jobString>
+
+  <MakePemmican.label>приготувати пеммікан</MakePemmican.label>
+  <MakePemmican.description>Приготувати пеммікан, суміш м'яса і рослинної їжі. Воно не надто смачне, проте може зберігатися роками без охолодження.</MakePemmican.description>
+  <MakePemmican.jobString>Готує пеммікан.</MakePemmican.jobString>
+
+  <MakePemmicanCampfire.label>приготувати пеммікан</MakePemmicanCampfire.label>
+  <MakePemmicanCampfire.description>Приготувати пеммікан, суміш м'яса і рослинної їжі. Воно не надто смачне, проте може зберігатися роками без охолодження.</MakePemmicanCampfire.description>
+  <MakePemmicanCampfire.jobString>Готує пеммікан.</MakePemmicanCampfire.jobString>
+
+
+</LanguageData>
