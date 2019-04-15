@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <Door.label>двері</Door.label>
+  <Door.description>Розділяє кімнати. Вони відкриваються і закриваються вручну, що сповільнює переміщення між кімнатами.</Door.description>
+  <Door_Blueprint.label>двері (проект)</Door_Blueprint.label>
+  <Door_Frame.label>двері (будуються)</Door_Frame.label>
+  <Door_Frame.description>Розділяє кімнати. Вони відкриваються і закриваються вручну, що сповільнює переміщення між кімнатами.</Door_Frame.description>
+
+  <Autodoor.label>автоматичні двері</Autodoor.label>
+  <Autodoor.description>Розділяє кімнати. Автоматичне відкривання дозволяє людям переміщуватись між кімнатами без перешкод.</Autodoor.description>
+  <Autodoor_Blueprint.label>автоматичні двері (проект)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>автоматичні двері (будуються)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Розділяє кімнати. Автоматичне відкривання дозволяє людям переміщуватись між кімнатами без перешкод.</Autodoor_Frame.description>
+
+
+  <!-- Walls -->
+
+  <Wall.label>стіна</Wall.label>
+  <Wall.description>Стіна, крізь яку персонажі не можуть проходити. Може тримати на собі дах.</Wall.description>
+  <Wall_Blueprint.label>стіна (проект)</Wall_Blueprint.label>
+  <Wall_Frame.label>стіна (будується)</Wall_Frame.label>
+  <Wall_Frame.description>Стіна, крізь яку персонажі не можуть проходити. Може тримати на собі дах.</Wall_Frame.description>
+
+
+</LanguageData>
