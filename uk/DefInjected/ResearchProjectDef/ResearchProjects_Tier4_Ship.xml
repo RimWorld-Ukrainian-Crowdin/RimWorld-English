@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+
+  <ShipBasics.label>основи кораблебудування</ShipBasics.label>
+  <ShipBasics.description>Дозволяє почати вивчення більш складних корабельних технологій, і, згодом, побудувати корабель, щоб залишити цю планету.</ShipBasics.description>
+
+  <ShipCryptosleep.label>капсули криптосну</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Дозволяє побудувати корабельні капсули криптосну для транспортування колоністів між зірками.</ShipCryptosleep.description>
+
+  <ShipReactor.label>корабельний реактор</ShipReactor.label>
+  <ShipReactor.description>Дозволяє використовувати ядро утримання антиматерії, щоб побудувати реактор антиматерії для забезпечення корабля енергією.</ShipReactor.description>
+
+  <ShipEngine.label>силова установка</ShipEngine.label>
+  <ShipEngine.description>Дозволяє використовувати ядро утримання антиматерії, щоб побудувати двигун антиматерії для корабля.</ShipEngine.description>
+
+  <ShipComputerCore.label>корабельний комп'ютер</ShipComputerCore.label>
+  <ShipComputerCore.description>Дозволяє примусово переробити існуюче ядро ШІ в зручне ядро комп'ютерного ШІ корабельного навігатора.</ShipComputerCore.description>
+
+  <ShipSensorCluster.label>корабельний сканер</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Дозволяє створення сенсорів дальньої дії для корабля.</ShipSensorCluster.description>
+
+
+</LanguageData>
