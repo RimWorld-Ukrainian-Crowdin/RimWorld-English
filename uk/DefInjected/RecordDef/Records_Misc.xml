@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Combat -->
+
+  <Kills.label>вбивства</Kills.label>
+  <Kills.description>Кількість істот, яких я вбив.</Kills.description>
+
+  <KillsHumanlikes.label>вбивств (гуманоїдів)</KillsHumanlikes.label>
+  <KillsHumanlikes.description>Кількість гуманоїдів, який я вбив.</KillsHumanlikes.description>
+
+  <KillsAnimals.label>вбивств(тварин)</KillsAnimals.label>
+  <KillsAnimals.description>Кількість тварин, яких я вбив.</KillsAnimals.description>
+
+  <KillsMechanoids.label>вбивств(механоїдів)</KillsMechanoids.label>
+  <KillsMechanoids.description>Кількість механоїдів, яких я вбив.</KillsMechanoids.description>
+
+  <PawnsDowned.label>ворогів збито</PawnsDowned.label>
+  <PawnsDowned.description>Кількість істот, яких я збив.</PawnsDowned.description>
+
+  <PawnsDownedHumanlikes.label>ворогів збито (гуманоїди)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>Кількість гуманоїдів, яких я збив.</PawnsDownedHumanlikes.description>
+
+  <PawnsDownedAnimals.label>ворогів збито (тварини)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>Кількість тварин, яких я збив.</PawnsDownedAnimals.description>
+
+  <PawnsDownedMechanoids.label>ворогів збито (механоїди)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>Кількість механоїдів, яких я збив.</PawnsDownedMechanoids.description>
+
+  <ShotsFired.label>постріли</ShotsFired.label>
+  <ShotsFired.description>Кількість пострілів, які я зробив.</ShotsFired.description>
+
+  <Headshots.label>постріли у голову</Headshots.label>
+  <Headshots.description>Кількість пострілів у голову, які я зробив.</Headshots.description>
+
+  <DamageDealt.label>наніс шкоди</DamageDealt.label>
+  <DamageDealt.description>Кількість шкоди, яку я наніс.</DamageDealt.description>
+
+  <DamageTaken.label>отримав шкоди</DamageTaken.label>
+  <DamageTaken.description>Кількість шкоди, яку я отримав.</DamageTaken.description>
+
+
+  <!-- Excitement -->
+
+  <TimesInMentalState.label>часу у психічних зривах</TimesInMentalState.label>
+  <TimesInMentalState.description>Скільки разів у мене стався психічний зрив.</TimesInMentalState.description>
+
+  <TimesOnFire.label>час під вогнем</TimesOnFire.label>
+  <TimesOnFire.description>Скільки часу я був під ворожим вогнем.</TimesOnFire.description>
+
+  <FiresExtinguished.label>вогнищ погашено</FiresExtinguished.label>
+  <FiresExtinguished.description>Кількість вогнищ, які я загасив.</FiresExtinguished.description>
+
+
+  <!-- Work -->
+
+  <OperationsReceived.label>операцій зроблено</OperationsReceived.label>
+  <OperationsReceived.description>Скільки раз я був на хірургічному столі.</OperationsReceived.description>
+
+  <OperationsPerformed.label>операцій проведено</OperationsPerformed.label>
+  <OperationsPerformed.description>Скільки раз я проводив операції.</OperationsPerformed.description>
+
+  <TimesTendedTo.label>лікування отримав</TimesTendedTo.label>
+  <TimesTendedTo.description>Скільки разів я отримував медичну допомогу.</TimesTendedTo.description>
+
+  <TimesTendedOther.label>піклувань</TimesTendedOther.label>
+  <TimesTendedOther.description>Скільки разів я піклувався про хворих.</TimesTendedOther.description>
+
+  <PeopleCaptured.label>людей захоплено</PeopleCaptured.label>
+  <PeopleCaptured.description>Кількість людей, яких я полонив.</PeopleCaptured.description>
+
+  <PrisonersRecruited.label>в'язнів рекрутував</PrisonersRecruited.label>
+  <PrisonersRecruited.description>Кількість в'язнів, яких я рекрутував.</PrisonersRecruited.description>
+
+  <PrisonersChatted.label>розмов з в'язнями</PrisonersChatted.label>
+  <PrisonersChatted.description>Скільки разів я проводив бесіди з в'язнями.</PrisonersChatted.description>
+
+  <AnimalsTamed.label>тварин приручено</AnimalsTamed.label>
+  <AnimalsTamed.description>Кількість тварин, яких я приручив.</AnimalsTamed.description>
+
+  <AnimalsSlaughtered.label>тварин зарізано</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>Кількість тварин, який я вбив.</AnimalsSlaughtered.description>
+
+  <MealsCooked.label>страв приготовано</MealsCooked.label>
+  <MealsCooked.description>Кількість страв, які я приготував.</MealsCooked.description>
+
+  <ThingsConstructed.label>речей побудовано</ThingsConstructed.label>
+  <ThingsConstructed.description>Кількість речей, які я побудував.</ThingsConstructed.description>
+
+  <ThingsInstalled.label>речей встановлено</ThingsInstalled.label>
+  <ThingsInstalled.description>Кількість речей, які я встановив.</ThingsInstalled.description>
+
+  <ThingsRepaired.label>речей відремонтовано</ThingsRepaired.label>
+  <ThingsRepaired.description>Кількість речей, які я відремонтував.</ThingsRepaired.description>
+
+  <ThingsCrafted.label>речей змайстровано</ThingsCrafted.label>
+  <ThingsCrafted.description>Кількість речей, які я змайстрував.</ThingsCrafted.description>
+
+  <ThingsHauled.label>речей перенесено</ThingsHauled.label>
+  <ThingsHauled.description>Кількість речей, які я переніс.</ThingsHauled.description>
+
+  <PlantsSown.label>рослин посаджено</PlantsSown.label>
+  <PlantsSown.description>Кількість рослин, які я посадив.</PlantsSown.description>
+
+  <PlantsHarvested.label>рослин зібрано</PlantsHarvested.label>
+  <PlantsHarvested.description>Кількість рослин, які я зібрав.</PlantsHarvested.description>
+
+  <CellsMined.label>порід викопано</CellsMined.label>
+  <CellsMined.description>Кількість порід, які я викопав.</CellsMined.description>
+
+  <MessesCleaned.label>прибрано сміття</MessesCleaned.label>
+  <MessesCleaned.description>Кількість сміття, яке я брибрав.</MessesCleaned.description>
+
+  <ResearchPointsResearched.label>вклад в досягнення</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>Кількість моїх очок дослідження.</ResearchPointsResearched.description>
+
+  <CorpsesBuried.label>трупів спалено</CorpsesBuried.label>
+  <CorpsesBuried.description>Кількість трупів, які я спалив.</CorpsesBuried.description>
+
+  <NutritionEaten.label>харчування</NutritionEaten.label>
+  <NutritionEaten.description>Кількість їжі, яку я з'їв.</NutritionEaten.description>
+
+  <TrapsRearmed.label>пасток активовано</TrapsRearmed.label>
+  <TrapsRearmed.description>Кількість пасток, які я активував.</TrapsRearmed.description>
+
+  <BodiesStripped.label>роздягнув трупів</BodiesStripped.label>
+  <BodiesStripped.description>Кількість трупів, які я обібрав.</BodiesStripped.description>
+
+  <ThingsUninstalled.label>речей розібрав</ThingsUninstalled.label>
+  <ThingsUninstalled.description>Кількість речей, які розібрав.</ThingsUninstalled.description>
+
+  <ThingsDeconstructed.label>речей демонтовано</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>Кількість речей, які я демонтував.</ThingsDeconstructed.description>
+
+  <ArtifactsActivated.label>артифактів активовано</ArtifactsActivated.label>
+  <ArtifactsActivated.description>Кількість артефактів, які я активував.</ArtifactsActivated.description>
+
+  <ContainersOpened.label>контейнерів відчинено</ContainersOpened.label>
+  <ContainersOpened.description>Кількість контейнерів, які я відкрив.</ContainersOpened.description>
+
+  <SwitchesFlicked.label>активував перемикач</SwitchesFlicked.label>
+  <SwitchesFlicked.description>Кількість моїх активацій перемикача.</SwitchesFlicked.description>
+
+
+</LanguageData>
