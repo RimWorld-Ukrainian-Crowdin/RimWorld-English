@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shooting -->
+
+  <MeleeDPS.label>ШЗС у ближньому бої</MeleeDPS.label>
+  <MeleeDPS.description>Середня шкода за секунду в ближньому бою. Цей параметр ігнорує захист цілі, як ухилення і броню.</MeleeDPS.description>
+
+  <MeleeHitChance.label>можливість вдарити</MeleeHitChance.label>
+  <MeleeHitChance.description>Шанс вразити ціль в ближньому бою. Ціль ще може ухилитися, навіть якщо ми влучили.</MeleeHitChance.description>
+
+  <MeleeDodgeChance.label>можливість ухилитися в ближньому бою</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Шанс ухилитися в ближньому бою. Персонажі не будуть ухилятися поки прицілюються або стріляють зі зброї.</MeleeDodgeChance.description>
+
+  <ShootingAccuracy.label>точність стрільби</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Базовий шанс не промахнутися за клітинку до цілі пострілу. Шанс попасти також залежить від цілі, прикриття та погоди, його можна переглянути вибравши стрілка і навівши курсор на ціль.</ShootingAccuracy.description>
+
+  <AimingDelayFactor.label>час прицілювання</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Скільки часу буде потрібно, щоб вистрілити після прицілювання.</AimingDelayFactor.description>
+
+
+</LanguageData>
