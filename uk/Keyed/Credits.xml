@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MainPageCredit>Симулятор колонії від Tynan Sylvester</MainPageCredit>
+
+  <Credits_Developers>Розробники</Credits_Developers>
+  <Credit_DirectionVarious>Напрямок, дизайн, код, дизайн</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Звук</Credit_MusicAndSound>
+  <Credit_Code>Код</Credit_Code>
+  <Credit_GameArt>Дизайн</Credit_GameArt>
+  <Credit_MenuArt>Дизайн меню</Credit_MenuArt>
+  <Credit_AdditionalCode>Додатковий код</Credit_AdditionalCode>
+
+  <Credits_AdditionalDevelopment>Додаткова розробка</Credits_AdditionalDevelopment>
+
+  <Credit_SpecialThanks>Особливі подяки</Credit_SpecialThanks>
+
+
+  <Credits_TitleCommunity>Волонтери спільноти</Credits_TitleCommunity>
+  <Credit_Tester>Тестер</Credit_Tester>
+  <Credit_ModDonation>Донор модифікатора</Credit_ModDonation>
+  <Credit_WritingDonation>Донор написання</Credit_WritingDonation>
+  <Credit_Moderator>Модератор</Credit_Moderator>
+  <Credit_WikiMaster>Майстер Вікі</Credit_WikiMaster>
+
+  <Credits_TitleLanguage>Мова {0}</Credits_TitleLanguage>
+  <Credit_Writer>Письменник</Credit_Writer>
+  <Credit_Translator>Перекладачі</Credit_Translator>
+  <Credit_OpenSourceLibraries>Бібліотеки з відкритим вихідним кодом</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Генерація шуму</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Дякуємо за гру!</ThanksForPlaying>
+
+</LanguageData>
