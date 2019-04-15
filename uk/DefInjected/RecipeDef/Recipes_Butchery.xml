@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ButcherCorpseFlesh.label>обробити тушу</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Обробити тушу, щоб отримати м'ясо.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Розрізає.</ButcherCorpseFlesh.jobString>
+
+  <ButcherCorpseMechanoid.label>розібрати механоїдів</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Розібрати мертвого механоїда на компоненти.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Розбирання механоїда.</ButcherCorpseMechanoid.jobString>
+
+
+</LanguageData>
