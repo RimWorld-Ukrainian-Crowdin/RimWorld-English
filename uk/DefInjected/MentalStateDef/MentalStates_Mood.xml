@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <Berserk.label>лють</Berserk.label>
+  <Berserk.beginLetter>{0} розлютився!</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>лють</Berserk.beginLetterLabel>
+  <Berserk.recoveryMessage>{0} заспокоївся(лася).</Berserk.recoveryMessage>
+  <Berserk.baseInspectLine>Психічний стан: Лють</Berserk.baseInspectLine>
+
+  <FireStartingSpree.label>схопив(ла) сірники</FireStartingSpree.label>
+  <FireStartingSpree.beginLetter>{0} вирішив(ла) очистити це місце полум'ям.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>піроманьяк</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.recoveryMessage>{0} схаменувся(лася).</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>Психічний стан: Піроманьяк</FireStartingSpree.baseInspectLine>
+
+  <GiveUpExit.label>здався(лася) та йде геть</GiveUpExit.label>
+  <GiveUpExit.beginLetter>{0} покидає поселення.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>здався(лась)</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.recoveryMessage>{0} запокоївся(лася) і повертається в поселення.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>Психічний стан: здався і втікає</GiveUpExit.baseInspectLine>
+
+  <BingingDrugExtreme.label>під кайфом</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>Психічний стан: сидить на наркотику {0}</BingingDrugExtreme.baseInspectLine>
+
+  <Jailbreaker.label>підбурює в'язня до втечі</Jailbreaker.label>
+  <Jailbreaker.beginLetter>{0} має психічний розлад і збирається спонукати до втечі ув'язнених.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>бунтівник</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.recoveryMessage>{0} більше не підбурює в'язнів до втечі.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.baseInspectLine>Психічний стан: Бунтівник</Jailbreaker.baseInspectLine>
+
+  <Slaughterer.label>м'ясник</Slaughterer.label>
+  <Slaughterer.beginLetter>{0} має психічний розлад і збирається зірвати СВОЮ злість на ваших тваринах.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>м'ясник</Slaughterer.beginLetterLabel>
+  <Slaughterer.recoveryMessage>{0} більше не вбиває випадкових тварин.</Slaughterer.recoveryMessage>
+  <Slaughterer.baseInspectLine>Психічний стан: М'ясник</Slaughterer.baseInspectLine>
+
+  <MurderousRage.label>жага вбивства</MurderousRage.label>
+  <MurderousRage.beginLetter>{0} збожеволів. HECAP збирається вбити {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>жага вбивства</MurderousRage.beginLetterLabel>
+  <MurderousRage.recoveryMessage>{0} більше не бажає вбивати.</MurderousRage.recoveryMessage>
+  <MurderousRage.baseInspectLine>Психічний стан: Жага вбивства</MurderousRage.baseInspectLine>
+
+
+  <!-- Mental breaks: major -->
+
+  <BingingDrugMajor.label>під кайфом</BingingDrugMajor.label>
+  <BingingDrugMajor.baseInspectLine>Психічний стан: сидить на наркотику {0}</BingingDrugMajor.baseInspectLine>
+
+  <WanderPsychotic.label>блукає в психозі</WanderPsychotic.label>
+  <WanderPsychotic.beginLetter>{0} блукає навколо в психозі.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.beginLetterLabel>марить</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.recoveryMessage>{0} прийшов(ла) до тями.</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.baseInspectLine>Психічний стан: Бродіння навколо</WanderPsychotic.baseInspectLine>
+
+  <Tantrum.label>істерика</Tantrum.label>
+  <Tantrum.beginLetter>{0} має напад істерії.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>істерика</Tantrum.beginLetterLabel>
+  <Tantrum.recoveryMessage>{0} заспокоївся(лася).</Tantrum.recoveryMessage>
+  <Tantrum.baseInspectLine>Психічний стан: Істерика</Tantrum.baseInspectLine>
+
+  <TargetedTantrum.label>істерика</TargetedTantrum.label>
+  <TargetedTantrum.beginLetter>{0} має приступ істерії. HECAP збирається знищити {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>істерика</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.recoveryMessage>{0} заспокоївся(лася).</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.baseInspectLine>Психічний стан: Істерика</TargetedTantrum.baseInspectLine>
+
+  <BedroomTantrum.label>істерика</BedroomTantrum.label>
+  <BedroomTantrum.beginLetter>{0} має приступ істерії. HECAP збирається трощити меблі в СВОЇЙ кімнаті.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>істерика</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.recoveryMessage>{0} заспокоївся(лася).</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.baseInspectLine>Психічний стан: істерика</BedroomTantrum.baseInspectLine>
+
+  <SadisticRage.label>прояв садизму</SadisticRage.label>
+  <SadisticRage.beginLetter>{0} став садистом. HECAP збирається зірвати СВОЮ злість на ув'язнених.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>прояв садизму</SadisticRage.beginLetterLabel>
+  <SadisticRage.recoveryMessage>{0} заспокоївся(лася).</SadisticRage.recoveryMessage>
+  <SadisticRage.baseInspectLine>Психічний стан: Прояв садизму</SadisticRage.baseInspectLine>
+
+  <CorpseObsession.label>одержимість трупами</CorpseObsession.label>
+  <CorpseObsession.beginLetter>{0} некрофіл. HECAP збирається викопати труп.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>одержимість трупами</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.recoveryMessage>{0} більше не цікавиться трупами.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>Психічний стан: Одержимість трупами</CorpseObsession.baseInspectLine>
+
+
+  <!-- Mental breaks: minor -->
+
+  <BingingFood.label>переїдання</BingingFood.label>
+  <BingingFood.beginLetter>{0} їсть забагато.</BingingFood.beginLetter>
+  <BingingFood.beginLetterLabel>харчовий запій</BingingFood.beginLetterLabel>
+  <BingingFood.recoveryMessage>{0} більше не переїдає.</BingingFood.recoveryMessage>
+  <BingingFood.baseInspectLine>Психічний стан: об'їдається</BingingFood.baseInspectLine>
+
+  <WanderSad.label>меланхолія</WanderSad.label>
+  <WanderSad.beginLetter>{0} блукає навколо в меланхолії.</WanderSad.beginLetter>
+  <WanderSad.beginLetterLabel>меланхолія</WanderSad.beginLetterLabel>
+  <WanderSad.recoveryMessage>{0} піднявся духом.</WanderSad.recoveryMessage>
+  <WanderSad.baseInspectLine>Психічний стан: Меланхолія</WanderSad.baseInspectLine>
+
+  <WanderOwnRoom.label>усамітнення</WanderOwnRoom.label>
+  <WanderOwnRoom.beginLetter>{0} усамітнився у СВОЇЙ кімнаті.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.beginLetterLabel>ховається в кімнаті</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.recoveryMessage>{0} покинув СВОЮ кімнату.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.baseInspectLine>Психічний стан: Усамітнення</WanderOwnRoom.baseInspectLine>
+
+  <InsultingSpree.label>ображається</InsultingSpree.label>
+  <InsultingSpree.beginLetter>{0} вирішив(ла) ображатися.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>ображається</InsultingSpree.beginLetterLabel>
+  <InsultingSpree.recoveryMessage>{0} більше не ображається.</InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>Психічний стан: Образа</InsultingSpree.baseInspectLine>
+
+  <TargetedInsultingSpree.label>ображається</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetter>{0} вирішив(ла) ображатися на {1}.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>ображається</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage/>
+  <TargetedInsultingSpree.baseInspectLine>Психічний стан: Образа на {0}</TargetedInsultingSpree.baseInspectLine>
+
+
+</LanguageData>
