@@ -1,40 +1,33 @@
-﻿notorious
-deadly
-deep
-poison
-jagged
-loyal
-unstoppable
-animal
-bloody
-stonefaced
-ghostface
-suicidal
-manic
-crazy
-wild
-burning
-murderous
-fearful
-terrifying
-smoky
-nutty
-killer
-dark
-furious
-angry
-savage
-blank
-emotionless
-mindless
-awesome
-epic
-murderous
-supreme
-extreme
-mad
-sharp
-bladed
+горезвісний
+смертельно
+глибоко
+отрута
+зубчастий
+лояльний
+не зупиняється
+тварина
+кривавий
+кам'яна плита
+гострий колір
+самогубство
+маніакально
+божевільний
+дикий
+горіння
+смертоносний
+антилюбити
+боїться
+страшно
+димчастий
+горіховий
+вбивця
+темний
+лютий
+сердитий
+дикун
+порожній
+бездушний
+безглуздо
 
 
 
