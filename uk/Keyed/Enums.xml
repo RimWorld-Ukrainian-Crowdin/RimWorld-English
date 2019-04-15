@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Темрява</Dark>
+  <Lit>Світло</Lit>
+  <LitBrightly>Ярко</LitBrightly>
+
+  <!-- history upload pref -->
+  <Unspecified>Не визначено</Unspecified>
+  <Always>Дозволено</Always>
+  <Never>Заборонено</Never>
+
+  <!-- Price types -->
+  <PriceTypeVeryCheap>дуже дешево</PriceTypeVeryCheap>
+  <PriceTypeCheap>дешево</PriceTypeCheap>
+  <PriceTypeNormal>звичайно</PriceTypeNormal>
+  <PriceTypeExpensive>дорого</PriceTypeExpensive>
+  <PriceTypeExorbitant>непомірно</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>заборонено</StoragePriorityUnstored>
+  <StoragePriorityLow>низький</StoragePriorityLow>
+  <StoragePriorityNormal>звичайний</StoragePriorityNormal>
+  <StoragePriorityPreferred>переважний</StoragePriorityPreferred>
+  <StoragePriorityImportant>пріорітетний</StoragePriorityImportant>
+  <StoragePriorityCritical>обов'язковий</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>овочі</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>сире м'ясо</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>трупи</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>насіння</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>продукти тваринного походження</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>живі рослини</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>живі дерева</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>готова їжа</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>оброблені продукти</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>алкогольні напої</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>шматки</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>жахливо</QualityCategory_Awful>
+  <QualityCategory_Shoddy>паскудно</QualityCategory_Shoddy>
+  <QualityCategory_Poor>погано</QualityCategory_Poor>
+  <QualityCategory_Normal>нормально</QualityCategory_Normal>
+  <QualityCategory_Good>добре</QualityCategory_Good>
+  <QualityCategory_Superior>винятково</QualityCategory_Superior>
+  <QualityCategory_Excellent>відмінно</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>майстерно</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>легендарно</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>жах</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>паск</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>пог</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>норм</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>добр</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>виня</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>відм</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>маст</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>лег</QualityCategoryShort_Legendary>
+
+  <!-- Hunger -->
+  <HungerLevel_Starving>Помирає від голоду</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Дуже голодний(а)</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Голодний(а)</HungerLevel_Hungry>
+  <HungerLevel_Fed>Насичений(а)</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Виснаженний(ий)</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Дуже втомивлений(а)</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Втомлений(а)</HungerLevel_Tired>
+  <HungerLevel_Rested>Повний(а) сил</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>плоска</Hilliness_Flat>
+  <Hilliness_SmallHills>невеликі пагорби</Hilliness_SmallHills>
+  <Hilliness_LargeHills>великі пагорби</Hilliness_LargeHills>
+  <Hilliness_Mountainous>гори</Hilliness_Mountainous>
+  <Hilliness_Impassable>неможливі</Hilliness_Impassable>
+
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Створення</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Перевірка</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Не робочий</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Підготовка даних конфігурації</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Підготовка файлів вмісту</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Завантаження вмісту</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Завантаження файлу попереднього перегляду</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Внесенням змін</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>локальні файли</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>Без медичної допомоги</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Допомога лікаря, але без ліків</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Рослині ліки або гірші</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Звичайні ліки або гірші</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Найкращщя медична допомога</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Ігнорувати</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Атакувати</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Втеча</HostilityResponseMode_Flee>
+
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>зростає</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>вирощений</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>заражений</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>тваринництво</TechLevel_Animal>
+  <TechLevel_Neolithic>неоліт</TechLevel_Neolithic>
+  <TechLevel_Medieval>середньовіччя</TechLevel_Medieval>
+  <TechLevel_Industrial>промислове</TechLevel_Industrial>
+  <TechLevel_Spacer>космічне</TechLevel_Spacer>
+  <TechLevel_Ultra>найкращу</TechLevel_Ultra>
+  <TechLevel_Transcendent>поза межами</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Стояти</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Скидання капсул</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>всі персонажі</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>стартові персонажі гравця</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>не стартові персонажі</PawnGenerationContext_NonPlayer>
+
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Показувати ім'я тварин</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Приручені (тільки найменовані)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Приручені (всі)</AnimalNameDisplayMode_TameAll>
+
+  <!-- Temperature -->
+  <Celsius>За Цельсієм</Celsius>
+  <Fahrenheit>За Фаренгейтом</Fahrenheit>
+  <Kelvin>В келвінах</Kelvin>
+
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>Пн</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>ПнСх</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>Сх</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>ПдСх</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>Пд</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>ПдЗх</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>Зх</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>ПнЗх</Direction8Way_NorthWest_Short>
+
+</LanguageData>
