@@ -1,50 +1,50 @@
-Lake Superior
-Lake Huron
-Great Bear Lake
-Great Slave Lake
-Lake Erie
-Lake Winnipeg
-Lake Ontario
-Lake Athabasca
-Reindeer Lake
-Smallwood Reservoir
-Nettilling Lake
-Lake Winnipegosis
-Lake Nipigon
-Lake Manitoba
-Lake of the Woods
-Caniapiscau Reservoir
-Dubawnt Lake
-Amadjuak Lake
-Lake Melville
-Robert-Bourassa Reservoir
-Wollaston Lake
-La Grande 3 Reservoir
-Lac Mistassini
-Nueltin Lake
-Southern Indian Lake
-Manicouagan Reservoir
-Baker Lake
-Lac La Martre
-Williston Lake
-Lac Seul
-Gouin Reservoir
-Yathkyed Lake
-Lake Claire
-Cree Lake
-Lac la Ronge
-Lac a l'Eau-Claire
-Cedar Lake
-Kasba Lake
-Laforge-1 Reservoir
-Lake Champlain
-Lac Bienville
-Island Lake
-Lesser Slave Lake
-Gods Lake
-Lake St. Clair
-Aberdeen Lake
-Bras d'Or Lake
-Napaktulik Lake
-MacKay Lake
-Lac Saint-Jean
+Озеро Верхнє
+Озеро Гурон
+Велике Ведмеже Озеро
+Велике Невільниче озеро
+Озеро Ері
+Озеро Вінніпег
+Озеро Онтаріо
+Озеро Атабаска
+Озеро Олень
+Смолвудське Водосховище
+Озеро Неттіллінг
+Озеро Виннипегосис
+Озеро Ніпіґон
+Озеро Манітоба
+Лісове озеро
+Водосховище Каніапіскау
+Озеро Дубавні
+Озеро Амаджуак
+Озеро Мелвілл
+Водосховище Робер-Бурасса
+Озеро Вулластон
+Водосховище Ла-Гранд-3
+Лак Мистассіні
+Озеро Ньюелтін
+Озеро Південно Індійське
+Велетенське водосховище
+Бейкер-Лейк
+Лак-Ла-Мартр
+Озеро Віллістон
+Лак Сеул
+Водосховище Гуен
+Озеро Яткаєд
+Озеро Клер
+Кри-Лейк
+Лак-Ла-Ронж
+Лак а І'Еу-Клер
+Озеро Кедар
+Озеро Касба
+Водосховище Лафорж-1
+Озеро Шамплейн
+Озеро Б'єнвіль
+Озеро Острів
+Мале невільниче озеро
+Озеро Богів
+Озеро Св. Клер
+Озеро Абердін
+Озеро бра-д'ор
+Озеро Напактулік
+Озеро Маккай
+Озеро Сен-Жан
