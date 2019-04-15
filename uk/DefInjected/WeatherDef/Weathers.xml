@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Clear.label>ясне</Clear.label>
+  <Clear.description>Ясний день. Ніяких штрафів чи модифікацій.</Clear.description>
+
+  <Fog.label>туман</Fog.label>
+  <Fog.description>Туман знижує точність дальньої зброї.</Fog.description>
+
+  <Rain.label>дощ</Rain.label>
+  <Rain.description>Дощ зменшує точність дальньої зброї, гасить вогонь, і сповільнює людей.</Rain.description>
+
+  <DryThunderstorm.label>гроза</DryThunderstorm.label>
+  <DryThunderstorm.description>Гроза небезпечна через те що блискавка може розпочати пожежу і тут немає дощу щоб його погасити.</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>гроза з дощем</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Блискавка може розпочати пожежу, але дощ його погасить. Також дощ знижує швидкість руху і точність стрільби.</RainyThunderstorm.description>
+
+  <FoggyRain.label>дощ з туманом</FoggyRain.label>
+  <FoggyRain.description>Зменшує точність і швидкість руху.</FoggyRain.description>
+
+  <SnowHard.label>сильний сніг</SnowHard.label>
+  <SnowHard.description>Сніг зменшує точність дальньої зброї, гасить вогонь, і сповільнює людей.</SnowHard.description>
+
+  <SnowGentle.label>слабкий сніг</SnowGentle.label>
+  <SnowGentle.description>Сніг зменшує точність дальньої зброї, гасить вогонь, і сповільнює людей.</SnowGentle.description>
+
+
+</LanguageData>
