@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>чотиринога тварина</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>чотиринога тварина з хвостом</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>чотиринога копитна тварина</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>чотиринога копитна тварина з горбом</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>чотиринога копитна тварина з бивнями</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>чотиринога копитна тварина з бивнями та хоботом</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>чотиринога копитна тварина з рогом</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>чотиринога тварина з кігтями, хвостом та щелепою</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <TurtleLike.label>черепахоподібне</TurtleLike.label>
+  <Monkey.label>мавпа</Monkey.label>
+
+
+</LanguageData>
