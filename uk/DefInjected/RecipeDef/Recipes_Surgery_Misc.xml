@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anesthetize -->
+
+  <Anesthetize.label>знеболити</Anesthetize.label>
+  <Anesthetize.description>Робить істоту без свідомості шляхом введення анестетика.</Anesthetize.description>
+  <Anesthetize.jobString>Знеболює.</Anesthetize.jobString>
+
+
+  <!-- Euthanasia -->
+
+  <Euthanize.label>евтаназія</Euthanize.label>
+  <Euthanize.description>Приспати істоту.</Euthanize.description>
+  <Euthanize.jobString>Проводить евтаназію.</Euthanize.jobString>
+
+  <ShutDownMechanoid.label>вимкнути</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Завершує роботу механоїда.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Виключає механоїда.</ShutDownMechanoid.jobString>
+
+
+  <!-- removing hediffs (e.g. diseases) -->
+
+  <ExciseCarcinoma.label>видалення карциноми</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Видаляє карциному.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Проводить видалення карциноми.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успішно видалив карциному в персонажа {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+
+  <!-- removing body parts -->
+
+  <RemoveBodyPart.label>ампутація кінцівки</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Видаляє кінцівку.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Ампутує кінцівку.</RemoveBodyPart.jobString>
+
+  <RemoveMechanoidBodyPart.label>демонтаж деталі</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Демонтує деталь з живого механоїда.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Демонтує деталь.</RemoveMechanoidBodyPart.jobString>
+
+
+  <!-- special administer -->
+
+  <AdministerMechSerumHealer.label>призначити сиворотку відновлення</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Призначає сиворотку відновлення.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Дає сиворотку відновлення.</AdministerMechSerumHealer.jobString>
+
+
+</LanguageData>
