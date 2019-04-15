@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TemperateForest.label>помірні ліси</TemperateForest.label>
+  <TemperateForest.description>Листяні ліси впереміж з плодючими галявинами. Різноманітні тварини живуть серед дерев і на рівнинах. Взимку переміщення ускладнює сніг.</TemperateForest.description>
+
+  <TemperateSwamp.label>болото</TemperateSwamp.label>
+  <TemperateSwamp.description>Надзвичайно густа рослинність та заболочена земля значно ускладнюють переміщення та будівництво у цій місцевості. Багато видів тварин мешкають тут.</TemperateSwamp.description>
+
+
+</LanguageData>
