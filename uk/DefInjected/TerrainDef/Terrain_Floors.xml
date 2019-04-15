@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <Concrete.label>бетон</Concrete.label>
+  <Concrete.description>Звичайний бетон. Заливається на швидку руку, ходити по ньому легко, але доволі страшний на вигляд.</Concrete.description>
+
+  <PavedTile.label>бетонна плита</PavedTile.label>
+  <PavedTile.description>Дешево будувати і швидко рухатись. Нейтральний в плані зовнішності, але спорудження може зайняти деякий час.</PavedTile.description>
+
+  <WoodPlankFloor.label>дерев'яна підлога</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Підлога з досок. З нею відчуваєш себе як у дома. Її легко будувати, але вона може загорітися.</WoodPlankFloor.description>
+
+  <MetalTile.label>металічна підлога</MetalTile.label>
+  <MetalTile.description>З нею почуваєшся, ніби на космічному кораблі. Красива, але дорога, та потребує час для будування.</MetalTile.description>
+
+  <SilverTile.label>підлога зі срібла</SilverTile.label>
+  <SilverTile.description>Дуже дорога та потребує багато часу на будівництво. Надзвичайно красива — те, що треба для вражаючого інтер’єру.</SilverTile.description>
+
+  <GoldTile.label>золота підлога</GoldTile.label>
+  <GoldTile.description>Найкрасивіша з усіх! Дуже дорога та вимагає найбільше роботи.</GoldTile.description>
+
+  <SterileTile.label>стерильна підлога</SterileTile.label>
+  <SterileTile.description>Стерильна підлога відштовхує грязюку. Ідеально підходить для лікарень, вберігаючи пацієнтів від багатьох інфекцій. Нейтральна за зовнішнім виглядом, та дуже повільно будується.</SterileTile.description>
+
+
+  <!-- Carpets -->
+
+  <CarpetRed.label>червоний килим</CarpetRed.label>
+  <CarpetRed.description>Плюшевий килим у прекрасному відтінку троянди.</CarpetRed.description>
+
+  <CarpetGreen.label>зелений килим</CarpetGreen.label>
+  <CarpetGreen.description>Натуральний на вигляд зелений килим.</CarpetGreen.description>
+
+  <CarpetBlue.label>синій килим</CarpetBlue.label>
+  <CarpetBlue.description>Приємний для ніг плюшевий килим в класному синьому кольорі.</CarpetBlue.description>
+
+  <CarpetCream.label>кремовий килим</CarpetCream.label>
+  <CarpetCream.description>Впровадження килиму кремового кольору.</CarpetCream.description>
+
+  <CarpetDark.label>темний килим</CarpetDark.label>
+  <CarpetDark.description>Професійний на вигляд темно-сірий килим.</CarpetDark.description>
+
+
+</LanguageData>
