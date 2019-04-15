@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuestBanditCamp.label>табір бандитів</QuestBanditCamp.label>
+  <QuestBanditCamp.letterText>{0}, {1} з {2}, надіслав нам повідомлення.\n\n Очевидно, бандити, розташовані в сусідньому таборі, напали на їхні каравани. Вони просили нас знищити це, що означає винищення всіх ворогів і турелей.\n\n Якщо нам вдасться, їх відносини покращаться, і вони надішлють нам цю нагороду:\n\n{3}</QuestBanditCamp.letterText>
+  <QuestBanditCamp.letterLabel>Табір бандитів</QuestBanditCamp.letterLabel>
+
+  <QuestItemStash.label>скарби</QuestItemStash.label>
+  <QuestItemStash.letterText>{0}, {1} з {2}, повідомив нас про колекцію цінних предметів недалеко від нас. Склад складається з:\n\n{3}\n\nНа жаль, якщо ми не заберемо ці предмети через {4} дні, то інші заберуть їх.\n\nБережіться, цінності мають тенденцію бути в небезпечній зоні. {5}</QuestItemStash.letterText>
+  <QuestItemStash.letterLabel>Скарби</QuestItemStash.letterLabel>
+
+  <QuestDownedRefugee.label>завдання по порятунку</QuestDownedRefugee.label>
+  <QuestDownedRefugee.letterText>{0} зв'язався з вами по радіо і запрошує допомогу. HECAP поранений і не може рухатися. Без вашої допомоги він помре через {1} днів.\n\nТут може бути небезпечно, стережіться.</QuestDownedRefugee.letterText>
+  <QuestDownedRefugee.letterLabel>Завдання по порятунку</QuestDownedRefugee.letterLabel>
+
+  <QuestPrisonerWillingToJoin.label>порятунок в'язня</QuestPrisonerWillingToJoin.label>
+  <QuestPrisonerWillingToJoin.letterText>В'язень {0} зміг вкрасти радіо і зв'язатися з вами!\n\nNAME утримується в лагері поряд з озброєним охоронцем. Врятуйте ЙОГО і, можливо, ВІН приєднається до вашої колонії HECAP це {1} річний {2}.</QuestPrisonerWillingToJoin.letterText>
+  <QuestPrisonerWillingToJoin.letterLabel>Порятунок в'язня</QuestPrisonerWillingToJoin.letterLabel>
+
+  <QuestPeaceTalks.label>перемовини</QuestPeaceTalks.label>
+  <QuestPeaceTalks.letterText>NAME, {0} з {1} надіслав нам повідомлення. HECAP бажає поспілкуватися поряд з нами.\n\nЦе може бути чудовою можливість покращити відносити з їхньою фракцією, проте поганий дипломат може спричини більше шкоди ніж позитива і навіть розізлити їх.\n\nПропозиція зникне через {2} дні.</QuestPeaceTalks.letterText>
+  <QuestPeaceTalks.letterLabel>Перемовини</QuestPeaceTalks.letterLabel>
+
+
+</LanguageData>
