@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrizzlyBear.label>ведмідь грізлі</GrizzlyBear.label>
+  <GrizzlyBear.labelPlural>ведмеді грізлі</GrizzlyBear.labelPlural>
+  <GrizzlyBear.lifeStages.0.label>ведмідь грізлі</GrizzlyBear.lifeStages.0.label>
+  <GrizzlyBear.lifeStages.0.labelPlural>ведмідь грізлі</GrizzlyBear.lifeStages.0.labelPlural>
+  <GrizzlyBear.lifeStages.0.labelMale>самець грізлі</GrizzlyBear.lifeStages.0.labelMale>
+  <GrizzlyBear.lifeStages.0.labelMalePlural>зграя самців грізлі</GrizzlyBear.lifeStages.0.labelMalePlural>
+  <GrizzlyBear.lifeStages.0.labelFemale>ведмедиха грізлі</GrizzlyBear.lifeStages.0.labelFemale>
+  <GrizzlyBear.lifeStages.0.labelFemalePlural>ведмедихи грізлі</GrizzlyBear.lifeStages.0.labelFemalePlural>
+  <GrizzlyBear.lifeStages.1.label>ведмідь грізлі</GrizzlyBear.lifeStages.1.label>
+  <GrizzlyBear.lifeStages.1.labelPlural>ведмідь грізлі</GrizzlyBear.lifeStages.1.labelPlural>
+  <GrizzlyBear.lifeStages.1.labelMale>самець грізлі</GrizzlyBear.lifeStages.1.labelMale>
+  <GrizzlyBear.lifeStages.1.labelMalePlural>зграя самців грізлі</GrizzlyBear.lifeStages.1.labelMalePlural>
+  <GrizzlyBear.lifeStages.1.labelFemale>ведмедиха грізлі</GrizzlyBear.lifeStages.1.labelFemale>
+  <GrizzlyBear.lifeStages.1.labelFemalePlural>ведмедихи грізлі</GrizzlyBear.lifeStages.1.labelFemalePlural>
+  <GrizzlyBear.lifeStages.2.label>ведмідь грізлі</GrizzlyBear.lifeStages.2.label>
+  <GrizzlyBear.lifeStages.2.labelPlural>ведмідь грізлі</GrizzlyBear.lifeStages.2.labelPlural>
+  <GrizzlyBear.lifeStages.2.labelMale>самець грізлі</GrizzlyBear.lifeStages.2.labelMale>
+  <GrizzlyBear.lifeStages.2.labelMalePlural>зграя самців грізлі</GrizzlyBear.lifeStages.2.labelMalePlural>
+  <GrizzlyBear.lifeStages.2.labelFemale>ведмедиха грізлі</GrizzlyBear.lifeStages.2.labelFemale>
+  <GrizzlyBear.lifeStages.2.labelFemalePlural>ведмедихи грізлі</GrizzlyBear.lifeStages.2.labelFemalePlural>
+  <GrizzlyBear.labelMale>самець грізлі</GrizzlyBear.labelMale>
+  <GrizzlyBear.labelMalePlural>зграя самців грізлі</GrizzlyBear.labelMalePlural>
+  <GrizzlyBear.labelFemale>ведмедиха грізлі</GrizzlyBear.labelFemale>
+  <GrizzlyBear.labelFemalePlural>ведмедихи грізлі</GrizzlyBear.labelFemalePlural>
+
+  <PolarBear.label>білий ведмідь</PolarBear.label>
+  <PolarBear.labelPlural>білі ведмеді</PolarBear.labelPlural>
+  <PolarBear.lifeStages.0.label>білий ведмідь</PolarBear.lifeStages.0.label>
+  <PolarBear.lifeStages.0.labelPlural>білий ведмідь</PolarBear.lifeStages.0.labelPlural>
+  <PolarBear.lifeStages.0.labelMale>самець білого ведмедя</PolarBear.lifeStages.0.labelMale>
+  <PolarBear.lifeStages.0.labelMalePlural>зграя білих ведмедів</PolarBear.lifeStages.0.labelMalePlural>
+  <PolarBear.lifeStages.0.labelFemale>біла ведмедиха</PolarBear.lifeStages.0.labelFemale>
+  <PolarBear.lifeStages.0.labelFemalePlural>зграя білих ведмедих</PolarBear.lifeStages.0.labelFemalePlural>
+  <PolarBear.lifeStages.1.label>білий ведмідь</PolarBear.lifeStages.1.label>
+  <PolarBear.lifeStages.1.labelPlural>білий ведмідь</PolarBear.lifeStages.1.labelPlural>
+  <PolarBear.lifeStages.1.labelMale>самець білого ведмедя</PolarBear.lifeStages.1.labelMale>
+  <PolarBear.lifeStages.1.labelMalePlural>зграя білих ведмедів</PolarBear.lifeStages.1.labelMalePlural>
+  <PolarBear.lifeStages.1.labelFemale>біла ведмедиха</PolarBear.lifeStages.1.labelFemale>
+  <PolarBear.lifeStages.1.labelFemalePlural>зграя білих ведмедих</PolarBear.lifeStages.1.labelFemalePlural>
+  <PolarBear.lifeStages.2.label>білий ведмідь</PolarBear.lifeStages.2.label>
+  <PolarBear.lifeStages.2.labelPlural>білий ведмідь</PolarBear.lifeStages.2.labelPlural>
+  <PolarBear.lifeStages.2.labelMale>самець білого ведмедя</PolarBear.lifeStages.2.labelMale>
+  <PolarBear.lifeStages.2.labelMalePlural>зграя білих ведмедів</PolarBear.lifeStages.2.labelMalePlural>
+  <PolarBear.lifeStages.2.labelFemale>біла ведмедиха</PolarBear.lifeStages.2.labelFemale>
+  <PolarBear.lifeStages.2.labelFemalePlural>зграя білих ведмедих</PolarBear.lifeStages.2.labelFemalePlural>
+  <PolarBear.labelMale>самець білого ведмедя</PolarBear.labelMale>
+  <PolarBear.labelMalePlural>зграя білих ведмедів</PolarBear.labelMalePlural>
+  <PolarBear.labelFemale>біла ведмедиха</PolarBear.labelFemale>
+  <PolarBear.labelFemalePlural>зграя білих ведмедих</PolarBear.labelFemalePlural>
+
+
+</LanguageData>
