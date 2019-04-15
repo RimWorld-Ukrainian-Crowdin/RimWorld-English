@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- In-game camera -->
+
+  <MapDollyUp.label>вгору</MapDollyUp.label>
+  <MapDollyDown.label>внизу</MapDollyDown.label>
+  <MapDollyLeft.label>вліво</MapDollyLeft.label>
+  <MapDollyRight.label>вправо</MapDollyRight.label>
+  <MapZoomIn.label>приблизити</MapZoomIn.label>
+  <MapZoomOut.label>віддалити</MapZoomOut.label>
+
+
+  <!-- Map play -->
+
+  <TakeScreenshot.label>зробити знімок</TakeScreenshot.label>
+  <ToggleScreenshotMode.label>перемкнути режим знімків</ToggleScreenshotMode.label>
+  <SelectNextInCell.label>вибрати інше в клітинці</SelectNextInCell.label>
+  <TogglePause.label>призупинити/продовжити гру</TogglePause.label>
+  <TimeSpeedNormal.label>швидкість гри: нормальна</TimeSpeedNormal.label>
+  <TimeSpeedFast.label>швидкість гри: швидка</TimeSpeedFast.label>
+  <TimeSpeedSuperfast.label>швидкість гри: швидша</TimeSpeedSuperfast.label>
+  <TimeSpeedUltrafast.label>швидкість гри: найшвидша (налагодження)</TimeSpeedUltrafast.label>
+  <PreviousColonist.label>попередній колоніст</PreviousColonist.label>
+  <NextColonist.label>наступний колоніст</NextColonist.label>
+
+
+  <!-- Misc (re-used) -->
+
+  <Misc1.label>Інше 1</Misc1.label>
+  <Misc2.label>Інше 2</Misc2.label>
+  <Misc3.label>Інше 3</Misc3.label>
+  <Misc4.label>Інше 4</Misc4.label>
+  <Misc5.label>Інше 5</Misc5.label>
+  <Misc6.label>Інше 6</Misc6.label>
+  <Misc7.label>Інше 7</Misc7.label>
+  <Misc8.label>Інше 8</Misc8.label>
+  <Misc9.label>Інше 9</Misc9.label>
+  <Misc10.label>Інше 10</Misc10.label>
+  <Misc11.label>Інше 11</Misc11.label>
+  <Misc12.label>Інше 12</Misc12.label>
+
+
+  <!-- Selection special -->
+
+  <CommandTogglePower.label>перемкнути живлення</CommandTogglePower.label>
+  <CommandItemForbid.label>перемкнути заборону</CommandItemForbid.label>
+  <CommandColonistDraft.label>чернетка</CommandColonistDraft.label>
+
+
+  <!-- Architect: Common -->
+
+  <DesignatorCancel.label>скасувати</DesignatorCancel.label>
+  <DesignatorDeconstruct.label>зруйнувати</DesignatorDeconstruct.label>
+  <DesignatorRotateLeft.label>повернути ліворуч</DesignatorRotateLeft.label>
+  <DesignatorRotateRight.label>повернути праворуч</DesignatorRotateRight.label>
+
+
+  <!-- Modifiers -->
+
+  <ModifierIncrement10x.label>приріст 10x</ModifierIncrement10x.label>
+  <ModifierIncrement100x.label>приріст 100x</ModifierIncrement100x.label>
+  <QueueOrder.label>налаштування черги</QueueOrder.label>
+
+
+  <!-- Debug -->
+
+  <TickOnce.label>спрацювати одного разу</TickOnce.label>
+  <ToggleGodMode.label>перемкнути режим бога</ToggleGodMode.label>
+  <ToggleDebugLog.label>перемикнути журнал налагодження</ToggleDebugLog.label>
+  <ToggleDebugActionsMenu.label>перемкнути меню дій</ToggleDebugActionsMenu.label>
+  <ToggleDebugLogMenu.label>перемкнути журнал налагодження</ToggleDebugLogMenu.label>
+  <ToggleDebugInspector.label>перемикнути інспектор відладки</ToggleDebugInspector.label>
+  <ToggleDebugSettingsMenu.label>перемкнути меню налаштувань налагодження</ToggleDebugSettingsMenu.label>
+
+
+</LanguageData>
