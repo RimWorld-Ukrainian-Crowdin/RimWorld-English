@@ -1,17 +1,17 @@
-﻿north
-northeast
-east
-southeast
-south
-southwest
-west
-northwest
+﻿північний
+північний схід
+схід
+південний схід
+південь
+південний захід
+захід
+північний Захід
 
-northern
-northeastern
-eastern
-southeastern
-southern
-southwestern
-western
-northwestern
+північ
+північний схід
+східний
+південний схід
+південь
+південно-західний
+західний
+північно-західний
