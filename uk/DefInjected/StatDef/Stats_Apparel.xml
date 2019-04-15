@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArmorRating_Blunt.label>Броня - тупої зброї</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Броня проти грубого пошкодження, як атак дубиною, обвалів гір і вибухів.</ArmorRating_Blunt.description>
+
+  <ArmorRating_Sharp.label>Броня - гострої зброї</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Броня проти гострих предметів, як кулі, ножі і укуси тварин.</ArmorRating_Sharp.description>
+
+  <ArmorRating_Heat.label>Броня - великих температур</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Броня проти температури, пов'язано з ушкодженнями по типу опіків.</ArmorRating_Heat.description>
+
+  <ArmorRating_Electric.label>Броня - струму </ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Броня проти електричних пошкоджень по типу імпульсів ЕМП.</ArmorRating_Electric.description>
+
+  <Insulation_Cold.label>Захист - холоду</Insulation_Cold.label>
+  <Insulation_Cold.description>Наскільки цей одяг захищає колоніста від холоду.</Insulation_Cold.description>
+
+  <Insulation_Heat.label>Захист - жара</Insulation_Heat.label>
+  <Insulation_Heat.description>Наскільки цей одяг захищає колоніста від жари.</Insulation_Heat.description>
+
+  <EnergyShieldEnergyMax.label>Заряд щита</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>Максимум енергії енергощита, який він може мати в певний час. Більше енергії дозволяє "поглинути" більше шкоди.</EnergyShieldEnergyMax.description>
+
+  <EnergyShieldRechargeRate.label>Швидкість перезарядки енергощита</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>Швидкість, з якою енергощит заряджається, поки він не зламається.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.formatString>{0}/с</EnergyShieldRechargeRate.formatString>
+
+  <SmokepopBeltRadius.label>Радіус димової завіси</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>Розмір території, яку покриє пояс-димзавіса після активації.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.formatString>{0} </SmokepopBeltRadius.formatString>
+
+
+</LanguageData>
