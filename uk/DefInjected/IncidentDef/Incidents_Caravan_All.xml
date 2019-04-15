@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Threats -->
+
+  <Ambush.label>засідка</Ambush.label>
+  <Ambush.letterText>На ваш караван напав {0} з фракції {1}!</Ambush.letterText>
+  <Ambush.letterLabel>Караван потрапив в засідку</Ambush.letterLabel>
+
+  <ManhunterAmbush.label>скажені звірі напали на ваш караван</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>На ваш караван напали скажені {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>На караван напали звірі</ManhunterAmbush.letterLabel>
+
+
+  <!-- Good -->
+
+  <CaravanMeeting.label>зустріч каравану</CaravanMeeting.label>
+
+
+  <!-- Bad -->
+
+  <CaravanDemand.label>вимога про викуп</CaravanDemand.label>
+
+
+</LanguageData>
