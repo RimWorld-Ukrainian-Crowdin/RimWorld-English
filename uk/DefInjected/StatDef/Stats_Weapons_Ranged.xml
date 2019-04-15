@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AccuracyTouch.label>Точність (зблизька)</AccuracyTouch.label>
+  <AccuracyTouch.description>Множник точності при стрільбі з дуже малої відстані.</AccuracyTouch.description>
+
+  <AccuracyShort.label>Точність (мала відстань)</AccuracyShort.label>
+  <AccuracyShort.description>Множник точності при стрільбі з малої відстані.</AccuracyShort.description>
+
+  <AccuracyMedium.label>Точність (середня відстань)</AccuracyMedium.label>
+  <AccuracyMedium.description>Множник точності при стрілььбі з середньої відстані.</AccuracyMedium.description>
+
+  <AccuracyLong.label>Точність (здалека)</AccuracyLong.label>
+  <AccuracyLong.description>Множник точності при стрльбі здалека.</AccuracyLong.description>
+
+  <RangedWeapon_Cooldown.label>час між пострілами</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>Показує, наскільки довго йде підготовка до наступного вистрілу.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} сек.</RangedWeapon_Cooldown.formatString>
+
+
+</LanguageData>
