@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Crashlanded.label>Crashlanded</Crashlanded.label>
-  <Crashlanded.description>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.</Crashlanded.description>
-  <Crashlanded.scenario.summary>Three crashlanded survivors - the classic RimWorld experience.</Crashlanded.scenario.summary>
+  <Crashlanded.label>Аварійне приземлення</Crashlanded.label>
+  <Crashlanded.description>Троє з вас прокинулися з саркофагу криптосну під звуки сирен і скрегіт металу. Ви ледь добралися до рятувальної шлюпки до того, як корабель розвалився. Через деякий час, ви приземлилися на цій невідомій планеті.</Crashlanded.description>
+  <Crashlanded.scenario.name>Аварійне приземлення</Crashlanded.scenario.name>
+  <Crashlanded.scenario.summary>Троє, що пережили аварійну посадку - це класичний досвід RimWorld.</Crashlanded.scenario.summary>
+  <Crashlanded.scenario.description>Троє з вас прокинулися з саркофагу криптосну під звуки сирен і скрегіт металу. Ви ледь добралися до рятувальної шлюпки до того, як корабель розвалився. Через деякий час, ви приземлилися на цій невідомій планеті.</Crashlanded.scenario.description>
 
-  <LostTribe.label>Lost Tribe</LostTribe.label>
-  <LostTribe.description>Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario.</LostTribe.description>
-  <LostTribe.scenario.parts.14.text>The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did.</LostTribe.scenario.parts.14.text>
-  <LostTribe.scenario.summary>Five lost tribespeople attempt to rebuild. Difficult.</LostTribe.scenario.summary>
+  <LostTribe.label>Утрачене плем'я</LostTribe.label>
+  <LostTribe.description>Ваше плем'я було знищено величезними і кровавими машинами, які були послані богами. П'ятьом з вас вдалося врятуватися. Тепер, прийшов час будувати новий будинок.\n\nПримітка: оскільки ви почнете нищими і дослідження проводяться повільніше, це складний сценарій.</LostTribe.description>
+  <LostTribe.scenario.name>Утрачене Плем'я</LostTribe.scenario.name>
+  <LostTribe.scenario.summary>П'ятеро утрачених дикунів спробують відновитися. Це складно.</LostTribe.scenario.summary>
+  <LostTribe.scenario.description>Ваше плем'я було знищено величезними і кровавими машинами, які були послані богами. П'ятьом з вас вдалося врятуватися. Тепер, прийшов час будувати новий будинок.\n\nПримітка: оскільки ви почнете нищими і дослідження проводяться повільніше, це складний сценарій.</LostTribe.scenario.description>
+  <LostTribe.scenario.parts.14.text>Боги були дуже сердиті. Кроваві машини прийшли вночі. Вони пронеслися через ваше поселення, розрізаючи і спалюючи ваших людей за допомогою своїх лез і демонічного вогню.\n\n Лише декілька з вас врятувалися. Зараз, після болісної подорожі пішки, без близьких друзів, в першу чергу необхідно побудувати новий будинок в дикій природі, як це робили твої предки.</LostTribe.scenario.parts.14.text>
 
-  <TheRichExplorer.label>The Rich Explorer</TheRichExplorer.label>
-  <TheRichExplorer.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.</TheRichExplorer.description>
-  <TheRichExplorer.scenario.parts.12.text>The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.</TheRichExplorer.scenario.parts.12.text>
-  <TheRichExplorer.scenario.summary>One rich explorer out to experience the universe. Extra difficult.</TheRichExplorer.scenario.summary>
-
-  <NakedBrutality.label>Naked Brutality</NakedBrutality.label>
-  <NakedBrutality.description>You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.</NakedBrutality.description>
-  <NakedBrutality.scenario.parts.3.text>It was supposed to be a minor surgery. Just an hour under anasthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?</NakedBrutality.scenario.parts.3.text>
-  <NakedBrutality.scenario.summary>Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair.</NakedBrutality.scenario.summary>
+  <TheRichExplorer.label>Багатий Мандрівник</TheRichExplorer.label>
+  <TheRichExplorer.description>Люди називали вас божевільним через те, що ви покинули свій будинок у Блискосвіті, проте ви завжди бажали досліджувати зірки поза нейросимуляцією. Тепер ви досягнули кінця своєї довгої подорожі в криптосні, приземлилися на цій невідомій планеті, щоб зрозуміти на що це схоже.\n\nПримітка: Оскільки вашому стартовому персонажу буде не вистачати деяких навичок це особливо важкий сценарій на початку гри.</TheRichExplorer.description>
+  <TheRichExplorer.scenario.name>Багатий Мандрівник</TheRichExplorer.scenario.name>
+  <TheRichExplorer.scenario.summary>Один багатий дослідник вирушив досліджувати всесвіт. Додатково важко.</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.description>Люди називали вас божевільним через те, що ви покинули свій будинок у Блискосвіті, проте ви завжди бажали досліджувати зірки поза нейросимуляцією. Тепер ви досягнули кінця своєї довгої подорожі в криптосні, приземлилися на цій невідомій планеті, щоб зрозуміти на що це схоже.\n\nПримітка: Оскільки вашому стартовому персонажу буде не вистачати деяких навичок це особливо важкий сценарій на початку гри.</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.parts.12.text>Нейросимуляції, голо-ігри і оргії не були достатніми для вас. Ви бажали більшого - витримка і наслідки реального життя те, про що говорилися в історичних книгах. Ви хотіли знати, як реальне випробування і наслідки відчуваються.\n\nТепер, після поїздки десятиліття в криптосні, ви приземляєтеся на цю невідому планету. Реальні випробування очікують на вас.</TheRichExplorer.scenario.parts.12.text>
 
 
 </LanguageData>
