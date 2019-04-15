@@ -1,69 +1,75 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- =========================== Good ============================-->
+  <!-- Good -->
 
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-  <SelfTame.label>self-tame</SelfTame.label>
+  <ResourcePodCrash.label>падіння вантажних контейнерів</ResourcePodCrash.label>
+  <PsychicSoothe.label>психічне заспокоєння</PsychicSoothe.label>
+  <SelfTame.label>тварина приручилася</SelfTame.label>
 
-  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
-  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
-  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.label>амброзія проростає</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>Неподалік проросла роща таємничих кущів амброзії! Якщо ви будете чекати зростання рослин, ви зможете зібрати смачні, приємні та викликаючи залежність фрукти.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Паростки амброзії</AmbrosiaSprout.letterLabel>
 
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
-  <WandererJoin.label>wanderer join</WandererJoin.label>
-  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
-
-
-  <!-- =========================== Neutral ============================-->
-
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
-  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
-
-  <RansomDemand.label>ransom demand</RansomDemand.label>
-  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
-
-  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
-  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
-  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
-
-  <HerdMigration.label>herd migration</HerdMigration.label>
-  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
-  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
-
-  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
-  <WildManWandersIn.letterLabel>Wild man wanders in</WildManWandersIn.letterLabel>
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective].</WildManWandersIn.letterText>
+  <FarmAnimalsWanderIn.label>до поселення прибилися тварини</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>мандрівник приєднався</WandererJoin.label>
+  <RefugeePodCrash.label>мандрівник впав з неба</RefugeePodCrash.label>
 
 
-  <!--========================== Bad ===============================-->
+  <!-- Neutral -->
 
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <RefugeeChased.label>мандрівника переслідують бандити</RefugeeChased.label>
+  <ThrumboPasses.label>трамбо проходять повз ваше поселення</ThrumboPasses.label>
 
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
-  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
-  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season.</ToxicFallout.letterText>
+  <RansomDemand.label>вимога викупу</RansomDemand.label>
+  <RansomDemand.letterLabel>Вимога викупу</RansomDemand.letterLabel>
 
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
-  <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
+  <CaravanRequest.label>запит каравану</CaravanRequest.label>
 
-  <HeatWave.label>heat wave</HeatWave.label>
-  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
+  <MeteoriteImpact.label>падіння метеорита</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>Великий метеорит розбив землю в цьому районі. Він залишив купу {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>Метеорит</MeteoriteImpact.letterLabel>
 
-  <ColdSnap.label>cold snap</ColdSnap.label>
-  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
-  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
+  <HerdMigration.label>міграція стада</HerdMigration.label>
+  <HerdMigration.letterText>Велике стадо {0} проходить через вашу територію. Вони не будуть атакувати, якщо вони не спровоковані.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Переміщення стада: {0}</HerdMigration.letterLabel>
 
-  <Flashstorm.label>flashstorm</Flashstorm.label>
-  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
-  <Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText>
 
-  <ShortCircuit.label>short circuit</ShortCircuit.label>
-  <CropBlight.label>crop blight</CropBlight.label>
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <!-- Bad -->
+
+  <PsychicDrone.label>психічний дрон</PsychicDrone.label>
+
+  <ToxicFallout.label>токсичні випадіння</ToxicFallout.label>
+  <ToxicFallout.letterText>Далекий хімічний вогонь випустив струмінь отрути над цілим регіоном. \n\nБудь-яка людина або істота, що не під дахом, буде повільно хворіти токсичним пилом, що осідає з атмосфери. \n\nЦе триватиме десь між кілька днів до сезону.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Токсичні випади</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Температура впаде і рослини будуть страждати через відсутність сонячного світла. Він може пройти через кілька тижнів, але це може тривати багато сезонів.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Вулканічна зима</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>хвиля спеки</HeatWave.label>
+  <HeatWave.letterText>Почалася незвичайна теплова хвиля. \ N \ Теплові хвилі можуть швидко вбивати, якщо люди починають отримувати тепловий удар. Залишайтеся здорово, будуючи кулер або глибоко піднімаючись під гору.</HeatWave.letterText>
+  <HeatWave.letterLabel>Теплова хвиля</HeatWave.letterLabel>
+
+  <ColdSnap.label>похолодання</ColdSnap.label>
+  <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягнітьвідповідний одяг і спробуйте зібрати врожай, перш він замерзне і загине.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Похолодання</ColdSnap.letterLabel>
+
+  <Aurora.label>сяйво</Aurora.label>
+  <Aurora.letterText>Вона підсвічує прекрасну аврору. \ In \ Волокнисті кольори піднімуть настрій будь-кого назовні, щоб побачити їх, і зробити ніч яскравішою.</Aurora.letterText>
+  <Aurora.letterLabel>Сяйво</Aurora.letterLabel>
+
+  <Flashstorm.label>грозовий шторм</Flashstorm.label>
+  <Flashstorm.letterText>Чарівна локалізована flashstorm вражає невелику область з блискавкою. Це може спричинити масові пожежі.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Грозовий шторм</Flashstorm.letterLabel>
+
+  <Tornado.label>торнадо</Tornado.label>
+  <Tornado.letterText>Сформувався торнадо! \ A \ Він вирізає шлях руйнування через територію.</Tornado.letterText>
+  <Tornado.letterLabel>Торнадо</Tornado.letterLabel>
+
+  <ShortCircuit.label>коротке замикання</ShortCircuit.label>
+  <CropBlight.label>попелиці</CropBlight.label>
+  <Alphabeavers.label>альфабобри</Alphabeavers.label>
 
 
 </LanguageData>
