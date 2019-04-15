@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerConduit.label>силовий кабель</PowerConduit.label>
+  <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit.description>
+  <PowerConduit_Blueprint.label>силовий кабель (проект)</PowerConduit_Blueprint.label>
+  <PowerConduit_Frame.label>силвоий кабель (прокладається)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit_Frame.description>
+
+  <PowerSwitch.label>силовий вимикач</PowerSwitch.label>
+  <PowerSwitch.description>Вмикає/вимикає живлення.</PowerSwitch.description>
+  <PowerSwitch_Blueprint.label>силовий вимикач (проект)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>силовий вимикач (будується)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Вмикає/вимикає живлення.</PowerSwitch_Frame.description>
+
+  <WoodFiredGenerator.label>тверодопаливний генератор</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Виробляє електроенергію, споживаючи тверде паливо. Треба часто підкладати дрова.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>твердопаливний генератор (проект)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator_Frame.label>твердопаливний генератор (будується)</WoodFiredGenerator_Frame.label>
+  <WoodFiredGenerator_Frame.description>Виробляє електроенергію, споживаючи тверде паливо. Треба часто підкладати дрова.</WoodFiredGenerator_Frame.description>
+
+  <ChemfuelPoweredGenerator.label>генератор на хімпаливі</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Треба часто підкладати паливо.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator_Blueprint.label>генератор на хімпаливі (проект)</ChemfuelPoweredGenerator_Blueprint.label>
+  <ChemfuelPoweredGenerator_Frame.label>генератор на хімпаливі (будується)</ChemfuelPoweredGenerator_Frame.label>
+  <ChemfuelPoweredGenerator_Frame.description>Виробляє електроенергію, споживаючи хімпаливо. Треба часто підкладати паливо.</ChemfuelPoweredGenerator_Frame.description>
+
+  <Battery.label>акумулятор</Battery.label>
+  <Battery.description>Накопичує надлишок електроенергії та віддає при перебоях. Обережно! Заряджені батареї можуть вибухнути при пожежі або під дощем.</Battery.description>
+  <Battery_Blueprint.label>акумулятор (проект)</Battery_Blueprint.label>
+  <Battery_Blueprint_Install.label>акумулятор (проект)</Battery_Blueprint_Install.label>
+  <Battery_Frame.label>акумулятор (будується)</Battery_Frame.label>
+  <Battery_Frame.description>Накопичує надлишок електроенергії та віддає при перебоях. Обережно! Заряджені батареї можуть вибухнути при пожежі або під дощем.</Battery_Frame.description>
+
+  <SolarGenerator.label>сонячна панель</SolarGenerator.label>
+  <SolarGenerator.description>Виробляє електроенергію з сонячного світла. Не працює при недостантій освітленості.</SolarGenerator.description>
+  <SolarGenerator_Blueprint.label>сонячна панель (проект)</SolarGenerator_Blueprint.label>
+  <SolarGenerator_Frame.label>сонячна панель (будується)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Виробляє електроенергію з сонячного світла. Не працює при недостантій освітленості.</SolarGenerator_Frame.description>
+
+  <GeothermalGenerator.label>геотермальний генератор</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</GeothermalGenerator.description>
+  <GeothermalGenerator_Blueprint.label>геотермальний генератор (проект)</GeothermalGenerator_Blueprint.label>
+  <GeothermalGenerator_Frame.label>геотермальний генератор (будується)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</GeothermalGenerator_Frame.description>
+
+
+</LanguageData>
