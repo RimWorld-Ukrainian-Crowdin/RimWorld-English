@@ -1,31 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
-  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.label>алкоголь</AlcoholHigh.label>
+  <AlcoholHigh.stages.0.label>майже тверезий</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>трохи випив</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>напідпитку</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>п’яний</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>валиться з ніг</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.stages.5.label>на автопілоті</AlcoholHigh.stages.5.label>
+  <AlcoholHigh.labelNoun>пияцтво</AlcoholHigh.labelNoun>
 
-  <Hangover.label>hangover</Hangover.label>
-  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
-  <Hangover.stages.0.label>slight</Hangover.stages.0.label>
-  <Hangover.stages.1.label>strong</Hangover.stages.1.label>
-  <Hangover.stages.2.label>pounding</Hangover.stages.2.label>
+  <Hangover.label>похмілля</Hangover.label>
+  <Hangover.stages.0.label>легке</Hangover.stages.0.label>
+  <Hangover.stages.1.label>помірне</Hangover.stages.1.label>
+  <Hangover.stages.2.label>сильне</Hangover.stages.2.label>
+  <Hangover.labelNoun>похмілля</Hangover.labelNoun>
 
 
   <!-- Alcohol addiction -->
 
-  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.0.label>small</AlcoholTolerance.stages.0.label>
-  <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>large</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>
+  <AlcoholTolerance.label>толерантність до алкоголю</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>легка</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>легка</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>помірна</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>сильна</AlcoholTolerance.stages.3.label>
 
-  <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
+  <AlcoholAddiction.label>алкогольна залежність</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>ломка</AlcoholAddiction.stages.1.label>
 
 
 </LanguageData>
