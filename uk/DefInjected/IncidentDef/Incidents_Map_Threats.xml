@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Big threats -->
+
+  <RaidEnemy.label>ворожий рейд</RaidEnemy.label>
+
+  <Infestation.label>зараження</Infestation.label>
+  <Infestation.letterText>З'явився вулик комах!\n\nВін буде повільно плодити комах, а також створювати додаткові вулики. Якщо ви не хочете допустити зараження всього району - зберіть власні сили та знищіть його. Але остерігайтесь - комахи захищатимуть свій вулик.</Infestation.letterText>
+  <Infestation.letterLabel>Зараження</Infestation.letterLabel>
+
+  <ManhunterPack.label>зграя мисливців на людей</ManhunterPack.label>
+
+  <PsychicEmanatorShipPartCrash.label>розбита частина корабля (психічна)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterText>Великий шматок древнього корабля розбився неподалік.\n\nВаші колоністи відчувають це нутром, щось змушує їх робити невимовні речі. Скоріш за все в ньому є штучний інтелект із вмінням психічної проекції. Цей штучний інтелект настроєний вороже.\n\nЗнищіть його якомога швидше.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterLabel>Психічний корабель</PsychicEmanatorShipPartCrash.letterLabel>
+
+  <PoisonShipPartCrash.label>розбита частина корабля (отрута)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.letterText>Великий шматок древнього корабля розбився неподалік.\n\nЗ нього витікають токсичні матеріали, які вбивають всі рослини навколо.\n\nЗнищіть його якомога швидше.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterLabel>Отруйний корабель</PoisonShipPartCrash.letterLabel>
+
+  <AnimalInsanityMass.label>масове божевілля тварин</AnimalInsanityMass.label>
+
+
+  <!-- Small threats -->
+
+  <AnimalInsanitySingle.label>тварина збожеволіла</AnimalInsanitySingle.label>
+
+
+</LanguageData>
