@@ -2,9 +2,9 @@ Allegheny
 Angeles
 Angelina
 Apache-Sitgreaves
-Apalachicola
-Arapaho
-Ashley
+Апалачикола
+Арапахо
+Ешлі
 Beaverhead-Deerlodge
 Bienville
 Bighorn
@@ -13,19 +13,19 @@ Black Hills
 Boise
 Bridger-Teton
 Caribou-Targhee
-Carson
+Карсон
 Chattahoochee-Oconee
 Chequamegon-Nicolet
-Cherokee
+Черокі
 Chippewa
 Chugach
-Cibola
+Сібола
 Clearwater
 Cleveland
 Coconino
 Colville
 Conecuh
-Coronado
+Коронадо
 Croatan
 Custer
 Daniel Boone
@@ -63,8 +63,8 @@ Land Between The Lakes
 Lassen
 Lewis and Clark
 Lincoln
-Lolo
-Los Padres
+Лоло
+Лос-Падрес
 Malheur
 Manti-La Sal
 Mark Twain
@@ -77,12 +77,12 @@ Mount Hood
 Nantahala
 Nebraska
 Nez Perce
-Ocala
+Окала
 Ochoco
 Okanogan-Wenatchee
 Olympic
 Osceola
-Ottawa
+Оттава
 Ouachita
 Ozark-St. Francis
 Payette
@@ -93,7 +93,7 @@ Prescott
 Rio Grande
 Rogue River-Siskiyou
 Roosevelt
-Sabine
+Сабіна
 Salmon-Challis
 Sam Houston
 Samuel R. McKelvie
@@ -112,12 +112,12 @@ Six Rivers
 Stanislaus
 Sumter
 Superior
-Tahoe
+Тахо
 Talladega
 Tombigbee
 Tongass
-Tonto
-Tuskegee
+Тонто
+Таскігі
 Uinta-Wasatch-Cache
 Umatilla
 Umpqua
