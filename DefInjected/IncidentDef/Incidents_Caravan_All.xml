@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- =============================== Threats =============================== -->
+  <!-- Threats -->
 
-  <Ambush.label>ambush</Ambush.label>
-  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
-  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  <Ambush.label>засідка</Ambush.label>
+  <Ambush.letterText>На ваш караван напав {0} з фракції {1}!</Ambush.letterText>
+  <Ambush.letterLabel>Караван потрапив в засідку</Ambush.letterLabel>
 
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
-  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
-
-
-  <!--================================ Good ================================-->
-
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <ManhunterAmbush.label>скажені звірі напали на ваш караван</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>На ваш караван напали скажені {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>На караван напали звірі</ManhunterAmbush.letterLabel>
 
 
-  <!--==================================== Bad ==================================-->
+  <!-- Good -->
 
-  <CaravanDemand.label>payment demand</CaravanDemand.label>
+  <CaravanMeeting.label>зустріч каравану</CaravanMeeting.label>
+
+
+  <!-- Bad -->
+
+  <CaravanDemand.label>вимога про викуп</CaravanDemand.label>
 
 
 </LanguageData>
