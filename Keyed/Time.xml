@@ -1,45 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterDay>d</LetterDay>
-  <LetterHour>h</LetterHour>
-  <LetterMinute>m</LetterMinute>
-  <LetterSecond>s</LetterSecond>
-  
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <LetterDay>д</LetterDay>
+  <LetterHour>г</LetterHour>
+  <LetterMinute>х</LetterMinute>
+  <LetterSecond>с</LetterSecond>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
-  <SeasonPermanentSummer>permanent summer</SeasonPermanentSummer>
-  <SeasonPermanentWinter>permanent winter</SeasonPermanentWinter>
+  <DaysLower>дні</DaysLower>
+  <SecondsLower>секунди</SecondsLower>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
-  
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <SeasonSpring>весна</SeasonSpring>
+  <SeasonSummer>літо</SeasonSummer>
+  <SeasonFall>осінь</SeasonFall>
+  <SeasonWinter>зима</SeasonWinter>
+  <SeasonPermanentSummer>вічне літо</SeasonPermanentSummer>
+  <SeasonPermanentWinter>вічна зима</SeasonPermanentWinter>
+
+  <QuadrumAprimay>Квітравень</QuadrumAprimay>
+  <QuadrumJugust>Черпень</QuadrumJugust>
+  <QuadrumSeptober>Веревтень</QuadrumSeptober>
+  <QuadrumDecembary>Грудесічень</QuadrumDecembary>
+
+  <Born>Народження: {0}</Born>
+  <AgeChronological>Хронологічний вік: {0} роки, {1} квадруми, {2} дні</AgeChronological>
+  <AgeBiological>Біологічний вік: {0} роки, {1} квадруми, {2} дні</AgeBiological>
 
   <!-- Date periods -->
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
-  <Period1Second>1 second</Period1Second>
-  <PeriodSeconds>{0} seconds</PeriodSeconds>
+  <Period1Year>1 рік</Period1Year>
+  <PeriodYears>{0} роки</PeriodYears>
+  <Period1Quadrum>1 квадрум</Period1Quadrum>
+  <PeriodQuadrums>{0} квадруми</PeriodQuadrums>
+  <Period1Day>1 день</Period1Day>
+  <PeriodDays>{0} дні</PeriodDays>
+  <Period1Hour>1 година</Period1Hour>
+  <PeriodHours>{0} години</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
-  
+  <Started>Почалося</Started>
+  <Lasted>Закінчилося</Lasted>
+  <OccurredTimeAgo>сталося {0} тому</OccurredTimeAgo>
+
 </LanguageData>
