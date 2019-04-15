@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PegLeg.label>дерев’яна нога</PegLeg.label>
+  <PegLeg.labelNoun>дерев’яна нога</PegLeg.labelNoun>
+
+  <Denture.label>штучна щелепа</Denture.label>
+  <Denture.labelNoun>штучна щелепа</Denture.labelNoun>
+
+  <SimpleProstheticLeg.label>простий протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>простий протез ноги</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>простий протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>кулак</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>простий протез руки</SimpleProstheticArm.labelNoun>
+
+  <BionicEye.label>біонічне око</BionicEye.label>
+  <BionicEye.labelNoun>біонічне око</BionicEye.labelNoun>
+
+  <BionicArm.label>біонічна рука</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>кулак</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>біонічна рука</BionicArm.labelNoun>
+
+  <BionicLeg.label>біонічна нога</BionicLeg.label>
+  <BionicLeg.labelNoun>біонічна нога</BionicLeg.labelNoun>
+
+  <PowerClaw.label>силовий кіготь</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>кіготь</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>силовий кіготь</PowerClaw.labelNoun>
+
+  <ScytherBlade.label>лезо косаря</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>лезо</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>вістря</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.labelNoun>лезо косаря</ScytherBlade.labelNoun>
+
+
+</LanguageData>
