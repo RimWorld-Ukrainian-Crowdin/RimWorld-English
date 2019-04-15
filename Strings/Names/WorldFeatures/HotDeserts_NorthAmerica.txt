@@ -1,11 +1,11 @@
-Mojave Desert
-Sonoran Desert
-Baja Californian Desert
-Chihuahuan Desert
-Great Basin Desert
-Colorado Desert
-Magdalena Desert
-Red Desert
-Yuma Desert
-Yuha Desert
-Sevier Desert
+Пустеля Мохаве
+Пустеля Сонора
+Пустеля Баха Каліфорнійського
+Пустеля Чіхуахуа
+Великий пустельний басейн
+Пустеля Колорадо
+Пустеля Магдалена
+Червона Пустеля
+Пустеля Юма
+Пустеля Юха
+Пустеля Севьер
