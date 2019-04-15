@@ -1,63 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PegLeg.label>peg leg</PegLeg.label>
-  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+  <!-- Added body parts -->
 
-  <WoodenFoot.label>wooden foot</WoodenFoot.label>
-  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <PegLeg.label>дерев’яна нога</PegLeg.label>
+  <PegLeg.labelNoun>дерев’яна нога</PegLeg.labelNoun>
 
-  <Denture.label>denture</Denture.label>
-  <Denture.labelNoun>a denture</Denture.labelNoun>
+  <Denture.label>штучна щелепа</Denture.label>
+  <Denture.labelNoun>штучна щелепа</Denture.labelNoun>
 
-  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.label>простий протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>простий протез ноги</SimpleProstheticLeg.labelNoun>
 
-  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.label>простий протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>кулак</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>простий протез руки</SimpleProstheticArm.labelNoun>
 
-  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  <BionicEye.label>біонічне око</BionicEye.label>
+  <BionicEye.labelNoun>біонічне око</BionicEye.labelNoun>
 
-  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
-  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <BionicArm.label>біонічна рука</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>кулак</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>біонічна рука</BionicArm.labelNoun>
 
-  <BionicEye.label>bionic eye</BionicEye.label>
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicLeg.label>біонічна нога</BionicLeg.label>
+  <BionicLeg.labelNoun>біонічна нога</BionicLeg.labelNoun>
 
-  <BionicArm.label>bionic arm</BionicArm.label>
-  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <PowerClaw.label>силовий кіготь</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>кіготь</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>силовий кіготь</PowerClaw.labelNoun>
 
-  <BionicLeg.label>bionic leg</BionicLeg.label>
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
-
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
-
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
-
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
-
-  <BionicEar.label>bionic ear</BionicEar.label>
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
-
-  <PowerClaw.label>power claw</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
-  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
-
-  <ArchotechEye.label>archotech eye</ArchotechEye.label>
-  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
-
-  <ArchotechArm.label>archotech arm</ArchotechArm.label>
-  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
-  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
-
-  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
-  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ScytherBlade.label>лезо косаря</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>лезо</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>вістря</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.labelNoun>лезо косаря</ScytherBlade.labelNoun>
 
 
 </LanguageData>
