@@ -1,89 +1,77 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Root.label>root</Root.label>
+  <Root.label>корінь</Root.label>
 
 
   <!-- Foods -->
 
-  <Foods.label>foods</Foods.label>
-  <FoodMeals.label>meals</FoodMeals.label>
-  <FoodRaw.label>raw food</FoodRaw.label>
-  <MeatRaw.label>meat</MeatRaw.label>
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
-  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
-  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
-  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+  <Foods.label>їжа</Foods.label>
+  <FoodMeals.label>страви</FoodMeals.label>
+  <FoodRaw.label>сира їжа</FoodRaw.label>
+  <MeatRaw.label>м'ясо</MeatRaw.label>
+  <PlantFoodRaw.label>овочі</PlantFoodRaw.label>
+  <AnimalProductRaw.label>продукти тваринного походження</AnimalProductRaw.label>
+  <EggsUnfertilized.label>яйця (незаплідн.)</EggsUnfertilized.label>
+  <EggsFertilized.label>яйця (заплідн.)</EggsFertilized.label>
 
 
   <!-- Manufactured -->
 
-  <Manufactured.label>manufactured</Manufactured.label>
-  <Textiles.label>textiles</Textiles.label>
-  <Leathers.label>leathers</Leathers.label>
-  <Medicine.label>medicine</Medicine.label>
-  <Drugs.label>drugs</Drugs.label>
-  <MortarShells.label>mortar shells</MortarShells.label>
+  <Manufactured.label>виготовлені</Manufactured.label>
+  <Textiles.label>тканина</Textiles.label>
+  <Leathers.label>шкіра</Leathers.label>
+  <Medicine.label>ліки</Medicine.label>
+  <Drugs.label>наркота</Drugs.label>
+  <MortarShells.label>мінометні міни</MortarShells.label>
 
 
   <!-- Raw resources -->
 
-  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
-  <PlantMatter.label>plant matter</PlantMatter.label>
-  <StoneBlocks.label>stone blocks</StoneBlocks.label>
+  <ResourcesRaw.label>будівельні матеріали</ResourcesRaw.label>
+  <PlantMatter.label>матеріали рослинного походження</PlantMatter.label>
+  <StoneBlocks.label>кам'яні матеріали</StoneBlocks.label>
 
 
   <!-- Items -->
 
-  <Items.label>items</Items.label>
-  <Unfinished.label>unfinished</Unfinished.label>
-  <Artifacts.label>artifacts</Artifacts.label>
-  <BodyParts.label>body parts</BodyParts.label>
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
+  <Items.label>предмети</Items.label>
+  <Art.label>мистецтво</Art.label>
+  <Furniture.label>меблі</Furniture.label>
+  <Unfinished.label>зезакінчені</Unfinished.label>
+  <Artifacts.label>артефакти</Artifacts.label>
+  <BodyParts.label>органи та частини тіла</BodyParts.label>
+  <BodyPartsNatural.label>природні</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>штучні</BodyPartsArtificial.label>
 
 
   <!-- Weapons -->
 
-  <Weapons.label>weapons</Weapons.label>
-  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
-  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
-  <Grenades.label>grenades</Grenades.label>
+  <Weapons.label>зброя</Weapons.label>
+  <WeaponsMelee.label>холрдна зброя</WeaponsMelee.label>
+  <WeaponsRanged.label>зброя дальнього бою</WeaponsRanged.label>
+  <Grenades.label>гранати</Grenades.label>
 
 
   <!-- Apparel -->
 
-  <Apparel.label>apparel</Apparel.label>
-  <Headgear.label>headgear</Headgear.label>
-
-
-  <!-- Buildings -->
-
-  <Buildings.label>buildings</Buildings.label>
-  <BuildingsArt.label>art</BuildingsArt.label>
-  <BuildingsProduction.label>production</BuildingsProduction.label>
-  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
-  <BuildingsPower.label>power</BuildingsPower.label>
-  <BuildingsSecurity.label>security</BuildingsSecurity.label>
-  <BuildingsMisc.label>misc</BuildingsMisc.label>
-  <BuildingsJoy.label>recreation</BuildingsJoy.label>
-  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <Apparel.label>одяг</Apparel.label>
+  <Headgear.label>головні убори</Headgear.label>
 
 
   <!-- Chunks -->
 
-  <Chunks.label>chunks</Chunks.label>
-  <StoneChunks.label>stone chunks</StoneChunks.label>
+  <Chunks.label>брили</Chunks.label>
+  <StoneChunks.label>кам'яні брили</StoneChunks.label>
 
 
   <!-- Corpses -->
 
-  <Corpses.label>corpses</Corpses.label>
-  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
-  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
-  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
+  <Corpses.label>трупи</Corpses.label>
+  <CorpsesHumanlike.label>трупи людей</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>трупи тварин</CorpsesAnimal.label>
+  <CorpsesInsect.label>трупи комах</CorpsesInsect.label>
+  <CorpsesMechanoid.label>трупи механоїдів</CorpsesMechanoid.label>
 
 
 </LanguageData>
