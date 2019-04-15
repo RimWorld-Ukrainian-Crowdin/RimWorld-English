@@ -1,24 +1,33 @@
-﻿Primus
-Secundus
-Tertius
-Quadrus
-Pentimus
-Heximus
-Septimus
-Octus
-Nonus
+Секундус
+Прімус
+Тертіус
+Куадрус
+Пентімус
+Хексімус
+Септімус
+Октус
+Нонус
 
-Minutus
-Borealis
-Australis
-Media
-Meridiana
-Posterious
-Prior
+Мінутус
 
-Major
-Minor
-Primary
-Secondary
-Tertiary
-Ultimate
+Бореаліс
+Аустралис
+Медіа
+Меридіана
+Постеріоус
+Пріор
+
+Планета
+Світ
+
+аль-Рай
+аль Асад
+аль Самаках
+аль Саїф
+
+
+
+
+
+
+
