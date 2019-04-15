@@ -1,58 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Torso.label>torso</Torso.label>
-  <UpperHead.label>upper head</UpperHead.label>
-  <FullHead.label>full head</FullHead.label>
-  <Eyes.label>eyes</Eyes.label>
-  <Teeth.label>teeth</Teeth.label>
-  <Mouth.label>mouth</Mouth.label>
-  <Neck.label>neck</Neck.label>
-  <Arms.label>arms</Arms.label>
-  <Shoulders.label>shoulders</Shoulders.label>
-  <Hands.label>hands</Hands.label>
-
-  <LeftHand.label>left fist</LeftHand.label>
-  <LeftHand.labelShort>fist</LeftHand.labelShort>
-
-  <RightHand.label>right fist</RightHand.label>
-  <RightHand.labelShort>fist</RightHand.labelShort>
-
-  <Waist.label>waist</Waist.label>
-  <Legs.label>legs</Legs.label>
-  <Feet.label>feet</Feet.label>
-
-  <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
-  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
-
-  <FrontRightPaw.label>front right paw</FrontRightPaw.label>
-  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
-
-  <HeadAttackTool.label>head</HeadAttackTool.label>
-
-  <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
-  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
-
-  <FrontRightLeg.label>front right leg</FrontRightLeg.label>
-  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
-
-  <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
-  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
-
-  <FrontRightClaws.label>front right claws</FrontRightClaws.label>
-  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
-
-  <LeftBlade.label>left blade</LeftBlade.label>
-  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
-
-  <RightBlade.label>right blade</RightBlade.label>
-  <RightBlade.labelShort>blade</RightBlade.labelShort>
-
-  <TuskAttackTool.label>tusks</TuskAttackTool.label>
-  <HornAttackTool.label>horn</HornAttackTool.label>
-  <HeadClaw.label>claw</HeadClaw.label>
-  <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
-  <Beak.label>beak</Beak.label>
+  <Torso.label>тулуб</Torso.label>
+  <UpperHead.label>верхня частина голови</UpperHead.label>
+  <FullHead.label>голова</FullHead.label>
+  <Eyes.label>очі</Eyes.label>
+  <Teeth.label>зуби</Teeth.label>
+  <Mouth.label>рот</Mouth.label>
+  <Neck.label>шия</Neck.label>
+  <Arms.label>руки</Arms.label>
+  <Shoulders.label>плечі</Shoulders.label>
+  <Hands.label>долоні</Hands.label>
+  <LeftHand.label>лівий кулак</LeftHand.label>
+  <RightHand.label>правий кулак</RightHand.label>
+  <Waist.label>талія</Waist.label>
+  <Legs.label>ноги</Legs.label>
+  <Feet.label>ступня</Feet.label>
+  <FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
+  <FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
+  <HeadAttackTool.label>голова</HeadAttackTool.label>
+  <FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
+  <FrontRightLeg.label>передня права нога</FrontRightLeg.label>
+  <FrontLeftClaws.label>передні ліві кігті</FrontLeftClaws.label>
+  <FrontRightClaws.label>передні праві кігті</FrontRightClaws.label>
+  <LeftBlade.label>ліве лезо</LeftBlade.label>
+  <RightBlade.label>праве лезо</RightBlade.label>
+  <TuskAttackTool.label>бивні</TuskAttackTool.label>
+  <HornAttackTool.label>ріг</HornAttackTool.label>
+  <HeadClaw.label>кіготь</HeadClaw.label>
+  <TurtleBeakAttackTool.label>дзьоб</TurtleBeakAttackTool.label>
+  <Beak.label>дзьоб</Beak.label>
 
 
 </LanguageData>
