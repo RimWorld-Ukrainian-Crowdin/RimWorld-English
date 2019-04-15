@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Elephant.label>слон</Elephant.label>
+  <Elephant.labelPlural>слони</Elephant.labelPlural>
+  <Elephant.lifeStages.0.label>слоненя</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.0.labelPlural>слоненята</Elephant.lifeStages.0.labelPlural>
+  <Elephant.lifeStages.0.labelMale>слоненя</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelMalePlural>слоненята</Elephant.lifeStages.0.labelMalePlural>
+  <Elephant.lifeStages.0.labelFemale>слоненя</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>слоненята</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.1.label>слон</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelPlural>слони</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.1.labelMale>слон</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>слони</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>слониха</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>слонихи</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.2.label>старий слон</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>старі слони</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.2.labelMale>старий слон</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>старі слони</Elephant.lifeStages.2.labelMalePlural>
+  <Elephant.lifeStages.2.labelFemale>стара слониха</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>старі слонихи</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>слон</Elephant.labelMale>
+  <Elephant.labelMalePlural>слони</Elephant.labelMalePlural>
+  <Elephant.labelFemale>слониха</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>слонихи</Elephant.labelFemalePlural>
+
+  <Megasloth.label>гігантський лінивець</Megasloth.label>
+  <Megasloth.labelPlural>гігантські лінивці</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>дитя гігантського лінивця</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelPlural>діти гігантського лінивця</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.0.labelMale>дитина гігантського лінивця (хлопчик)</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>діти гігантського лінивця (хлопці)</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>дитина гігантського лінивця (дівчинка)</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>діти гігантського лінивця (дівчата)</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.1.label>гігантський лінивець</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>гігантські лінивці</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.1.labelMale>гігантський лінивець (самець)</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>гігантські лінивці (самці)</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>гігантський лінивець (самка)</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>гігантські лінивці (самки)</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.2.label>старий гігантський лінивець</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>старі гігантські лінивці</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.lifeStages.2.labelMale>старий гігантський лінивець (самець)</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>гігантські лінивці (самці)</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelFemale>гігантський лінивець (самка)</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>старі гігантські лінивці (самки)</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>гігантський лінивець (самець)</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>гігантські лінивці (самці)</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>гігантський лінивець (самка)</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>гігантські лінивці (самки)</Megasloth.labelFemalePlural>
+
+  <Thrumbo.label>трумбо</Thrumbo.label>
+  <Thrumbo.labelPlural>трумби</Thrumbo.labelPlural>
+  <Thrumbo.lifeStages.0.label>трумбеня</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.0.labelPlural>трумбенята</Thrumbo.lifeStages.0.labelPlural>
+  <Thrumbo.lifeStages.0.labelMale>трумбеня-хлопчик</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelMalePlural>трумбенята (хлопці)</Thrumbo.lifeStages.0.labelMalePlural>
+  <Thrumbo.lifeStages.0.labelFemale>трумбеня-дівчинка</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.0.labelFemalePlural>трумбенята (дівчата)</Thrumbo.lifeStages.0.labelFemalePlural>
+  <Thrumbo.lifeStages.1.label>трумбо</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelPlural>трумби</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.1.labelMale>самець трумбо</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>самці трумби</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelFemale>самка трумбо</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>самки трумби</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.2.label>старий трумбо</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.2.labelPlural>старі трумби</Thrumbo.lifeStages.2.labelPlural>
+  <Thrumbo.lifeStages.2.labelMale>старий самець трумбо</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelMalePlural>старі самці трумбо</Thrumbo.lifeStages.2.labelMalePlural>
+  <Thrumbo.lifeStages.2.labelFemale>стара самка трумбо</Thrumbo.lifeStages.2.labelFemale>
+  <Thrumbo.lifeStages.2.labelFemalePlural>старі самки трумбо</Thrumbo.lifeStages.2.labelFemalePlural>
+  <Thrumbo.labelMale>трумбо-самець</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>самці трумбо</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>трумбо-самка</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>самки трумбо</Thrumbo.labelFemalePlural>
+
+
+</LanguageData>
