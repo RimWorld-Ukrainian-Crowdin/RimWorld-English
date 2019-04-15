@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Work.label>праця</Work.label>
+  <Meditative.label>відпочинок</Meditative.label>
+  <Lewd.label>непристойності</Lewd.label>
+  <Social.label>спілкування</Social.label>
+  <Chemical.label>наркотики</Chemical.label>
+  <Gluttonous.label>ненажерливість</Gluttonous.label>
+  <GamingDexterity.label>ігри (активні)</GamingDexterity.label>
+  <GamingCerebral.label>ігри (розумові)</GamingCerebral.label>
+  <Passive.label>пасивний</Passive.label>
+  <Study.label>навчання</Study.label>
+
+
+</LanguageData>
