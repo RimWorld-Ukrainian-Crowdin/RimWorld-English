@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CrashedPsychicEmanatorShipPart.label>ancient ship part (psychic)</CrashedPsychicEmanatorShipPart.label>
-  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
+  <CrashedPsychicEmanatorShipPart.label>уламок пси-корабля</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Таємничий уламок космічного корабля, що розбився. Схоже, що ця частина містить обладнання для випромінення психічних коливань.</CrashedPsychicEmanatorShipPart.description>
 
-  <CrashedPoisonShipPart.label>ancient ship part (poison)</CrashedPoisonShipPart.label>
-  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>
+  <CrashedPoisonShipPart.label>уламок зараженого корабля</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Таємничий уламок космічного корабля, що містить всіляке обладнання, але наближатися до нього небезпечно хоча б тому, що він знищує всю рослинність навколо себе.</CrashedPoisonShipPart.description>
 
 
-  <!-- =============================== Misc ============================ -->
+  <!-- Misc -->
 
-  <ShipChunk.label>ship chunk</ShipChunk.label>
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful resources.</ShipChunk.description>
+  <ShipChunk.label>уламок корабля</ShipChunk.label>
+  <ShipChunk.description>Уламок корабля, який можна розібрати на сталь та запчастини.</ShipChunk.description>
 
 
 </LanguageData>
