@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AridShrubland.label>посушливий степ</AridShrubland.label>
+  <AridShrubland.description>Цей регіон сухий, але не настільки, щоб вважатися справжньою пустелею. Відкриті рівнини з травою та чагарниками, подекуди вкриті невеликими гаями. Рослини витривалі, тварини у помірній кількості.</AridShrubland.description>
+
+  <Desert.label>пустеля</Desert.label>
+  <Desert.description>Дуже сухий, жаркий регіон, що підтримує лише краплини життя. У цій місцевості може бути як спекотно, так і нестерпно холодно.</Desert.description>
+
+  <ExtremeDesert.label>абсолютна пустеля</ExtremeDesert.label>
+  <ExtremeDesert.description>Неймовірно засушлива місцевість з екстремально високими температурами, практично позбавлена форм життя. Непереносна спека і обмежена рослинність роблять цю місцевість вкрай складною для виживання навіть для добре пристосованих до таких умов тварин.</ExtremeDesert.description>
+
+
+</LanguageData>
