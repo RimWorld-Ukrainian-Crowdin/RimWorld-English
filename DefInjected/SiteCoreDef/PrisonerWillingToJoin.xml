@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PrisonerWillingToJoin.label>prisoner camp</PrisonerWillingToJoin.label>
-  <PrisonerWillingToJoin.description>A prisoner being held by enemies. Rescue him and he will join you.</PrisonerWillingToJoin.description>
+  <PrisonerWillingToJoin.label>табір з ув'язненим</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>В'язень утримується ворожою фракцією. Врятуйте його і він приєднається до вашої колонії.</PrisonerWillingToJoin.description>
 
 
 </LanguageData>
