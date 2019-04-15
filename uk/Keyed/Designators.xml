@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DesignatorCancel>Відмінити</DesignatorCancel>
+  <DesignatorCancelDesc>Відмінити будівництво, видобуток, переміщення, збір, і усі інші задачі.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Вирізати рослини</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Вімітити рослини для вирізання і знищення. Рослини будуть повністю видалено і будь яка харчова рослина або родовище ресурсів буде зібрано.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Зруйнувати</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Зруйнувати виділене і повернути частину ресурсів.</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Деінсталювати</DesignatorUninstall>
+  <DesignatorUninstallDesc>Деінсталювати вибране, щоб перемістити, продати, або для розміщення в іншому місці.</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>Зібрати</DesignatorHarvest>
+  <DesignatorHarvestDesc>Вімітити рослини для збору для їжі або інших русурсів.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Зрубати дерева</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Вімітити дерева для зрубу.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Перемістити речі</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Вімітити глиби каменів і інші речі для переміщення на звалище. Не потрібно для таких речей як їжа або трупів, на які завжди діє переміщення.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Can only designate haulable but non-always-hauled things (like rock chunks).</MustHaulHaulables>
+
+  <DesignatorHunt>Полювати</DesignatorHunt>
+  <DesignatorHuntDesc>Вімітити тварин для полювання твоїми мисливцями.</DesignatorHuntDesc>
+
+  <DesignatorMine>Видобувати</DesignatorMine>
+  <DesignatorMineDesc>Призначити зону каменю для видобування.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Вирівняти</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Призначити кам'яну територію для вирівнювання.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Планування</DesignatorPlan>
+  <DesignatorPlanDesc>Запланувати задачі. Вони не будуть виконуватися, створюється для планування майбутнього розширення.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Видалити план</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Видаляє заплановані задачі.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Розширити домашню територію</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Колоністи будуть ремонтувати будівлі, очищати підлогу і тушити пожежу тільки на домашній території.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Видалити домашню територію</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Видаляє домашню територію. Колоністи бідьше не будуть ремонтувати будівлі, очищати підлогу і тушити пожежу тут.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Будувати дах</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Колоністи побудують дах на заданій території.</DesignatorAreaBuildRoofExpandDesc>
+
+  <DesignatorAreaNoRoofExpand>Видалити дах</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Колоністи знищать дах на заданій території (окрім стелі гори, яка не може бути знищена).</DesignatorAreaNoRoofExpandDesc>
+
+  <DesignatorAreaIgnoreRoofExpand>Ігнорувати територію даху</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>Колоністи будуть ігнорувати дах на заданій території.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <DesignatorAreaSnowClearExpand>Розширити зону очищення снігу</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Створує територію яку колоністи намагатимуться зберігати чистою від снігу.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Видалити зону очищення снігу</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Видаляє зону очищення снігу. Колоністи більше не намагатимуться зберігати чистою від снігу.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Розширити дозволену територію</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Розширює дозволену територію.\n\nДозволені території визначені зони, які ти можеш призначити колоністам. Колоністи не будуть працювати або виконувати їхні потреби за межою дозвеленої території.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Видалити дозволену територію</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Розширює дозволену територію.\n\nДозволені території визначені зони, які ти можеш призначити колоністам. Колоністи не будуть працювати або виконувати їхні потреби за межою дозвеленої території.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Керування областями...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Створує зону на якій колоністи намагатимуться вирощувати певний тип рослин.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Створує склад на якому колоністи будуть зберігати ресурси.\nМоже бути використаним для існуючого складу.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Створує склад де колоністи будуть зберігати сміття.\nМоже бути використаним для існуючого складу.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Видалити зону</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Видаляє зони, наприклад: склад або зона для вирощування.</DesignatorZoneDeleteDesc>
+
+  <DesignatorClaim>Привласнити</DesignatorClaim>
+  <DesignatorClaimDesc>Привласнює нейтральні будівлі колонії, включаючи старовинні руїни і покинуті облогові бази. Приаласнені будівлі можуть ремонтуватися і утримуватися твоїми колоністами.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Видалити підлогу</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Видаляє підлогу і показує територію під ним.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Роздягти</DesignatorStrip>
+  <DesignatorStripDesc>Зняти обладнання з трупів і поранених.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Перезарядити пастки</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Перезарядити пружину пастку для повторного використання.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Відкрити</DesignatorOpen>
+  <DesignatorOpenDesc>Відкрити контейнери.</DesignatorOpenDesc>
+
+  <DesignatorSlaughter>Зарізати</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Зарізати приручену тварину.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Приручити</DesignatorTame>
+  <DesignatorTameDesc>Приручити дику тварину.</DesignatorTameDesc>
+
+
+  <!-- Failure messages -->
+  <UnchosenStuff>Не вибраний матеріал</UnchosenStuff>
+  <TooCloseToMapEdge>Дуже близько до границі карти.</TooCloseToMapEdge>
+  <OutOfBounds>Поза межами.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Не можна розмістити в недосліджених територіях.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Місце взаємодії блокується {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Місце взаємодії поза межами.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Місце взаємодії заблокується {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} блокує місце взаємодії {1}.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Вибрана територія вже тут {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Територія вже відмічена для вирівнювання.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Ідентична річ вже тут.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Ідентичний план вже тут.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Ця територія не може підтримувати це.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Територія вже зайнята.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Територія вже вирівнюється.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Потрібно вибрати підлогу з можливістю знищення.</TerrainMustBeRemovable>
+
+
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>Розширити {0} або\nСтворити нову {1}</ExpandOrCreateZone>
+  <CreateNewZone>Створити нову {0}</CreateNewZone>
+
+
+  <!-- Desc helpers -->
+  <TransmitsPower>Передача потужності</TransmitsPower>
+  <ConstructionNeeded>Потрібно будівництво</ConstructionNeeded>
+
+</LanguageData>
