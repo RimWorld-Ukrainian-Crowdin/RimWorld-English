@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BadBack.label>bad back</BadBack.label>
-  <BadBack.labelNoun>a bad back</BadBack.labelNoun>
+  <BadBack.label>біль у спині</BadBack.label>
+  <BadBack.labelNoun>біль у спині</BadBack.labelNoun>
 
-  <Frail.label>frail</Frail.label>
-  <Frail.labelNoun>frailty</Frail.labelNoun>
+  <Frail.label>стареча слабкість</Frail.label>
+  <Frail.labelNoun>стареча слабкість</Frail.labelNoun>
 
-  <Cataract.label>cataract</Cataract.label>
-  <Cataract.labelNoun>a cataract</Cataract.labelNoun>
+  <Cataract.label>катаракта</Cataract.label>
+  <Cataract.labelNoun>катаракта</Cataract.labelNoun>
 
-  <Blindness.label>blindness</Blindness.label>
-  <HearingLoss.label>hearing loss</HearingLoss.label>
-  <Dementia.label>dementia</Dementia.label>
+  <Blindness.label>сліпота</Blindness.label>
+  <HearingLoss.label>втрата слуху</HearingLoss.label>
+  <Dementia.label>слабоумство</Dementia.label>
 
-  <Alzheimers.label>alzheimer's</Alzheimers.label>
-  <Alzheimers.stages.0.label>minor</Alzheimers.stages.0.label>
-  <Alzheimers.stages.1.label>minor</Alzheimers.stages.1.label>
-  <Alzheimers.stages.2.label>major</Alzheimers.stages.2.label>
-  <Alzheimers.stages.3.label>major</Alzheimers.stages.3.label>
+  <Alzheimers.label>хвороба Альцгеймера</Alzheimers.label>
+  <Alzheimers.stages.0.label>легка</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>легка</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>сильна</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>сильна</Alzheimers.stages.3.label>
 
-  <Asthma.label>asthma</Asthma.label>
-  <Asthma.stages.0.label>minor</Asthma.stages.0.label>
-  <Asthma.stages.1.label>major</Asthma.stages.1.label>
-  <Asthma.stages.2.label>major</Asthma.stages.2.label>
+  <Asthma.label>астма</Asthma.label>
+  <Asthma.stages.0.label>легка</Asthma.stages.0.label>
+  <Asthma.stages.1.label>сильна</Asthma.stages.1.label>
+  <Asthma.stages.2.label>сильна</Asthma.stages.2.label>
 
-  <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
-  <HeartArteryBlockage.labelNoun>an artery blockage</HeartArteryBlockage.labelNoun>
-  <HeartArteryBlockage.stages.0.label>minor</HeartArteryBlockage.stages.0.label>
-  <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>
-  <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
-  <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
-  <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.label>атеросклероз</HeartArteryBlockage.label>
+  <HeartArteryBlockage.stages.0.label>легкий</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>легкий</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>сильний</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>сильний</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>екстремальний</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.labelNoun>атеросклероз</HeartArteryBlockage.labelNoun>
 
-  <Carcinoma.label>carcinoma</Carcinoma.label>
-  <Carcinoma.labelNoun>a carcinoma</Carcinoma.labelNoun>
-  <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
-  <Carcinoma.stages.1.label>minor</Carcinoma.stages.1.label>
-  <Carcinoma.stages.2.label>major</Carcinoma.stages.2.label>
-  <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
-  <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
-  <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
+  <Carcinoma.label>рак</Carcinoma.label>
+  <Carcinoma.stages.0.label>легкий</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>легкий</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>сильний</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>сильний</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>екстремальний</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>екстремальний</Carcinoma.stages.5.label>
+  <Carcinoma.labelNoun>рак</Carcinoma.labelNoun>
 
 
 </LanguageData>
