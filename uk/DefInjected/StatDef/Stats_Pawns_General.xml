@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MoveSpeed.label>швидкість руху</MoveSpeed.label>
+  <MoveSpeed.description>Швидкість руху по клітинках у світі за секунду.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} к\с</MoveSpeed.formatString>
+
+  <MentalBreakThreshold.label>поріг психічного зриву</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Чим довше чийсь настрій буде триматися нижче даної планки, тим більший буде шанс психічного розладу.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>психічна чутливість</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Множник впливу психічних явищ на цю істоту.</PsychicSensitivity.description>
+
+  <ToxicSensitivity.label>чутливість до токсинів</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Множник токсичного речовин на цю істоту.</ToxicSensitivity.description>
+
+  <GlobalLearningFactor.label>глобальний фактор навчання</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Глобальна ефективність покращення навичок.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>швидкість харчування</EatingSpeed.label>
+  <EatingSpeed.description>Множник на швидкість харчування.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>Мінімальна комфортна температура</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Нижче за цю температуру персонажі будуть незадоволені. За значно нижчої температури вони будуть отримувати гіпотермію, переохолодження та врешті-решт помруть.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>Максимальна комфортна температура</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Вище за цю температуру персонажі будуть незадоволені. За значно вищої температури вони будуть отримувати тепловий удар та врешті-решт помруть.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>швидкість посилення імунітета</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Швидкість, з якою цей персонаж посилює свій імунітет до хвороб. Якщо вона буде надто повільною, то істота помре від хвороби перш ніж здобуде імунітет.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>вантажопідйомність</CarryingCapacity.label>
+  <CarryingCapacity.description>Кількість матеріалу, що ця істота може нести в своїх руках, у роті або іншими методами.</CarryingCapacity.description>
+
+  <MeatAmount.label>кількість м'яса</MeatAmount.label>
+  <MeatAmount.description>Кількість м'яса, що отримаєте від обробки цієї істоти.</MeatAmount.description>
+
+  <LeatherAmount.label>кількість шкіри</LeatherAmount.label>
+  <LeatherAmount.description>Кількість шкіри, що отримаєте від обробки цієї істоти.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>мінімальний рівень приручення</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Це істота не може бути приручена, навчена, або отримувати накази, якщо навичка буде нижче ніж у тварини.</MinimumHandlingSkill.description>
+
+  <PainShockThreshold.label>поріг больового шоку</PainShockThreshold.label>
+  <PainShockThreshold.description>Точка, в якій ця істота зомліє від болю.</PainShockThreshold.description>
+
+
+</LanguageData>
