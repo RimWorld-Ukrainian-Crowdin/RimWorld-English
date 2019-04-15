@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Аудіовізуалізація</Audiovisuals>
+  <GameVolume>Гучність гри</GameVolume>
+  <MusicVolume>Гучність музики</MusicVolume>
+  <AmbientVolume>Гучність довкілля</AmbientVolume>
+  <Antialiasing>Згладжування</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <PauseOnLoad>Пауза при завантаженні</PauseOnLoad>
+  <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
+  <CustomCursor>Користувальницький курсор</CustomCursor>
+  <HatsShownOnlyOnMap>Відображати капелюхи тільки на ігровій карті</HatsShownOnlyOnMap>
+  <UIScale>Розмір Інтерфейсу</UIScale>
+  <KeyboardConfig>Конфігурація клавіатури</KeyboardConfig>
+  <ChooseLanguage>Змінити Мову</ChooseLanguage>
+  <ResetAdaptiveTutor>Скинути помічника в навчанні</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Наставник скинутий. Тепер ви будете знову вчити всі уроки з нуля.</AdaptiveTutorIsReset>
+  <RunInBackground>Працювати у фоновому режимі</RunInBackground>
+  <DevelopmentMode>Режим розробки</DevelopmentMode>
+  <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
+  <LogVerbose>Ведення докладного журналу</LogVerbose>
+  <OpenSaveGameDataFolder>Відкрити папку зі збереженими данними</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Імена персонажів, які ви хочете побачити:</NamesYouWantToSee>
+  <AddName>Додати ім'я</AddName>
+  <TypeFirstNickOrLastName>Введіть ім'я, прізвисько чи прізвище.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Це ім'я вже в списку бажаних.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Вибрати казкаря</ChangeStoryteller>
+  <AutosaveInterval>Автозбереження</AutosaveInterval>
+  <TemperatureMode>Температурна шкала</TemperatureMode>
+  <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Максимальна кількість колоній: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Параметри модифікацій</ModSettings>
+
+  <!-- Resolution -->
+  <Resolution>Роздільна здатність</Resolution>
+  <Fullscreen>Повноекранний режим</Fullscreen>
+
+  <!-- Privacy -->
+  <Privacy>Конфіденційність</Privacy>
+  <UserName>Ім’я користувача</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Виберіть модифікацію...</SelectMod>
+  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+
+</LanguageData>
