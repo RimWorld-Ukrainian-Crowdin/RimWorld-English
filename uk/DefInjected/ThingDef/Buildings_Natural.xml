@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple mineables -->
+
+  <CollapsedRocks.label>завали</CollapsedRocks.label>
+  <CollapsedRocks.description>Гірські породи після обвалу стали достатньо міцними, щоб тримати дах.</CollapsedRocks.description>
+
+
+  <!-- Resource rocks -->
+
+  <MineableSteel.label>залежі сталі</MineableSteel.label>
+  <MineableSteel.description>Залишки якоїсь зруйнованої будівлі. Багата на сталь.</MineableSteel.description>
+
+  <MineableSilver.label>срібна руда</MineableSilver.label>
+  <MineableSilver.description>Гірська порода зі срібними самородками.</MineableSilver.description>
+
+  <MineableGold.label>золота руда</MineableGold.label>
+  <MineableGold.description>Гірська порода з золотими самородками.</MineableGold.description>
+
+  <MineableUranium.label>уранова руда</MineableUranium.label>
+  <MineableUranium.description>Гірська порода, що містить уран.</MineableUranium.description>
+
+  <MineablePlasteel.label>залежі пласталі</MineablePlasteel.label>
+  <MineablePlasteel.description>Стародавні руїни, багаті на пласталь.</MineablePlasteel.description>
+
+  <MineableJade.label>нефрит</MineableJade.label>
+  <MineableJade.description>Гірська порода з нефритом.</MineableJade.description>
+
+  <MineableComponents.label>залежі деталей</MineableComponents.label>
+  <MineableComponents.description>Залишки стародавніх механізмів, ущільнені за століття ржавіння. Можна розкопати корисні деталі.</MineableComponents.description>
+
+  <SteamGeyser.label>паровий гейзер</SteamGeyser.label>
+  <SteamGeyser.description>Природне джерело пару.</SteamGeyser.description>
+
+  <Hive.label>вулик</Hive.label>
+  <Hive.description>Вулик гігантських комах. Коли активний, плодить навколо себе комах та будує нові вулики. Також час від часу дає мед.</Hive.description>
+
+  <GlowPod.label>яскравий кокон</GlowPod.label>
+  <GlowPod.description>Біолюмінісцентний кокон, збудований гігантськими комахами. Випромінює світло протягом довгого часу, а потім вмирає.</GlowPod.description>
+  <GlowPod_Blueprint_Install.label>яскравий кокон (проект)</GlowPod_Blueprint_Install.label>
+
+
+</LanguageData>
