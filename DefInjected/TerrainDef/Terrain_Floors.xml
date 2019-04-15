@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- ================= Misc ================= -->
+  <!-- Misc -->
 
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly.</Concrete.description>
+  <Concrete.label>бетон</Concrete.label>
+  <Concrete.description>Звичайний бетон. Заливається на швидку руку, ходити по ньому легко, але доволі страшний на вигляд.</Concrete.description>
 
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.label>бетонна плита</PavedTile.label>
+  <PavedTile.description>Дешево будувати і швидко рухатись. Нейтральний в плані зовнішності, але спорудження може зайняти деякий час.</PavedTile.description>
 
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</WoodPlankFloor.description>
+  <WoodPlankFloor.label>дерев'яна підлога</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Підлога з досок. З нею відчуваєш себе як у дома. Її легко будувати, але вона може загорітися.</WoodPlankFloor.description>
+
+  <MetalTile.label>металічна підлога</MetalTile.label>
+  <MetalTile.description>З нею почуваєшся, ніби на космічному кораблі. Красива, але дорога, та потребує час для будування.</MetalTile.description>
+
+  <SilverTile.label>підлога зі срібла</SilverTile.label>
+  <SilverTile.description>Дуже дорога та потребує багато часу на будівництво. Надзвичайно красива — те, що треба для вражаючого інтер’єру.</SilverTile.description>
+
+  <GoldTile.label>золота підлога</GoldTile.label>
+  <GoldTile.description>Найкрасивіша з усіх! Дуже дорога та вимагає найбільше роботи.</GoldTile.description>
+
+  <SterileTile.label>стерильна підлога</SterileTile.label>
+  <SterileTile.description>Стерильна підлога відштовхує грязюку. Ідеально підходить для лікарень, вберігаючи пацієнтів від багатьох інфекцій. Нейтральна за зовнішнім виглядом, та дуже повільно будується.</SterileTile.description>
 
 
-  <!-- ================= Tiles ================= -->
+  <!-- Carpets -->
 
-  <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
+  <CarpetRed.label>червоний килим</CarpetRed.label>
+  <CarpetRed.description>Плюшевий килим у прекрасному відтінку троянди.</CarpetRed.description>
 
-  <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness.</SilverTile.description>
+  <CarpetGreen.label>зелений килим</CarpetGreen.label>
+  <CarpetGreen.description>Натуральний на вигляд зелений килим.</CarpetGreen.description>
 
-  <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
+  <CarpetBlue.label>синій килим</CarpetBlue.label>
+  <CarpetBlue.description>Приємний для ніг плюшевий килим в класному синьому кольорі.</CarpetBlue.description>
 
-  <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.</SterileTile.description>
+  <CarpetCream.label>кремовий килим</CarpetCream.label>
+  <CarpetCream.description>Впровадження килиму кремового кольору.</CarpetCream.description>
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
-
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet. Earth tones, dude.</CarpetGreen.description>
-
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
-
-  <CarpetCream.label>cream carpet</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
-
-  <CarpetDark.label>dark carpet</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <CarpetDark.label>темний килим</CarpetDark.label>
+  <CarpetDark.description>Професійний на вигляд темно-сірий килим.</CarpetDark.description>
 
 
 </LanguageData>
