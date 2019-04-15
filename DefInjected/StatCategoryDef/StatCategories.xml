@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--================ General ================-->
+  <!-- General -->
 
-  <Basics.label>Basics</Basics.label>
-  <BasicsPawn.label>Basics</BasicsPawn.label>
-  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
-
-
-  <!--================ Non-pawn ================-->
-
-  <Apparel.label>Apparel</Apparel.label>
-  <Weapon.label>Weapon</Weapon.label>
-  <Building.label>Building</Building.label>
+  <Basics.label>Основні</Basics.label>
+  <BasicsPawn.label>Основні</BasicsPawn.label>
+  <BasicsNonPawn.label>Основні</BasicsNonPawn.label>
 
 
-  <!--=============== Virtual categories ==============-->
+  <!-- Non-pawn -->
 
-  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
-  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Surgical</Surgery.label>
+  <Apparel.label>Одяг</Apparel.label>
+  <Weapon.label>Зброя</Weapon.label>
+  <Building.label>Споруди</Building.label>
 
 
-  <!--================ Pawn ================-->
+  <!-- Virtual categories -->
 
-  <PawnCombat.label>Combat</PawnCombat.label>
-  <PawnSocial.label>Social</PawnSocial.label>
-  <PawnMisc.label>Misc</PawnMisc.label>
-  <PawnWork.label>Work</PawnWork.label>
+  <EquippedStatOffsets.label>Модифікатор при екіпіруваннні</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Множник, якщо предмет виготовлений з цього матеріалу</StuffStatFactors.label>
+  <StuffStatOffsets.label>Модифікатор, якщо виготовлено з цього матеріалу</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Множник, якщо спорядження виготовлене з цього матеріалу</StuffOfEquipmentStatFactors.label>
+  <Surgery.label>Медицинськ.</Surgery.label>
+
+
+  <!-- Pawn -->
+
+  <PawnCombat.label>Бій</PawnCombat.label>
+  <PawnSocial.label>Спілкування</PawnSocial.label>
+  <PawnMisc.label>Різне</PawnMisc.label>
+  <PawnWork.label>Праця</PawnWork.label>
 
 
 </LanguageData>
