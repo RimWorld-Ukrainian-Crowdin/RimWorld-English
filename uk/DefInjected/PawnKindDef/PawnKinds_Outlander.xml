@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Villager.label>поселенець</Villager.label>
+  <Villager.labelPlural>поселенці</Villager.labelPlural>
+
+  <TownCouncilman.label>міський голова</TownCouncilman.label>
+  <TownCouncilman.labelPlural>міські голови</TownCouncilman.labelPlural>
+
+  <TownTrader.label>торговець</TownTrader.label>
+  <TownTrader.labelPlural>торгівці</TownTrader.labelPlural>
+
+  <TownGuard.label>вартовий</TownGuard.label>
+  <TownGuard.labelPlural>вартові</TownGuard.labelPlural>
+
+
+</LanguageData>
