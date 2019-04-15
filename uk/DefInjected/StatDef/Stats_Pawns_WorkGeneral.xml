@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkSpeedGlobal.label>загальна швидкість роботи</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>Множник на чиюсь швидкість виконання будь-якої роботи.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>швидкість видобутку</MiningSpeed.label>
+  <MiningSpeed.description>Швидкість, з якою людина добуває копалини зі скель та з шахт.</MiningSpeed.description>
+
+  <MiningYield.label>дохідність від добування копалин</MiningYield.label>
+  <MiningYield.description>Відсоток копалин, який шахтар зможе видобути. Це застосовується як до поверхневої, так і підземної шахт. Не застосовується до пустих порід (мрамору, граніту тощо).</MiningYield.description>
+
+  <SmoothingSpeed.label>швидкість вирівнювання</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Множник на швидкість, з якою перснаж вирівнює кам'яну підлогу та стіни.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>швидкість досліджень</ResearchSpeed.label>
+  <ResearchSpeed.description>Ця людина виконує дослідження з даною швидкістю.</ResearchSpeed.description>
+
+  <AnimalGatherSpeed.label>швидкість оббирання тварин</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>Швидкість, з якою персонаж доїть, стриже, та збирає інші продукти тваринництва.</AnimalGatherSpeed.description>
+
+  <AnimalGatherYield.label>ефективність оббирання тварин</AnimalGatherYield.label>
+  <AnimalGatherYield.description>Відсоток ресурсів, які персонаж може надоїти, зістригти, чи здобути іншим чином з живих тварин. Чим більше відсоток, тим менша вірогдність псування продуктів.</AnimalGatherYield.description>
+
+  <PlantWorkSpeed.label>швидкість фермерства</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Швидкість з якою людина засіває та збирає врожай з полів.</PlantWorkSpeed.description>
+
+  <PlantHarvestYield.label>урожайність збору</PlantHarvestYield.label>
+  <PlantHarvestYield.description>Урожай, який хтось збирає з полів. Чим менший показник, тим більша вірогідність псування продуктів під час збору.</PlantHarvestYield.description>
+
+  <ConstructionSpeed.label>швидкість будівництва</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Швидкість, з якою ця людина споруджує і відновлює будівлі.</ConstructionSpeed.description>
+
+  <ConstructSuccessChance.label>шанс успішного будівництва</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>Шанс, з яким ця людина збудує щось, не напартачивши. Під провадом розуміємо втрату часу та ресурсів.</ConstructSuccessChance.description>
+
+  <FixBrokenDownBuildingSuccessChance.label>шанс успішного відновлення</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>Шанс, з яким ця людина успішно відновить розтрощену будівлю з використанням ресурсів. Під провалом вважається трата часу та ресурсів. Помітьте, що це відноситься до ремонту поломок, а не реконструкції.</FixBrokenDownBuildingSuccessChance.description>
+
+
+</LanguageData>
