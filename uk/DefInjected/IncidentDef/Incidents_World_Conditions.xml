@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>затемнення</Eclipse.label>
+  <Eclipse.letterText>Один з місяців цієї планети вийшов на орбіту напроти сонця. Затемнення почалось.</Eclipse.letterText>
+  <Eclipse.letterLabel>Затемнення</Eclipse.letterLabel>
+
+  <SolarFlare.label>сонячний спалах</SolarFlare.label>
+  <SolarFlare.letterText>Відбувся сонячний спалах.\n\nІнтенсивний потік часток вимкне всі електричні пристрої.\n\nСпалах закінчиться через кілька днів.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Сонячний спалах</SolarFlare.letterLabel>
+
+
+</LanguageData>
