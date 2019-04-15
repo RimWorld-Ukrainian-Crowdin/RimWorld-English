@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Heart.label>heart</Heart.label>
-  <Lung.label>lung</Lung.label>
-  <Kidney.label>kidney</Kidney.label>
-  <Liver.label>liver</Liver.label>
-  <Stomach.label>stomach</Stomach.label>
+  <Heart.label>серце</Heart.label>
+  <LeftLung.label>ліва легеня</LeftLung.label>
+  <RightLung.label>права легеня</RightLung.label>
+  <LeftKidney.label>ліва нирка</LeftKidney.label>
+  <RightKidney.label>права нирка</RightKidney.label>
+  <Liver.label>печінка</Liver.label>
+  <Stomach.label>шлунок</Stomach.label>
 
 
 </LanguageData>
