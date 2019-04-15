@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sandstone -->
+
+  <MakeStoneBlocksSandstone.label>зробити блоки пісковику</MakeStoneBlocksSandstone.label>
+  <MakeStoneBlocksSandstone.description>Обтесати уламки пісковика в блоки.</MakeStoneBlocksSandstone.description>
+  <MakeStoneBlocksSandstone.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksSandstone.jobString>
+
+
+  <!-- Granite -->
+
+  <MakeStoneBlocksGranite.label>зробити блоки граніту</MakeStoneBlocksGranite.label>
+  <MakeStoneBlocksGranite.description>Обтесати уламки граніта в блоки.</MakeStoneBlocksGranite.description>
+  <MakeStoneBlocksGranite.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksGranite.jobString>
+
+
+  <!-- Limestone -->
+
+  <MakeStoneBlocksLimestone.label>зробити блоки вапняку</MakeStoneBlocksLimestone.label>
+  <MakeStoneBlocksLimestone.description>Обтесати уламки вапняку в блоки.</MakeStoneBlocksLimestone.description>
+  <MakeStoneBlocksLimestone.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksLimestone.jobString>
+
+
+  <!-- Slate -->
+
+  <MakeStoneBlocksSlate.label>зробити блоки сланцю</MakeStoneBlocksSlate.label>
+  <MakeStoneBlocksSlate.description>Обтесати уламки сланцю в блоки.</MakeStoneBlocksSlate.description>
+  <MakeStoneBlocksSlate.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksSlate.jobString>
+
+
+  <!-- Marble -->
+
+  <MakeStoneBlocksMarble.label>зробити блоки мармуру</MakeStoneBlocksMarble.label>
+  <MakeStoneBlocksMarble.description>Обтесати уламки мармура в блоки.</MakeStoneBlocksMarble.description>
+  <MakeStoneBlocksMarble.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksMarble.jobString>
+
+
+</LanguageData>
