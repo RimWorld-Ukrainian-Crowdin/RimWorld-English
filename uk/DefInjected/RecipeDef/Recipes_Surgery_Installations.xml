@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Install natural parts -->
+
+  <InstallNaturalKidney.label>імплантація нирки</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Встановлення нової нирки.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Імплантує нирку.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLiver.label>імплантація печінки</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Встановлення нової печінки.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Імплантує печінку.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalLung.label>імплантація легенів</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Встановлення нових легенів.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Імплантує легені.</InstallNaturalLung.jobString>
+
+  <InstallNaturalHeart.label>імплантація серця</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Встановлення нового серця.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Імплантує серце.</InstallNaturalHeart.jobString>
+
+
+  <!-- Install artificial parts -->
+
+  <InstallPegLeg.label>встановлення дерев'яної ноги</InstallPegLeg.label>
+  <InstallPegLeg.description>Встановлення дерев'яного протезу ноги.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Встановлює дерев'яну ногу.</InstallPegLeg.jobString>
+
+  <InstallDenture.label>встановлення зубного протезу</InstallDenture.label>
+  <InstallDenture.description>Встановлення зубного протезу.</InstallDenture.description>
+  <InstallDenture.jobString>Встановлює зубний протез.</InstallDenture.jobString>
+
+  <InstallSimpleProstheticLeg.label>встановлення простого протезу ноги</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Встановлення простого протезу ноги.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Встановлює простий протез ноги.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>встановлення простого протезу руки</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Встановлення простого протезу руки.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Встановлює новий протез руки.</InstallSimpleProstheticArm.jobString>
+
+  <InstallBionicArm.label>встанолення біонічної руки</InstallBionicArm.label>
+  <InstallBionicArm.description>Встановлення біонічної руки.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
+
+  <InstallBionicLeg.label>встанолення біонічної ноги</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Встановлення біонічної ноги.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Встановлює біонічну ногу.</InstallBionicLeg.jobString>
+
+  <InstallPowerClaw.label>встановлення силового крюка</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Встановлення силового крюка.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Встановлює силовий крюк.</InstallPowerClaw.jobString>
+
+  <InstallScytherBlade.label>встановлення леза косаря</InstallScytherBlade.label>
+  <InstallScytherBlade.description>Встановлення леза косаря.</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>Встановлює лезо косаря.</InstallScytherBlade.jobString>
+
+  <InstallBionicEye.label>вживлення біонічного ока</InstallBionicEye.label>
+  <InstallBionicEye.description>Вживлення біонічного ока.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Вживлює біонічне око.</InstallBionicEye.jobString>
+
+  <InstallJoywire.label>встановлення "чипу насолоди"</InstallJoywire.label>
+  <InstallJoywire.description>Встановлення "чипу насолоди".</InstallJoywire.description>
+  <InstallJoywire.jobString>Встановлює "чип насолоди".</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>встановлення знеболювального чипу</InstallPainstopper.label>
+  <InstallPainstopper.description>Встановлення знеболювального чипу.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Встановлює знеболювальний чип.</InstallPainstopper.jobString>
+
+
+</LanguageData>
