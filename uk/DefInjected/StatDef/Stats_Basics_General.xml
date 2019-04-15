@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MaxHitPoints.label>максимальний запас міцності</MaxHitPoints.label>
+  <MaxHitPoints.description>Максимальний запас міцності цього об'єкта. Це кількість шкоди, яке витримає об'єкт перед його знищенням.</MaxHitPoints.description>
+
+  <Mass.label>маса</Mass.label>
+  <Mass.description>Маса об'єкта.</Mass.description>
+  <Mass.formatString>{0} кг</Mass.formatString>
+
+  <MarketValue.label>ринкова вартість</MarketValue.label>
+  <MarketValue.description>Ринкова вартість об'єкта. Фактична ціна операції буде додатково змінена через вміння вести перемовини, відносини і решти ситуативних чинників.</MarketValue.description>
+  <MarketValue.formatString>{0}₴</MarketValue.formatString>
+
+  <SellPriceFactor.label>множник ціни продажу</SellPriceFactor.label>
+  <SellPriceFactor.description>Множник на ціну, за якою ви можете продавати товари.</SellPriceFactor.description>
+
+  <Flammability.label>горючість</Flammability.label>
+  <Flammability.description>Як легко об'єкт загориться і як швидко він згорить.</Flammability.description>
+
+  <WorkToMake.label>залишилося праці</WorkToMake.label>
+  <WorkToMake.description>Скільки роботи потрібно прикласти, щоби виконати завдання, після того, як усі матеріали та інструменти зібрані.</WorkToMake.description>
+
+  <WorkToBuild.label>роботи по будівництву</WorkToBuild.label>
+  <WorkToBuild.description>Скільки роботи потрібно виконати, щоби побудувати структуру, після того, як усі матеріали та інструменти зібрані.</WorkToBuild.description>
+
+  <DeteriorationRate.label>швидкість псування</DeteriorationRate.label>
+  <DeteriorationRate.description>Швидкість, з якою цей предмет псується коли знаходить надворі, в середньому це кількість шкоди за день. Речі псуються швидше в певній погоді, як дощ.</DeteriorationRate.description>
+  <DeteriorationRate.formatString>{0} за день</DeteriorationRate.formatString>
+
+  <Beauty.label>краса</Beauty.label>
+  <Beauty.description>Наскільки візуально приємний об'єкт.</Beauty.description>
+
+  <Cleanliness.label>чистота</Cleanliness.label>
+  <Cleanliness.description>Наскільки чистий об'єкт.</Cleanliness.description>
+
+  <Comfort.label>комфорт</Comfort.label>
+  <Comfort.description>Наскільки зручний об'єкт, щоби сидів або лежати на ньому.</Comfort.description>
+
+
+</LanguageData>
