@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Obedience.label>слухняність</Obedience.label>
+  <Obedience.description>Тварина може бути прив'язана до хазяїна. Вона буде слідувати за ним і захищати його.</Obedience.description>
+
+  <Release.label>відпустити</Release.label>
+  <Release.description>Тварина може бути відпущенною і атакувати далекі цілі чи просто захищаючи хазяїна.</Release.description>
+
+  <Rescue.label>порятунок</Rescue.label>
+  <Rescue.description>Тварина буде рятувати поранених друзів та відтаскувати їх у безпечне місце.</Rescue.description>
+
+  <Haul.label>переноска речей</Haul.label>
+  <Haul.description>Тварина буде час від часу переносити випадково вибрані речі (хоча можна й наказати тягати потрібні вам предмети).</Haul.description>
+
+
+</LanguageData>
