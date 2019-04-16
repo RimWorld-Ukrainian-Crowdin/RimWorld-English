@@ -110,49 +110,49 @@
   <CannotCarryToExit>Не можливо нести {0} і покинути територію</CannotCarryToExit>
   <CarryToExit>Нести {0} і покинути територію</CarryToExit>
 
-  <Strip>Strip {0}</Strip>
-  <CannotStrip>Cannot strip {0}</CannotStrip>
+  <Strip>Роздягнути {0}</Strip>
+  <CannotStrip>Не можливо роздягнути {0}</CannotStrip>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>Самоліквідуватися тут</SelfDestructHere>
 
-  <Drop>Drop {0}</Drop>
+  <Drop>Викинути {0}</Drop>
 
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
-  <NotInjured>Not injured</NotInjured>
-  <SomeoneElseSleeping>Occupied by {0}</SomeoneElseSleeping>
+  <UseMedicalBed>Відпочивати до зцілення</UseMedicalBed>
+  <NotInjured>Не травмований</NotInjured>
+  <SomeoneElseSleeping>Зайнятий {0}</SomeoneElseSleeping>
 
-  <TradeWith>Trade with {0}</TradeWith>
-  <CannotTrade>Cannot trade</CannotTrade>
+  <TradeWith>Торгівля з {0}</TradeWith>
+  <CannotTrade>Торгівля не можлива</CannotTrade>
 
-  <EnterMap>Enter {0}</EnterMap>
-  <VisitSettlement>Visit {0}</VisitSettlement>
-  <VisitPeaceTalks>Visit {0}</VisitPeaceTalks>
-  <VisitSite>Visit {0}</VisitSite>
-  <VisitEscapeShip>Visit {0}</VisitEscapeShip>
-  <AttackSite>Attack {0}</AttackSite>
-  <AttackSettlement>Attack {0}</AttackSettlement>
+  <EnterMap>Увійти в {0}</EnterMap>
+  <VisitSettlement>Відвідати {0}</VisitSettlement>
+  <VisitPeaceTalks>Відвідати {0}</VisitPeaceTalks>
+  <VisitSite>Відвідати {0}</VisitSite>
+  <VisitEscapeShip>Відвідати {0}</VisitEscapeShip>
+  <AttackSite>Атакувати {0}</AttackSite>
+  <AttackSettlement>Атакувати {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <EnterCryptosleepCasket>Лягти в капсулу криптосну</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Відкрити капсулу криптосну</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Не можливо {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Не можливо розставити пріоритети (не в змозі {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Вже {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Не можливо розставити пріоритети (ніколи не зробить {0})</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Не можливо розставити пріоритети (ніколи не зробить {0})</CannotPrioritizeWorkGiverDisabled>
 
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Не можливо розставити пріоритети (не назначений {0})</CannotPrioritizeNotAssignedToWorkType>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Не можливо розставити пріоритети (дослідження є довгостроковим завданням)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Не можливо розставити пріоритети ({0} заборонено)</CannotPrioritizeForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
