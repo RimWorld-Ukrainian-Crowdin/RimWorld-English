@@ -153,18 +153,18 @@
   <CannotPrioritizeResearch>Не можливо розставити пріоритети (дослідження є довгостроковим завданням)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Не можливо розставити пріоритети ({0} заборонено)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Не можливо розставити пріоритети ({0} поза межою дозволеної території)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Виставити пріорітет {0} на {1}</PrioritizeGeneric>
 
-  <DropAtEdge>Drop at edge</DropAtEdge>
-  <DropInCenter>Drop in center</DropInCenter>
+  <DropAtEdge>Викинути на край</DropAtEdge>
+  <DropInCenter>Викинути на центр</DropInCenter>
 
-  <VomitingLower>vomiting</VomitingLower>
-  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  <VomitingLower>блювота</VomitingLower>
+  <NotInterruptibleLower>не переривається</NotInterruptibleLower>
 
-  <AddWaypoint>Add a new waypoint here</AddWaypoint>
-  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+  <AddWaypoint>Додати сюди нову відмітку</AddWaypoint>
+  <RemoveWaypoint>Видалити цю відмітку</RemoveWaypoint>
 
 </LanguageData>
