@@ -10,11 +10,11 @@
   <GameUpdatedToNewVersionSavesIncompatible>Це може зашкодити роботі збережених ігор та модифікацій зі старої версії.</GameUpdatedToNewVersionSavesIncompatible>
   <GameUpdatedToNewVersionSavesCompatible>Збережені ігри зі старої версії повинні бути сумісними, але модифікації можуть перестати працювати.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Оскільки ця копія гри не містить DRM, ви можете встановити її у дві окремі папки, щоб мати змогу грати і стару і нову версії.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>Якщо ви хочете продовжити грати у стару версію, можете використати функцію "Тестування" у Steam.\n\n  1. У бібліотеці натисніть правою клавішею миші на RimWorld.\n 2. Клацніть пункт Властивості.\n  3. Клацніть на вкладку Тестування.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Якщо ви хочете продовжити грати у стару версію, можете використати функцію "Тестування" у Steam.\n\n  1. У бібліотеці натисніть правою клавішею миші на RimWorld.\n 2. Клацніть пункт Властивості.\n  3. Клацніть на вкладку Тестування.\n  4. Оберіть бажану версію зі списку.\n\nСтарі версії імовірно будуть з часом видалені, ми просто не хочемо перешкодити поточним іграм.\n\nЗауважте, якщо модифікації буде оновлено для роботи з новою версією гри, вони, імовірно, перестануть працювати на старій версії. Щоб цього уникнути, варто вимкнути автоматичні оновлення.</GameUpdatedToNewVersionSteam>
 
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Відновлено від помилок несумісних чи пошкоджених модифікацій</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Схоже, що деякі активні модифікації спричиняли помилки.\n\nВони були несумісні між собою, спроектовані для іншої версії гри, чи пошкоджені.\n\nВсі модифікації було деактивовано. Їх можна активувати знову через меню модифікацій.</RecoveredFromErrorsText>
 
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
