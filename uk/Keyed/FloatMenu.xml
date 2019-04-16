@@ -76,39 +76,39 @@
   <NoNonPrisonerBed>В не досяжності, не зарезервоване ліжко, температура безпечна.</NoNonPrisonerBed>
   <NoAnimalBed>В не досяжності, не зарезервоване ліжко для тварини, температура безпечна.</NoAnimalBed>
   <Reserved>Зарезервовано кимось іншим.</Reserved>
-  <ReservedBy>Reserved by {0}</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
-  <TooHeavy>Too heavy</TooHeavy>
+  <ReservedBy>Зарезервовано {0}</ReservedBy>
+  <IsReservedBy>{0} зарезервований {1}.</IsReservedBy>
+  <TooHeavy>Занадто важко</TooHeavy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <Incapable>нездатний</Incapable>
+  <IncapableOfCapacity>нездатний {0}</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>мінімальна навичка</MinSkill>
 
-  <Equip>Equip {0}</Equip>
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <Equip>Спорядити {0}</Equip>
+  <EquipWarningBrawler>(забіяка буде невдоволена)</EquipWarningBrawler>
+  <CannotEquip>Не можливо обладнати {0}</CannotEquip>
 
-  <ForceWear>Force wear {0}</ForceWear>
-  <CannotWear>Cannot wear {0}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <ForceWear>Змусити одягнути {0}</ForceWear>
+  <CannotWear>Не можливо одягнути {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>відсутні частини тіла</CannotWearBecauseOfMissingBodyParts>
 
-  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
-  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-  <PickUp>Pick up {0}</PickUp>
-  <PickUpAll>Pick up {0} (all)</PickUpAll>
-  <PickUpSome>Pick up {0}...</PickUpSome>
-  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <CannotPickUp>Не можливо підібрати {0}</CannotPickUp>
+  <CannotPickUpAll>Не можливо підібрати {0} (все)</CannotPickUpAll>
+  <PickUp>Підібрати {0}</PickUp>
+  <PickUpAll>Підібрати {0} (все)</PickUpAll>
+  <PickUpSome>Підібрати {0}...</PickUpSome>
+  <PickUpCount>Підібрати {0} х{{0}}</PickUpCount>
 
-  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+  <CannotGiveToPackAnimal>Не можливо дати {0} для стаї тварин</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Не можливо дати {0} (все) для стаї тварин</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Дати {0} для стаї тварин</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Дати {0} (все) для стаї тварин</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Дати {0} для стаї тварин...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Взяти {0} х{{0}}</GiveToPackAnimalCount>
 
-  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+  <CannotCarryToExit>Не можливо нести {0} і покинути територію</CannotCarryToExit>
+  <CarryToExit>Нести {0} і покинути територію</CarryToExit>
 
   <Strip>Strip {0}</Strip>
   <CannotStrip>Cannot strip {0}</CannotStrip>
