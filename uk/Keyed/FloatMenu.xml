@@ -7,50 +7,50 @@
   <CannotUseNoPower>Не можливо використати (знеструмлено)</CannotUseNoPower>
   <CannotUseNoPath>Не можливо використати (шлях не знайдено)</CannotUseNoPath>
   <CannotUseReserved>Не можливо використати (захищено)</CannotUseReserved>
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
-  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
-  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+  <CannotUseFull>Не можливо використати (повний)</CannotUseFull>
+  <LeaderUnavailable>лідер {0} недоступний</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>лідер недоступний</LeaderUnavailableNoLeader>
 
-  <FireAt>Fire at {0}</FireAt>
+  <FireAt>Пожежа в {0}</FireAt>
 
-  <OutOfRange>out of range</OutOfRange>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
-  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+  <OutOfRange>поза діапазоном</OutOfRange>
+  <CannotHitTarget>не можливо вразити ціль</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} не здатний на насильство</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>не здатний(а) на насильство</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>не можливо наказувати не підконтрольним юнітам</CannotOrderNonControlledLower>
   <CannotAttackSelf>cannot attack self</CannotAttackSelf>
 
-  <OrderManThing>Man {0}</OrderManThing>
+  <OrderManThing>Людина {0}</OrderManThing>
 
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Атаки ближнього бою {0}</MeleeAttack>
+  <MeleeAttackToDeath>Атаки ближнього бою {0} до смерті</MeleeAttackToDeath>
+  <NoPath>шлях не знайдено</NoPath>
 
-  <ForbiddenLower>forbidden</ForbiddenLower>
-  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>not in home area</NotInHomeArea>
-  <BurningLower>burning</BurningLower>
-  <NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
-  <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-  <MissingMaterials>need material</MissingMaterials>
-  <MissingSkill>skill too low</MissingSkill>
-  <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <NoFood>no food</NoFood>
-  <AnimalsSkillTooLow>animals skill too low</AnimalsSkillTooLow>
-  <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>
-  <NoComponentsToRepair>need components</NoComponentsToRepair>
-  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
-  <NoWort>need wort</NoWort>
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
-  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
-  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
-  <CannotReach>cannot reach</CannotReach>
-  <NotSurgeryReady>not ready for surgery</NotSurgeryReady>
-  <CantSowCavePlantBecauseOfLight>too bright</CantSowCavePlantBecauseOfLight>
+  <ForbiddenLower>заборонено</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>за межами допустимої зони</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>не в домашнії зоні</NotInHomeArea>
+  <BurningLower>горить</BurningLower>
+  <NoEmptyPlaceLower>відсутні доступні місця налаштовані для зберігання цього</NoEmptyPlaceLower>
+  <AlreadyFilledLower>заповнено</AlreadyFilledLower>
+  <MissingMaterials>потрібний матеріал</MissingMaterials>
+  <MissingSkill>навички занадто низькі</MissingSkill>
+  <NoEmptyGraveLower>відсутні порожні могили</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>тварина вже спілкувалася нещодавно</AnimalInteractedTooRecently>
+  <NoUsableFood>відсутня їжа (придатна для харчування)</NoUsableFood>
+  <NoFood>відсутня їжі</NoFood>
+  <AnimalsSkillTooLow>навички тварини занадто низькі</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>будівельні навички занадто низькі</ConstructionSkillTooLow>
+  <NoComponentsToRepair>потрібні компоненти</NoComponentsToRepair>
+  <NoFuelToRefuel>потрібно {0}</NoFuelToRefuel>
+  <NoWort>необхідні сусла</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>доступна їжа на складі з більшим пріорітетом</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>відсутня їжа (бажана для харчування)</NoFoodToFillHopper>
+  <SelfTendDisabled>самостійно, як правило, відключена</SelfTendDisabled>
+  <ReservedForPrisoners>зарезервовано для ув'язнених</ReservedForPrisoners>
+  <CannotReach>не можливо добратися</CannotReach>
+  <NotSurgeryReady>не готовий до операції</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>занадто світло</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
 
   <ConsumeThing>Consume {0}</ConsumeThing>
