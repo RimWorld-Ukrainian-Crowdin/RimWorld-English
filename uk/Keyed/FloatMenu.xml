@@ -51,31 +51,31 @@
   <CannotReach>не можливо добратися</CannotReach>
   <NotSurgeryReady>не готовий до операції</NotSurgeryReady>
   <CantSowCavePlantBecauseOfLight>занадто світло</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>без даху</CantSowCavePlantBecauseUnroofed>
 
-  <ConsumeThing>Consume {0}</ConsumeThing>
+  <ConsumeThing>Споживати {0}</ConsumeThing>
 
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>Не можливо прийти (шлях не знайдено)</CannotGoNoPath>
+  <GoHere>Іди сюди</GoHere>
 
-  <Arrest>Arrest {0}</Arrest>
-  <TryToArrest>Try to arrest {0}</TryToArrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest>Арештувати {0}</Arrest>
+  <TryToArrest>Спробувати заарештувати {0}</TryToArrest>
+  <CannotArrest>Не можливо заарештувати</CannotArrest>
 
-  <Capture>Capture {0}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>Захопити {0}</Capture>
+  <CannotCapture>Не можливо захопити</CannotCapture>
 
-  <Rescue>Rescue {0}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>Порятунок {0}</Rescue>
+  <CannotRescue>Не можливо врятувати</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Нести {0} до капсули криптосну</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Не можливо нести {0} до капсули криптосну</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed in safe temperature.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed in safe temperature.</NoAnimalBed>
-  <Reserved>Reserved by someone else.</Reserved>
+  <NoCryptosleepCasket>Недоступна капсула криптосну.</NoCryptosleepCasket>
+  <NoPrisonerBed>В не досяжності, не зарезервоване, не закрите ліжко для в'язня, температура безпечна.</NoPrisonerBed>
+  <NoNonPrisonerBed>В не досяжності, не зарезервоване ліжко, температура безпечна.</NoNonPrisonerBed>
+  <NoAnimalBed>В не досяжності, не зарезервоване ліжко для тварини, температура безпечна.</NoAnimalBed>
+  <Reserved>Зарезервовано кимось іншим.</Reserved>
   <ReservedBy>Reserved by {0}</ReservedBy>
   <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
   <TooHeavy>Too heavy</TooHeavy>
