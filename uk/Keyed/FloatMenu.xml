@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CallOnRadio>Call {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
-  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
+  <CallOnRadio>Виклик {0}</CallOnRadio>
+  <CannotUseReason>Не можливо використати ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Не можливо використати (сонячний спалах)</CannotUseSolarFlare>
+  <CannotUseNoPower>Не можливо використати (знеструмлено)</CannotUseNoPower>
+  <CannotUseNoPath>Не можливо використати (шлях не знайдено)</CannotUseNoPath>
+  <CannotUseReserved>Не можливо використати (захищено)</CannotUseReserved>
   <CannotUseFull>Cannot use (full)</CannotUseFull>
   <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
   <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
