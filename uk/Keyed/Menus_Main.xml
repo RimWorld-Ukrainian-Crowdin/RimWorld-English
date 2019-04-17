@@ -90,10 +90,10 @@
   <!--============ Scenario editor ===============-->
   <Seed>зерно</Seed>
   <Load>Завантажити</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <EditMode>режим редагування</EditMode>
+  <Summary>Підсумок</Summary>
+  <AddPart>Додати частину</AddPart>
+  <TextFieldsMustBeFilled>Усі текстові поля мають бути заповнені.</TextFieldsMustBeFilled>
   <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
   <Incompatible>Incompatible</Incompatible>
