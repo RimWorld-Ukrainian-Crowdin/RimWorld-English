@@ -94,11 +94,11 @@
   <Summary>Підсумок</Summary>
   <AddPart>Додати частину</AddPart>
   <TextFieldsMustBeFilled>Усі текстові поля мають бути заповнені.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <ConfirmSteamWorkshopUpload>Ви впевнені, що хочете завантажити це до Майстерні Steam?\n\nВи повинні погодитися з умовами Майстерні Steam. Знайти повні умови тут:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Очевидно, ви повинні завантажувати вміст, який ви самі створили.\n\nЧи створили ви цей контент самостійно?</ConfirmContentAuthor>
+  <Incompatible>Несумісний</Incompatible>
+  <TooMany>Забагато (максимум {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Може бути оновлено у Майстерні, оскільки ви є автором.</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
