@@ -12,8 +12,8 @@
   <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
   <PauseOnLoad>Пауза при завантаженні</PauseOnLoad>
   <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
-  <CustomCursor>Користувальницький курсор</CustomCursor>
-  <HatsShownOnlyOnMap>Відображати капелюхи тільки на ігровій карті</HatsShownOnlyOnMap>
+  <CustomCursor>Користувацький курсор</CustomCursor>
+  <HatsShownOnlyOnMap>Показувати капелюхи лише на ігровій мапі</HatsShownOnlyOnMap>
   <UIScale>Розмір Інтерфейсу</UIScale>
   <KeyboardConfig>Конфігурація клавіатури</KeyboardConfig>
   <ChooseLanguage>Змінити Мову</ChooseLanguage>
