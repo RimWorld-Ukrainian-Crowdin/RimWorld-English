@@ -15,11 +15,11 @@
   <SaveAndQuitToMainMenu>Зберегти і вийти до меню</SaveAndQuitToMainMenu>
   <QuitToOS>Вихід в ОС</QuitToOS>
   <SaveAndQuitToOS>Зберегти і вийти в ОС</SaveAndQuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Блок Ludeon</LudeonBlog>
+  <FictionPrimer>Літературний нарис</FictionPrimer>
+  <LudeonBlog>Блог Ludeon</LudeonBlog>
   <Forums>Форуми</Forums>
   <OfficialWiki>Офіційна Вікі</OfficialWiki>
-  <TynansTwitter>Твітер Tynan</TynansTwitter>
+  <TynansTwitter>Твіттер Tynan</TynansTwitter>
   <TynansDesignBook>Дизайнерська книга Tynan</TynansDesignBook>
   <HelpTranslate>Допоможіть перекласти RimWorld</HelpTranslate>
   <BuySoundtrack>Купити саундтрек</BuySoundtrack>
@@ -30,7 +30,7 @@
   <WorldGenerate>Згенерувати</WorldGenerate>
   <WorldSaveAndFinish>Зберегти і завершити</WorldSaveAndFinish>
   <Reset>Скинути</Reset>
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
+  <PlanetCoverage>Покриття земної кулі</PlanetCoverage>
   <PlanetRainfall>Загальна кількість опадів</PlanetRainfall>
   <PlanetTemperature>Середня температура</PlanetTemperature>
   <PlanetRainfall_Low>Низька</PlanetRainfall_Low>
