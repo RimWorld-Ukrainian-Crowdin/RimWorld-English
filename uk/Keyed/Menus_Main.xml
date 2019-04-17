@@ -62,15 +62,15 @@
   <OpenSteamWorkshop>Відкрити Майстерню Steam</OpenSteamWorkshop>
   <GetModsFromForum>Отримати моди з форуму</GetModsFromForum>
   <OpenModsDataFolder>Відкрити теку з модами</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Ви дійсно хочете вимкнути моди? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Ви впевнені, що хочете відключити основний мод? Гра не працюватиме взагалі, якщо ви не маєте іншого мода, який замінює усі основні функціональні можливості.\n\nПамʼятайте, що інші моди можуть перевизначати defs в основному моді, використовуючи ті ж самі defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Ви впевнені, що хочете видалити весь контент для {0}?</ConfirmDeleteMod>
   <Unsubscribe>Відписатися</Unsubscribe>
-  <ConfirmUnsubscribe>Ви впевнені, що хочете відписатися з {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Ви впевнені, що хочете відписатися від {0}?</ConfirmUnsubscribe>
   <Author>Автор</Author>
   <WorkshopPage>Сторінка в Майстерні</WorkshopPage>
   <UploadToSteamWorkshop>Опублікувати в Майстерні Steam</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Оновити в Майстерні Steam</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Завантаження вже триває.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
   <Downloading>Завантаження</Downloading>
