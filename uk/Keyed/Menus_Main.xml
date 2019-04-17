@@ -155,26 +155,26 @@
   <Backstory>Передісторія</Backstory>
   <IncapableOf>Нездатний до</IncapableOf>
   <Traits>Риси</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <PermanentMoodEffect>Постійний вплив настрою</PermanentMoodEffect>
   <Skills>Навички</Skills>
   <NoneLower>немає</NoneLower>
-  <Adulthood>Дорослість</Adulthood>
+  <Adulthood>Повноліття</Adulthood>
   <Childhood>Дитинство</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
+  <Male>чоловік</Male>
+  <Female>жінка</Female>
+  <Pain>Біль</Pain>
   <Health>Здоров'я</Health>
   <Relations>Відносини</Relations>
-  <TeamSkills>Навички команди</TeamSkills>
-  <StartingPawnsSelected>Selected</StartingPawnsSelected>
-  <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
+  <TeamSkills>Командні навички</TeamSkills>
+  <StartingPawnsSelected>Обрано</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Залишилися позаду</StartingPawnsLeftBehind>
 
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
+  <Start>Почати</Start>
+  <Advanced>Додатково</Advanced>
+  <Next>Далі</Next>
+  <Back>Назад</Back>
+  <Gameplay>Геймплей</Gameplay>
   <ConfirmQuit>Дійсно вийти? Ви втратите усі незбережені дані.</ConfirmQuit>
   <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
   <Quit>Quit</Quit>
