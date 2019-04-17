@@ -101,17 +101,17 @@
   <CanBeUpdatedOnWorkshop>Може бути оновлено у Майстерні, оскільки ви є автором.</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <ChooseAIStoryteller>Оберіть ШІ казкаря</ChooseAIStoryteller>
+  <HowStorytellersWork>ШІ казкаря створює події, такі як піратські набіги, зменшення ресурсів або напади тварин. Їх вибір вплине на історію вашої колонії. Ці налаштування можна змінити в будь-який час.</HowStorytellersWork>
   <MustChooseDifficulty>Будь ласка, оберіть рівень складності.</MustChooseDifficulty>
   <Difficulty>Рівень складності</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <SelectLandingSite>Оберіть місце приземлення</SelectLandingSite>
+  <SelectRandomSite>Оберіть випадкове місце</SelectRandomSite>
+  <SelectSite>Оберіть місце</SelectSite>
+  <MustSelectLandingSite>Будь ласка, оберіть місце приземлення.</MustSelectLandingSite>
+  <CannotLandBiome>Ви не можете приземлитися на цей біом: {0}</CannotLandBiome>
   <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
   <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
