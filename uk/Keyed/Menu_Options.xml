@@ -9,7 +9,7 @@
   <Antialiasing>Згладжування</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <EdgeScreenScroll>Прокручування мишею країв екрану</EdgeScreenScroll>
   <PauseOnLoad>Пауза при завантаженні</PauseOnLoad>
   <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
   <CustomCursor>Користувацький курсор</CustomCursor>
@@ -23,19 +23,19 @@
   <DevelopmentMode>Режим розробки</DevelopmentMode>
   <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
   <LogVerbose>Ведення докладного журналу</LogVerbose>
-  <OpenSaveGameDataFolder>Відкрити папку зі збереженими данними</OpenSaveGameDataFolder>
+  <OpenSaveGameDataFolder>Відкрити теку зі збереженими даними</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Імена персонажів, які ви хочете побачити:</NamesYouWantToSee>
   <AddName>Додати ім'я</AddName>
   <TypeFirstNickOrLastName>Введіть ім'я, прізвисько чи прізвище.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Це ім'я вже в списку бажаних.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Вибрати казкаря</ChangeStoryteller>
-  <AutosaveInterval>Автозбереження</AutosaveInterval>
+  <AutosaveInterval>Інтервал автозбереження</AutosaveInterval>
   <TemperatureMode>Температурна шкала</TemperatureMode>
   <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
   <MaxNumberOfPlayerHomes>Максимальна кількість колоній: {0}</MaxNumberOfPlayerHomes>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Параметри модифікацій</ModSettings>
+  <PlantWindSway>Рослини коливаються вітром</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Максимальний інтервал автозбереження в режимі постійної смерті становить {0} день.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Налаштування модифікацій</ModSettings>
 
   <!-- Resolution -->
   <Resolution>Роздільна здатність</Resolution>
