@@ -41,7 +41,7 @@
   <PlanetTemperature_High>Висока</PlanetTemperature_High>
   <WorldSeed>Зерно</WorldSeed>
   <RandomizeSeed>Випадкове зерно</RandomizeSeed>
-  <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, оскільки це може зайняти дуже багато часу. Це відсоток суші який ти хочеш згенерувати.</PlanetCoverageTip>
+  <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, оскільки це може зайняти дуже багато часу. Це відсоток поверхні, який ви бажаєте згенерувати.</PlanetCoverageTip>
   <WorldFactionsTab>Фракції</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
@@ -50,9 +50,8 @@
   <NoWorldsFilesFound>Не знайдено файлів світу. Спочатку створіть світ.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Доступна версія {0}. Для більшої інформації
-перегляньте ludeon.com.</BuildNowAvailable>
-  <BuildUpToDate>Це найновіша версія.</BuildUpToDate>
+  <BuildNowAvailable>Версія {0} наразі доступна. Перевірте ludeon.com для отримання додаткової інформації.</BuildNowAvailable>
+  <BuildUpToDate>Це остання версія.</BuildUpToDate>
   <ErrorGettingVersionInfo>Помилка при отриманні даних про версію: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Завантаження інформації щодо версії...</LoadingVersionInfo>
 
@@ -62,7 +61,7 @@
   <!--=========== Mods config ==========-->
   <OpenSteamWorkshop>Відкрити Майстерню Steam</OpenSteamWorkshop>
   <GetModsFromForum>Отримати моди з форуму</GetModsFromForum>
-  <OpenModsDataFolder>Відкрити папку з модами</OpenModsDataFolder>
+  <OpenModsDataFolder>Відкрити теку з модами</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Ви дійсно хочете вимкнути моди? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Ви впевнені, що хочете видалити весь контент для {0}?</ConfirmDeleteMod>
   <Unsubscribe>Відписатися</Unsubscribe>
