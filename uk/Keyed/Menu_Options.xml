@@ -44,8 +44,8 @@
   <!-- Privacy -->
   <Privacy>Конфіденційність</Privacy>
   <UserName>Ім’я користувача</UserName>
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <ChooseHistoryUploadPref>Налаштування завантажень даних гри</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Дані ігрового процесу користувачів допомагають розробникам збалансувати гру. Якщо ви згодні, ваша інформація буде надіслана кожні {0} днів гри (та в деяких інших рідкісних випадках, як завершення гри) на сервер RimWorld, а потім буде проаналізована. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
 
   <!-- Mods -->
   <SelectMod>Виберіть модифікацію...</SelectMod>
