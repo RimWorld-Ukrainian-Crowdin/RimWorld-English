@@ -176,14 +176,14 @@
   <Back>Назад</Back>
   <Gameplay>Геймплей</Gameplay>
   <ConfirmQuit>Дійсно вийти? Ви втратите усі незбережені дані.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <EveryoneNeedsValidName>Кожна особа потребує дійсного імені.</EveryoneNeedsValidName>
+  <Quit>Вийти</Quit>
+  <Ignore>Ігнорувати</Ignore>
 
   <!--============ Progress bar==============-->
   <GeneratingWorld>Створення світу</GeneratingWorld>
   <GeneratingPlanet>Створення планети</GeneratingPlanet>
   <GeneratingMap>Створення мапи</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>Створення мапи для нової зустрічі</GeneratingMapForNewEncounter>
 
 </LanguageData>
