@@ -71,8 +71,8 @@
   <UploadToSteamWorkshop>Опублікувати в Майстерні Steam</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Оновити в Майстерні Steam</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Завантаження вже триває.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <WorkshopSubmissionFailed>Не вдалося надіслати до Майстерні.\n\nПричина: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Успішно завантажено {0}.</WorkshopUploadSucceeded>
   <Downloading>Завантаження</Downloading>
   <Source>Джерело</Source>
   <ModTargetVersion>Для версії: {0}</ModTargetVersion>
