@@ -135,19 +135,19 @@
   <HasCoast3>західне узбережжя</HasCoast3>
   <HasCaves>печери</HasCaves>
   <FactionBase>База фракції</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-  <MovementTimeNow>Current movement time</MovementTimeNow>
-  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
-  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
-  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
-  <PerYear>per year</PerYear>
+  <StoneTypesHere>Типи каменю</StoneTypesHere>
+  <TimeZone>Часовий пояс</TimeZone>
+  <MovementTimeNow>Поточний рух часу</MovementTimeNow>
+  <MovementTimeSummer>Рух літнього часу</MovementTimeSummer>
+  <MovementTimeWinter>Рух зимового часу</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Тварини можуть пастися зараз</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Середня частота захворювань</AverageDiseaseFrequency>
+  <PerYear>за рік</PerYear>
 
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <CreateCharacters>Створення персонажів</CreateCharacters>
+  <FirstNameDesc>Імʼя персонажа.\n\nЦе відображається лише в деяких меню.</FirstNameDesc>
   <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
   <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
   <Randomize>Randomize</Randomize>
