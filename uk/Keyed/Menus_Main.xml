@@ -41,7 +41,7 @@
   <PlanetTemperature_High>Висока</PlanetTemperature_High>
   <WorldSeed>Зерно</WorldSeed>
   <RandomizeSeed>Випадкове зерно</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. Це відсоток суші який ти хочеш згенерувати.</PlanetCoverageTip>
+  <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, оскільки це може зайняти дуже багато часу. Це відсоток суші який ти хочеш згенерувати.</PlanetCoverageTip>
   <WorldFactionsTab>Фракції</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
