@@ -112,29 +112,29 @@
   <SelectSite>Оберіть місце</SelectSite>
   <MustSelectLandingSite>Будь ласка, оберіть місце приземлення.</MustSelectLandingSite>
   <CannotLandBiome>Ви не можете приземлитися на цей біом: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
-  <TileOccupied>This tile is occupied.</TileOccupied>
-  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+  <BiomeNotImplemented>Біом не реалізований</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Ви не можете приземлитися на непрохідні гори.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>У {0} вже є там база.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>У вас вже є там база.</YourBaseAlreadyThere>
+  <TileOccupied>Ця плитка зайнята.</TileOccupied>
+  <FactionBaseAdjacent>Поселення не можуть безпосередньо прилягати один до одного.</FactionBaseAdjacent>
   <Biome>Біом</Biome>
   <Terrain>Рельєф</Terrain>
   <Road>Дорога</Road>
   <River>Річка</River>
-  <Elevation>Elevation</Elevation>
+  <Elevation>Височина</Elevation>
   <Fertility>Родючість</Fertility>
   <AvgTemp>Середня температура</AvgTemp>
   <AvgSummerTemp>Температура влітку</AvgSummerTemp>
   <AvgWinterTemp>Температура взимку</AvgWinterTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <SpecialFeatures>Special features</SpecialFeatures>
-  <HasCoast0>northern coast</HasCoast0>
-  <HasCoast1>eastern coast</HasCoast1>
-  <HasCoast2>southern coast</HasCoast2>
-  <HasCoast3>western coast</HasCoast3>
+  <Rainfall>Кількість опадів</Rainfall>
+  <SpecialFeatures>Особливості</SpecialFeatures>
+  <HasCoast0>північне узбережжя</HasCoast0>
+  <HasCoast1>східне узбережжя</HasCoast1>
+  <HasCoast2>південне узбережжя</HasCoast2>
+  <HasCoast3>західне узбережжя</HasCoast3>
   <HasCaves>печери</HasCaves>
-  <FactionBase>Faction base</FactionBase>
+  <FactionBase>База фракції</FactionBase>
   <StoneTypesHere>Stone types</StoneTypesHere>
   <TimeZone>Time zone</TimeZone>
   <MovementTimeNow>Current movement time</MovementTimeNow>
