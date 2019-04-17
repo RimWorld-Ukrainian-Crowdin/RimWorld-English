@@ -45,10 +45,10 @@
   <Privacy>Конфіденційність</Privacy>
   <UserName>Ім’я користувача</UserName>
   <ChooseHistoryUploadPref>Налаштування завантажень даних гри</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Дані ігрового процесу користувачів допомагають розробникам збалансувати гру. Якщо ви згодні, ваша інформація буде надіслана кожні {0} днів гри (та в деяких інших рідкісних випадках, як завершення гри) на сервер RimWorld, а потім буде проаналізована. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <AboutHistoryUpload>Дані ігрового процесу користувачів допомагають розробникам збалансувати гру. Якщо ви згодні, ваша інформація буде надіслана кожні {0} днів гри (та в деяких інших рідкісних випадках, як завершення гри) на сервер RimWorld, а потім буде проаналізована. Завантажені дані геймплею складаються лише зі статистичних даних та записів історії, повʼязаних з грою — не надсилається жодна особиста інформація, за винятком імені користувача, тобто вона повністю анонімна.</AboutHistoryUpload>
 
   <!-- Mods -->
   <SelectMod>Виберіть модифікацію...</SelectMod>
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <NoConfigurableMods>Неналаштовані модифікації не завантажені.</NoConfigurableMods>
 
 </LanguageData>
