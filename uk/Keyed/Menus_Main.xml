@@ -147,14 +147,14 @@
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Створення персонажів</CreateCharacters>
-  <FirstNameDesc>Імʼя персонажа.\n\nЦе відображається лише в деяких меню.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
+  <FirstNameDesc>Імʼя персонажа.\n\nВідображається лише в деяких меню.</FirstNameDesc>
+  <ShortIdentifierDesc>Короткий ідентифікатор персонажа.\n\nВідображається завжди. Це може бути імʼя або прізвище, або повністю окреме прізвисько.</ShortIdentifierDesc>
+  <LastNameDesc>Прізвище персонажа.\n\nВідображається лише в деяких меню.</LastNameDesc>
+  <Randomize>Рандомізувати</Randomize>
+  <AgeIndicator>вік {0}</AgeIndicator>
+  <Backstory>Передісторія</Backstory>
+  <IncapableOf>Нездатний до</IncapableOf>
+  <Traits>Риси</Traits>
   <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>Навички</Skills>
   <NoneLower>немає</NoneLower>
