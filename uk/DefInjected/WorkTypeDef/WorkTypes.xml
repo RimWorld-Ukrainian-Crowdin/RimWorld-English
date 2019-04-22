@@ -43,12 +43,12 @@
   <Warden.gerundLabel>пильнувати</Warden.gerundLabel>
   <Warden.verb>Handle</Warden.verb>
 
-  <Handling.label>Handle</Handling.label>
-  <Handling.description>Tame, train, harvest resources from and slaughter animals.</Handling.description>
-  <Handling.labelShort>Handle</Handling.labelShort>
-  <Handling.pawnLabel>Handler</Handling.pawnLabel>
-  <Handling.gerundLabel>handling</Handling.gerundLabel>
-  <Handling.verb>Handle</Handling.verb>
+  <Handling.label>Скотар</Handling.label>
+  <Handling.description>Приручайте, тренуйте, збирайте ресурси та забивайте тварин.</Handling.description>
+  <Handling.labelShort>Скотар</Handling.labelShort>
+  <Handling.pawnLabel>Скотар</Handling.pawnLabel>
+  <Handling.gerundLabel>випасати</Handling.gerundLabel>
+  <Handling.verb>Пасти</Handling.verb>
 
   <Cooking.label>Cook</Cooking.label>
   <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
