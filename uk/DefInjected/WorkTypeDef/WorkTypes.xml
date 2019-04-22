@@ -41,7 +41,7 @@
   <Warden.labelShort>Вартовий</Warden.labelShort>
   <Warden.pawnLabel>Вартовий</Warden.pawnLabel>
   <Warden.gerundLabel>пильнувати</Warden.gerundLabel>
-  <Warden.verb>Handle</Warden.verb>
+  <Warden.verb>Наглядати</Warden.verb>
 
   <Handling.label>Скотар</Handling.label>
   <Handling.description>Приручайте, тренуйте, збирайте ресурси та забивайте тварин.</Handling.description>
@@ -50,12 +50,12 @@
   <Handling.gerundLabel>випасати</Handling.gerundLabel>
   <Handling.verb>Пасти</Handling.verb>
 
-  <Cooking.label>Cook</Cooking.label>
-  <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
-  <Cooking.labelShort>Cook</Cooking.labelShort>
-  <Cooking.pawnLabel>Cook</Cooking.pawnLabel>
-  <Cooking.gerundLabel>cooking</Cooking.gerundLabel>
-  <Cooking.verb>Cook</Cooking.verb>
+  <Cooking.label>Кухар</Cooking.label>
+  <Cooking.description>Готуйте страви та забивайте на мʼясо.</Cooking.description>
+  <Cooking.labelShort>Кухар</Cooking.labelShort>
+  <Cooking.pawnLabel>Кухар</Cooking.pawnLabel>
+  <Cooking.gerundLabel>приготування їжі</Cooking.gerundLabel>
+  <Cooking.verb>Готувати</Cooking.verb>
 
   <Hunting.label>Hunt</Hunting.label>
   <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
