@@ -23,10 +23,10 @@
   <Doctor.verb>Піклуватись про</Doctor.verb>
 
   <PatientBedRest.label>Постільний режим</PatientBedRest.label>
-  <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
+  <PatientBedRest.description>Відпочивайте в ліжку, щоб оговтатися від проблем зі здоровʼям, які вже не становлять кризи для життя.</PatientBedRest.description>
   <PatientBedRest.labelShort>Постільний режим</PatientBedRest.labelShort>
-  <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
-  <PatientBedRest.gerundLabel>resting in bed</PatientBedRest.gerundLabel>
+  <PatientBedRest.pawnLabel>Відпочивальник</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>відпочивати у ліжку</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
   <Flicker.label>Flick</Flicker.label>
@@ -36,11 +36,11 @@
   <Flicker.gerundLabel>flicking</Flicker.gerundLabel>
   <Flicker.verb>Flick</Flicker.verb>
 
-  <Warden.label>Warden</Warden.label>
+  <Warden.label>Вартовий</Warden.label>
   <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
-  <Warden.labelShort>Warden</Warden.labelShort>
-  <Warden.pawnLabel>Warden</Warden.pawnLabel>
-  <Warden.gerundLabel>wardening</Warden.gerundLabel>
+  <Warden.labelShort>Вартовий</Warden.labelShort>
+  <Warden.pawnLabel>Вартовий</Warden.pawnLabel>
+  <Warden.gerundLabel>пильнувати</Warden.gerundLabel>
   <Warden.verb>Handle</Warden.verb>
 
   <Handling.label>Handle</Handling.label>
