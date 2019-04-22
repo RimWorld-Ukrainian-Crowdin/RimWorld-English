@@ -68,15 +68,15 @@
   <Construction.description>Будуйте призначені вами речі та виправляйте пошкоджені або зруйновані будівлі.</Construction.description>
   <Construction.labelShort>Будівництво</Construction.labelShort>
   <Construction.pawnLabel>Будівельник</Construction.pawnLabel>
-  <Construction.gerundLabel>constructing</Construction.gerundLabel>
+  <Construction.gerundLabel>будівництво</Construction.gerundLabel>
   <Construction.verb>Споруджувати</Construction.verb>
 
-  <Growing.label>Grow</Growing.label>
-  <Growing.description>Plant seeds and harvest grown crops.</Growing.description>
-  <Growing.labelShort>Grow</Growing.labelShort>
-  <Growing.pawnLabel>Grower</Growing.pawnLabel>
-  <Growing.gerundLabel>growing</Growing.gerundLabel>
-  <Growing.verb>Grow</Growing.verb>
+  <Growing.label>Садівництво</Growing.label>
+  <Growing.description>Висаджуйте насіння та збирайте врожай.</Growing.description>
+  <Growing.labelShort>Садівництво</Growing.labelShort>
+  <Growing.pawnLabel>Садівник</Growing.pawnLabel>
+  <Growing.gerundLabel>рослинництво</Growing.gerundLabel>
+  <Growing.verb>Садити</Growing.verb>
 
   <Mining.label>Mine</Mining.label>
   <Mining.description>Digging and drilling.</Mining.description>
