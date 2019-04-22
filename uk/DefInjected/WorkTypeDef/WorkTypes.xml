@@ -93,25 +93,25 @@
   <PlantCutting.verb>Зрізати</PlantCutting.verb>
 
   <Smithing.label>Ковальство</Smithing.label>
-  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
+  <Smithing.description>Створюйте зброю та інструменти з сировини, або куючи, або штампуючи.</Smithing.description>
   <Smithing.labelShort>Ковальство</Smithing.labelShort>
   <Smithing.pawnLabel>Коваль</Smithing.pawnLabel>
   <Smithing.gerundLabel>кування</Smithing.gerundLabel>
   <Smithing.verb>Кувати</Smithing.verb>
 
-  <Tailoring.label>Tailor</Tailoring.label>
-  <Tailoring.description>Create apparel from raw materials.</Tailoring.description>
-  <Tailoring.labelShort>Tailor</Tailoring.labelShort>
-  <Tailoring.pawnLabel>Tailor</Tailoring.pawnLabel>
-  <Tailoring.gerundLabel>tailoring</Tailoring.gerundLabel>
-  <Tailoring.verb>Tailor at</Tailoring.verb>
+  <Tailoring.label>Пошиття одягу</Tailoring.label>
+  <Tailoring.description>Створюйте одяг з сировини.</Tailoring.description>
+  <Tailoring.labelShort>Шиття</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Кравець</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>шиття</Tailoring.gerundLabel>
+  <Tailoring.verb>Шити</Tailoring.verb>
 
-  <Art.label>Art</Art.label>
-  <Art.description>Create beautiful works of art from raw materials.</Art.description>
-  <Art.labelShort>Art</Art.labelShort>
-  <Art.pawnLabel>Artist</Art.pawnLabel>
-  <Art.gerundLabel>art</Art.gerundLabel>
-  <Art.verb>Do art at</Art.verb>
+  <Art.label>Мистецтво</Art.label>
+  <Art.description>Створюйте красиві твори мистецтва з сировини.</Art.description>
+  <Art.labelShort>Мистецтво</Art.labelShort>
+  <Art.pawnLabel>Митець</Art.pawnLabel>
+  <Art.gerundLabel>мистецтво</Art.gerundLabel>
+  <Art.verb>Творити</Art.verb>
 
   <Crafting.label>Craft</Crafting.label>
   <Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
