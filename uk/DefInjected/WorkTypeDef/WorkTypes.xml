@@ -29,10 +29,10 @@
   <PatientBedRest.gerundLabel>відпочивати у ліжку</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
-  <Flicker.label>Flick</Flicker.label>
+  <Flicker.label>Кнопкодавство</Flicker.label>
   <Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
-  <Flicker.labelShort>Flick</Flicker.labelShort>
-  <Flicker.pawnLabel>Flicker</Flicker.pawnLabel>
+  <Flicker.labelShort>Кнопкодавство</Flicker.labelShort>
+  <Flicker.pawnLabel>Кнопкодав</Flicker.pawnLabel>
   <Flicker.gerundLabel>flicking</Flicker.gerundLabel>
   <Flicker.verb>Flick</Flicker.verb>
 
