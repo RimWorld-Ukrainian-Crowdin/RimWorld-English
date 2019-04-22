@@ -57,12 +57,12 @@
   <Cooking.gerundLabel>приготування їжі</Cooking.gerundLabel>
   <Cooking.verb>Готувати</Cooking.verb>
 
-  <Hunting.label>Hunt</Hunting.label>
-  <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
-  <Hunting.labelShort>Hunt</Hunting.labelShort>
-  <Hunting.pawnLabel>Hunter</Hunting.pawnLabel>
-  <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
-  <Hunting.verb>Hunt</Hunting.verb>
+  <Hunting.label>Полювання</Hunting.label>
+  <Hunting.description>Вбивайте тварин, які призначені для полювання.</Hunting.description>
+  <Hunting.labelShort>Полювання</Hunting.labelShort>
+  <Hunting.pawnLabel>Мисливець</Hunting.pawnLabel>
+  <Hunting.gerundLabel>полювання</Hunting.gerundLabel>
+  <Hunting.verb>Полювати</Hunting.verb>
 
   <Construction.label>Construct</Construction.label>
   <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
