@@ -29,12 +29,12 @@
   <PatientBedRest.gerundLabel>відпочивати у ліжку</PatientBedRest.gerundLabel>
   <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
-  <Flicker.label>Кнопкодавство</Flicker.label>
-  <Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
-  <Flicker.labelShort>Кнопкодавство</Flicker.labelShort>
-  <Flicker.pawnLabel>Кнопкодав</Flicker.pawnLabel>
-  <Flicker.gerundLabel>flicking</Flicker.gerundLabel>
-  <Flicker.verb>Flick</Flicker.verb>
+  <Flicker.label>Перемикання</Flicker.label>
+  <Flicker.description>Вмикач перемикає. Наприклад, коли ви призначаєте перемикання потужності на турелі, вмикач повинен вручну натиснути на ній, щоб увімкнути живлення.</Flicker.description>
+  <Flicker.labelShort>Перемикання</Flicker.labelShort>
+  <Flicker.pawnLabel>Перемикач</Flicker.pawnLabel>
+  <Flicker.gerundLabel>перемикання</Flicker.gerundLabel>
+  <Flicker.verb>Перемикати</Flicker.verb>
 
   <Warden.label>Вартовий</Warden.label>
   <Warden.description>Керувати, годувати, набирати та балакати з вʼязнями.</Warden.description>
@@ -64,12 +64,12 @@
   <Hunting.gerundLabel>полювання</Hunting.gerundLabel>
   <Hunting.verb>Полювати</Hunting.verb>
 
-  <Construction.label>Construct</Construction.label>
-  <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
-  <Construction.labelShort>Construct</Construction.labelShort>
-  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
+  <Construction.label>Будівництво</Construction.label>
+  <Construction.description>Будуйте призначені вами речі та виправляйте пошкоджені або зруйновані будівлі.</Construction.description>
+  <Construction.labelShort>Будівництво</Construction.labelShort>
+  <Construction.pawnLabel>Будівельник</Construction.pawnLabel>
   <Construction.gerundLabel>constructing</Construction.gerundLabel>
-  <Construction.verb>Construct</Construction.verb>
+  <Construction.verb>Споруджувати</Construction.verb>
 
   <Growing.label>Grow</Growing.label>
   <Growing.description>Plant seeds and harvest grown crops.</Growing.description>
