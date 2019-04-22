@@ -113,15 +113,15 @@
   <Art.gerundLabel>мистецтво</Art.gerundLabel>
   <Art.verb>Творити</Art.verb>
 
-  <Crafting.label>Craft</Crafting.label>
-  <Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
-  <Crafting.labelShort>Craft</Crafting.labelShort>
-  <Crafting.pawnLabel>Crafter</Crafting.pawnLabel>
-  <Crafting.gerundLabel>crafting</Crafting.gerundLabel>
-  <Crafting.verb>Craft at</Crafting.verb>
+  <Crafting.label>Ремесло</Crafting.label>
+  <Crafting.description>Виконуйте низькокваліфіковану працю взагалі. Це охоплює різання каменю, виплавку та інше.</Crafting.description>
+  <Crafting.labelShort>Ремесло</Crafting.labelShort>
+  <Crafting.pawnLabel>Ремісник</Crafting.pawnLabel>
+  <Crafting.gerundLabel>майструвати</Crafting.gerundLabel>
+  <Crafting.verb>Майструвати</Crafting.verb>
 
   <Hauling.label>Haul</Hauling.label>
-  <Hauling.description>Carry things to where they need to be.</Hauling.description>
+  <Hauling.description>Носіть речі туди, де вони повинні бути.</Hauling.description>
   <Hauling.labelShort>Haul</Hauling.labelShort>
   <Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
   <Hauling.gerundLabel>hauling</Hauling.gerundLabel>
