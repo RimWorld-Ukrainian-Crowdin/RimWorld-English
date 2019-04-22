@@ -85,19 +85,19 @@
   <Mining.gerundLabel>гірництво</Mining.gerundLabel>
   <Mining.verb>Видобути</Mining.verb>
 
-  <PlantCutting.label>Plant cut</PlantCutting.label>
+  <PlantCutting.label>Збирання</PlantCutting.label>
   <PlantCutting.description>Жати або збирати рослини за призначенням.</PlantCutting.description>
-  <PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
+  <PlantCutting.labelShort>Збирання</PlantCutting.labelShort>
   <PlantCutting.pawnLabel>Збирач</PlantCutting.pawnLabel>
-  <PlantCutting.gerundLabel>plant cutting</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>збирання</PlantCutting.gerundLabel>
   <PlantCutting.verb>Зрізати</PlantCutting.verb>
 
-  <Smithing.label>Smith</Smithing.label>
+  <Smithing.label>Ковальство</Smithing.label>
   <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
-  <Smithing.labelShort>Smith</Smithing.labelShort>
-  <Smithing.pawnLabel>Smith</Smithing.pawnLabel>
-  <Smithing.gerundLabel>smithing</Smithing.gerundLabel>
-  <Smithing.verb>Smith at</Smithing.verb>
+  <Smithing.labelShort>Ковальство</Smithing.labelShort>
+  <Smithing.pawnLabel>Коваль</Smithing.pawnLabel>
+  <Smithing.gerundLabel>кування</Smithing.gerundLabel>
+  <Smithing.verb>Кувати</Smithing.verb>
 
   <Tailoring.label>Tailor</Tailoring.label>
   <Tailoring.description>Create apparel from raw materials.</Tailoring.description>
