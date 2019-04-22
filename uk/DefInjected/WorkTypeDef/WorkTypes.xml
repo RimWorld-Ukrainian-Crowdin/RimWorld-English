@@ -78,19 +78,19 @@
   <Growing.gerundLabel>рослинництво</Growing.gerundLabel>
   <Growing.verb>Садити</Growing.verb>
 
-  <Mining.label>Mine</Mining.label>
-  <Mining.description>Digging and drilling.</Mining.description>
-  <Mining.labelShort>Mine</Mining.labelShort>
-  <Mining.pawnLabel>Miner</Mining.pawnLabel>
-  <Mining.gerundLabel>mining</Mining.gerundLabel>
-  <Mining.verb>Mine</Mining.verb>
+  <Mining.label>Гірництво</Mining.label>
+  <Mining.description>Риття та буріння.</Mining.description>
+  <Mining.labelShort>Гірництво</Mining.labelShort>
+  <Mining.pawnLabel>Шахтар</Mining.pawnLabel>
+  <Mining.gerundLabel>гірництво</Mining.gerundLabel>
+  <Mining.verb>Видобути</Mining.verb>
 
   <PlantCutting.label>Plant cut</PlantCutting.label>
-  <PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
+  <PlantCutting.description>Жати або збирати рослини за призначенням.</PlantCutting.description>
   <PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
-  <PlantCutting.pawnLabel>Plant cutter</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>Збирач</PlantCutting.pawnLabel>
   <PlantCutting.gerundLabel>plant cutting</PlantCutting.gerundLabel>
-  <PlantCutting.verb>Cut</PlantCutting.verb>
+  <PlantCutting.verb>Зрізати</PlantCutting.verb>
 
   <Smithing.label>Smith</Smithing.label>
   <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
