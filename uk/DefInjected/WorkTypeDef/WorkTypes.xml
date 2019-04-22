@@ -123,9 +123,9 @@
   <Hauling.label>Перенесення</Hauling.label>
   <Hauling.description>Носіть речі туди, де вони повинні бути.</Hauling.description>
   <Hauling.labelShort>Перенесення</Hauling.labelShort>
-  <Hauling.pawnLabel>Носій</Hauling.pawnLabel>
+  <Hauling.pawnLabel>Вантажник</Hauling.pawnLabel>
   <Hauling.gerundLabel>перенесення</Hauling.gerundLabel>
-  <Hauling.verb>Носити</Hauling.verb>
+  <Hauling.verb>Вантажити</Hauling.verb>
 
   <Cleaning.label>Прибирання</Cleaning.label>
   <Cleaning.description>Прибирайте сніг і підлогу в домашній зоні.</Cleaning.description>
