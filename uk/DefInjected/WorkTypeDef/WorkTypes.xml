@@ -12,22 +12,22 @@
   <Patient.description>Негайно йдіть до медичного ліжка для лікування, якщо ваш стан здоровʼя небезпечний для життя.</Patient.description>
   <Patient.labelShort>Хворий</Patient.labelShort>
   <Patient.pawnLabel>Хворий</Patient.pawnLabel>
-  <Patient.gerundLabel>patienting</Patient.gerundLabel>
-  <Patient.verb>Become patient</Patient.verb>
+  <Patient.gerundLabel>хворіти</Patient.gerundLabel>
+  <Patient.verb>Захворіти</Patient.verb>
 
-  <Doctor.label>Doctor</Doctor.label>
-  <Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
-  <Doctor.labelShort>Doctor</Doctor.labelShort>
-  <Doctor.pawnLabel>Doctor</Doctor.pawnLabel>
-  <Doctor.gerundLabel>doctoring</Doctor.gerundLabel>
-  <Doctor.verb>Care for</Doctor.verb>
+  <Doctor.label>Лікар</Doctor.label>
+  <Doctor.description>Лікуйте хворих, приносить їм їжу, підбадьорюйте їх і виконуйте призначені операції. Лікарі дбають про колоністів і увʼязнених.</Doctor.description>
+  <Doctor.labelShort>Лікар</Doctor.labelShort>
+  <Doctor.pawnLabel>Лікар</Doctor.pawnLabel>
+  <Doctor.gerundLabel>лікувати</Doctor.gerundLabel>
+  <Doctor.verb>Піклуватись про</Doctor.verb>
 
-  <PatientBedRest.label>Bed rest</PatientBedRest.label>
+  <PatientBedRest.label>Постільний режим</PatientBedRest.label>
   <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
-  <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>Постільний режим</PatientBedRest.labelShort>
   <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
   <PatientBedRest.gerundLabel>resting in bed</PatientBedRest.gerundLabel>
-  <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+  <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
   <Flicker.label>Flick</Flicker.label>
   <Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
