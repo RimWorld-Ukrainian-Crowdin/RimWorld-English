@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DesignatorCancel>Відмінити</DesignatorCancel>
-  <DesignatorCancelDesc>Відмінити будівництво, видобуток, переміщення, збір, і усі інші задачі.</DesignatorCancelDesc>
+  <DesignatorCancel>Скасувати</DesignatorCancel>
+  <DesignatorCancelDesc>Скасувати призначені будівництва, видобуток, перевезення, збір врожаю та всі інші призначення.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>Вирізати рослини</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Вімітити рослини для вирізання і знищення. Рослини будуть повністю видалено і будь яка харчова рослина або родовище ресурсів буде зібрано.</DesignatorCutPlantsDesc>
@@ -21,7 +21,7 @@
 
   <DesignatorHaulThings>Перемістити речі</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Вімітити глиби каменів і інші речі для переміщення на звалище. Не потрібно для таких речей як їжа або трупів, на які завжди діє переміщення.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Can only designate haulable but non-always-hauled things (like rock chunks).</MustHaulHaulables>
+  <MustHaulHaulables>Можна призначити лише ті, що рідко переносяться (наприклад, шматки каменю).</MustHaulHaulables>
 
   <DesignatorHunt>Полювати</DesignatorHunt>
   <DesignatorHuntDesc>Вімітити тварин для полювання твоїми мисливцями.</DesignatorHuntDesc>
