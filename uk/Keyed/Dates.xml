@@ -4,7 +4,7 @@
   <ClockTime>Час</ClockTime>
   <ClockDate>Дата</ClockDate>
   <ClockYear>Рік</ClockYear>
-  <DateReadoutTip>Днів минуло з моменту вашого приїзду: \nCurrent {0} сайт quadrum: сезон nLocal \ {4}: \ {2} н\Пв рік ділиться на 4 quadrums з {3} днів кожен. Quadrums скрізь однакові, а різні сезони, в різних місцях.\н\nLocal сезони для кожного сайт quadrum:\н{5}</DateReadoutTip>
+  <DateReadoutTip>Днів минуло з моменту вашого приїзду: {0}\n Наразі: {4} день.\n Місцевий сезон: {2}\n\nРік ділиться на 4 сезони з {3} днями кожен. Quadrums скрізь однакові, а різні сезони, в різних місцях.\н\nLocal сезони для кожного сайт quadrum:\н{5}</DateReadoutTip>
 
   <FullDate>{0} з {1}, {2}</FullDate>
   <DateReadout>{0} з {1}, {2}</DateReadout>
