@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-  <Colony>Colony</Colony>
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <Autosaving>Автозбереження</Autosaving>
+  <GameStartDialog>Троє з вас прокинулися в саркофагу криптосну під звуки сирен і скрегіт металу. Ви ледь добігли до рятівних капсул до того, як корабель розвалився на частини. \n\nЧерез деякий час, ви приземляєтеся на цю невідому рімворлд.\n\nЯк шматки зорельота падають навколо вас, ви починаєте створювати плани для виживання.</GameStartDialog>
+  <Colony>Колонія</Colony>
+  <ChangeLanguageFromMainMenu>Змінити мову можна лише в "Параметри" в головному меню.</ChangeLanguageFromMainMenu>
+  <AndLower>та</AndLower>
+  <DisabledLower>вимкнено</DisabledLower>
 
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <VersionIndicator>Версія {0}</VersionIndicator>
+  <DevelopmentBuildLower>версія розроблення</DevelopmentBuildLower>
   <CompiledOn>Compiled {0}</CompiledOn>
   <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
 
