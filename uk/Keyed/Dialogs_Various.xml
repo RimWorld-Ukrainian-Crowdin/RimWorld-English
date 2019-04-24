@@ -40,22 +40,22 @@
   <LoadingDefs>Завантаження локалізації</LoadingDefs>
   <LoadingAssets>Завантаження ресурсів</LoadingAssets>
   <Initializing>Ініціалізація</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <LoadingWorld>Завантаження світу</LoadingWorld>
+  <LoadingMap>Завантаження колонії</LoadingMap>
+  <InitializingGame>Ініціалізація гри</InitializingGame>
+  <SpawningAllThings>Розкладання речей</SpawningAllThings>
+  <SpawningColonists>Розташовуємо колоністів</SpawningColonists>
 
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <SaveGameButton>Зберегти</SaveGameButton>
+  <LoadGameButton>Завантажити</LoadGameButton>
+  <OverwriteButton>Перезаписати</OverwriteButton>
+  <ConfirmDelete>Дійсно видалити {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Видалити цю сесію.</DeleteThisSavegame>
+  <SavedAs>Збережено як {0}.</SavedAs>
+  <NeedAName>Введіть ім'я.</NeedAName>
+  <LoadingLongEvent>Завантаження</LoadingLongEvent>
+  <SavingLongEvent>Збереження</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
