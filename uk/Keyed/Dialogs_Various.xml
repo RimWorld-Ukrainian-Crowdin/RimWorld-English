@@ -17,8 +17,8 @@
   <RecoveredFromErrorsText>Схоже, що деякі активні модифікації спричиняли помилки.\n\nВони були несумісні між собою, спроектовані для іншої версії гри, чи пошкоджені.\n\nВсі модифікації було деактивовано. Їх можна активувати знову через меню модифікацій.</RecoveredFromErrorsText>
 
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssetsTitle>Помилка під час завантаження ресурсів</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Сталася помилка при завантаженні ігрових ресурсів. Перегляньте журнал помилок для отримання додаткової інформації.</ErrorWhileLoadingAssets>
   <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
   <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
   <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
@@ -28,7 +28,7 @@
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
   <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <Restarting>Перезавантаження</Restarting>
 
   <!-- Missing Steam -->
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
@@ -37,9 +37,9 @@
   <InitializingInterface>Initializing interface</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
   <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
+  <LoadingDefs>Завантаження локалізації</LoadingDefs>
+  <LoadingAssets>Завантаження ресурсів</LoadingAssets>
+  <Initializing>Ініціалізація</Initializing>
   <LoadingWorld>Loading world</LoadingWorld>
   <LoadingMap>Loading map</LoadingMap>
   <InitializingGame>Initializing game</InitializingGame>
