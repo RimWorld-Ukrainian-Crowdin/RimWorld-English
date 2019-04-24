@@ -26,7 +26,7 @@
   <radius>радіус</radius>
   <durationDays>тривалість (дні)</durationDays>
   <intervalDays>інтервал (дні)</intervalDays>
-  <repeat>repeat</repeat>
+  <repeat>повторення</repeat>
   <default>за замовчанням</default>
   <distance>відстань</distance>
 
@@ -42,34 +42,34 @@
   <CorpseDesc>Мертве тіло {0}.</CorpseDesc>
   <DeadLabel>{0} (мертвий(а))</DeadLabel>
 
-  <RoughStoneTerrainLabel>нерівний(а) {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Нерівний(а), природна {0} поверхня.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>необтесаний(а) {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>нерівна {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Нерівна, природна {0} поверхня.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>необтесаний {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Підлога з грубо обтесаного {0}.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>рівна {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Рівна, природна {0} поверхня.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <BlueprintLabelExtra> (кресленя)</BlueprintLabelExtra>
+  <FrameLabelExtra> (будується)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{0} створено {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <SomeonesRoom>{1} належить {0}</SomeonesRoom>
+  <CouplesRoom>{2} належить {1} та {0}</CouplesRoom>
 
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(різні)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Колоніст помер</ColonistDied>
 
   <!-- Rotation -->
-  <North>North</North>
-  <South>South</South>
-  <West>West</West>
-  <East>East</East>
+  <North>Північ</North>
+  <South>Південь</South>
+  <West>Захід</West>
+  <East>Схід</East>
 
 
 </LanguageData>
