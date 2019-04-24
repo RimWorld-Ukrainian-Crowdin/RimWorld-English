@@ -6,7 +6,7 @@
   <Architect.label>архітектура</Architect.label>
   <Architect.description>У цій вкладці можна позначити де і що будуть будувати або робити колоністи: будувати, створювати ферми, склади і тд.</Architect.description>
 
-  <Work.label>робота</Work.label>
+  <Work.label>праця</Work.label>
   <Work.description>Обрати, що саме буде робити кожен з ваших колоністів та позначте пріоритети.</Work.description>
 
   <Restrict.label>обмеження</Restrict.label>
