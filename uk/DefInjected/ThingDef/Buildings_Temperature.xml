@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Campfire.label>campfire</Campfire.label>
+  <Campfire.label>багаття</Campfire.label>
   <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
   <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
   <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
