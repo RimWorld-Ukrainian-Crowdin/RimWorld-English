@@ -14,7 +14,7 @@
   <PassiveCooler_Frame.description>Традиційний кулер, який працює шляхом випаровування води і без потреби електрозабезпечення. Закінчить роботу і самознищиться через кілька днів.</PassiveCooler_Frame.description>
 
   <Heater.label>обігрівач</Heater.label>
-  <Heater.description>Електричний пристрій, який перетворює електроенергію в тепло. Він може автоматично включатись або вимикатись, щоб досягти певної температури.</Heater.description>
+  <Heater.description>Електричний пристрій, який перетворює електроенергію в тепло. Він може автоматично вмикатися або вимикатись, щоб досягти певної температури.</Heater.description>
   <Heater_Blueprint.label>обігрівач (план)</Heater_Blueprint.label>
   <Heater_Blueprint_Install.label>обігрівач (план)</Heater_Blueprint_Install.label>
   <Heater_Frame.label>обігрівач (споруджується)</Heater_Frame.label>
