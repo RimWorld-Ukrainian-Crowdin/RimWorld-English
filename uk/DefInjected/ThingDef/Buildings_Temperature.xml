@@ -2,25 +2,25 @@
 <LanguageData>
 
   <Campfire.label>багаття</Campfire.label>
-  <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
-  <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
-  <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
-  <Campfire_Frame.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire_Frame.description>
+  <Campfire.description>Для готовки страв та отримання тепла. Згорає через декілька днів. Як усі джерела тепла, повинен розміщуватися в приміщенні, щоб нагріти простір. Може поповнюватись.</Campfire.description>
+  <Campfire_Blueprint.label>багаття (план)</Campfire_Blueprint.label>
+  <Campfire_Frame.label>багаття (споруджується)</Campfire_Frame.label>
+  <Campfire_Frame.description>Для готовки страв та отримання тепла. Згорає через декілька днів. Як усі джерела тепла, повинен розміщуватися в приміщенні, щоб нагріти простір. Може поповнюватись.</Campfire_Frame.description>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
-  <PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>
-  <PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>
-  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler_Frame.description>
+  <PassiveCooler.label>пасивний охолоджувач</PassiveCooler.label>
+  <PassiveCooler.description>Традиційний кулер, який працює шляхом випаровування води і без потреби електрозабезпечення. Закінчить роботу і самознищиться через кілька днів.</PassiveCooler.description>
+  <PassiveCooler_Blueprint.label>пасивний кулер (план)</PassiveCooler_Blueprint.label>
+  <PassiveCooler_Frame.label>пасивний кулер (споруджується)</PassiveCooler_Frame.label>
+  <PassiveCooler_Frame.description>Традиційний кулер, який працює шляхом випаровування води і без потреби електрозабезпечення. Закінчить роботу і самознищиться через кілька днів.</PassiveCooler_Frame.description>
 
-  <Heater.label>heater</Heater.label>
-  <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
-  <Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>
-  <Heater_Blueprint_Install.label>heater (blueprint)</Heater_Blueprint_Install.label>
-  <Heater_Frame.label>heater (building)</Heater_Frame.label>
-  <Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>
+  <Heater.label>обігрівач</Heater.label>
+  <Heater.description>Електричний пристрій, який перетворює електроенергію в тепло. Він може автоматично включатись або вимикатись, щоб досягти певної температури.</Heater.description>
+  <Heater_Blueprint.label>обігрівач (план)</Heater_Blueprint.label>
+  <Heater_Blueprint_Install.label>обігрівач (план)</Heater_Blueprint_Install.label>
+  <Heater_Frame.label>обігрівач (споруджується)</Heater_Frame.label>
+  <Heater_Frame.description>Електричний пристрій, який перетворює електроенергію в тепло. Він може автоматично включатись або вимикатись, щоб досягти певної температури.</Heater_Frame.description>
 
-  <Cooler.label>cooler</Cooler.label>
+  <Cooler.label>охолоджувач</Cooler.label>
   <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler.description>
   <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
   <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
