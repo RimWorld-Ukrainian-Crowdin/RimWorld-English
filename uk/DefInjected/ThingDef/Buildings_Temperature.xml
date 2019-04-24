@@ -21,16 +21,16 @@
   <Heater_Frame.description>Електричний пристрій, який перетворює електроенергію в тепло. Він може автоматично включатись або вимикатись, щоб досягти певної температури.</Heater_Frame.description>
 
   <Cooler.label>охолоджувач</Cooler.label>
-  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler.description>
-  <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
-  <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
-  <Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. </Cooler_Frame.description>
+  <Cooler.description>Електричний пристрій, яке поміщається в стіну і видає холодне повітря в кімнату. Його вихід генерує багато тепла. Можна використовувати для охолодження кімнати в літній час, або для створення холодильника. </Cooler.description>
+  <Cooler_Blueprint.label>охолоджувач (план)</Cooler_Blueprint.label>
+  <Cooler_Frame.label>охолоджувач (споруджується)</Cooler_Frame.label>
+  <Cooler_Frame.description>Електричний пристрій, яке поміщається в стіну і видає холодне повітря в кімнату. Його вихід генерує багато тепла. Можна використовувати для охолодження кімнати в літній час, або для створення холодильника. </Cooler_Frame.description>
 
-  <Vent.label>vent</Vent.label>
-  <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
-  <Vent_Blueprint.label>vent (blueprint)</Vent_Blueprint.label>
-  <Vent_Frame.label>vent (building)</Vent_Frame.label>
-  <Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>
+  <Vent.label>вентиляція</Vent.label>
+  <Vent.description>Примітивна вентиляція для вирівнювання температури між двома кімнатами, не дозволяючи людям ходити між ними.</Vent.description>
+  <Vent_Blueprint.label>вентиляція (план)</Vent_Blueprint.label>
+  <Vent_Frame.label>вентиляція (споруджується)</Vent_Frame.label>
+  <Vent_Frame.description>Примітивна вентиляція для вирівнювання температури між двома кімнатами, не дозволяючи людям ходити між ними.</Vent_Frame.description>
 
 
 </LanguageData>
