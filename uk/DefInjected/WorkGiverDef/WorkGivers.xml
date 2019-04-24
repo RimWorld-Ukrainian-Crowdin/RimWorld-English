@@ -307,8 +307,8 @@
   <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
 
   <Strip.label>strip corpses</Strip.label>
-  <Strip.verb>strip</Strip.verb>
-  <Strip.gerund>stripping</Strip.gerund>
+  <Strip.verb>роздягнути</Strip.verb>
+  <Strip.gerund>роздягає</Strip.gerund>
 
   <BuryCorpses.label>bury corpses</BuryCorpses.label>
   <BuryCorpses.verb>bury</BuryCorpses.verb>
