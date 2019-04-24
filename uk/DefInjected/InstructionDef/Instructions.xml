@@ -80,10 +80,10 @@
   <ChopTrees.rejectInputMessage>Вкажіть на дерева, щоб вирубати їх.</ChopTrees.rejectInputMessage>
 
   <OpenMainTabWork.text>Ви можете обрати який саме колоніст буде виконувати той, чи інший вид роботи.\n\nВідкрийте вкладу РОБОТА в меню знизу.</OpenMainTabWork.text>
-  <OpenMainTabWork.rejectInputMessage>Відкрийте вкладку "Робота".</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.rejectInputMessage>Відкрийте вкладку "Праця".</OpenMainTabWork.rejectInputMessage>
 
   <ChangeWorkSettings.text>Оберіть яку саме роботу ви хочете, щоб виконував той чи інший колоніст. Люди виконують завдання по пріоритету, зліва направо.\n\nСпробуйте щось змінити.\n\nНе забувайте — люди завжди виконують роботу по пріоритету, навіть якщо це змушує їх робити щось незрозуміле! Добре розставлені пріоритети — ключовий елемент успіху в грі RimWorld. Тому обачно розставляйте їх, та не забувайте перевіряти час від часу!</ChangeWorkSettings.text>
-  <ChangeWorkSettings.rejectInputMessage>Відкрийте вкладку Робота та змініть трохи налаштувань.</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.rejectInputMessage>Відкрийте вкладку "Праця" та змініть трохи налаштувань.</ChangeWorkSettings.rejectInputMessage>
 
   <BuildSimpleResearchBench.text>Для розвитку вам необхідно вчити нові технології.\n\nПобудуйте ПРОСТИЙ ДОСЛІДНИЦЬКИЙ СТІЛ з дерева у кімнаті.</BuildSimpleResearchBench.text>
   <BuildSimpleResearchBench.rejectInputMessage>Побудуйте дослідницький стіл з дерева у кімнаті.</BuildSimpleResearchBench.rejectInputMessage>
@@ -105,7 +105,7 @@
   <BuildSandbags.rejectInputMessage>Побудуйте укріплення на підсвіченій ділянці.</BuildSandbags.rejectInputMessage>
   <BuildSandbags.onMapInstruction>Побудуйте укріплення тут</BuildSandbags.onMapInstruction>
 
-  <FinishSandbags.text>Тепер почекаємо, доки ваші люди збудують укріплення.\n\nВи завжди можете призначити більше людей до БУДУВАННЯ через вкладку РОБОТА.\n\nТакож, ви можете пришвидшити час гри, щоб чекати менше.\n\nКоли все буде готово — я пошлю на вас розбійника, щоб випробувати ваш захист.</FinishSandbags.text>
+  <FinishSandbags.text>Тепер почекаємо, доки ваші люди збудують укріплення.\n\nВи завжди можете призначити більше людей до "Будування" через вкладку "Праця".\n\nТакож, ви можете пришвидшити час гри, щоб чекати менше.\n\nКоли все буде готово — я пошлю на вас розбійника, щоб випробувати ваш захист!</FinishSandbags.text>
   <FinishSandbags.rejectInputMessage>Чекайте, доки поселенці добудовують укріплення.</FinishSandbags.rejectInputMessage>
 
   <DownRaider.text>Я наказав бандиту атакувати вашу колонію\n\n1. Поставте гру на паузу кнопкою {Key:TogglePause}!\n2. Прочитайте червоне сповіщення внизу праворуч.\n3. Оберіть всіх колоністів та переведіть їх в бойовий режим. В ньому вони будуть виконувати усі ваші накази, пов'язані з боєм.\n4. Накажіть їм підійти впритул до укріплень.\n5. Зніміть паузу.\n\nКолоністи повинні стояти якомога ближче до укріплень, щоб використати їх як укриття. Коли всі будуть на місцях — просто почекайте, доки зловмисник підійде ближче. Колоністи відкриють вогонь автоматично.</DownRaider.text>
