@@ -287,8 +287,8 @@
   <PowerConsumptionLow>low</PowerConsumptionLow>
 
   <!-- Temperature readout -->
-  <Indoors>Indoors</Indoors>
-  <IndoorsUnroofed>Unroofed</IndoorsUnroofed>
+  <Indoors>Всередині</Indoors>
+  <IndoorsUnroofed>Без даху</IndoorsUnroofed>
   <Outdoors>Outdoors</Outdoors>
 
   <!--Rotting-->
