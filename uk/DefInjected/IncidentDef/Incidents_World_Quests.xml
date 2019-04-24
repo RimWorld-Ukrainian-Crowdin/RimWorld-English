@@ -14,7 +14,7 @@
   <QuestDownedRefugee.letterLabel>Завдання по порятунку</QuestDownedRefugee.letterLabel>
 
   <QuestPrisonerWillingToJoin.label>порятунок в'язня</QuestPrisonerWillingToJoin.label>
-  <QuestPrisonerWillingToJoin.letterText>В'язень {0} зміг вкрасти радіо і зв'язатися з вами!\n\nNAME утримується в лагері поряд з озброєним охоронцем. Врятуйте ЙОГО і, можливо, ВІН приєднається до вашої колонії HECAP це {1} річний {2}.</QuestPrisonerWillingToJoin.letterText>
+  <QuestPrisonerWillingToJoin.letterText>В'язень {0} зміг вкрасти радіо і зв'язатися з вами!\n\n{PAWN_nameDef} утримується в лагері поряд з озброєним охоронцем. Врятуйте його і, можливо, він приєднається до вашої колонії {PAWN_pronoun} це {1} річний {2}.</QuestPrisonerWillingToJoin.letterText>
   <QuestPrisonerWillingToJoin.letterLabel>Порятунок в'язня</QuestPrisonerWillingToJoin.letterLabel>
 
   <QuestPeaceTalks.label>перемовини</QuestPeaceTalks.label>
