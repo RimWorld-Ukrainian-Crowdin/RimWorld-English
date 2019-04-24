@@ -33,7 +33,7 @@
   <DesignatorSmoothFloorDesc>Призначити кам'яну територію для вирівнювання.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Планування</DesignatorPlan>
-  <DesignatorPlanDesc>Запланувати задачі. Вони не будуть виконуватися, створюється для планування майбутнього розширення.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Встановити позначки планування. Вони нічого не роблять, а лише допомагають планувати майбутні розширення.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Видалити план</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Видаляє заплановані задачі.</DesignatorPlanRemoveDesc>
@@ -73,9 +73,9 @@
   <DesignatorZoneDeleteDesc>Видаляє зони, наприклад: склад або зона для вирощування.</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>Привласнити</DesignatorClaim>
-  <DesignatorClaimDesc>Привласнює нейтральні будівлі колонії, включаючи старовинні руїни і покинуті облогові бази. Приаласнені будівлі можуть ремонтуватися і утримуватися твоїми колоністами.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Забрати нейтральні будівлі у власність колонії, в тому числі старовинні руїни і покинуті облогові бази. Привласнені будівлі можуть ремонтуватися і утримуватися твоїми колоністами.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Видалити підлогу</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Розібрати підлогу</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Видаляє підлогу і показує територію під ним.</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>Роздягти</DesignatorStrip>
