@@ -153,7 +153,7 @@
   <CannotPrioritizeResearch>Не можливо розставити пріоритети (дослідження є довгостроковим завданням)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Не можливо розставити пріоритети ({0} заборонено)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Не можливо розставити пріоритети ({0} поза межою дозволеної території)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Не можливо розставити пріоритет ({0} поза межею дозволеної території)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Виставити пріорітет {0} на {1}</PrioritizeGeneric>
