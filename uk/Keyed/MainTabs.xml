@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Пріоритетизація робіт</ManualPriorities>
+  <ManualPriorities>Пріоритеризація робіт</ManualPriorities>
   <HigherPriority>високий пріоритет</HigherPriority>
   <LowerPriority>низький пріоритет</LowerPriority>
   <RelevantSkills>Необхідні навички: {0}\nв середньому відповідних навичок: {1} / {2}</RelevantSkills>
