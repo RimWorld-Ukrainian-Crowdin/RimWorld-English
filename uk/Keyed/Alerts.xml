@@ -65,10 +65,10 @@
   <NeedJoySourceDesc>Ваші колоністи повинні задовольняти свою потребу втіх, але ви не збудували джерело розваг.\n\nДопоможіть їм, збудувавши стовпець для кидання підків, шаховий стіл або інше джерело розваг.</NeedJoySourceDesc>
 
   <NeedBatteries>Потрібні акумулятори</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Ви маєте сонячний або вітряний генератор, але не маєте акумуляторів. Це означає, що ви будете втрачати енергію кожного разу, коли зайде сонце, або заспокоїться вітер.\n\nПобудуйте акумулятор або два, щоб гарантувати постійну енергію.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Забіяка має далекобійну зброю</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Один з ваших колоністів має рису особистості Забіяка, але носить далекобійну зброю. Це робить їх дуже нещасними.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
   <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
