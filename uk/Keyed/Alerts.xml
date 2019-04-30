@@ -25,7 +25,7 @@
   <NeedMinerDesc>Ви позначили деякі камені на видобуток, але у вас немає шахтарів.\n\nПризначте колоніста на роботу шахтаря.</NeedMinerDesc>
 
   <NeedWarden>Потрібен наглядач</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWardenDesc>Ви маєте вʼязня, але не маєте наглядачів.\n\nПризначте колоніста для роботи наглядачем.</NeedWardenDesc>
 
   <LowFood>Мало їжі</LowFood>
   <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
