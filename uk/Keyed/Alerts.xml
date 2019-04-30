@@ -85,15 +85,15 @@
   <AlertHypothermia>Переохолодження</AlertHypothermia>
   <AlertHypothermiaDesc>Ці колоністи страждать від переохолодження.\n\n{0}\nПеревірте відповідність їх одягу щодо сезону і внутрішні приміщення обігріваються належним чином.</AlertHypothermiaDesc>
 
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} пацієнтів очікують на медичну операцію</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Ці пацієнти чекають медичної операції\n\n{0}\nУпевніться, що у вас є всі необхідні медичні інструменти та вільний лікар.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Пожежа!</FireInHomeArea>
   <FireInHomeAreaDesc>В домашній зоні пожежа.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Важка хвороба</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nПереконайтеся, що вони отримують найкращий медичний догляд.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nЯкщо це можливо, розгляньте ампутацію або заміну інфікованих кінцівок, щоб зберегти колоністів в живих.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>Більярду недостатньо простору</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
