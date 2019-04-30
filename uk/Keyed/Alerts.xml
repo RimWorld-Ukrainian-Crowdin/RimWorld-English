@@ -95,8 +95,8 @@
   <PawnsWithLifeThreateningDiseaseDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nПереконайтеся, що вони отримують найкращий медичний догляд.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nЯкщо це можливо, розгляньте ампутацію або заміну інфікованих кінцівок, щоб зберегти колоністів в живих.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Більярду недостатньо простору</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Більярд потребує місця</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Один з ваших більярдних столів прилягає до перешкод, які заважають колоністам користуватися ним.\n\nБільярд потребує вільного простору навколо нього з усіх боків, щоб бути зручним.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Мисливець має щит і далекобійну зброю</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>Один з мисливців має далекобійну зброю і щит, котрий заважає стріляти на відстані.\n\nВін не зможе полювати, якщо не зняти щит.</HunterHasShieldAndRangedWeaponDesc>
