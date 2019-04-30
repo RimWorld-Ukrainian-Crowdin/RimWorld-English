@@ -64,7 +64,7 @@
   <NeedJoySource>Потрібно джерело розваг</NeedJoySource>
   <NeedJoySourceDesc>Ваші колоністи повинні задовольняти свою потребу втіх, але ви не збудували джерело розваг.\n\nДопоможіть їм, збудувавши стовпець для кидання підків, шаховий стіл або інше джерело розваг.</NeedJoySourceDesc>
 
-  <NeedBatteries>Потрібні батареї</NeedBatteries>
+  <NeedBatteries>Потрібні акумулятори</NeedBatteries>
   <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
