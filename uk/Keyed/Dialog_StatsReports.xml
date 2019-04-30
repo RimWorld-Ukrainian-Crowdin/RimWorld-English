@@ -15,7 +15,7 @@
   <HealthOffsetScale>вплив {0}</HealthOffsetScale>
   <HealthFactorMaxImpact>Максимум {0}</HealthFactorMaxImpact>
   <HealthFactorAllowedDefect>якщо менше {0}</HealthFactorAllowedDefect>
-  <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Крива постобробки</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Остаточне значення</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Базова ринкова ціна залежить від матеріалу виготовлення і кількості роботи.</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Множник якості</StatsReport_QualityMultiplier>
@@ -39,7 +39,7 @@
   <AverageOfAllAttacks>середнє значення всіх атак</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Сценарій</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>Інгредієнти</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Постійно вимкнено.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <StatsReport_AddedBodyPartsMass>Додано частин тіла</StatsReport_AddedBodyPartsMass>
 
