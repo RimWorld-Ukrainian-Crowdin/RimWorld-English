@@ -59,9 +59,9 @@
   <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без бункера поруч з ним.\n\nЩоб працювати, дозатори повинні витягувати з сусіднього бункера, заповненого сирою їжею.\n\nЗбудуйте бункер, що прилягає до дозатора.</NeedFoodHopperDesc>
 
   <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Ви не можете приготувати смачні страви з сирої їжі.\n\nПобудуйте піч, вогнище або дозатор поживних речовин.\n\n(Воно не може бути розміщене в тюремній камері, інакше колоністи не зможуть це використовувати.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySource>Потрібно джерело радості</NeedJoySource>
   <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
   <NeedBatteries>Need batteries</NeedBatteries>
