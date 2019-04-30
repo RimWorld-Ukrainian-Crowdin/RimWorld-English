@@ -77,10 +77,10 @@
   <NeedResearchProjectDesc>У вас є обладнання для проведення досліджень, але ви не обрали проект.\n\nВідкрийте меню «Дослідження» та оберіть проект.</NeedResearchProjectDesc>
 
   <ColonistsIdle>{0} колоністів байдикують</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Ці колоністи бездумно блукають:\n\n{0}\nМабуть, ви знайдете їм щось продуктивне.</ColonistsIdleDesc>
 
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Колоніст потребує лікування</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Ці колоністи потребують медичного лікування. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Переохолодження</AlertHypothermia>
   <AlertHypothermiaDesc>Ці колоністи страждать від переохолодження.\n\n{0}\nПеревірте відповідність їх одягу щодо сезону і внутрішні приміщення обігріваються належним чином.</AlertHypothermiaDesc>
