@@ -28,7 +28,7 @@
   <NeedWardenDesc>Ви маєте вʼязня, але не маєте наглядачів.\n\nПризначте колоніста для роботи наглядачем.</NeedWardenDesc>
 
   <LowFood>Мало їжі</LowFood>
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>У вас небезпечно мало їжі.\n\n    Повний запас їжі на складі: {0}\n    Колоністи та вʼязні, які отримують їжу: {1}\n    Їжі на складі вистачить на {2} днів.\n\nВирощуйте, купуйте, знайдіть або вбийте яку-небудь їжу.</LowFoodDesc>
 
   <LowMedicine>Мало ліків</LowMedicine>
   <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
