@@ -47,18 +47,18 @@
   <AlertUnhappyNudityDesc>Ці колоністи оголені й не задоволені цим:\n\n{0}\nДайте їм якийсь одяг.\n\nВи можете пошити одяг на столі кравця або придбати його у торгівців.</AlertUnhappyNudityDesc>
 
   <Starvation>Голод</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+  <StarvationDesc>Ці колоністи голодують:\n\n{0}\nДайте їм якусь їжу.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Тварини голодують</StarvationAnimals>
+  <StarvationAnimalsDesc>Ці тварини голодують:\n\n{0}\nДайте їм якусь їжу.</StarvationAnimalsDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Виснаження</Exhaustion>
+  <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nЇм знадобиться ліжка, позначені для використання колоністами. Також переконайтеся, що вони побудовані.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Потрібен харчовий бункер</NeedFoodHopper>
+  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без бункера поруч з ним.\n\nЩоб працювати, дозатори повинні витягувати з сусіднього бункера, заповненого сирою їжею.\n\nЗбудуйте бункер, що прилягає до дозатора.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
+  <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
   <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
 
   <NeedJoySource>Need joy source</NeedJoySource>
