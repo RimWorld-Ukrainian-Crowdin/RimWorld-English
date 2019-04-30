@@ -74,9 +74,9 @@
   <ShieldUserHasRangedWeaponDesc>Один з ваших колоністів має поясний енергощит і носить далекобійну зброю. Вони не зможуть стріляти зі своєї зброї через щит (за винятком цілей, які вже торкаються їх).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>Потрібен дослідницький проект</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>У вас є обладнання для проведення досліджень, але ви не обрали проект.\n\nВідкрийте меню «Дослідження» та оберіть проект.</NeedResearchProjectDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
+  <ColonistsIdle>{0} колоністів байдикують</ColonistsIdle>
   <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
