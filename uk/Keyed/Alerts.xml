@@ -70,10 +70,10 @@
   <BrawlerHasRangedWeapon>Забіяка має далекобійну зброю</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>Один з ваших колоністів має рису особистості Забіяка, але носить далекобійну зброю. Це робить їх дуже нещасними.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Користувач енергощиту має далекобійну зброю</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Один з ваших колоністів має поясний енергощит і носить далекобійну зброю. Вони не зможуть стріляти зі своєї зброї через щит (за винятком цілей, які вже торкаються їх).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
+  <NeedResearchProject>Потрібен дослідницький проект</NeedResearchProject>
   <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
 
   <ColonistsIdle>{0} colonists idle</ColonistsIdle>
