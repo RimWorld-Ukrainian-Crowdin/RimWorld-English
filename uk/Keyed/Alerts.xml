@@ -31,10 +31,10 @@
   <LowFoodDesc>У вас небезпечно мало їжі.\n\n    Повний запас їжі на складі: {0}\n    Колоністи та вʼязні, які отримують їжу: {1}\n    Їжі на складі вистачить на {2} днів.\n\nВирощуйте, купуйте, знайдіть або вбийте яку-небудь їжу.</LowFoodDesc>
 
   <LowMedicine>Мало ліків</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <LowMedicineDesc>Ви маєте лише {0} ліків.\n\nКупіть більше ліків у торгівців.</LowMedicineDesc>
   <NoMedicineDesc>На складі закінчились ліки.\n\nКупіть більше ліків у торговців.</NoMedicineDesc>
 
-  <NeedColonistBeds>Необхідні ліжка для колоністів</NeedColonistBeds>
+  <NeedColonistBeds>Колоністи потребують ліжок</NeedColonistBeds>
   <NeedColonistBedsDesc>У вас більше колоністів, ніж ліжок. Комусть не вистачить місця для сну.\n\nЗбудуйте більше ліжок, або змініть тюремні ліжка на колоністські.\n\nЯкщо у вас нема ресурсів, спальні місця безкоштовні і миттєво розміщаються.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>У мисливця нема зброї дальнього бою</HunterLacksWeapon>
