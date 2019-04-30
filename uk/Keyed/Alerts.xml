@@ -41,12 +41,12 @@
   <HunterLacksWeaponDesc>Колоніст призначений мисливцем, але не має зброї дального бою.\n\nВін не буде полювати доки не отримають зброї.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Пошарпаний одяг</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Ці колоністи носять обшарпаний одяг, що засмучує їх:\n\n{0}\nДайте їм який-небудь одяг, який не так сильно пошарпаний.\n\nВи можете пошити одяг на столі кравця або придбати його у торгівців.</AlertTatteredApparelDesc>
 
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Незадоволені наготою</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Ці колоністи оголені й не задоволені цим:\n\n{0}\nДайте їм якийсь одяг.\n\nВи можете пошити одяг на столі кравця або придбати його у торгівців.</AlertUnhappyNudityDesc>
 
-  <Starvation>Starvation</Starvation>
+  <Starvation>Голод</Starvation>
   <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
 
   <StarvationAnimals>Animal starvation</StarvationAnimals>
