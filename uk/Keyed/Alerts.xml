@@ -80,7 +80,7 @@
   <ColonistsIdleDesc>Ці колоністи бездумно блукають:\n\n{0}\nМабуть, ви знайдете їм щось продуктивне.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Колоніст потребує лікування</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Ці колоністи потребують медичного лікування. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Ці колоністи потребують медичного лікування. Без цього вони можуть померти від ран, або їх рани можуть стати постійними.\n\n{0}\nЛікуйте їх, відправивши їх до медичного ліжка.\n\n(По-перше, призначте ліжко, обравши його та перевстановивши в медичне ліжко. Потім оберіть пораненого колоніста й клацніть правою кнопкою миші на медичному ліжку, щоб зробити його пацієнтом.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Переохолодження</AlertHypothermia>
   <AlertHypothermiaDesc>Ці колоністи страждать від переохолодження.\n\n{0}\nПеревірте відповідність їх одягу щодо сезону і внутрішні приміщення обігріваються належним чином.</AlertHypothermiaDesc>
