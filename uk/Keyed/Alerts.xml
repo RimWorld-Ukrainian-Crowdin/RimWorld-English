@@ -102,9 +102,9 @@
   <HunterHasShieldAndRangedWeaponDesc>Один з мисливців має далекобійну зброю і щит, котрий заважає стріляти на відстані.\n\nВін не зможе полювати, якщо не зняти щит.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedWarmClothes>Потрібен теплий одяг</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc1>Принаймні {0} з ваших колоністів не має теплого одягу, коли настане холодний сезон.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Усім вашим колоністам не вистачає теплих речей, коли настане холодний сезон.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Температура зовнішнього середовища сягатиме {0}.\n\nВи можете пошити теплий одяг на столі кравця або придбати його у торгівців.</NeedWarmClothesDesc2>
 
   <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
   <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
