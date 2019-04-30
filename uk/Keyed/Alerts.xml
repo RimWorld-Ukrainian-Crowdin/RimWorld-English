@@ -106,7 +106,7 @@
   <NeedWarmClothesDesc1All>Усім вашим колоністам не вистачає теплих речей, коли настане холодний сезон.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Температура зовнішнього середовища сягатиме {0}.\n\nВи можете пошити теплий одяг на столі кравця або придбати його у торгівців.</NeedWarmClothesDesc2>
 
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Караван зупинив рух</ImmobileCaravan>
+  <ImmobileCaravanDesc>Один з ваших караванів зупинив рух, тому що несе занадто багато речей.\n\nВи можете відновити рух каравану, відмовившись від деяких речей на вкладці «Речі».</ImmobileCaravanDesc>
 
 </LanguageData>
