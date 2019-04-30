@@ -61,10 +61,10 @@
   <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
   <NeedMealSourceDesc>Ви не можете приготувати смачні страви з сирої їжі.\n\nПобудуйте піч, вогнище або дозатор поживних речовин.\n\n(Воно не може бути розміщене в тюремній камері, інакше колоністи не зможуть це використовувати.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Потрібно джерело радості</NeedJoySource>
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySource>Потрібно джерело розваг</NeedJoySource>
+  <NeedJoySourceDesc>Ваші колоністи повинні задовольняти свою потребу втіх, але ви не збудували джерело розваг.\n\nДопоможіть їм, збудувавши стовпець для кидання підків, шаховий стіл або інше джерело розваг.</NeedJoySourceDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteries>Потрібні батареї</NeedBatteries>
   <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
