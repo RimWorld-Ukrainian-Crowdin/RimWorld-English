@@ -29,13 +29,13 @@
   <MoisturePump_Frame.description>Дуже повільно прибирає вологу з оточуючої землі, перетворюючи болота в сухі ґрунти. Не працює у глибоких водоймах.</MoisturePump_Frame.description>
 
   <GroundPenetratingScanner.label>сканер мінералів</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
-  <GroundPenetratingScanner_Blueprint.label>ground-penetrating scanner (blueprint)</GroundPenetratingScanner_Blueprint.label>
-  <GroundPenetratingScanner_Frame.label>ground-penetrating scanner (building)</GroundPenetratingScanner_Frame.label>
-  <GroundPenetratingScanner_Frame.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner_Frame.description>
+  <GroundPenetratingScanner.description>Направлений униз радар, поєднаний з ехолокатором та сканером магнітних полів, дозволяє вам знайти залежі мінералів, які знаходяться глибоко під земною поверхнею (але не визначити їх тип). Потребує високі потужності живлення.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner_Blueprint.label>сканер мінералів (проект)</GroundPenetratingScanner_Blueprint.label>
+  <GroundPenetratingScanner_Frame.label>сканер мінералів (будується)</GroundPenetratingScanner_Frame.label>
+  <GroundPenetratingScanner_Frame.description>Направлений униз радар, поєднаний з ехолокатором та сканером магнітних полів, дозволяє вам знайти залежі мінералів, які знаходяться глибоко під земною поверхнею (але не визначити їх тип). Потребує високі потужності живлення.</GroundPenetratingScanner_Frame.description>
 
-  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.label>сканер мінералів дальної дії</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Автоматично знаходить такі цінні мінерали як золото чи нефрит у області поряд з ним (але не під ним). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
   <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner (blueprint)</LongRangeMineralScanner_Blueprint.label>
   <LongRangeMineralScanner_Frame.label>long-range mineral scanner (building)</LongRangeMineralScanner_Frame.label>
   <LongRangeMineralScanner_Frame.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner_Frame.description>
