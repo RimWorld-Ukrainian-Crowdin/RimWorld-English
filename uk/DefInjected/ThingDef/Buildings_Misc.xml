@@ -34,11 +34,11 @@
   <GroundPenetratingScanner_Frame.label>сканер мінералів (будується)</GroundPenetratingScanner_Frame.label>
   <GroundPenetratingScanner_Frame.description>Направлений униз радар, поєднаний з ехолокатором та сканером магнітних полів, дозволяє вам знайти залежі мінералів, які знаходяться глибоко під земною поверхнею (але не визначити їх тип). Потребує високі потужності живлення.</GroundPenetratingScanner_Frame.description>
 
-  <LongRangeMineralScanner.label>сканер мінералів дальної дії</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Автоматично знаходить такі цінні мінерали як золото чи нефрит у області поряд з ним (але не під ним). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
-  <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner (blueprint)</LongRangeMineralScanner_Blueprint.label>
-  <LongRangeMineralScanner_Frame.label>long-range mineral scanner (building)</LongRangeMineralScanner_Frame.label>
-  <LongRangeMineralScanner_Frame.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner_Frame.description>
+  <LongRangeMineralScanner.label>сканер мінералів дальньої дії</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Автоматично знаходить такі цінні мінерали як золото чи нефрит у області поряд з ним (але не під ним). Ці метали можна знайти в середньому раз на 30 днів у радіусі в 30 сегментів. Встановлення більше одного сканера в цій зоні не дає жодного ефекту.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner_Blueprint.label>сканер мінералів дальньої дії (проект)</LongRangeMineralScanner_Blueprint.label>
+  <LongRangeMineralScanner_Frame.label>сканер мінералів дальньої дії (будується)</LongRangeMineralScanner_Frame.label>
+  <LongRangeMineralScanner_Frame.description>Автоматично знаходить такі цінні мінерали як золото чи нефрит у області поряд з ним (але не під ним). Ці метали можна знайти в середньому раз на 30 днів у радіусі в 30 сегментів. Встановлення більше одного сканера в цій зоні не дає жодного ефекту.</LongRangeMineralScanner_Frame.description>
 
 
   <!-- Transport pods -->
