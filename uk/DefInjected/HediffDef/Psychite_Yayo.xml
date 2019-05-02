@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YayoHigh.label>високо на яйо</YayoHigh.label>
+  <YayoHigh.labelNoun>яй високий</YayoHigh.labelNoun>
+
+
+  <!-- Psychite addiction -->
+
+  <PsychiteTolerance.label>психічна терпимість</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.0.label>маленький</PsychiteTolerance.stages.0.label>
+  <PsychiteTolerance.stages.1.label>маленький</PsychiteTolerance.stages.1.label>
+  <PsychiteTolerance.stages.2.label>великий</PsychiteTolerance.stages.2.label>
+  <PsychiteTolerance.stages.3.label>масивний</PsychiteTolerance.stages.3.label>
+
+  <PsychiteAddiction.label>психотерапія</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.1.label>виведення</PsychiteAddiction.stages.1.label>
+
+
+</LanguageData>
