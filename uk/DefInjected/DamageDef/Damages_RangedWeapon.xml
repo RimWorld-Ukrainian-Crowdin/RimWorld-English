@@ -10,10 +10,10 @@
   <Bullet.deathMessage>{0} був застрелений.</Bullet.deathMessage>
 
   <Arrow.label>рана від стріли</Arrow.label>
-  <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} був вбитий пострілом з лука.</Arrow.deathMessage>
 
   <ArrowHighVelocity.label>рана від стріли</ArrowHighVelocity.label>
-  <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} був вбитий пострілом з лука.</ArrowHighVelocity.deathMessage>
 
 
 </LanguageData>
