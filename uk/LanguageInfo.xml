@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Українська</friendlyNameNative>
+  <friendlyNameEnglish>Ukrainian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
+  <credits>
+  </credits>
+</LanguageInfo>
