@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Meditative -->
+
+  <Skygaze.reportString>споглядає на небо.</Skygaze.reportString>
+  <Meditate.reportString>медитує.</Meditate.reportString>
+  <Pray.reportString>молиться.</Pray.reportString>
+  <GoForWalk.reportString>прогулюється.</GoForWalk.reportString>
+  <BuildSnowman.reportString>будує сніговика.</BuildSnowman.reportString>
+  <VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
+  <ViewArt.reportString>насолоджується мистецтвом.</ViewArt.reportString>
+
+
+  <!-- Social -->
+
+  <SocialRelax.reportString>соціально відпочиває.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>підбадьорює TargetA.</VisitSickPawn.reportString>
+
+
+  <!-- Building interaction -->
+
+  <Play_Horseshoes.reportString>playing horseshoes.</Play_Horseshoes.reportString>
+  <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
+  <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
+  <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
+  <Play_Billiards.reportString>playing billiards.</Play_Billiards.reportString>
+  <Play_Poker.reportString>playing poker.</Play_Poker.reportString>
+  <WatchTelevision.reportString>переглядає телевізор.</WatchTelevision.reportString>
+  <UseTelescope.reportString>дивиться в телескоп.</UseTelescope.reportString>
+
+
+</LanguageData>
