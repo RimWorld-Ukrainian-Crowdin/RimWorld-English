@@ -15,11 +15,11 @@
   <AnimalJaw.label>паща</AnimalJaw.label>
   <Jowl.label>щелепа</Jowl.label>
   <Tail.label>хвіст</Tail.label>
-  <Antenna.label>antenna</Antenna.label>
+  <Antenna.label>антена</Antenna.label>
   <Pronotum.label>передньоспинка</Pronotum.label>
   <Shell.label>панцир</Shell.label>
   <Elytra.label>elytra</Elytra.label>
-  <Tusk.label>tusk</Tusk.label>
+  <Tusk.label>бивень</Tusk.label>
   <Trunk.label>хобот</Trunk.label>
   <Horn.label>ріг</Horn.label>
   <HeadClaw.label>голова-щелепи</HeadClaw.label>
@@ -31,22 +31,22 @@
 
   <!--===================== Insect legs =====================-->
 
-  <InsectLeg.label>leg</InsectLeg.label>
+  <InsectLeg.label>нога</InsectLeg.label>
 
 
   <!--===================== Paws =====================-->
 
-  <Paw.label>paw</Paw.label>
+  <Paw.label>лапа</Paw.label>
 
 
   <!--===================== Hoofs =====================-->
 
-  <Hoof.label>hoof</Hoof.label>
+  <Hoof.label>копито</Hoof.label>
 
-  <FrontClaw.label>front claw</FrontClaw.label>
+  <FrontClaw.label>передня клешня</FrontClaw.label>
   <FrontClaw.labelShort>claw</FrontClaw.labelShort>
 
-  <RearClaw.label>rear claw</RearClaw.label>
+  <RearClaw.label>задня клешня</RearClaw.label>
   <RearClaw.labelShort>claw</RearClaw.labelShort>
 
 
