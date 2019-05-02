@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TileSandstone.label>пісчана плитка</TileSandstone.label>
+  <TileSandstone.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSandstone.description>
+
+  <TileGranite.label>гранітна плитка</TileGranite.label>
+  <TileGranite.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileGranite.description>
+
+  <TileLimestone.label>вапняна плитка</TileLimestone.label>
+  <TileLimestone.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileLimestone.description>
+
+  <TileSlate.label>шиферна плитка</TileSlate.label>
+  <TileSlate.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSlate.description>
+
+  <TileMarble.label>мармурова плитка</TileMarble.label>
+  <TileMarble.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileMarble.description>
+
+  <FlagstoneSandstone.label>пісчаний плитняк</FlagstoneSandstone.label>
+  <FlagstoneSandstone.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstone.description>
+
+  <FlagstoneGranite.label>гранітний плитняк</FlagstoneGranite.label>
+  <FlagstoneGranite.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneGranite.description>
+
+  <FlagstoneLimestone.label>вапняковий плитняк</FlagstoneLimestone.label>
+  <FlagstoneLimestone.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneLimestone.description>
+
+  <FlagstoneSlate.label>сланцевий плитняк</FlagstoneSlate.label>
+  <FlagstoneSlate.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSlate.description>
+
+  <FlagstoneMarble.label>мармуровий плитняк</FlagstoneMarble.label>
+  <FlagstoneMarble.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneMarble.description>
+
+
+</LanguageData>
