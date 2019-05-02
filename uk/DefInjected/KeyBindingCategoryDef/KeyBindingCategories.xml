@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GameMapCamera.label>камера</GameMapCamera.label>
+  <GameMapCamera.description>Керування камерою.</GameMapCamera.description>
+
+  <Game.label>у грі глобальної</Game.label>
+  <Game.description>Режими управління колонією, які застосовуються в більшості випадків.</Game.description>
+
+  <SelectionMisc.label>різне</SelectionMisc.label>
+  <SelectionMisc.description>Загальні елементи керування, які повторно використовуються багатьма предметами та об'єктами протягом всієї гри.</SelectionMisc.description>
+
+  <SelectionSpecial.label>спеціальні</SelectionSpecial.label>
+  <SelectionSpecial.description>Спеціальне керування зарезервоване для певних функцій на конкретних об'єктах.</SelectionSpecial.description>
+
+  <Architect.label>архітектор</Architect.label>
+  <Architect.description>Загальні вказівки для меню архітектури.</Architect.description>
+
+  <MainTabs.label>основні вкладки</MainTabs.label>
+  <MainTabs.description>Керування основними вкладками.</MainTabs.description>
+
+  <Modifiers.label>модифікатори</Modifiers.label>
+  <Modifiers.description>Керування для змінення %Faction.</Modifiers.description>
+
+  <Development.label>інструменти для розробників</Development.label>
+  <Development.description>Керування для розробників та моддерів. Активний лише в режимі розробки.</Development.description>
+
+
+</LanguageData>
