@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSimple.label>приготувати звичайну страву</CookMealSimple.label>
+  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
+  <CookMealSimple.jobString>Готує звичайну страву.</CookMealSimple.jobString>
+
+  <CookMealFine.label>приготувати чудову страву</CookMealFine.label>
+  <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
+  <CookMealFine.jobString>Готує чудову страву.</CookMealFine.jobString>
+
+  <CookMealLavish.label>приготувати делікатес</CookMealLavish.label>
+  <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
+  <CookMealLavish.jobString>Готує делікатес.</CookMealLavish.jobString>
+
+  <CookMealSurvival.label>приготувати консерви</CookMealSurvival.label>
+  <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Готує консерви.</CookMealSurvival.jobString>
+
+
+</LanguageData>
