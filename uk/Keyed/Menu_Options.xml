@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Аудіовізуалізація</Audiovisuals>
+  <GameVolume>Гучність гри</GameVolume>
+  <MusicVolume>Гучність музики</MusicVolume>
+  <AmbientVolume>Гучність довкілля</AmbientVolume>
+  <Antialiasing>Згладжування</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Прокручування мишею країв екрану</EdgeScreenScroll>
+  <PauseOnLoad>Пауза при завантаженні</PauseOnLoad>
+  <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
+  <CustomCursor>Користувацький курсор</CustomCursor>
+  <HatsShownOnlyOnMap>Показувати капелюхи лише на ігровій мапі</HatsShownOnlyOnMap>
+  <UIScale>Розмір Інтерфейсу</UIScale>
+	<KeyboardConfig>Конфігурація клавіатури</KeyboardConfig>
+  <ChooseLanguage>Змінити Мову</ChooseLanguage>
+  <ResetAdaptiveTutor>Скинути помічника в навчанні</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Наставник скинутий. Тепер ви будете знову вчити всі уроки з нуля.</AdaptiveTutorIsReset>
+  <RunInBackground>Працювати у фоновому режимі</RunInBackground>
+  <DevelopmentMode>Режим розробки</DevelopmentMode>
+  <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
+  <LogVerbose>Ведення докладного журналу</LogVerbose>
+  <OpenSaveGameDataFolder>Відкрити теку зі збереженими даними</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>Show save data location</ShowSaveGameDataLocation>
+  <NamesYouWantToSee>Preferred player-created characters. These characters will be more likely to randomly appear during play:</NamesYouWantToSee>
+  <AddName>Додати ім'я</AddName>
+  <TypeFirstNickOrLastName>Введіть ім'я, прізвисько чи прізвище.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Це ім'я вже в списку бажаних.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Вибрати казкаря</ChangeStoryteller>
+  <AutosaveInterval>Інтервал автозбереження</AutosaveInterval>
+  <TemperatureMode>Температурна шкала</TemperatureMode>
+  <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
+  <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
+  <PlantWindSway>Рослини коливаються вітром</PlantWindSway>
+  <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>Максимальний інтервал автозбереження в режимі постійної смерті становить {0} день.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Налаштування модифікацій</ModSettings>
+  <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
+
+  <!-- Resolution -->
+  <Resolution>Роздільна здатність</Resolution>
+  <Fullscreen>Повноекранний режим</Fullscreen>
+
+  <!-- Privacy -->
+  <Privacy>Конфіденційність</Privacy>
+  <UserName>Ім’я користувача</UserName>
+  <ChooseHistoryUploadPref>Налаштування завантажень даних гри</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Дані ігрового процесу користувачів допомагають розробникам збалансувати гру. Якщо ви згодні, ваша інформація буде надіслана кожні {0} днів гри (та в деяких інших рідкісних випадках, як завершення гри) на сервер RimWorld, а потім буде проаналізована. Завантажені дані геймплею складаються лише зі статистичних даних та записів історії, повʼязаних з грою — не надсилається жодна особиста інформація, за винятком імені користувача, тобто вона повністю анонімна.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Виберіть модифікацію...</SelectMod>
+  <NoConfigurableMods>Неналаштовані модифікації не завантажені.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
+  <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
+  
+</LanguageData>
