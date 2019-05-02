@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterDay>д</LetterDay>
+  <LetterHour>г</LetterHour>
+  <LetterMinute>х</LetterMinute>
+  <LetterSecond>с</LetterSecond>
+  
+  <DaysLower>дні</DaysLower>
+  <SecondsLower>секунди</SecondsLower>
+
+  <SeasonSpring>весна</SeasonSpring>
+  <SeasonSummer>літо</SeasonSummer>
+  <SeasonFall>осінь</SeasonFall>
+  <SeasonWinter>зима</SeasonWinter>
+  <SeasonPermanentSummer>вічне літо</SeasonPermanentSummer>
+  <SeasonPermanentWinter>вічна зима</SeasonPermanentWinter>
+
+  <QuadrumAprimay>Квітравень</QuadrumAprimay>
+  <QuadrumJugust>Черпень</QuadrumJugust>
+  <QuadrumSeptober>Веревтень</QuadrumSeptober>
+  <QuadrumDecembary>Грудесічень</QuadrumDecembary>
+  
+  <Born>Народження: {0}</Born>
+  <AgeChronological>Хронологічний вік: {0} роки, {1} квадруми, {2} дні</AgeChronological>
+  <AgeBiological>Біологічний вік: {0} роки, {1} квадруми, {2} дні</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 рік</Period1Year>
+  <PeriodYears>{0} роки</PeriodYears>
+  <Period1Quadrum>1 квадрум</Period1Quadrum>
+  <PeriodQuadrums>{0} квадруми</PeriodQuadrums>
+  <Period1Day>1 день</Period1Day>
+  <PeriodDays>{0} дні</PeriodDays>
+  <Period1Hour>1 година</Period1Hour>
+  <PeriodHours>{0} години</PeriodHours>
+  <Period1Second>1 second</Period1Second>
+  <PeriodSeconds>{0} seconds</PeriodSeconds>
+
+  <!-- Misc -->
+  <Started>Почалося</Started>
+  <Lasted>Закінчилося</Lasted>
+  <OccurredTimeAgo>сталося {0} тому</OccurredTimeAgo>
+  
+</LanguageData>
