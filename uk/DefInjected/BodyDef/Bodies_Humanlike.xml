@@ -2,25 +2,25 @@
 <LanguageData>
 
   <Human.label>людина</Human.label>
-  <Human.corePart.parts.6.customLabel>left lung</Human.corePart.parts.6.customLabel>
-  <Human.corePart.parts.7.customLabel>right lung</Human.corePart.parts.7.customLabel>
-  <Human.corePart.parts.8.customLabel>left kidney</Human.corePart.parts.8.customLabel>
-  <Human.corePart.parts.9.customLabel>right kidney</Human.corePart.parts.9.customLabel>
-  <Human.corePart.parts.11.parts.0.parts.1.customLabel>left eye</Human.corePart.parts.11.parts.0.parts.1.customLabel>
-  <Human.corePart.parts.11.parts.0.parts.2.customLabel>right eye</Human.corePart.parts.11.parts.0.parts.2.customLabel>
-  <Human.corePart.parts.11.parts.0.parts.3.customLabel>left ear</Human.corePart.parts.11.parts.0.parts.3.customLabel>
-  <Human.corePart.parts.11.parts.0.parts.4.customLabel>right ear</Human.corePart.parts.11.parts.0.parts.4.customLabel>
-  <Human.corePart.parts.12.customLabel>left shoulder</Human.corePart.parts.12.customLabel>
-  <Human.corePart.parts.12.parts.0.customLabel>left clavicle</Human.corePart.parts.12.parts.0.customLabel>
-  <Human.corePart.parts.12.parts.1.customLabel>left arm</Human.corePart.parts.12.parts.1.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Human.corePart.parts.12.parts.1.parts.0.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Human.corePart.parts.12.parts.1.parts.1.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Human.corePart.parts.12.parts.1.parts.2.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
-  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.6.customLabel>ліва легеня</Human.corePart.parts.6.customLabel>
+  <Human.corePart.parts.7.customLabel>права легеня</Human.corePart.parts.7.customLabel>
+  <Human.corePart.parts.8.customLabel>ліва нирка</Human.corePart.parts.8.customLabel>
+  <Human.corePart.parts.9.customLabel>права нирка</Human.corePart.parts.9.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.1.customLabel>ліве око</Human.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.2.customLabel>праве око</Human.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.3.customLabel>ліве вухо</Human.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.4.customLabel>праве вухо</Human.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Human.corePart.parts.12.customLabel>ліве плече</Human.corePart.parts.12.customLabel>
+  <Human.corePart.parts.12.parts.0.customLabel>ліва ключиця</Human.corePart.parts.12.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.customLabel>ліва рука</Human.corePart.parts.12.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.0.customLabel>ліва плечова кістка</Human.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.1.customLabel>ліва променева кістка</Human.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.customLabel>ліва долоня</Human.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>мізинець лівої руки</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>підмізинний палець лівої руки</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>середній палець лівої руки</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>вказівний палець лівої руки</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>великий палець лівої руки</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
   <Human.corePart.parts.13.customLabel>right shoulder</Human.corePart.parts.13.customLabel>
   <Human.corePart.parts.13.parts.0.customLabel>right clavicle</Human.corePart.parts.13.parts.0.customLabel>
   <Human.corePart.parts.13.parts.1.customLabel>right arm</Human.corePart.parts.13.parts.1.customLabel>
