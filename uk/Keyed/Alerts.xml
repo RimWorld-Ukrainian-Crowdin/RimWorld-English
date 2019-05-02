@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ClickToJumpToProblem>Натисніть, щоб перейти до проблеми</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Незначний ризик зриву</BreakRiskMinor>
+  <BreakRiskMajor>Значний ризик зриву</BreakRiskMajor>
+  <BreakRiskExtreme>Надзвичайний ризик зриву</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Ці колоністи в поганому настрої і можуть отримати незначний психічний зрив у будь який час:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ці колоністи в дуже поганому настрої і можуть отримати значний психічний зрив у будь який час:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ці колоністи панічно нервують і можуть отримати надзвичайний (і, скоріш за все, небезпечний) психічний зрив у будь-який час:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  
+  <ColonistNeedsRescue>Колоніст потребує порятунку</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Колоністи потребують порятунку</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Ці колоністи недієздатні й лежать на землі:\n\n{0}\nВідправте іншого колоніста, щоб врятувати й віднести їх назад до ліжка.\n\n(Для порятунку, оберіть іншого колоніста, потім клацніть правою кнопкою миші на жертві та оберіть «Врятувати».</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Потрібен захист</NeedDefenses>
+  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+
+  <NeedDoctor>Потрібен лікар</NeedDoctor>
+  <NeedDoctorDesc>Ці колоністи потребують медичної допомоги, але у вас немає здорових колоніств, призначених лікарями.\n\n{0}\nПризначте здорового колоніста на роботу лікаря. Якщо не лікувати рани, вони можуть ніколи не загоїтися і можуть стати постійними.</NeedDoctorDesc>
+
+  <NeedMiner>Потрібен шахтар</NeedMiner>
+  <NeedMinerDesc>Ви позначили деякі камені на видобуток, але у вас немає шахтарів.\n\nПризначте колоніста на роботу шахтаря.</NeedMinerDesc>
+
+  <NeedWarden>Потрібен наглядач</NeedWarden>
+  <NeedWardenDesc>Ви маєте вʼязня, але не маєте наглядачів.\n\nПризначте колоніста для роботи наглядачем.</NeedWardenDesc>
+
+  <LowFood>Мало їжі</LowFood>
+  <LowFoodDesc>У вас небезпечно мало їжі.\n\n    Повний запас їжі на складі: {0}\n    Колоністи та вʼязні, які отримують їжу: {1}\n    Їжі на складі вистачить на {2} днів.\n\nВирощуйте, купуйте, знайдіть або вбийте яку-небудь їжу.</LowFoodDesc>
+
+  <LowMedicine>Мало ліків</LowMedicine>
+  <LowMedicineDesc>Ви маєте лише {0} ліків.\n\nКупіть більше ліків у торгівців.</LowMedicineDesc>
+  <NoMedicineDesc>На складі закінчились ліки.\n\nКупіть більше ліків у торговців.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Колоністи потребують ліжок</NeedColonistBeds>
+  <NeedColonistBedsDesc>У вас більше колоністів, ніж ліжок. Комусь не вистачить місця для сну.\n\nАбо зробіть більше ліжок, або призначте ліжка вʼязнів для колоністів.\n\nЯкщо у вас немає ресурсів, спальні місця безкоштовні й можуть бути миттєво розміщені.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>У мисливця нема зброї дальнього бою</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Колоніст призначений мисливцем, але не має зброї дального бою.\n\nВін не буде полювати доки не отримають зброї.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Пошарпаний одяг</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Ці колоністи носять обшарпаний одяг, що засмучує їх:\n\n{0}\nДайте їм який-небудь одяг, який не так сильно пошарпаний.\n\nВи можете пошити одяг на столі кравця або придбати його у торгівців.</AlertTatteredApparelDesc>
+
+	<AlertUnhappyNudity>Незадоволені наготою</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>Ці колоністи оголені й не задоволені цим:\n\n{0}\nДайте їм якийсь одяг.\n\nВи можете пошити одяг на столі кравця або придбати його у торгівців.</AlertUnhappyNudityDesc>
+
+	<Starvation>Голод</Starvation>
+  <StarvationDesc>Ці колоністи голодують:\n\n{0}\nДайте їм якусь їжу.</StarvationDesc>
+
+  <StarvationAnimals>Тварини голодують</StarvationAnimals>
+  <StarvationAnimalsDesc>Ці тварини голодують:\n\n{0}\nДайте їм якусь їжу.</StarvationAnimalsDesc>
+
+  <Exhaustion>Виснаження</Exhaustion>
+  <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nЇм знадобиться ліжка, позначені для використання колоністами. Також переконайтеся, що вони побудовані.</ExhaustionDesc>
+
+  <NeedFoodHopper>Потрібен харчовий бункер</NeedFoodHopper>
+  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без бункера поруч з ним.\n\nЩоб працювати, дозатори повинні витягувати з сусіднього бункера, заповненого сирою їжею.\n\nЗбудуйте бункер, що прилягає до дозатора.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
+  <NeedMealSourceDesc>Ви не можете приготувати смачні страви з сирої їжі.\n\nПобудуйте піч, вогнище або дозатор поживних речовин.\n\n(Воно не може бути розміщене в тюремній камері, інакше колоністи не зможуть це використовувати.)</NeedMealSourceDesc>
+
+  <NeedJoySource>Need recreation variety</NeedJoySource>
+  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
+  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <bored>bored</bored>
+
+  <Boredom>Boredom</Boredom>
+  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
+
+  <NeedBatteries>Потрібні акумулятори</NeedBatteries>
+  <NeedBatteriesDesc>У вас є сонячний або вітровий генератор, але нема акумуляторів. Це означає, що живлення зникатиме при відсутності сонця або вітру. \n\nВстановіть одну або дві батареї, щоб гарантувати безперебійне живлення.</NeedBatteriesDesc>
+
+  <BrawlerHasRangedWeapon>Забіяка має далекобійну зброю</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Один з ваших колоністів має рису особистості Забіяка, але носить далекобійну зброю. Це робить їх дуже нещасними.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Користувач енергощиту має далекобійну зброю</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Один з ваших колоністів має поясний енергощит і носить далекобійну зброю. Вони не зможуть стріляти зі своєї зброї через щит (за винятком цілей, які вже торкаються їх).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Потрібен дослідницький проект</NeedResearchProject>
+  <NeedResearchProjectDesc>У вас є обладнання для проведення досліджень, але ви не обрали проект.\n\nВідкрийте меню «Дослідження» та оберіть проект.</NeedResearchProjectDesc>
+  
+  <ColonistsIdle>{0} колоністів байдикують</ColonistsIdle>
+  <ColonistsIdleDesc>Ці колоністи бездумно блукають:\n\n{0}\nМабуть, ви знайдете їм щось продуктивне.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>Колоніст потребує лікування</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Ці колоністи потребують медичного лікування. Без цього вони можуть померти від ран, або їх рани можуть стати постійними.\n\n{0}\nЛікуйте їх, відправивши їх до медичного ліжка.\n\n(По-перше, призначте ліжко, обравши його та перевстановивши в медичне ліжко. Потім оберіть пораненого колоніста й клацніть правою кнопкою миші на медичному ліжку, щоб зробити його пацієнтом.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Переохолодження</AlertHypothermia>
+  <AlertHypothermiaDesc>Ці колоністи страждать від переохолодження.\n\n{0}\nПеревірте відповідність їх одягу щодо сезону і внутрішні приміщення обігріваються належним чином.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} пацієнтів очікують на медичну операцію</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Ці пацієнти чекають медичної операції\n\n{0}\nУпевніться, що у вас є всі необхідні медичні інструменти та вільний лікар.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Пожежа!</FireInHomeArea>
+  <FireInHomeAreaDesc>В домашній зоні пожежа.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nПереконайтеся, що вони отримують найкращий медичний догляд.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nЯкщо це можливо, розгляньте ампутацію або заміну інфікованих кінцівок, щоб зберегти колоністів в живих.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Більярд потребує місця</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Один з ваших більярдних столів прилягає до перешкод, які заважають колоністам користуватися ним.\n\nБільярд потребує вільного простору навколо нього з усіх боків, щоб бути зручним.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Мисливець має щит і далекобійну зброю</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Один з мисливців має далекобійну зброю і щит, котрий заважає стріляти на відстані.\n\nВін не зможе полювати, якщо не зняти щит.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Потрібен теплий одяг</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Принаймні {0} з ваших колоністів не має теплого одягу, коли настане холодний сезон.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Усім вашим колоністам не вистачає теплих речей, коли настане холодний сезон.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Температура зовнішнього середовища сягатиме {0}.\n\nВи можете пошити теплий одяг на столі кравця або придбати його у торгівців.</NeedWarmClothesDesc2>
+  
+  <ImmobileCaravan>Караван зупинив рух</ImmobileCaravan>
+  <ImmobileCaravanDesc>Один з ваших караванів зупинив рух, тому що несе занадто багато речей.\n\nВи можете відновити рух каравану, відмовившись від деяких речей на вкладці «Речі».</ImmobileCaravanDesc>
+  
+</LanguageData>
