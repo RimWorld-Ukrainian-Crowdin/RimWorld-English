@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan.label>караван</Caravan.label>
+  <Caravan.description>Група подорожуючих людей.</Caravan.description>
+
+  <Settlement.label>settlement</Settlement.label>
+  <Settlement.description>A base of one of the factions.</Settlement.description>
+
+  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
+  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+
+  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
+  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+
+  <EscapeShip.label>корабель що приземлився</EscapeShip.label>
+  <EscapeShip.description>Локація з прихованим кораблем який допоможе вам втекти з планети.</EscapeShip.description>
+
+  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+
+  <TravelingTransportPods.label>транспортні ракети</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Транспортні ракети які летять.</TravelingTransportPods.description>
+
+  <RoutePlannerWaypoint.label>точки маршруту</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Тимчасова точка маршруту.</RoutePlannerWaypoint.description>
+
+  <PeaceTalks.label>мирні переговори</PeaceTalks.label>
+  <PeaceTalks.description>Ділянка, відведена для мирних переговорів.</PeaceTalks.description>
+
+
+</LanguageData>
