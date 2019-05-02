@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--============================ Simple mineables ===============================-->
+
+  <CollapsedRocks.label>завал</CollapsedRocks.label>
+  <CollapsedRocks.description>Гірські породи після обвалу стали достатньо міцними, щоб тримати дах.</CollapsedRocks.description>
+
+
+  <!--============================ Resource rocks ===============================-->
+
+  <MineableSteel.label>залежі сталі</MineableSteel.label>
+  <MineableSteel.description>Залишки якоїсь зруйнованої будівлі. Багата на сталь.</MineableSteel.description>
+
+  <MineableSilver.label>срібна руда</MineableSilver.label>
+  <MineableSilver.description>Гірська порода зі срібними самородками.</MineableSilver.description>
+
+  <MineableGold.label>золота руда</MineableGold.label>
+  <MineableGold.description>Гірська порода з золотими самородками.</MineableGold.description>
+
+  <MineableUranium.label>уранова руда</MineableUranium.label>
+  <MineableUranium.description>Гірська порода, що містить уран.</MineableUranium.description>
+
+  <MineablePlasteel.label>залежі пласталі</MineablePlasteel.label>
+  <MineablePlasteel.description>Стародавні руїни, багаті на пласталь.</MineablePlasteel.description>
+
+  <MineableJade.label>нефрит</MineableJade.label>
+  <MineableJade.description>Гірська порода з нефритом.</MineableJade.description>
+
+  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
+
+  <SteamGeyser.label>паровий гейзер</SteamGeyser.label>
+  <SteamGeyser.description>A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook.</SteamGeyser.description>
+
+  <Hive.label>вулик</Hive.label>
+  <Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
+
+  <GlowPod.label>яскравий кокон</GlowPod.label>
+  <GlowPod.description>Біолюмінісцентний кокон, збудований гігантськими комахами. Випромінює світло протягом довгого часу, а потім вмирає.</GlowPod.description>
+
+  <Blueprint_Install_GlowPod.label>BlueprintLabelExtra</Blueprint_Install_GlowPod.label>
+
+
+</LanguageData>
