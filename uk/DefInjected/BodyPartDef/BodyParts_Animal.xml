@@ -44,10 +44,10 @@
   <Hoof.label>копито</Hoof.label>
 
   <FrontClaw.label>передня клешня</FrontClaw.label>
-  <FrontClaw.labelShort>claw</FrontClaw.labelShort>
+  <FrontClaw.labelShort>клешня</FrontClaw.labelShort>
 
   <RearClaw.label>задня клешня</RearClaw.label>
-  <RearClaw.labelShort>claw</RearClaw.labelShort>
+  <RearClaw.labelShort>клешня</RearClaw.labelShort>
 
 
 </LanguageData>
