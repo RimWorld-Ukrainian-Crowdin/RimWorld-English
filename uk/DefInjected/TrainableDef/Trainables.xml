@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Note: You cannot reorder elements in this without destroying saved trainability data; see DefMap<>.ExposeData(). -->
+
+  <Obedience.label>слухняність</Obedience.label>
+  <Obedience.description>Тварина може бути прив'язана до хазяїна. Вона буде слідувати за ним і захищати його.</Obedience.description>
+
+  <Release.label>відпустити</Release.label>
+  <Release.description>The animal can be released to attack distant targets instead of just defending its master.</Release.description>
+
+  <Rescue.label>порятунок</Rescue.label>
+  <Rescue.description>Тварина буде рятувати поранених друзів та відтаскувати їх у безпечне місце.</Rescue.description>
+
+  <Haul.label>переноска речей</Haul.label>
+  <Haul.description>Тварина буде час від часу переносити випадково вибрані речі (хоча можна й наказати тягати потрібні вам предмети).</Haul.description>
+
+  <Tameness.label>tameness</Tameness.label>
+  <Tameness.description>The animal can learn to consider itself a member of your colony.</Tameness.description>
+
+
+</LanguageData>
