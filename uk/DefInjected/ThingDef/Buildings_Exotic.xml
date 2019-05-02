@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>уламок пси-корабля</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>уламок зараженого корабля</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>
+
+
+  <!-- =============================== Misc ============================ -->
+
+  <ShipChunk.label>уламок корабля</ShipChunk.label>
+  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful resources.</ShipChunk.description>
+
+
+</LanguageData>
