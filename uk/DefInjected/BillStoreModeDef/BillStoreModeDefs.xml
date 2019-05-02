@@ -3,7 +3,7 @@
 
   <DropOnFloor.label>покласти на підлогу</DropOnFloor.label>
   <BestStockpile.label>до складу найв. пріоритету</BestStockpile.label>
-  <SpecificStockpile.label>take to {0}</SpecificStockpile.label>
+  <SpecificStockpile.label>до складу {0}</SpecificStockpile.label>
 
 
 </LanguageData>
