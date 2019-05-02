@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TimeAsColonistOrColonyAnimal.label>колоніст</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.description>Total time spent loyal to your community.</TimeAsColonistOrColonyAnimal.description>
+
+  <TimeAsPrisoner.label>в'язень</TimeAsPrisoner.label>
+  <TimeAsPrisoner.description>Час, який я провів як в'язень.</TimeAsPrisoner.description>
+
+  <TimeInBed.label>пролежав</TimeInBed.label>
+  <TimeInBed.description>Total time spent in bed.</TimeInBed.description>
+
+  <TimeInBedForMedicalReasons.label>через лікування</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+
+  <TimeDowned.label>час, який я був збитий</TimeDowned.label>
+  <TimeDowned.description>Час, який я провів збитим.</TimeDowned.description>
+
+  <TimeGettingFood.label>час на знаходження і прийом їжі</TimeGettingFood.label>
+  <TimeGettingFood.description>Час, який я витратив на здобуття їжі і її прийом.</TimeGettingFood.description>
+
+  <TimeGettingJoy.label>розважався</TimeGettingJoy.label>
+  <TimeGettingJoy.description>Час, який я витратив на розваги.</TimeGettingJoy.description>
+
+  <TimeUnderRoof.label>часу під дахом</TimeUnderRoof.label>
+  <TimeUnderRoof.description>Час, проведений під дахом.</TimeUnderRoof.description>
+
+  <TimeDrafted.label>часу на розроблення</TimeDrafted.label>
+  <TimeDrafted.description>Час, який я витратив на розроблення.</TimeDrafted.description>
+
+  <TimeOnFire.label>час в вогні</TimeOnFire.label>
+  <TimeOnFire.description>Час, який я провів в вогні.</TimeOnFire.description>
+
+  <TimeInMentalState.label>часу у психічних зривах</TimeInMentalState.label>
+  <TimeInMentalState.description>Total time spent in an abnormal mental state.</TimeInMentalState.description>
+
+  <TimeHauling.label>перенесення</TimeHauling.label>
+  <TimeHauling.description>Час, витрачений на перенесення речей.</TimeHauling.description>
+
+  <TimeHandlingAnimals.label>час на обробку тварин</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.description>Час, витрачений на обробку тварин.</TimeHandlingAnimals.description>
+
+  <TimeFirefighting.label>пожежогасіння</TimeFirefighting.label>
+  <TimeFirefighting.description>Час, витрачений на пожежогасіння.</TimeFirefighting.description>
+
+  <TimeWardening.label>охорона</TimeWardening.label>
+  <TimeWardening.description>Час, витрачений на охорону.</TimeWardening.description>
+
+  <TimeHunting.label>полювання</TimeHunting.label>
+  <TimeHunting.description>Часу, витрачений на полювання.</TimeHunting.description>
+
+  <TimeConstructing.label>будівництво</TimeConstructing.label>
+  <TimeConstructing.description>Total time spent constructing and deconstructing buildings.</TimeConstructing.description>
+
+  <TimeTreatingAndFeeding.label>догляд</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.description>Час, витрачений на лікування і годування хворих.</TimeTreatingAndFeeding.description>
+
+  <TimeResearching.label>дослідження</TimeResearching.label>
+  <TimeResearching.description>Час, проведеного за дослідженнями.</TimeResearching.description>
+
+  <TimeCleaning.label>прибирання</TimeCleaning.label>
+  <TimeCleaning.description>Час, витрачений на прибирання.</TimeCleaning.description>
+
+  <TimeRepairing.label>ремонт</TimeRepairing.label>
+  <TimeRepairing.description>Час, витрачений на ремонт.</TimeRepairing.description>
+
+  <TimeMining.label>видобування</TimeMining.label>
+  <TimeMining.description>Час, витрачений на шахтарну справу.</TimeMining.description>
+
+  <TimeSowingAndHarvesting.label>посів і збір</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.description>Час, витрачений на посів, збирання і зрізання рослин.</TimeSowingAndHarvesting.description>
+
+
+</LanguageData>
