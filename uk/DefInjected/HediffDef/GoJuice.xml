@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoJuiceHigh.label>під впливом від енергетика</GoJuiceHigh.label>
+  <GoJuiceHigh.labelNoun>вплив енергетика</GoJuiceHigh.labelNoun>
+
+
+  <!-- Go-juice addiction -->
+
+  <GoJuiceTolerance.label>толерантність до енергетика</GoJuiceTolerance.label>
+  <GoJuiceTolerance.stages.0.label>легка</GoJuiceTolerance.stages.0.label>
+  <GoJuiceTolerance.stages.1.label>легка</GoJuiceTolerance.stages.1.label>
+  <GoJuiceTolerance.stages.2.label>помірна</GoJuiceTolerance.stages.2.label>
+  <GoJuiceTolerance.stages.3.label>сильна</GoJuiceTolerance.stages.3.label>
+
+  <GoJuiceAddiction.label>залежність від енергетика</GoJuiceAddiction.label>
+  <GoJuiceAddiction.stages.1.label>ломка</GoJuiceAddiction.stages.1.label>
+
+
+</LanguageData>
