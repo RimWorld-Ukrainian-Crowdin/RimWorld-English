@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PegLeg.label>дерев’яна нога</PegLeg.label>
+  <PegLeg.labelNoun>дерев’яна нога</PegLeg.labelNoun>
+
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+
+  <Denture.label>штучна щелепа</Denture.label>
+  <Denture.labelNoun>штучна щелепа</Denture.labelNoun>
+
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>кулак</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+
+  <BionicEye.label>біонічне око</BionicEye.label>
+  <BionicEye.labelNoun>біонічне око</BionicEye.labelNoun>
+
+  <BionicArm.label>біонічна рука</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>кулак</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>біонічна рука</BionicArm.labelNoun>
+
+  <BionicLeg.label>біонічна нога</BionicLeg.label>
+  <BionicLeg.labelNoun>біонічна нога</BionicLeg.labelNoun>
+
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+
+  <PowerClaw.label>силовий кіготь</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>кіготь</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>силовий кіготь</PowerClaw.labelNoun>
+
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+
+
+</LanguageData>
