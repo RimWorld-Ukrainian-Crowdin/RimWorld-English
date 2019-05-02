@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OnSkin.label>skin</OnSkin.label>
-  <Middle.label>middle</Middle.label>
-  <Shell.label>outer</Shell.label>
-  <Belt.label>belt</Belt.label>
-  <Overhead.label>headgear</Overhead.label>
+  <OnSkin.label>на голе тіло</OnSkin.label>
+  <Middle.label>захисний прошарок</Middle.label>
+  <Shell.label>верхній одяг</Shell.label>
+  <Belt.label>пояс</Belt.label>
+  <Overhead.label>головний убір</Overhead.label>
 
 
 </LanguageData>
