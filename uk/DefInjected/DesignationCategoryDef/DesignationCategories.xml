@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Orders.label>накази</Orders.label>
+  <Zone.label>зони</Zone.label>
+  <Structure.label>будівлі</Structure.label>
+  <Production.label>виробництво</Production.label>
+  <Furniture.label>меблі</Furniture.label>
+  <Power.label>енергія</Power.label>
+  <Security.label>захист</Security.label>
+  <Misc.label>інше</Misc.label>
+  <Floors.label>покриття</Floors.label>
+  <Joy.label>recreation</Joy.label>
+  <Ship.label>корабель</Ship.label>
+  <Temperature.label>температура</Temperature.label>
+
+
+</LanguageData>
