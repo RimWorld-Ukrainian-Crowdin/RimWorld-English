@@ -1,0 +1,16 @@
+﻿//Common with outlanders
+union
+nation
+конфедерація
+конфедерацій
+альянс
+kin league
+covenant
+treaty
+pact
+coalition
+
+//Tribe specific
+спорідненість
+народ
+плем'я
