@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>дозволити трупи колоністів</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
+
+  <AllowCorpsesStranger.label>дозволити трупи чужинців</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
+
+  <AllowRotten.label>дозволити гниль</AllowRotten.label>
+  <AllowRotten.description>Дозволити органічні речі, які почали гнити.</AllowRotten.description>
+
+  <AllowFresh.label>allow fresh</AllowFresh.label>
+  <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
+
+  <AllowPlantFood.label>дозволити рослинну їжу</AllowPlantFood.label>
+  <AllowPlantFood.description>Дозволити продукти, які мають якість не зібраної рослини, як сіно.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>дозволити розбірне</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>дозволити не розбірне</AllowNonSmeltableWeapons.label>
+
+  <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+
+  <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
+
+
+</LanguageData>
