@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LuciferiumHigh.label>люциферій</LuciferiumHigh.label>
+
+
+  <!-- Luciferium addiction -->
+
+  <LuciferiumAddiction.label>потреба люциферію</LuciferiumAddiction.label>
+  <LuciferiumAddiction.stages.1.label>незадоволений</LuciferiumAddiction.stages.1.label>
+
+
+</LanguageData>
