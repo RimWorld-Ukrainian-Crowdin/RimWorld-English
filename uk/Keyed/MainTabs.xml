@@ -69,8 +69,8 @@
   <!-- History tab - Messages -->
   <ShowLetters>Показати листи</ShowLetters>
   <ShowMessages>Показати повідомлення</ShowMessages>
-  <PinArchivableTip>Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages.</PinArchivableTip>
-  <NoMessages>no messages</NoMessages>
+  <PinArchivableTip>Закріпити чи відкрипити це повідомлення.\n\nНайстаріші незакріплені повідомлення видалятимуться автоматично після досягнення ліміту в {0} повідомлень.</PinArchivableTip>
+  <NoMessages>жодного повідомлення</NoMessages>
 
   <!-- History tab - Statistics -->
   <Playtime>Ігровий час</Playtime>
