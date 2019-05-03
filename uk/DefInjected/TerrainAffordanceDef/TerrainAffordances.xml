@@ -3,47 +3,47 @@
 
   <!-- Supports light structure -->
 
-  <Light.label>light</Light.label>
+  <Light.label>м'який</Light.label>
 
 
   <!-- Supports medium structures (mainly walls) -->
 
-  <Medium.label>medium</Medium.label>
+  <Medium.label>середній</Medium.label>
 
 
   <!-- Supports heavy structures -->
 
-  <Heavy.label>heavy</Heavy.label>
+  <Heavy.label>важкий</Heavy.label>
 
 
   <!-- Can be built on with things that are waterproof -->
 
-  <ShallowWater.label>shallow water</ShallowWater.label>
+  <ShallowWater.label>мілководдя</ShallowWater.label>
 
 
   <!-- Contains power usable for hydroelectrics -->
 
-  <MovingFluid.label>moving water</MovingFluid.label>
+  <MovingFluid.label>рухома вода</MovingFluid.label>
 
 
   <!-- Bridge can be built here -->
 
-  <Bridgeable.label>bridgeable</Bridgeable.label>
+  <Bridgeable.label>придатний для моста</Bridgeable.label>
 
 
   <!-- Things can grow here -->
 
-  <GrowSoil.label>growable</GrowSoil.label>
+  <GrowSoil.label>родючий</GrowSoil.label>
 
 
   <!-- For graves -->
 
-  <Diggable.label>diggable</Diggable.label>
+  <Diggable.label>придатний для копання</Diggable.label>
 
 
   <!-- Can be ground and smoothed into smooth stone -->
 
-  <SmoothableStone.label>smoothable</SmoothableStone.label>
+  <SmoothableStone.label>податливий</SmoothableStone.label>
 
 
 </LanguageData>
