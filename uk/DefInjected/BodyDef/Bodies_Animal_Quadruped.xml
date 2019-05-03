@@ -2,58 +2,58 @@
 <LanguageData>
 
   <QuadrupedAnimalWithPaws.label>чотиринога тварина</QuadrupedAnimalWithPaws.label>
-  <QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>left lung</QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>right lung</QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>left kidney</QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>right kidney</QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>left eye</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>right eye</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>left ear</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>right ear</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>front left leg</QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>front left paw</QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>front right leg</QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>front right paw</QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>rear left leg</QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>rear left paw</QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>rear right leg</QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>rear right paw</QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>ліва легеня</QuadrupedAnimalWithPaws.corePart.parts.3.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>права легеня</QuadrupedAnimalWithPaws.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>ліва нирка</QuadrupedAnimalWithPaws.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>права нирка</QuadrupedAnimalWithPaws.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>ліве око</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>праве око</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>ліве вухо</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>праве вухо</QuadrupedAnimalWithPaws.corePart.parts.8.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>передня ліва нога</QuadrupedAnimalWithPaws.corePart.parts.9.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>передня ліва лапа</QuadrupedAnimalWithPaws.corePart.parts.9.parts.0.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>передня права нога</QuadrupedAnimalWithPaws.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>передня права лапа</QuadrupedAnimalWithPaws.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>задня ліва нога</QuadrupedAnimalWithPaws.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>задня ліва лапа</QuadrupedAnimalWithPaws.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>задня права нога</QuadrupedAnimalWithPaws.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>задня права лапа</QuadrupedAnimalWithPaws.corePart.parts.12.parts.0.customLabel>
 
   <QuadrupedAnimalWithPawsAndTail.label>чотиринога тварина з хвостом</QuadrupedAnimalWithPawsAndTail.label>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>left lung</QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>right lung</QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>left kidney</QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>right kidney</QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>left eye</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>right eye</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>left ear</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>right ear</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>front left leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>front left paw</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>front right leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>front right paw</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>rear left leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>rear left paw</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>rear right leg</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>rear right paw</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>ліва легеня</QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>права легеня</QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>ліва нирка</QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>права нирка</QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>ліве око</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>праве око</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>ліве вухо</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>праве вухо</QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>передня ліва нога</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>передня ліва лапа</QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>передня права нога</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>передня права лапа</QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>задня ліва нога</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>задня ліва лапа</QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>задня права нога</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>задня права лапа</QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
 
   <QuadrupedAnimalWithHooves.label>чотиринога копитна тварина</QuadrupedAnimalWithHooves.label>
-  <QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>left lung</QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>right lung</QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>left kidney</QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>right kidney</QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>left eye</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>right eye</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>left ear</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>right ear</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>front left leg</QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>front left hoof</QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>front right leg</QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>front right hoof</QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>rear left leg</QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>rear left hoof</QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>rear right leg</QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>rear right hoof</QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>ліва легеня</QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>права легеня</QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>ліва нирка</QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>права нирка</QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>ліве око</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>праве око</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>ліве вухо</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>праве вухо</QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>передня ліва нога</QuadrupedAnimalWithHooves.corePart.parts.9.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>переднє ліве копито</QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>передня права нога</QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>переднє праве копито</QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>задня ліва нога</QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>заднє ліве копито</QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>задня права нога</QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>заднє праве копито</QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>
 
   <QuadrupedAnimalWithHoovesAndHump.label>чотиринога копитна тварина з горбом</QuadrupedAnimalWithHoovesAndHump.label>
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.3.customLabel>left lung</QuadrupedAnimalWithHoovesAndHump.corePart.parts.3.customLabel>
