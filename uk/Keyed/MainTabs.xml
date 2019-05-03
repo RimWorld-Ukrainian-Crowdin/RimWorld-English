@@ -29,14 +29,14 @@
   <!-- Animals tab -->
   <Master>Головний</Master>
   <PregnantIconDesc>Вагітних ({0} / {1})</PregnantIconDesc>
-  <BondedTo>Bonded to</BondedTo>
+  <BondedTo>Прив'язаний до</BondedTo>
   
   <!-- Wildlife tab -->
   <IsPredator>Це хижак. Ця тварина полюватиме на тварин, що менше за неї, в тому числі - й людей.</IsPredator>
 	
   <!-- Factions tab -->
   <Hostile>Вороже</Hostile>
-  <Ally>Ally</Ally>
+  <Ally>Союзник</Ally>
   <DefeatedLower>переможений</DefeatedLower>
   <HostileTo>Ворог {0}</HostileTo>
   <CurrentGoodwillTip>Current goodwill and relations status with this faction.</CurrentGoodwillTip>
@@ -54,7 +54,7 @@
 	
   <!-- History tab - subtabs -->
   <Graph>Графіки</Graph>
-  <Messages>Messages</Messages>
+  <Messages>Повідомлення</Messages>
   <Statistics>Статистика</Statistics>
   
   <!-- History tab - Graphs -->
@@ -67,8 +67,8 @@
   <External>Зовнішні</External>
 
   <!-- History tab - Messages -->
-  <ShowLetters>Show letters</ShowLetters>
-  <ShowMessages>Show messages</ShowMessages>
+  <ShowLetters>Показати листи</ShowLetters>
+  <ShowMessages>Показати повідомлення</ShowMessages>
   <PinArchivableTip>Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages.</PinArchivableTip>
   <NoMessages>no messages</NoMessages>
 
