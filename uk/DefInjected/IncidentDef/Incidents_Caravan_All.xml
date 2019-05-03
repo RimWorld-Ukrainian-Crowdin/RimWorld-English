@@ -5,11 +5,11 @@
 
   <Ambush.label>засідка</Ambush.label>
   <Ambush.letterLabel>Караван потрапив в засідку</Ambush.letterLabel>
-  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  <Ambush.letterText>{0} потрапив у засідку, що влаштували {1} з фракції {2}!</Ambush.letterText>
 
-  <ManhunterAmbush.label>скажені звірі напали на ваш караван</ManhunterAmbush.label>
-  <ManhunterAmbush.letterLabel>На караван напали звірі</ManhunterAmbush.letterLabel>
-  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.label>засідка мисливців за головами</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>Караван потрапив у засідку мисливців за головами</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>{0} потрапив у засідку мисливців за головами з фракції {1}!</ManhunterAmbush.letterText>
 
 
   <!--================================ Good ================================-->
