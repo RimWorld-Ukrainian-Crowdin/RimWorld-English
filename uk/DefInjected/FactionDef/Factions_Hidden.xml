@@ -7,11 +7,11 @@
   <Ancients.pawnSingular>стародавній</Ancients.pawnSingular>
   <Ancients.pawnsPlural>стародавні</Ancients.pawnsPlural>
 
-  <AncientsHostile.label>ancients</AncientsHostile.label>
-  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
-  <AncientsHostile.leaderTitle>leader</AncientsHostile.leaderTitle>
-  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
-  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
+  <AncientsHostile.label>стародавні</AncientsHostile.label>
+  <AncientsHostile.fixedName>Стародавні</AncientsHostile.fixedName>
+  <AncientsHostile.leaderTitle>лідер</AncientsHostile.leaderTitle>
+  <AncientsHostile.pawnSingular>стародавній</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnsPlural>стародавні</AncientsHostile.pawnsPlural>
 
   <Mechanoid.label>рій механоїдів</Mechanoid.label>
   <Mechanoid.fixedName>рою механоїдів</Mechanoid.fixedName>
