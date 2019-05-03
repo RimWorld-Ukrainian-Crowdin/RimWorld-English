@@ -8,47 +8,47 @@
   <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>правий звуковий сенсор</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
 
   <Lancer.label>списник</Lancer.label>
-  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Lancer.corePart.parts.1.customLabel>left shoulder</Lancer.corePart.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.customLabel>left arm</Lancer.corePart.parts.1.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>left hand</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.2.customLabel>right mechanical shoulder</Lancer.corePart.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.customLabel>right arm</Lancer.corePart.parts.2.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>right hand</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.3.customLabel>left leg</Lancer.corePart.parts.3.customLabel>
-  <Lancer.corePart.parts.3.parts.0.customLabel>left foot</Lancer.corePart.parts.3.parts.0.customLabel>
-  <Lancer.corePart.parts.4.customLabel>right leg</Lancer.corePart.parts.4.customLabel>
-  <Lancer.corePart.parts.4.parts.0.customLabel>right foot</Lancer.corePart.parts.4.parts.0.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>лівий оптичний сенсор</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>правий оптичний сенсор</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>лівий звуковий сенсор</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>правий звуковий сенсор</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Lancer.corePart.parts.1.customLabel>ліве плече</Lancer.corePart.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.customLabel>ліва рука</Lancer.corePart.parts.1.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>ліва долоня</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>мізинець лівої руки</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>середній палець лівої руки</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>вказівний палець лівої руки</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>великий палець лівої руки</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.2.customLabel>праве механічне плече</Lancer.corePart.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.customLabel>права рука</Lancer.corePart.parts.2.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>права долоня</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>мізинець правої руки</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>середній палець правої руки</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>вказівний палець правої руки</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>великий палець правої руки</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.3.customLabel>ліва нога</Lancer.corePart.parts.3.customLabel>
+  <Lancer.corePart.parts.3.parts.0.customLabel>ліва ступня</Lancer.corePart.parts.3.parts.0.customLabel>
+  <Lancer.corePart.parts.4.customLabel>права нога</Lancer.corePart.parts.4.customLabel>
+  <Lancer.corePart.parts.4.parts.0.customLabel>права ступня</Lancer.corePart.parts.4.parts.0.customLabel>
 
   <Scyther.label>жнець</Scyther.label>
-  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Scyther.corePart.parts.1.customLabel>left shoulder</Scyther.corePart.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.customLabel>left arm</Scyther.corePart.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>left blade</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>left hand</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>left pinky</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>left middle finger</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>left index finger</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>left thumb</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
-  <Scyther.corePart.parts.2.customLabel>right shoulder</Scyther.corePart.parts.2.customLabel>
-  <Scyther.corePart.parts.2.parts.0.customLabel>right arm</Scyther.corePart.parts.2.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>right blade</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>right hand</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>right pinky</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>лівий оптичний сенсор</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>правий оптичний сенсор</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>лівий звуковий сенсор</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>правий звуковий сенсор</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Scyther.corePart.parts.1.customLabel>ліве плече</Scyther.corePart.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.customLabel>ліва рука</Scyther.corePart.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>ліве лезо</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>ліва долоня</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>мізинець лівої руки</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>середній палець лівої руки</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>вказівний палець лівої руки</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>великий палець лівої руки</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
+  <Scyther.corePart.parts.2.customLabel>праве плече</Scyther.corePart.parts.2.customLabel>
+  <Scyther.corePart.parts.2.parts.0.customLabel>права рука</Scyther.corePart.parts.2.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>праве лезо</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>права долоня</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>мізинець правої руки</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
   <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>right middle finger</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
   <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>right index finger</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
   <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>right thumb</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
