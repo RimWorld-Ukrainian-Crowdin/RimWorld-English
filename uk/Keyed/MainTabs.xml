@@ -39,7 +39,7 @@
   <Ally>Союзник</Ally>
   <DefeatedLower>переможений</DefeatedLower>
   <HostileTo>Ворог {0}</HostileTo>
-  <CurrentGoodwillTip>Current goodwill and relations status with this faction.</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Поточна репутація і статус відносин з цією фракцією.</CurrentGoodwillTip>
   <CurrentGoodwillTip_PermanentEnemy>Ця фракція - ворог назавжди. Вони нападатимуть на ваші поселення та каравани. Відносини з ними ні в якому разі не покращаться.</CurrentGoodwillTip_PermanentEnemy>
   <CurrentGoodwillTip_Ally>Ця фракція - ваш союзник. Вони при змозі надсилатимуть вам бійців. Якщо відносини з нею впадуть до {0}, то вони стануть нейтральними.</CurrentGoodwillTip_Ally>
   <CurrentGoodwillTip_Neutral>Це нейтральна фракція. Вони будуть вільно з вами торгувати і підтримувати зв'язок. Якщо відносини з ними впадуть нижче {0}, то вони стануть ворогами. Якщо відносини покращаться вище {1}, то вони стануть для вас союзниками та почнуть допомагати вам.</CurrentGoodwillTip_Neutral>
