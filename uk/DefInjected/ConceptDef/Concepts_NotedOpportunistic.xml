@@ -54,7 +54,7 @@
   <DoorOpenSpeed.label>Швидкість відкривання дверей</DoorOpenSpeed.label>
   <DoorOpenSpeed.helpText>Двері відкриваються з різною швидкістю, яка залежить від матеріалу, з якого зроблені самі двері.\n\nУвага: кам’яні двері відкриваються дуже повільно. Вони сильно сповільнюють будь-кого, хто користується ними.</DoorOpenSpeed.helpText>
 
-  <QueueOrders.label>Order queueing</QueueOrders.label>
+  <QueueOrders.label>Череда наказів</QueueOrders.label>
   <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>
 
 
