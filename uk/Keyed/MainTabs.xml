@@ -43,7 +43,7 @@
   <CurrentGoodwillTip_PermanentEnemy>Ця фракція - ворог назавжди. Вони нападатимуть на ваші поселення та каравани. Відносини з ними ні в якому разі не покращаться.</CurrentGoodwillTip_PermanentEnemy>
   <CurrentGoodwillTip_Ally>Ця фракція - ваш союзник. Вони при змозі надсилатимуть вам бійців. Якщо відносини з нею впадуть до {0}, то вони стануть нейтральними.</CurrentGoodwillTip_Ally>
   <CurrentGoodwillTip_Neutral>Це нейтральна фракція. Вони будуть вільно з вами торгувати і підтримувати зв'язок. Якщо відносини з ними впадуть нижче {0}, то вони стануть ворогами. Якщо відносини покращаться вище {1}, то вони стануть для вас союзниками та почнуть допомагати вам.</CurrentGoodwillTip_Neutral>
-  <CurrentGoodwillTip_Hostile>This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Це ворожа фракція. Вони нападатимуть на ваші поселення та каравани. Якщо відносини з ними зростуть до {0}, то вони стануть нейтральними.</CurrentGoodwillTip_Hostile>
   <CurrentGoodwillTip_NaturalGoodwill>This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day.</CurrentGoodwillTip_NaturalGoodwill>
   
   
@@ -74,11 +74,11 @@
 
   <!-- History tab - Statistics -->
   <Playtime>Ігровий час</Playtime>
-  <Storyteller>Казкар</Storyteller>
+  <Storyteller>Оповідач</Storyteller>
   <ThisMapColonyWealthTotal>Багатство колонії (ця карта)</ThisMapColonyWealthTotal>
   <ThisMapColonyWealthItems>Багатство колонії (предметів) (ця карта)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>Багатство колонії (споруди) (ця карта)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthTameAnimals>Colony wealth (animals) (this map)</ThisMapColonyWealthTameAnimals>
+  <ThisMapColonyWealthTameAnimals>Багатство колонії (тварини) (ця карта)</ThisMapColonyWealthTameAnimals>
   <NumThreatBigs>Основні загрози</NumThreatBigs>
   <NumEnemyRaids>Ворожі напади</NumEnemyRaids>
   <ThisMapDamageTaken>Шкода завдана (ця карта)</ThisMapDamageTaken>
