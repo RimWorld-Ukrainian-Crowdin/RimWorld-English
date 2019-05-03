@@ -24,7 +24,7 @@
 
   <!--===================== Scyther specific ====================-->
 
-  <Blade.label>blade</Blade.label>
+  <Blade.label>лезо</Blade.label>
 
   <MechanicalCentipedeBodyFirstRing.label>перше кільце тіла</MechanicalCentipedeBodyFirstRing.label>
   <MechanicalCentipedeBodyFirstRing.labelShort>кільце тіла</MechanicalCentipedeBodyFirstRing.labelShort>
