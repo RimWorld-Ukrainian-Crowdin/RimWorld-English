@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Пріоритеризація робіт</ManualPriorities>
+  <ManualPriorities>Пріоритетизація робіт</ManualPriorities>
   <HigherPriority>високий пріоритет</HigherPriority>
   <LowerPriority>низький пріоритет</LowerPriority>
   <RelevantSkills>Необхідні навички: {0}\nв середньому відповідних навичок: {1} / {2}</RelevantSkills>
@@ -32,7 +32,7 @@
   <BondedTo>Bonded to</BondedTo>
   
   <!-- Wildlife tab -->
-  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
+  <IsPredator>Це хижак. Ця тварина полюватиме на тварин, що менше за неї, в тому числі - й людей.</IsPredator>
 	
   <!-- Factions tab -->
   <Hostile>Вороже</Hostile>
