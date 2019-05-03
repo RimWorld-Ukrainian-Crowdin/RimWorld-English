@@ -4,13 +4,13 @@
   <!--===================== Concepts taught through the learning readout, with no opportunity needed ===================-->
 
   <CameraDolly.label>Переміщення камери</CameraDolly.label>
-  <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys.</CameraDolly.helpText>
+  <CameraDolly.helpText>Пересувайте камеру натиснувши ТРЕТЮ КНОПКУ МИШІ (зазвичай це коліщатко миші). Також ви можете користуватися клавішами {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}.</CameraDolly.helpText>
 
   <CameraZoom.label>Масштабування камери</CameraZoom.label>
-  <CameraZoom.helpText>Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.</CameraZoom.helpText>
+  <CameraZoom.helpText>Збільшити чи зменшити масштаб можна за допомогою КОЛІЩАТКА МИШІ або клавішами {Key:MapZoom_In} та {Key:MapZoom_Out}.</CameraZoom.helpText>
 
   <TimeControls.label>Швидкість гри</TimeControls.label>
-  <TimeControls.helpText>You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right.</TimeControls.helpText>
+  <TimeControls.helpText>Ви можете прискорити час.\n\nСпробуйте керувати часом за допомогою клавіш {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} та {Key:TimeSpeed_Superfast}, або використовуючи панель керування часом у правому нижньому куті.</TimeControls.helpText>
 
   <Pause.label>Ігрова пауза</Pause.label>
   <Pause.helpText>Натисніть {Key:TogglePause}, щоб призупинити або продовжити гру.\n\nВи можете віддавати накази під час паузи.\n\nЗапам'ятайте: якщо все виходить з-під контролю - просто натисніть {Key:TogglePause}!</Pause.helpText>
@@ -46,7 +46,7 @@
   <FormCaravan.helpText>Ви можете сформувати караван, щоб відправити групу людей подорожувати цією планетою.\n\nДля цього на вкладці СВІТ оберіть ваше поселення та натисніть кнопку «сформувати караван».</FormCaravan.helpText>
 
   <AnimalTaming.label>Приручення тварин</AnimalTaming.label>
-  <AnimalTaming.helpText>You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>Скориставшись командою ПРИРУЧИТИ, ви можете вказати поселенцям, яких тварин потрібно приручити.\n\nКолоніст із відповідною професією спробує це зробити, використавши деяку кількість їжі, що належить до раціону тварини.\n\nПопередження: деякі тварини можуть агресивно реагувати на невдалу спробу приручення.</AnimalTaming.helpText>
 
   <AnimalTraining.label>Тренування тварин</AnimalTraining.label>
   <AnimalTraining.helpText>Ви можете назначити прирученій тварині тренування певних навичок на її вкладці ТРЕНУВАННЯ.\n\nТварин не можна тренувати безперервно. Між спробами тренування має пройти певний час.</AnimalTraining.helpText>
@@ -64,7 +64,7 @@
   <SpoilageAndFreezers.helpText>Переважна частина продуктів харчування псується за температури вищої за нуль градусів Цельсія. Деякі з них роблять це досить швидко.\n\nЩоб не залишитися раптово наодинці із голодними колоністами ви можете обладнати окрему кімнату під морозильну камеру.\n\nДля цього вам необхідно створити кімнату зі стелею та розмістити у її стінах холодильні установки, холодний вихід яких (синій квадрат) має бути спрямований у кімнату, а гарячий (червоний квадрат) — назовні. Встановіть холодильні установки на охолодження до температури, нижчої за 0°C.\n\nОхолоджені (0°C - 5°C) продукти псуються повільніше, а заморожені (менше 0°C) можуть зберігатися як завгодно довго.</SpoilageAndFreezers.helpText>
 
   <Deterioration.label>Псування речей</Deterioration.label>
-  <Deterioration.helpText>Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room.</Deterioration.helpText>
+  <Deterioration.helpText>Речі, залишені під відкритим небом, повільно псуються.\n\nРозмістіть їх під стелею, якщо ви бажаєте зберегти їх.</Deterioration.helpText>
 
   <HostilityResponse.label>Рекція на загрозу</HostilityResponse.label>
   <HostilityResponse.helpText>Вкажіть, як ваші колоністи мають реагувати на загрозу їхньому життю та здоров’ю.\n\nДля цього перейдіть на вкладку ПРИЗНАЧЕННЯ та оберіть необхідний режим: ТІКАТИ, АТАКУВАТИ або ІГНОРУВАТИ.</HostilityResponse.helpText>
