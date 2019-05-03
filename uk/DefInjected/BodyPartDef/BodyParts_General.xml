@@ -4,15 +4,15 @@
   <Head.label>голова</Head.label>
   <Skull.label>череп</Skull.label>
   <Brain.label>мозок</Brain.label>
-  <Eye.label>eye</Eye.label>
-  <Ear.label>ear</Ear.label>
+  <Eye.label>око</Eye.label>
+  <Ear.label>вухо</Ear.label>
   <Nose.label>ніс</Nose.label>
   <Jaw.label>паща</Jaw.label>
   <Neck.label>шия</Neck.label>
-  <Ribcage.label>ribcage</Ribcage.label>
+  <Ribcage.label>грудна клітка</Ribcage.label>
   <Spine.label>хребет</Spine.label>
-  <Leg.label>leg</Leg.label>
-  <Foot.label>foot</Foot.label>
+  <Leg.label>нога</Leg.label>
+  <Foot.label>стопа</Foot.label>
 
 
 </LanguageData>
