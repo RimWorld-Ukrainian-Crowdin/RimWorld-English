@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
-  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
+  <Wealth_Total.label>багатство (загалом)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Сума</Wealth_Total.graphLabelY>
 
-  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
-  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
+  <Wealth_Items.label>багатство (предмети)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Сума</Wealth_Items.graphLabelY>
 
-  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
-  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
+  <Wealth_Buildings.label>багатство (будівлі)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Сума</Wealth_Buildings.graphLabelY>
 
-  <Wealth_TameAnimals.label>wealth (animals)</Wealth_TameAnimals.label>
-  <Wealth_TameAnimals.graphLabelY>Amount</Wealth_TameAnimals.graphLabelY>
+  <Wealth_TameAnimals.label>багатство (тварини)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.graphLabelY>Сума</Wealth_TameAnimals.graphLabelY>
 
   <FreeColonists.label>вільні колоністи</FreeColonists.label>
   <FreeColonists.graphLabelY>Колоністи</FreeColonists.graphLabelY>
@@ -25,8 +25,8 @@
 
   <!-- Dev mode recorders -->
 
-  <RampUp.label>ramp-up</RampUp.label>
-  <RampUp.graphLabelY>Days</RampUp.graphLabelY>
+  <RampUp.label>розвиток</RampUp.label>
+  <RampUp.graphLabelY>Дні</RampUp.graphLabelY>
 
 
 </LanguageData>
