@@ -29,12 +29,12 @@
   <MeteoriteImpact.letterText>Великий метеорит розбив землю в цьому районі. Він залишив купу {0}.</MeteoriteImpact.letterText>
 
   <HerdMigration.label>міграція стада</HerdMigration.label>
-  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
-  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Міграція тварин: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterText>Велике стадо {0} проходить через вашу територію. \n\nВони не будуть атакувати, якщо вони не спровоковані.</HerdMigration.letterText>
 
-  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
-  <WildManWandersIn.letterLabel>Wild man wanders in</WildManWandersIn.letterLabel>
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective].</WildManWandersIn.letterText>
+  <WildManWandersIn.label>прихід дикуна</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>Дикун завітав до нас</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>Людина, що живе серед тварин, потрапила до нашої території. [PAWN_pronoun] звати {0}. \n\nВи можете спробувати запросити [PAWN_objective].</WildManWandersIn.letterText>
 
 
   <!--========================== Bad ===============================-->
