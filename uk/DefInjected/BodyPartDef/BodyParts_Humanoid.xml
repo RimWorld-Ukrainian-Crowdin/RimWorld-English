@@ -2,17 +2,17 @@
 <LanguageData>
 
   <Torso.label>тулуб</Torso.label>
-  <Shoulder.label>shoulder</Shoulder.label>
-  <Arm.label>arm</Arm.label>
-  <Hand.label>hand</Hand.label>
-  <Finger.label>finger</Finger.label>
+  <Shoulder.label>плече</Shoulder.label>
+  <Arm.label>рука</Arm.label>
+  <Hand.label>долоня</Hand.label>
+  <Finger.label>палець</Finger.label>
   <Waist.label>талія</Waist.label>
-  <Toe.label>toe</Toe.label>
+  <Toe.label>палець ноги</Toe.label>
 
 
   <!-- Bones -->
 
-  <Clavicle.label>clavicle</Clavicle.label>
+  <Clavicle.label>ключиця</Clavicle.label>
   <Sternum.label>грудина</Sternum.label>
   <Humerus.label>humerus</Humerus.label>
   <Radius.label>radius</Radius.label>
