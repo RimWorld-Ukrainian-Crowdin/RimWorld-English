@@ -12,8 +12,8 @@
   <SwitchFlickingDesignation.label>Перемикання живлення є лише наказом</SwitchFlickingDesignation.label>
   <SwitchFlickingDesignation.helpText>Зверніть увагу: ви лише наказали перемкнути живлення.\n\nНічого не станеться, доки один з колоністів, які виконують такі завдання (тобто призначений на роботу оператора), не прийде, щоб перемкнути його вручну.</SwitchFlickingDesignation.helpText>
 
-  <MaxNumberOfPlayerSettlements.label>Maximum number of player colonies</MaxNumberOfPlayerSettlements.label>
-  <MaxNumberOfPlayerSettlements.helpText>Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.label>Максимальна кількість колоній</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>Увага: RimWorld було створено для одночасної симуляції лише однієї колонії. І, хоча ви можете мати більше колоній на одній мапі, це, з високою долею імовірності, викличе зменшення продуктивності гри та створить ігровий дисбаланс. Для початку ми радимо вам зіграти із однією колонією.</MaxNumberOfPlayerSettlements.helpText>
 
 
 </LanguageData>
