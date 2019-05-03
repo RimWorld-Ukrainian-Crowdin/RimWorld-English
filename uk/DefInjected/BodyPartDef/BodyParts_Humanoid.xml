@@ -14,10 +14,10 @@
 
   <Clavicle.label>ключиця</Clavicle.label>
   <Sternum.label>грудина</Sternum.label>
-  <Humerus.label>humerus</Humerus.label>
-  <Radius.label>radius</Radius.label>
+  <Humerus.label>плечова кістка</Humerus.label>
+  <Radius.label>променева кістка</Radius.label>
   <Pelvis.label>таз</Pelvis.label>
-  <Femur.label>femur</Femur.label>
+  <Femur.label>стегно</Femur.label>
   <Tibia.label>tibia</Tibia.label>
 
 
