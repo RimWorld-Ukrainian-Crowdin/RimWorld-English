@@ -13,40 +13,40 @@
   <Hands.label>долоні</Hands.label>
 
   <LeftHand.label>лівий кулак</LeftHand.label>
-  <LeftHand.labelShort>fist</LeftHand.labelShort>
+  <LeftHand.labelShort>кулак</LeftHand.labelShort>
 
   <RightHand.label>правий кулак</RightHand.label>
-  <RightHand.labelShort>fist</RightHand.labelShort>
+  <RightHand.labelShort>кулак</RightHand.labelShort>
 
   <Waist.label>талія</Waist.label>
   <Legs.label>ноги</Legs.label>
   <Feet.label>ступня</Feet.label>
 
   <FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
-  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>лапа</FrontLeftPaw.labelShort>
 
   <FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
-  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>лапа</FrontRightPaw.labelShort>
 
   <HeadAttackTool.label>голова</HeadAttackTool.label>
 
   <FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
-  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>нога</FrontLeftLeg.labelShort>
 
   <FrontRightLeg.label>передня права нога</FrontRightLeg.label>
-  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>нога</FrontRightLeg.labelShort>
 
   <FrontLeftClaws.label>передні ліві кігті</FrontLeftClaws.label>
-  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>кігті</FrontLeftClaws.labelShort>
 
   <FrontRightClaws.label>передні праві кігті</FrontRightClaws.label>
-  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>кігті</FrontRightClaws.labelShort>
 
   <LeftBlade.label>ліве лезо</LeftBlade.label>
-  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
+  <LeftBlade.labelShort>лезо</LeftBlade.labelShort>
 
   <RightBlade.label>праве лезо</RightBlade.label>
-  <RightBlade.labelShort>blade</RightBlade.labelShort>
+  <RightBlade.labelShort>лезо</RightBlade.labelShort>
 
   <TuskAttackTool.label>бивні</TuskAttackTool.label>
   <HornAttackTool.label>ріг</HornAttackTool.label>
