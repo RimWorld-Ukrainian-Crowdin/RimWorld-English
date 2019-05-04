@@ -9,14 +9,14 @@
   <BreakRiskMinorDesc>Ці колоністи в поганому настрої і можуть отримати незначний психічний зрив у будь який час:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Ці колоністи в дуже поганому настрої і можуть отримати значний психічний зрив у будь який час:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Ці колоністи панічно нервують і можуть отримати надзвичайний (і, скоріш за все, небезпечний) психічний зрив у будь-який час:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Перевірте вкладку «Потреби» цих колоністів, щоб побачити, що їх турбує.\n\n Щоб колоністи почувалися краще, ви можете зробити такі речі, як приготувати для них смачну страву, надати їм більше часів відпочинку в день та кращі предмети для відпочинку, розмістити їх в затишному оточенні, дозволити їм пити та палити, та багато іншого.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Колоніст потребує порятунку</ColonistNeedsRescue>
   <ColonistsNeedRescue>Колоністи потребують порятунку</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>Ці колоністи недієздатні й лежать на землі:\n\n{0}\nВідправте іншого колоніста, щоб врятувати й віднести їх назад до ліжка.\n\n(Для порятунку, оберіть іншого колоніста, потім клацніть правою кнопкою миші на жертві та оберіть «Врятувати».</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Потрібен захист</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefensesDesc>Ви пробули тут деякий час і, ймовірно, були помічені. Незабаром розпочнуться піратські рейди.\n\nВи повинні підготувати захист, наприклад, мішки з піском або пастки.</NeedDefensesDesc>
 
   <NeedDoctor>Потрібен лікар</NeedDoctor>
   <NeedDoctorDesc>Ці колоністи потребують медичної допомоги, але у вас немає здорових колоніств, призначених лікарями.\n\n{0}\nПризначте здорового колоніста на роботу лікаря. Якщо не лікувати рани, вони можуть ніколи не загоїтися і можуть стати постійними.</NeedDoctorDesc>
@@ -61,7 +61,7 @@
   <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
   <NeedMealSourceDesc>Ви не можете приготувати смачні страви з сирої їжі.\n\nПобудуйте піч, вогнище або дозатор поживних речовин.\n\n(Воно не може бути розміщене в тюремній камері, інакше колоністи не зможуть це використовувати.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need recreation variety</NeedJoySource>
+  <NeedJoySource>Потрібне різноманіття відпочинку</NeedJoySource>
   <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
   <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
   <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
