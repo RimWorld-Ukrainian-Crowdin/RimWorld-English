@@ -59,16 +59,16 @@
 
   <!-- Buildings -->
 
-  <Buildings.label>buildings</Buildings.label>
-  <BuildingsArt.label>art</BuildingsArt.label>
-  <BuildingsProduction.label>production</BuildingsProduction.label>
-  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
-  <BuildingsPower.label>power</BuildingsPower.label>
-  <BuildingsSecurity.label>security</BuildingsSecurity.label>
-  <BuildingsMisc.label>misc</BuildingsMisc.label>
-  <BuildingsJoy.label>recreation</BuildingsJoy.label>
-  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <Buildings.label>будівництво</Buildings.label>
+  <BuildingsArt.label>мистецтво</BuildingsArt.label>
+  <BuildingsProduction.label>виробництво</BuildingsProduction.label>
+  <BuildingsFurniture.label>меблі</BuildingsFurniture.label>
+  <BuildingsPower.label>електроенергія</BuildingsPower.label>
+  <BuildingsSecurity.label>захист</BuildingsSecurity.label>
+  <BuildingsMisc.label>різне</BuildingsMisc.label>
+  <BuildingsJoy.label>відпочинок</BuildingsJoy.label>
+  <BuildingsTemperature.label>температура</BuildingsTemperature.label>
+  <BuildingsSpecial.label>особливе</BuildingsSpecial.label>
 
 
   <!-- Chunks -->
