@@ -18,9 +18,9 @@
   <Quest_ItemStashAICore.letterLabel>Розшук схованки</Quest_ItemStashAICore.letterLabel>
   <Quest_ItemStashAICore.letterText>{0}, {1} з {2} повідомив нам про схованку цінних речей недалеко від нас. Схованка складається з:\n\n{3}\n\nНа жаль, якщо ми не заберемо ці речі через {4} днів, то інші заберуть їх.\n\nБережіться — скарби схильні приваблювати небезпеку. {0} каже, що {5}.</Quest_ItemStashAICore.letterText>
 
-  <Quest_DownedRefugee.label>incapacitated refugee quest</Quest_DownedRefugee.label>
-  <Quest_DownedRefugee.letterLabel>Incapacitated refugee quest</Quest_DownedRefugee.letterLabel>
-  <Quest_DownedRefugee.letterText>[PAWN_nameDef] contacts you and requests help. [PAWN_pronoun] is wounded and unable to move. Without your help, [PAWN_pronoun] will die in {0} days.\n\n[PAWN_nameDef] is a {1}-year-old {2}. [PAWN_pronoun] promises to join you if you rescue [PAWN_objective].\n\n[PAWN_nameDef] says that {3}.</Quest_DownedRefugee.letterText>
+  <Quest_DownedRefugee.label>розшук пораненого біженця</Quest_DownedRefugee.label>
+  <Quest_DownedRefugee.letterLabel>Розшук пораненого біженця</Quest_DownedRefugee.letterLabel>
+  <Quest_DownedRefugee.letterText>[PAWN_nameDef] звʼязався з вами та прохає про допомогу. [PAWN_pronoun] поранений і не в змозі рухатися. Без вашої допомоги [PAWN_pronoun] загине через {0} днів.\n\n[PAWN_nameDef] — це {2}, {1} років. [PAWN_pronoun] обіцяє приєднатися до вас, якщо ви врятуєте [PAWN_objective].\n\n[PAWN_nameDef] каже, що {3}.</Quest_DownedRefugee.letterText>
 
   <Quest_PrisonerRescue.label>prisoner rescue quest</Quest_PrisonerRescue.label>
   <Quest_PrisonerRescue.letterLabel>Prisoner rescue quest</Quest_PrisonerRescue.letterLabel>
