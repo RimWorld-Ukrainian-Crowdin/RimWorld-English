@@ -25,7 +25,7 @@
   <PatientBedRest.pawnLabel>Відпочивальник</PatientBedRest.pawnLabel>
   <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
-  <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
+  <BasicWorker.description>Прості та легкі завдання. Відпускайте вʼязнів і клацайте перемикачами на електроприладах.</BasicWorker.description>
   <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
   <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
   <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
@@ -61,7 +61,7 @@
   <Construction.pawnLabel>Будівельник</Construction.pawnLabel>
   <Construction.verb>Споруджувати</Construction.verb>
 
-  <Growing.description>Plant seeds, harvest crops, and forage for wild plants.</Growing.description>
+  <Growing.description>Висаджуйте насіння, збирайте врожай та шукайте їстівне з диких рослин.</Growing.description>
   <Growing.gerundLabel>рослинництво</Growing.gerundLabel>
   <Growing.labelShort>Садівництво</Growing.labelShort>
   <Growing.pawnLabel>Садівник</Growing.pawnLabel>
