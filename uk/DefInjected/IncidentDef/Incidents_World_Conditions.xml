@@ -3,14 +3,14 @@
 
   <Eclipse.label>затемнення</Eclipse.label>
   <Eclipse.letterLabel>Затемнення</Eclipse.letterLabel>
-  <Eclipse.letterText>Один з місяців цієї планети вийшов на орбіту напроти сонця. Затемнення почалось.</Eclipse.letterText>
+  <Eclipse.letterText>Один з супутників цієї планети вийшов на орбіту напроти сонця. Почалось затемнення.</Eclipse.letterText>
 
   <SolarFlare.label>сонячний спалах</SolarFlare.label>
   <SolarFlare.letterLabel>Сонячний спалах</SolarFlare.letterLabel>
   <SolarFlare.letterText>Відбувся сонячний спалах.\n\nІнтенсивний потік часток вимкне всі електричні пристрої.\n\nСпалах закінчиться через кілька днів.</SolarFlare.letterText>
 
-  <Aurora.label>aurora</Aurora.label>
-  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  <Aurora.label>полярне сяйво</Aurora.label>
+  <Aurora.letterLabel>Полярне сяйво</Aurora.letterLabel>
   <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
 
 
