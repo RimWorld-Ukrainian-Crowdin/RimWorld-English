@@ -22,9 +22,9 @@
   <Quest_DownedRefugee.letterLabel>Розшук пораненого біженця</Quest_DownedRefugee.letterLabel>
   <Quest_DownedRefugee.letterText>[PAWN_nameDef] звʼязався з вами та прохає про допомогу. [PAWN_pronoun] поранений і не в змозі рухатися. Без вашої допомоги [PAWN_pronoun] загине через {0} днів.\n\n[PAWN_nameDef] — це {2}, {1} років. [PAWN_pronoun] обіцяє приєднатися до вас, якщо ви врятуєте [PAWN_objective].\n\n[PAWN_nameDef] каже, що {3}.</Quest_DownedRefugee.letterText>
 
-  <Quest_PrisonerRescue.label>prisoner rescue quest</Quest_PrisonerRescue.label>
-  <Quest_PrisonerRescue.letterLabel>Prisoner rescue quest</Quest_PrisonerRescue.letterLabel>
-  <Quest_PrisonerRescue.letterText>A prisoner being held by {0} has managed to steal a radio and call you!\n\n[PAWN_nameDef] is being held at a camp nearby under armed guard. Rescue [PAWN_objective], and [PAWN_pronoun] will join your colony. [PAWN_pronoun] is a {1}-year-old {2}. [PAWN_pronoun] says that {3}.</Quest_PrisonerRescue.letterText>
+  <Quest_PrisonerRescue.label>порятунок вʼязня</Quest_PrisonerRescue.label>
+  <Quest_PrisonerRescue.letterLabel>Порятунок вʼязня</Quest_PrisonerRescue.letterLabel>
+  <Quest_PrisonerRescue.letterText>Вʼязню, якого утримує {0}, вдалося викрасти радіо і викликати вас!\n\n[PAWN_nameDef] утримується в таборі неподалік під озброєним наглядом. Звільніть [PAWN_objective] і [PAWN_pronoun] приєднається до вашої колонії. [PAWN_pronoun] — це {2}, {1} років. [PAWN_pronoun] каже, що {3}.</Quest_PrisonerRescue.letterText>
 
   <Quest_PeaceTalks.label>peace talks quest</Quest_PeaceTalks.label>
   <Quest_PeaceTalks.letterLabel>Peace talks quest</Quest_PeaceTalks.letterLabel>
