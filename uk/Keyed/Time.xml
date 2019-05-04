@@ -6,8 +6,8 @@
   <LetterMinute>х</LetterMinute>
   <LetterSecond>с</LetterSecond>
   
-  <DaysLower>дні</DaysLower>
-  <SecondsLower>секунди</SecondsLower>
+  <DaysLower>днів</DaysLower>
+  <SecondsLower>секунд</SecondsLower>
 
   <SeasonSpring>весна</SeasonSpring>
   <SeasonSummer>літо</SeasonSummer>
@@ -22,20 +22,20 @@
   <QuadrumDecembary>Грудесічень</QuadrumDecembary>
   
   <Born>Народження: {0}</Born>
-  <AgeChronological>Хронологічний вік: {0} роки, {1} квадруми, {2} дні</AgeChronological>
-  <AgeBiological>Біологічний вік: {0} роки, {1} квадруми, {2} дні</AgeBiological>
+  <AgeChronological>Хронологічний вік: {0} років, {1} квадрумів, {2} днів</AgeChronological>
+  <AgeBiological>Біологічний вік: {0} років, {1} квадрумів, {2} днів</AgeBiological>
 
   <!-- Date periods -->
 	<Period1Year>1 рік</Period1Year>
-  <PeriodYears>{0} роки</PeriodYears>
+  <PeriodYears>{0} років</PeriodYears>
   <Period1Quadrum>1 квадрум</Period1Quadrum>
-  <PeriodQuadrums>{0} квадруми</PeriodQuadrums>
+  <PeriodQuadrums>{0} квадрумів</PeriodQuadrums>
   <Period1Day>1 день</Period1Day>
-  <PeriodDays>{0} дні</PeriodDays>
+  <PeriodDays>{0} днів</PeriodDays>
   <Period1Hour>1 година</Period1Hour>
-  <PeriodHours>{0} години</PeriodHours>
-  <Period1Second>1 second</Period1Second>
-  <PeriodSeconds>{0} seconds</PeriodSeconds>
+  <PeriodHours>{0} годин</PeriodHours>
+  <Period1Second>1 секунда</Period1Second>
+  <PeriodSeconds>{0} секунд</PeriodSeconds>
 
   <!-- Misc -->
   <Started>Почалося</Started>
