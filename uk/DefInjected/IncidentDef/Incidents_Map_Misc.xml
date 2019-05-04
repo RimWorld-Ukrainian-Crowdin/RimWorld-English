@@ -51,13 +51,13 @@
 
   <HeatWave.label>хвиля спеки</HeatWave.label>
   <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
-  <HeatWave.letterText>Почалася незвичайна теплова хвиля. \ N \ Теплові хвилі можуть швидко вбивати, якщо люди починають отримувати тепловий удар. Залишайтеся здорово, будуючи кулер або глибоко піднімаючись під гору.</HeatWave.letterText>
+  <HeatWave.letterText>Розпочалася незвичайна спека.\n\nХвиля спеки може швидко вбити, якщо люди отримають тепловий удар. Зберігайте прохолоду, збудувавши кондиціонер, або заглибтесь глибоко в гори.</HeatWave.letterText>
 
   <ColdSnap.label>похолодання</ColdSnap.label>
   <ColdSnap.letterLabel>Похолодання</ColdSnap.letterLabel>
   <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягнітьвідповідний одяг і спробуйте зібрати врожай, перш він замерзне і загине.</ColdSnap.letterText>
 
-  <Flashstorm.label>грозовий шторм</Flashstorm.label>
+  <Flashstorm.label>гроза з блискавками</Flashstorm.label>
   <Flashstorm.letterLabel>Грозовий шторм</Flashstorm.letterLabel>
   <Flashstorm.letterText>Чарівна локалізована flashstorm вражає невелику область з блискавкою. Це може спричинити масові пожежі.</Flashstorm.letterText>
 
