@@ -3,11 +3,11 @@
 
   <!-- ============================== Big threats ==============================-->
 
-  <RaidEnemy.label>ворожий рейд</RaidEnemy.label>
+  <RaidEnemy.label>напад ворога</RaidEnemy.label>
 
   <Infestation.label>зараження</Infestation.label>
   <Infestation.letterLabel>Зараження</Infestation.letterLabel>
-  <Infestation.letterText>Гігантські комахи риють тунелі до вашого поселення! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
+  <Infestation.letterText>Гігантські комахи риють тунелі до вашого поселення! Вони прорвуться через кілька секунд і розмістять вулики.\n\nВулики розмножать ще більше комах та вуликів.\n\nЯкщо ви не бажаєте, щоб комахи розповсюдилися усюди, зруйнуйте вулики. But beware - the bugs will defend their home.</Infestation.letterText>
 
   <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
   <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
