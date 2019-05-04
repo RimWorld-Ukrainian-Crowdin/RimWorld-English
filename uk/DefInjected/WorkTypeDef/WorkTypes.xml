@@ -26,12 +26,12 @@
   <PatientBedRest.verb>Захворіти</PatientBedRest.verb>
 
   <BasicWorker.description>Прості та легкі завдання. Відпускайте вʼязнів і клацайте перемикачами на електроприладах.</BasicWorker.description>
-  <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
-  <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
-  <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
-  <BasicWorker.verb>Deal with</BasicWorker.verb>
+  <BasicWorker.gerundLabel>мати справу з</BasicWorker.gerundLabel>
+  <BasicWorker.labelShort>Елементарне</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>Працівник</BasicWorker.pawnLabel>
+  <BasicWorker.verb>Мати справу з</BasicWorker.verb>
 
-  <Warden.description>Керувати, годувати, набирати та балакати з вʼязнями.</Warden.description>
+  <Warden.description>Наглядати, годувати, вербувати та балакати з вʼязнями.</Warden.description>
   <Warden.gerundLabel>пильнувати</Warden.gerundLabel>
   <Warden.labelShort>Вартовий</Warden.labelShort>
   <Warden.pawnLabel>Вартовий</Warden.pawnLabel>
@@ -73,7 +73,7 @@
   <Mining.pawnLabel>Шахтар</Mining.pawnLabel>
   <Mining.verb>Видобути</Mining.verb>
 
-  <PlantCutting.description>Жати або збирати рослини за призначенням.</PlantCutting.description>
+  <PlantCutting.description>Жати або збирати призначені рослини.</PlantCutting.description>
   <PlantCutting.gerundLabel>збирання</PlantCutting.gerundLabel>
   <PlantCutting.labelShort>Збирання</PlantCutting.labelShort>
   <PlantCutting.pawnLabel>Збирач</PlantCutting.pawnLabel>
