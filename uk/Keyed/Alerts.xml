@@ -69,7 +69,7 @@
   <bored>нудьгує</bored>
 
   <Boredom>Нудьга</Boredom>
-  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
+  <BoredomDesc>Ці люди або потребують відпочинку, або нудьгують зі всіма доступними джерелами відпочинку:\n\n{0}\n\nНадайте їм більше розмаїття відпочинку.\n\nНаразі доступні типи дозвілля для {1}:\n\n{2}</BoredomDesc>
 
   <NeedBatteries>Потрібні акумулятори</NeedBatteries>
   <NeedBatteriesDesc>У вас є сонячний або вітровий генератор, але нема акумуляторів. Це означає, що живлення зникатиме при відсутності сонця або вітру. \n\nВстановіть одну або дві батареї, щоб гарантувати безперебійне живлення.</NeedBatteriesDesc>
