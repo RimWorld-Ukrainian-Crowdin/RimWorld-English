@@ -66,9 +66,9 @@
   <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
   <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
   <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
-  <bored>bored</bored>
+  <bored>нудьгує</bored>
 
-  <Boredom>Boredom</Boredom>
+  <Boredom>Нудьга</Boredom>
   <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
 
   <NeedBatteries>Потрібні акумулятори</NeedBatteries>
@@ -98,7 +98,7 @@
   <FireInHomeArea>Пожежа!</FireInHomeArea>
   <FireInHomeAreaDesc>В домашній зоні пожежа.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Невідкладна медична допомога</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nПереконайтеся, що вони отримують найкращий медичний догляд.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Люди ризикують померти через важку хворобу:\n\n{0}\nЯкщо це можливо, розгляньте ампутацію або заміну інфікованих кінцівок, щоб зберегти колоністів в живих.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
