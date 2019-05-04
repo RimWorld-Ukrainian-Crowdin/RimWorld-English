@@ -47,10 +47,10 @@
 
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
   <VolcanicWinter.letterLabel>Вулканічна зима</VolcanicWinter.letterLabel>
-  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Температура впаде і рослини будуть страждати через відсутність сонячного світла. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Температура впаде і рослини будуть страждати через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато квадрумів.</VolcanicWinter.letterText>
 
   <HeatWave.label>хвиля спеки</HeatWave.label>
-  <HeatWave.letterLabel>Теплова хвиля</HeatWave.letterLabel>
+  <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
   <HeatWave.letterText>Почалася незвичайна теплова хвиля. \ N \ Теплові хвилі можуть швидко вбивати, якщо люди починають отримувати тепловий удар. Залишайтеся здорово, будуючи кулер або глибоко піднімаючись під гору.</HeatWave.letterText>
 
   <ColdSnap.label>похолодання</ColdSnap.label>
