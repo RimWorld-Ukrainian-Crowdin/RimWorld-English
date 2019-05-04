@@ -65,12 +65,12 @@
   <Mine.reportString>копає TargetA.</Mine.reportString>
   <SmoothFloor.reportString>полірує підлогу.</SmoothFloor.reportString>
   <RemoveFloor.reportString>знімає підлогу.</RemoveFloor.reportString>
-  <SmoothWall.reportString>smoothing wall.</SmoothWall.reportString>
+  <SmoothWall.reportString>вирівнює стіну.</SmoothWall.reportString>
   <Sow.reportString>саджає TargetA.</Sow.reportString>
   <Harvest.reportString>збирає TargetA.</Harvest.reportString>
-  <HarvestDesignated.reportString>harvesting TargetA.</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>збирає TargetA.</HarvestDesignated.reportString>
   <CutPlant.reportString>зрізає TargetA.</CutPlant.reportString>
-  <CutPlantDesignated.reportString>cutting TargetA.</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>зрізає TargetA.</CutPlantDesignated.reportString>
   <PrisonerFriendlyChat.reportString>розмовляє із в’язнем TargetA.</PrisonerFriendlyChat.reportString>
   <PrisonerAttemptRecruit.reportString>намагається завербувати TargetA.</PrisonerAttemptRecruit.reportString>
   <PrisonerExecution.reportString>страчує TargetA.</PrisonerExecution.reportString>
