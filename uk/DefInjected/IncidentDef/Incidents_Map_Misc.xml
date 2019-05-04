@@ -58,7 +58,7 @@
   <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягнітьвідповідний одяг і спробуйте зібрати врожай, перш він замерзне і загине.</ColdSnap.letterText>
 
   <Flashstorm.label>гроза з блискавками</Flashstorm.label>
-  <Flashstorm.letterLabel>Грозовий шторм</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>Гроза з блискавками</Flashstorm.letterLabel>
   <Flashstorm.letterText>Чарівна локалізована flashstorm вражає невелику область з блискавкою. Це може спричинити масові пожежі.</Flashstorm.letterText>
 
   <ShortCircuit.label>коротке замикання</ShortCircuit.label>
