@@ -7,16 +7,16 @@
   <Quest_BanditCamp.letterLabel>Розшук бандитського табору</Quest_BanditCamp.letterLabel>
   <Quest_BanditCamp.letterText>{0}, {1} з {2} надіслав нам повідомлення.\n\nВочевидь, бандити, розташовані в сусідньому таборі, здійснювали набіги на їхні каравани. Вони попросили нас знищити його, що означає усунення всіх ворогів і веж.\n\nЯкщо нам це вдасться, наші відносини покращаться, і вони надішлють нам цю нагороду:\n\n{3}</Quest_BanditCamp.letterText>
 
-  <Quest_ItemStash.label>item stash quest</Quest_ItemStash.label>
-  <Quest_ItemStash.letterLabel>Item stash quest</Quest_ItemStash.letterLabel>
-  <Quest_ItemStash.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStash.letterText>
+  <Quest_ItemStash.label>розшук схованки</Quest_ItemStash.label>
+  <Quest_ItemStash.letterLabel>Розшук схованки</Quest_ItemStash.letterLabel>
+  <Quest_ItemStash.letterText>{0}, {1} з {2} повідомив нам про схованку цінних речей недалеко від нас. Схованка складається з:\n\n{3}\n\nНа жаль, якщо ми не заберемо ці речі через {4} днів, то інші заберуть їх.\n\nБережіться — скарби схильні приваблювати небезпеку. {0} каже, що {5}.</Quest_ItemStash.letterText>
 
 
   <!-- Used as a utility incident def for the core-requesting faction option -->
 
-  <Quest_ItemStashAICore.label>item stash quest (AI core)</Quest_ItemStashAICore.label>
-  <Quest_ItemStashAICore.letterLabel>Item stash quest</Quest_ItemStashAICore.letterLabel>
-  <Quest_ItemStashAICore.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStashAICore.letterText>
+  <Quest_ItemStashAICore.label>розшук схованки (ядро ШІ)</Quest_ItemStashAICore.label>
+  <Quest_ItemStashAICore.letterLabel>Розшук схованки</Quest_ItemStashAICore.letterLabel>
+  <Quest_ItemStashAICore.letterText>{0}, {1} з {2} повідомив нам про схованку цінних речей недалеко від нас. Схованка складається з:\n\n{3}\n\nНа жаль, якщо ми не заберемо ці речі через {4} днів, то інші заберуть їх.\n\nБережіться — скарби схильні приваблювати небезпеку. {0} каже, що {5}.</Quest_ItemStashAICore.letterText>
 
   <Quest_DownedRefugee.label>incapacitated refugee quest</Quest_DownedRefugee.label>
   <Quest_DownedRefugee.letterLabel>Incapacitated refugee quest</Quest_DownedRefugee.letterLabel>
