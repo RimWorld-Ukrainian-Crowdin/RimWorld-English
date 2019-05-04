@@ -9,15 +9,15 @@
   <Infestation.letterLabel>Зараження</Infestation.letterLabel>
   <Infestation.letterText>Гігантські комахи риють тунелі до вашого поселення! Вони прорвуться через кілька секунд і розмістять вулики.\n\nВулики розмножать ще більше комах та вуликів.\n\nЯкщо ви не бажаєте, щоб комахи розповсюдилися усюди, зруйнуйте вулики. Але бережіться — комахи захищатимуть свої кубла.</Infestation.letterText>
 
-  <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
-  <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
-  <DeepDrillInfestation.letterText>You've accidentally drilled a hole in a cave full of insects and now they're tunneling towards you to seek revenge! Beware - the bugs have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
+  <DeepDrillInfestation.label>зараження крізь бурову прощілину</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterLabel>Зараження з глибин</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterText>Ви випадково пробурили діру до печери, повній комах, і зараз вони риють тунелі до вас, щоб помститися! Бережіться — комахи розлючені й намагатимуться знищити вашу базу.</DeepDrillInfestation.letterText>
 
   <ManhunterPack.label>зграя мисливців на людей</ManhunterPack.label>
 
   <PsychicEmanatorShipPartCrash.label>розбита частина корабля (психічна)</PsychicEmanatorShipPartCrash.label>
   <PsychicEmanatorShipPartCrash.letterLabel>Психічний корабель</PsychicEmanatorShipPartCrash.letterLabel>
-  <PsychicEmanatorShipPartCrash.letterText>Великий шматок древнього корабля розбився неподалік.\n\nВаші колоністи відчувають це нутром, щось змушує їх робити невимовні речі. Скоріш за все в ньому є штучний інтелект із вмінням психічної проекції. Цей штучний інтелект настроєний вороже.\n\nЗнищіть його якомога швидше. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>Великий шматок древнього корабля розбився неподалік.\n\nВаші колоністи відчувають це нутром, щось змушує їх робити невимовні речі. Скоріш за все в ньому є штучний інтелект із вмінням психічної проекції. Цей штучний інтелект настроєний вороже.\n\nЗнищіть його якомога швидше. Але бережіться — ймовірно, він буде захищатися.</PsychicEmanatorShipPartCrash.letterText>
 
   <PoisonShipPartCrash.label>розбита частина корабля (отрута)</PoisonShipPartCrash.label>
   <PoisonShipPartCrash.letterLabel>Отруйний корабель</PoisonShipPartCrash.letterLabel>
