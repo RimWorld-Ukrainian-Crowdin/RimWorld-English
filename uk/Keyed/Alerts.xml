@@ -65,7 +65,7 @@
   <NeedJoySourceDesc>Для {1} доступні лише {0} різних типів дозвілля, але при поточному рівні очікувань ({2}), колоністи потребують {3} різних видів відпочинку, щоб залишатися задоволеними. Забезпечте різноманітність відпочинку, додавши новий, інший вид розваг.\n\n{4}\n\n{5}\n\nПримітка: Ви можете перевірити тип відпочинку будь-якого предмету на вкладці характеристик, доступну за допомогою кнопки «i».</NeedJoySourceDesc>
   <AvailableRecreationTypes>Доступні види відпочинку</AvailableRecreationTypes>
   <MissingRecreationTypes>Відсутні види відпочинку</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>При поточних очікуваннях ({0}) кожна витривалість падає на {1} за добу пильнування. Рекомендується мати {2} типів відпочинку.</CurrentExpectationsAndRecreation>
   <bored>нудьгує</bored>
 
   <Boredom>Нудьга</Boredom>
