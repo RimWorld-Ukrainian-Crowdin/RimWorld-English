@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Quest_TradeRequest.label>trade request</Quest_TradeRequest.label>
+  <Quest_TradeRequest.label>торговельний запит</Quest_TradeRequest.label>
 
-  <Quest_BanditCamp.label>bandit camp quest</Quest_BanditCamp.label>
-  <Quest_BanditCamp.letterLabel>Bandit camp quest</Quest_BanditCamp.letterLabel>
-  <Quest_BanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}</Quest_BanditCamp.letterText>
+  <Quest_BanditCamp.label>розшук бандитського табору</Quest_BanditCamp.label>
+  <Quest_BanditCamp.letterLabel>Розшук бандитського табору</Quest_BanditCamp.letterLabel>
+  <Quest_BanditCamp.letterText>{0}, {1} з {2} надіслав нам повідомлення.\n\nВочевидь, бандити, розташовані в сусідньому таборі, здійснювали набіги на їхні каравани. Вони попросили нас знищити його, що означає усунення всіх ворогів і веж.\n\nЯкщо нам це вдасться, наші відносини покращаться, і вони надішлють нам цю нагороду:\n\n{3}</Quest_BanditCamp.letterText>
 
   <Quest_ItemStash.label>item stash quest</Quest_ItemStash.label>
   <Quest_ItemStash.letterLabel>Item stash quest</Quest_ItemStash.letterLabel>
