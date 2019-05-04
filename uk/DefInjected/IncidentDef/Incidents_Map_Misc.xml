@@ -9,7 +9,7 @@
 
   <AmbrosiaSprout.label>амброзія проростає</AmbrosiaSprout.label>
   <AmbrosiaSprout.letterLabel>Паростки амброзії</AmbrosiaSprout.letterLabel>
-  <AmbrosiaSprout.letterText>Неподалік проросла роща таємничих кущів амброзії! Якщо ви будете чекати зростання рослин, ви зможете зібрати смачні, приємні та викликаючи залежність фрукти.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Неподалік проросли таємничі кущі амброзії! Якщо ви дочекаєтесь її зростання, ви зможете зібрати смачні та приємні фрукти, що викликають залежність.</AmbrosiaSprout.letterText>
 
   <FarmAnimalsWanderIn.label>до поселення прибилися тварини</FarmAnimalsWanderIn.label>
   <WandererJoin.label>мандрівник приєднався</WandererJoin.label>
@@ -18,7 +18,7 @@
 
   <!-- =========================== Neutral ============================-->
 
-  <RefugeeChased.label>мандрівника переслідують бандити</RefugeeChased.label>
+  <RefugeeChased.label>біженця переслідують</RefugeeChased.label>
   <ThrumboPasses.label>трамбо проходять повз ваше поселення</ThrumboPasses.label>
 
   <RansomDemand.label>вимога викупу</RansomDemand.label>
@@ -26,7 +26,7 @@
 
   <MeteoriteImpact.label>падіння метеорита</MeteoriteImpact.label>
   <MeteoriteImpact.letterLabel>Метеорит</MeteoriteImpact.letterLabel>
-  <MeteoriteImpact.letterText>Великий метеорит розбив землю в цьому районі. Він залишив купу {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>Великий метеорит розбився неподалік. Він залишив купу {0}.</MeteoriteImpact.letterText>
 
   <HerdMigration.label>міграція стада</HerdMigration.label>
   <HerdMigration.letterLabel>Міграція тварин: {0}</HerdMigration.letterLabel>
@@ -41,8 +41,8 @@
 
   <PsychicDrone.label>психічний дрон</PsychicDrone.label>
 
-  <ToxicFallout.label>токсичні випадіння</ToxicFallout.label>
-  <ToxicFallout.letterLabel>Токсичні випади</ToxicFallout.letterLabel>
+  <ToxicFallout.label>токсичні опади</ToxicFallout.label>
+  <ToxicFallout.letterLabel>Токсичні опади</ToxicFallout.letterLabel>
   <ToxicFallout.letterText>Далекий хімічний вогонь випустив струмінь отрути над цілим регіоном. \n\nБудь-яка людина або істота, що не під дахом, буде повільно хворіти токсичним пилом, що осідає з атмосфери. \n\nЦе триватиме десь між кілька днів до сезону.</ToxicFallout.letterText>
 
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
