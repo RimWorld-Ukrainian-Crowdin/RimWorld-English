@@ -612,14 +612,14 @@ HECAP час від часу відвідує HIS плем'я, але здебі
 		<desc>NAME та HIS плем'я висікли свій будинок глибоко в схилі гори. NAME відчуває себе як вдома, пробираючись крізь скелі та зміцнюючи стіни печери.</desc>
 	</Digger58>
 	<MuffaloShaman94>
-		<title>Заклинатель бізонів</title>
+		<title>Заклинатель муффало</title>
 		<titleShort>Шаман</titleShort>
-		<desc>Because of HIS quiet wisdom and great strength, NAME became the spiritual leader for a nomadic tribe that followed the herds of roaming muffalo.</desc>
+		<desc>Завдяки HIS тихої мудрості та великій силі, NAME став духовним лідером кочового племені, яке прямувало за стадами бродячих муффало.</desc>
 	</MuffaloShaman94>
 	<LoreKeeper35>
-		<title>Lore keeper</title>
-		<titleShort>Охоронець</titleShort>
-		<desc>NAME was one of a long line of lore keepers in HIS tribe. Every night around the fire, HECAP would pass on ancient knowledge and helpful wisdom through stories.</desc>
+		<title>Хранитель знань</title>
+		<titleShort>Хранитель</titleShort>
+		<desc>NAME був одним з довгої лінії хранителів знань в HIS племені. Щоночі біля вогнища HECAP переказував древні знання та корисну мудрість через розповіді.</desc>
 	</LoreKeeper35>
 	<Weaver90>
 		<title>Ткач</title>
