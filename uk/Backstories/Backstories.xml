@@ -577,24 +577,24 @@ HECAP знає скелі так добре, що він майже може о�
 	<SpaceMarine10>
 		<title>Космічний десантник</title>
 		<titleShort>Десантник</titleShort>
-		<desc>NAME was a warrior in an Imperial navy. HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</desc>
+		<desc>NAME був воїном в імперському флоті. HISCAP робота - пробитись у ворожий корабель, роззброїти команду, та і захопити корабель неушкодженим. І HE це робив добре.</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>Вбивця</title>
-		<titleShort>Assassin</titleShort>
-		<desc>NAME was a professional assassin. HECAP was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</desc>
+		<titleShort>Вбивця</titleShort>
+		<desc>NAME був професійним вбивцею. HECAP був холодним, розважливим, та мав гарний прибуток. В цієї справі повна відсутність емпатії - це актив.</desc>
 	</Assassin35>
 	<Gatherer34>
 		<title>Збирач</title>
 		<titleShort>Збирач</titleShort>
-		<desc>NAME is a master gatherer. HECAP can find food in the most barren of places using HIS deep knowledge of plants, roots, and berries.</desc>
+		<desc>NAME майстер-збирач. HECAP може знайти їжу в самих безплідних місцях, використовуючи HIS глибоке знання рослин, коріння та ягід.</desc>
 	</Gatherer34>
 	<Loner43>
 		<title>Одинак</title>
 		<titleShort>Одинак</titleShort>
-		<desc>Loner never much liked the tribal council or the yearly festivals. HECAP prefers the open plain and the lonely whistle of wind through the rocks.
+		<desc>Одинак ніколи не любив племінної ради або щорічні фестивалі. HECAP віддає перевагу відкритій рівнині та самотньому свисту вітру крізь скелі.
 
-HECAP visits HIS tribe from time to time, but for the most part HE takes care of HIMself using HIS own survival skills.</desc>
+HECAP час від часу відвідує HIS плем'я, але здебільшого HE піклується про себе, використовуючи свої власні навички виживання.</desc>
 	</Loner43>
 	<Healer89>
 		<title>Цілитель</title>
