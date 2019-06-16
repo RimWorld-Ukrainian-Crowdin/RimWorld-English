@@ -520,12 +520,12 @@ HECAP знає скелі так добре, що він майже може о�
 	<TestSubject75>
 		<title>Піддослідний</title>
 		<titleShort>Піддослідний</titleShort>
-		<desc>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</desc>
+		<desc>У найбільш корумпованих міських світах, вчені без моральних обмежень здійснюють неймовірні злодіяння в ім'я досліджень. NAME втримувався один в зачиненому приміщенні з народження і піддавався різноманітним поведінковим експериментам в намаганні перетворити HIM в ідеального суперсолдата.</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
 		<title>Фельдшер</title>
 		<titleShort>Медик</titleShort>
-		<desc>NAME was born during a catastrophic war in which both sides used napalm extensively. HECAP grew up helping HIS parents in an infirmary, treating the cascade of horrific burns from the battlefields. HECAP was left with a lifelong fear of fire.</desc>
+		<desc>NAME народився під час руйнівної війни, в якій обидві сторони широко використовували напалм. HECAP зростав, допомагаючи своїм батькам в лазареті, лікував каскад жахливих опіків на полях битв. HECAP was left with a lifelong fear of fire.</desc>
 	</MedicalAssistant75>
 	<CultChild15>
 		<title>Дитина культу</title>
