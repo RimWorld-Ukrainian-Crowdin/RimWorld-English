@@ -17,7 +17,7 @@
   <Bomb.deathMessage>{0} загинув від вибуху.</Bomb.deathMessage>
 
   <BombSuper.label>bomb</BombSuper.label>
-  <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} загинув від вибуху.</BombSuper.deathMessage>
 
   <Smoke.label>дим</Smoke.label>
   <Smoke.deathMessage>{0} був убитий.</Smoke.deathMessage>
