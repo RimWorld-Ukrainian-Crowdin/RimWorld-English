@@ -3961,7 +3961,7 @@ HECAP filled HIS days creating beautiful contraptions from the ship's cargo - bu
 A steady trigger finger and careful planning kept NAME alive.</desc>
 	</ArtifactHunter88>
 	<ChildResearcher33>
-		<title>Child researcher</title>
+		<title>Дитина-дослідник</title>
 		<titleShort>Дослідник</titleShort>
 		<desc>A frightfully intelligent child, NAME was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.
 
@@ -3970,16 +3970,17 @@ HECAP vowed never to invent anything again.</desc>
 	<Fugitive94>
 		<title>Утікач</title>
 		<titleShort>Утікач</titleShort>
-		<desc>NAME rebelled against the corporation HE worked for. HECAP failed, and was forced him to go on the run.
+		<desc>NAME повстав проти корпорації, на яку працював. HECAP не вдалось й довелось тікати.
 
-HECAP was always on the move, always leaving everything behind. HECAP tried to gain supporters for HIS cause, but failed due to HIS poor social skills.</desc>
+HECAP завжди був у русі, завжди все лишав позаду. HECAP намагався знайти помічників для його справи, але це йому не вдавалось через низькі соціальні навички.</desc>
 	</Fugitive94>
 	<VidtubeStar2>
-		<title>Зірка Відтюба</title>
-		<titleShort>Відтюбер</titleShort>
-		<desc>NAME's hobby was making videos for the popular video sharing service Vidtube. HECAP made everything from video game reviews to pasta cooking guides.
+		<title>Зірка Відтуба</title>
+		<titleShort>Відтубер</titleShort>
+		<desc>NAME робив відео для популярного відеохостингу Відтуб. 
+HECAP знімав усе: від оглядів відеоігор до рецептів по приготуванню пасти.
 
-HECAP gained a over a million followers.</desc>
+HECAP набрав понад мільйон підписників.</desc>
 	</VidtubeStar2>
 	<GunDealer81>
 		<title>Торговець зброєю</title>
