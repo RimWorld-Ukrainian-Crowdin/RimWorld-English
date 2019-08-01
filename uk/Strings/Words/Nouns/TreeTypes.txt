@@ -13,12 +13,12 @@
 каштан
 тополя
 в'яз
-fir
-hemlock
-hickory
-larch
-maple
-cedar
-spruce
-walnut
-willow
+ялиця
+болиголов
+пекан
+модрина
+клен
+кедр
+смерека
+волоський горіх
+верба
