@@ -18,8 +18,8 @@
   <GravelInEyes.labelNoun>гравій</GravelInEyes.labelNoun>
 
   <WaterInEyes.label>вода</WaterInEyes.label>
-  <WaterInEyes.battleStateLabel>blind</WaterInEyes.battleStateLabel>
-  <WaterInEyes.labelNoun>water</WaterInEyes.labelNoun>
+  <WaterInEyes.battleStateLabel>нульова видимість</WaterInEyes.battleStateLabel>
+  <WaterInEyes.labelNoun>вода</WaterInEyes.labelNoun>
 
 
 </LanguageData>
