@@ -7,18 +7,19 @@
   <AnimalInsanityMultiple>Якась психічна хвиля прокотилася над землею. Ваші колоністи впорядку, але...\n\nЗдається багато {0} в цьому районі зійшли з розуму.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Чума</LetterLabelCropBlight>
-  <LetterCropBlight>A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads.</LetterCropBlight>
+  <LetterCropBlight>Колоніст помітив пляму на вашому врожаї! Вам слід зрізати або спалити заражені рослини 
+поки чума не поширилася.</LetterCropBlight>
 
-  <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
-  <MiracleHeal>{0} has experienced a miraculous recovery!</MiracleHeal>
+  <LetterLabelMiracleHeal>Диво</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} дивовижно видужав!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Однин з {0} - {1} є лідером цієї фракції.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Один з {0} - {1} є лідером цієї фракції.</FriendlyRaidLeaderPresent>
 
-  <LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Рятувальна капсула</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>A [PAWN_title] named [PAWN_nameDef] is crashing in an escape pod nearby. If [PAWN_pronoun] survives the impact, [PAWN_pronoun] will be badly wounded.</RefugeePodCrash>
   <RefugeePodCrash_NonHostileOrFactionless>You can rescue [PAWN_objective] and send [PAWN_objective] on [PAWN_possessive] way. Or, capture [PAWN_objective] for recruitment or slavery purposes.</RefugeePodCrash_NonHostileOrFactionless>
   <RefugeePodCrash_Hostile>You can capture [PAWN_objective] for recruitment or slavery purposes. [PAWN_pronoun] is from [PAWN_factionName].</RefugeePodCrash_Hostile>
