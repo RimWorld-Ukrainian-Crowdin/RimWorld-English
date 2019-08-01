@@ -19,9 +19,9 @@
   <CryptosleepSickness.label>посткрипто-сонна хвороба</CryptosleepSickness.label>
 
   <FoodPoisoning.label>харчове отруєння</FoodPoisoning.label>
-  <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
-  <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
-  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
+  <FoodPoisoning.stages.0.label>відновлення</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>основний</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>незначне</FoodPoisoning.stages.2.label>
 
   <ToxicBuildup.label>хімічне отруєння</ToxicBuildup.label>
   <ToxicBuildup.stages.0.label>незначне</ToxicBuildup.stages.0.label>
