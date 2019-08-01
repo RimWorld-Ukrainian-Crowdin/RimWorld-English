@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SandInEyes.label>sand</SandInEyes.label>
-  <SandInEyes.battleStateLabel>blind</SandInEyes.battleStateLabel>
-  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
+  <SandInEyes.label>пісок</SandInEyes.label>
+  <SandInEyes.battleStateLabel>нульова видимість</SandInEyes.battleStateLabel>
+  <SandInEyes.labelNoun>пісок</SandInEyes.labelNoun>
 
-  <DirtInEyes.label>dirt</DirtInEyes.label>
-  <DirtInEyes.battleStateLabel>blind</DirtInEyes.battleStateLabel>
-  <DirtInEyes.labelNoun>dirt</DirtInEyes.labelNoun>
+  <DirtInEyes.label>бруд</DirtInEyes.label>
+  <DirtInEyes.battleStateLabel>нульова видимість</DirtInEyes.battleStateLabel>
+  <DirtInEyes.labelNoun>бруд</DirtInEyes.labelNoun>
 
-  <MudInEyes.label>mud</MudInEyes.label>
-  <MudInEyes.battleStateLabel>blind</MudInEyes.battleStateLabel>
-  <MudInEyes.labelNoun>mud</MudInEyes.labelNoun>
+  <MudInEyes.label>багно</MudInEyes.label>
+  <MudInEyes.battleStateLabel>нульова видимість</MudInEyes.battleStateLabel>
+  <MudInEyes.labelNoun>багно</MudInEyes.labelNoun>
 
-  <GravelInEyes.label>gravel</GravelInEyes.label>
-  <GravelInEyes.battleStateLabel>blind</GravelInEyes.battleStateLabel>
-  <GravelInEyes.labelNoun>gravel</GravelInEyes.labelNoun>
+  <GravelInEyes.label>гравій</GravelInEyes.label>
+  <GravelInEyes.battleStateLabel>нульова видимість</GravelInEyes.battleStateLabel>
+  <GravelInEyes.labelNoun>гравій</GravelInEyes.labelNoun>
 
-  <WaterInEyes.label>water</WaterInEyes.label>
+  <WaterInEyes.label>вода</WaterInEyes.label>
   <WaterInEyes.battleStateLabel>blind</WaterInEyes.battleStateLabel>
   <WaterInEyes.labelNoun>water</WaterInEyes.labelNoun>
 
