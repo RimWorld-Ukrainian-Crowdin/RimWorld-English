@@ -3,10 +3,10 @@
 
   <AlcoholHigh.label>алкоголь</AlcoholHigh.label>
   <AlcoholHigh.labelNoun>пияцтво</AlcoholHigh.labelNoun>
-  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.0.label>трохи хильнув</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>напідпитку</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>п'яний</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>валиться з ніг</AlcoholHigh.stages.3.label>
   <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
 
   <Hangover.label>похмілля</Hangover.label>
