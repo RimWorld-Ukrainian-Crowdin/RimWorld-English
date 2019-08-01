@@ -4,24 +4,24 @@
   <PegLeg.label>дерев’яна нога</PegLeg.label>
   <PegLeg.labelNoun>дерев’яна нога</PegLeg.labelNoun>
 
-  <WoodenFoot.label>wooden foot</WoodenFoot.label>
-  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <WoodenFoot.label>дерев'яна стопа</WoodenFoot.label>
+  <WoodenFoot.labelNoun>дерев'яна стопа</WoodenFoot.labelNoun>
 
   <Denture.label>штучна щелепа</Denture.label>
   <Denture.labelNoun>штучна щелепа</Denture.labelNoun>
 
-  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.label>протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>протез ноги</SimpleProstheticLeg.labelNoun>
 
-  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>протез руки</SimpleProstheticArm.label>
   <SimpleProstheticArm.comps.0.tools.0.label>кулак</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.labelNoun>простий протез руки</SimpleProstheticArm.labelNoun>
 
-  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.label>штучне серце</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>протез серця</SimpleProstheticHeart.labelNoun>
 
-  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
-  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <CochlearImplant.label>слуховий апарат</CochlearImplant.label>
+  <CochlearImplant.labelNoun>слуховий апарат</CochlearImplant.labelNoun>
 
   <BionicEye.label>біонічне око</BionicEye.label>
   <BionicEye.labelNoun>біонічне око</BionicEye.labelNoun>
@@ -33,31 +33,31 @@
   <BionicLeg.label>біонічна нога</BionicLeg.label>
   <BionicLeg.labelNoun>біонічна нога</BionicLeg.labelNoun>
 
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <BionicSpine.label>біонічний хребет</BionicSpine.label>
+  <BionicSpine.labelNoun>біонічний хребет</BionicSpine.labelNoun>
 
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <BionicHeart.label>біонічне серце</BionicHeart.label>
+  <BionicHeart.labelNoun>біонічне серце</BionicHeart.labelNoun>
 
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <BionicStomach.label>біонічний шлунок</BionicStomach.label>
+  <BionicStomach.labelNoun>біонічний шлунок</BionicStomach.labelNoun>
 
-  <BionicEar.label>bionic ear</BionicEar.label>
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEar.label>біонічне вухо</BionicEar.label>
+  <BionicEar.labelNoun>біонічне вухо</BionicEar.labelNoun>
 
   <PowerClaw.label>силовий кіготь</PowerClaw.label>
   <PowerClaw.comps.0.tools.0.label>кіготь</PowerClaw.comps.0.tools.0.label>
   <PowerClaw.labelNoun>силовий кіготь</PowerClaw.labelNoun>
 
-  <ArchotechEye.label>archotech eye</ArchotechEye.label>
-  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+  <ArchotechEye.label>архотечне око</ArchotechEye.label>
+  <ArchotechEye.labelNoun>архотечне око</ArchotechEye.labelNoun>
 
-  <ArchotechArm.label>archotech arm</ArchotechArm.label>
-  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
-  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+  <ArchotechArm.label>архотечна рука</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>кулак</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>архотечна рука</ArchotechArm.labelNoun>
 
-  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
-  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ArchotechLeg.label>архотечна нога</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>архотечна нога</ArchotechLeg.labelNoun>
 
 
 </LanguageData>
