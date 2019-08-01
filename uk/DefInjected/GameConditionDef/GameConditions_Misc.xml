@@ -2,7 +2,7 @@
 <LanguageData>
 
   <SolarFlare.label>сонячний спалах</SolarFlare.label>
-  <SolarFlare.description>A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working.</SolarFlare.description>
+  <SolarFlare.description>Сонячний спалах досяг планети. Електромагнітні перешкоди заважають роботі більшості електричних пристроїв.</SolarFlare.description>
   <SolarFlare.endMessage>Сонячний спалах скінчився.</SolarFlare.endMessage>
 
   <Eclipse.label>затемнення</Eclipse.label>
@@ -18,11 +18,11 @@
   <PsychicSoothe.endMessage>Дію психічного дрону завершено.</PsychicSoothe.endMessage>
 
   <ToxicFallout.label>токсичні опади</ToxicFallout.label>
-  <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode.</ToxicFallout.description>
+  <ToxicFallout.description>Шлейф токсичного пилу з якогось віддаленого джерела повільно осідає по всьому цьому регіону. Будь-яка жива істота, що не знаходиться під дахом, буде повільно отруюватись, а предмети, залишені зовні, будуть схильні до корозії.</ToxicFallout.description>
   <ToxicFallout.endMessage>Токсична хмара розвіялась.</ToxicFallout.endMessage>
 
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
-  <VolcanicWinter.description>A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
+  <VolcanicWinter.description>Далекий вулкан забруднив атмосферу вулканічними частинками, що значно зменшить кількість світла, яке досягає поверхні. Температура буде нижче, а рослини ростимуть повільніше.</VolcanicWinter.description>
   <VolcanicWinter.endMessage>Більшість попелу розвіялась.</VolcanicWinter.endMessage>
 
   <HeatWave.label>хвиля спеки</HeatWave.label>
@@ -34,7 +34,7 @@
   <ColdSnap.endMessage>Суворі морози закінчилися.</ColdSnap.endMessage>
 
   <Flashstorm.label>грозовий фронт</Flashstorm.label>
-  <Flashstorm.description>A freak localized storm is blasting a small area with repeated lightning strikes.</Flashstorm.description>
+  <Flashstorm.description>Грозовий фронт підриває невелику територію повторними спалахами блискавки.</Flashstorm.description>
   <Flashstorm.endMessage>Грозовий фронт пройшов.</Flashstorm.endMessage>
 
   <ClimateCycle.label>кліматичний цикл</ClimateCycle.label>
