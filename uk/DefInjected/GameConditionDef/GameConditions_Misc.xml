@@ -41,10 +41,10 @@
   <ClimateCycle.description>Багаторічний цикл зміни клімату, викликаний витягнутою еліптичною орбітою.</ClimateCycle.description>
 
   <Planetkiller.label>знищувач планет</Planetkiller.label>
-  <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life.</Planetkiller.description>
+  <Planetkiller.description>Міжзоряна зброя для винищення планет наближається до цієї планети. Вона рознесе планету на шмаття, як куля гвинтівки, що вразила яйце, винищуючи все живе.</Planetkiller.description>
 
-  <Aurora.label>сяйво</Aurora.label>
-  <Aurora.description>An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it.</Aurora.description>
+  <Aurora.label>полярне сяйво</Aurora.label>
+  <Aurora.description>Полярне сяйво освітлює небо. Захоплююче видовище підвищить настрій будь-кому ззовні, хто побачити його.</Aurora.description>
   <Aurora.endMessage>Сяйво скінчилося.</Aurora.endMessage>
 
 
