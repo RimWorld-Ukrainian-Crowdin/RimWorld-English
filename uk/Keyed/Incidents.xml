@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Mad {0}</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>A local {0} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Mad {0}</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane.</AnimalInsanityMultiple>
+  <LetterLabelAnimalInsanitySingle>Божевільний {0}</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Місцевий {0} зійшов з розуму. Він буде атакувати все що бачить.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Божевільний {0}</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Якась психічна хвиля прокотилася над землею. Ваші колоністи впорядку, але...\n\nЗдається багато {0} в цьому районі зійшли з розуму.</AnimalInsanityMultiple>
 
-  <LetterLabelCropBlight>Blight</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Чума</LetterLabelCropBlight>
   <LetterCropBlight>A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads.</LetterCropBlight>
 
   <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
