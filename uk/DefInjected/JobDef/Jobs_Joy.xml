@@ -20,7 +20,7 @@
 
   <!-- Building interaction -->
 
-  <Play_Horseshoes.reportString>playing horseshoes.</Play_Horseshoes.reportString>
+  <Play_Horseshoes.reportString>кидає підкови.</Play_Horseshoes.reportString>
   <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
   <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
   <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
