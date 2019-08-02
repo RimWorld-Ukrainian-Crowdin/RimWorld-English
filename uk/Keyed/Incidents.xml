@@ -20,7 +20,7 @@
   <FriendlyRaidLeaderPresent>Один з {0} - {1} є лідером цієї фракції.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Рятувальна капсула</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>[PAWN_title] з ім'ям [PAWN_nameDef] падає у рятувальній капсулі неподалеку. Якщо [PAWN_pronoun] переживе приземлення, [PAWN_pronoun] буде важко поранений.</RefugeePodCrash>
+  <RefugeePodCrash>[PAWN_title] на ім'я [PAWN_nameDef] падає у рятувальній капсулі неподалеку. Якщо [PAWN_pronoun] переживе приземлення, то [PAWN_pronoun] буде важко поранений.</RefugeePodCrash>
   <RefugeePodCrash_NonHostileOrFactionless>You can rescue [PAWN_objective] and send [PAWN_objective] on [PAWN_possessive] way. Or, capture [PAWN_objective] for recruitment or slavery purposes.</RefugeePodCrash_NonHostileOrFactionless>
   <RefugeePodCrash_Hostile>You can capture [PAWN_objective] for recruitment or slavery purposes. [PAWN_pronoun] is from [PAWN_factionName].</RefugeePodCrash_Hostile>
   <RefugeePodCrash_NonHostile>Note: [PAWN_nameDef] is from [PAWN_factionName]. Capturing [PAWN_objective] will anger them, while rescuing and healing [PAWN_objective] will improve faction relations.</RefugeePodCrash_NonHostile>
