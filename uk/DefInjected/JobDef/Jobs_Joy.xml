@@ -6,15 +6,15 @@
   <Skygaze.reportString>споглядає на небо.</Skygaze.reportString>
   <Meditate.reportString>медитує.</Meditate.reportString>
   <Pray.reportString>молиться.</Pray.reportString>
-  <GoForWalk.reportString>прогулюється.</GoForWalk.reportString>
+  <GoForWalk.reportString>гуляє.</GoForWalk.reportString>
   <BuildSnowman.reportString>ліпить сніговика.</BuildSnowman.reportString>
   <VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
-  <ViewArt.reportString>насолоджується мистецтвом.</ViewArt.reportString>
+  <ViewArt.reportString>споглядає мистецтво.</ViewArt.reportString>
 
 
   <!-- Social -->
 
-  <SocialRelax.reportString>соціально відпочиває.</SocialRelax.reportString>
+  <SocialRelax.reportString>соціально розслабляється.</SocialRelax.reportString>
   <VisitSickPawn.reportString>підбадьорює TargetA.</VisitSickPawn.reportString>
 
 
