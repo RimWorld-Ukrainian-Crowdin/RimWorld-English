@@ -7,11 +7,10 @@
   <AnimalInsanityMultiple>Якась психічна хвиля прокотилася над землею. Ваші колоністи впорядку, але...\n\nЗдається багато {0} в цьому районі зійшли з розуму.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Чума</LetterLabelCropBlight>
-  <LetterCropBlight>Колоніст помітив пляму на вашому врожаї! Вам слід зрізати або спалити заражені рослини 
-поки чума не поширилася.</LetterCropBlight>
+  <LetterCropBlight>Колоніст помітив занепад ваших врожаїв! Вам слід зрізати, або спалити заражені рослини, поки хвороба не поширилася.</LetterCropBlight>
 
-  <LetterLabelMiracleHeal>Диво</LetterLabelMiracleHeal>
-  <MiracleHeal>{0} дивовижно видужав!</MiracleHeal>
+  <LetterLabelMiracleHeal>Чудо</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} дивом видужав(ла)!</MiracleHeal>
 
   <!-- Enemy raids -->
   <EnemyRaidLeaderPresent>Однин з {0} - {1} є лідером цієї фракції.</EnemyRaidLeaderPresent>
