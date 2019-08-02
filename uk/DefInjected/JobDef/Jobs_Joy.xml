@@ -21,9 +21,9 @@
   <!-- Building interaction -->
 
   <Play_Horseshoes.reportString>кидає підкови.</Play_Horseshoes.reportString>
-  <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
-  <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
-  <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
+  <Play_Hoopstone.reportString>кидає каміння в кільце.</Play_Hoopstone.reportString>
+  <Play_GameOfUr.reportString>грає в Царську гру Ура.</Play_GameOfUr.reportString>
+  <Play_Chess.reportString>грає в шахи.</Play_Chess.reportString>
   <Play_Billiards.reportString>playing billiards.</Play_Billiards.reportString>
   <Play_Poker.reportString>playing poker.</Play_Poker.reportString>
   <WatchTelevision.reportString>переглядає телевізор.</WatchTelevision.reportString>
