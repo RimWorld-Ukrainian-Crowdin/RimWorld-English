@@ -1,18 +1,18 @@
 ﻿
 пожинач
-lancer
+списник
 гусінь
 
-mechanoid
+махеноїд
 робот
 автоматон
 дрон
-combat drone
-serving bot
-utility bot
-sexbot
-guard bot
+бойовий дрон
+обслуговуючий бот
+службовий бот
+секс-робот
+охоронний бот
 
 
 AI persona avatar
-archotech projection
+археотехнологічна проекція
