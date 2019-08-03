@@ -46,7 +46,7 @@
   <Flick.reportString>перемикає перемикач.</Flick.reportString>
   <TradeWithPawn.reportString>торгує з TargetA.</TradeWithPawn.reportString>
   <Flee.reportString>тікає.</Flee.reportString>
-  <FleeAndCower.reportString>втікає.</FleeAndCower.reportString>
+  <FleeAndCower.reportString>утікає.</FleeAndCower.reportString>
   <EnterTransporter.reportString>входить в TargetA.</EnterTransporter.reportString>
   <Resurrect.reportString>відроджує TargetA.</Resurrect.reportString>
   <Insult.reportString>ображає TargetA.</Insult.reportString>
