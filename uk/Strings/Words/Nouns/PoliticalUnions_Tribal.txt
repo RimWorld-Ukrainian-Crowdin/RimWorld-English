@@ -1,14 +1,14 @@
-﻿//Common with outlanders
-union
-nation
+﻿//Спільне з чужинцями
+союз
+нація
 конфедерація
 конфедерацій
 альянс
-kin league
-covenant
-treaty
-pact
-coalition
+споріднена ліга
+заповіт
+договір
+пакт
+коаліція
 
 //Tribe specific
 спорідненість
