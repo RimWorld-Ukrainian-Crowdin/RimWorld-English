@@ -35,11 +35,11 @@
 печера
 
 річка
+потік
+струмінь
+притока
 струмок
-creek
-tributary
-brook
-delta
+дельта
 inlet
 sound
 cove
