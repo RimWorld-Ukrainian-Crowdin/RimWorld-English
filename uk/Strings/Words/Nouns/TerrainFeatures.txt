@@ -44,12 +44,12 @@ inlet
 sound
 cove
 
-lake
-ocean
-pond
-basin
-lagoon
+озеро
+океан
+ставок
+басейн
+лагуна
 pit
-swamp
-tarpit
-mire
+болото
+смоляна яма
+трясовина
