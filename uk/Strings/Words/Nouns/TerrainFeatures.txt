@@ -1,19 +1,19 @@
-﻿plain
-expanse
-grassland
-plateau
-prairie
+рівнина
+роздолля
+луг
+полонина
+прерія
 пустеля
-field
+поле
 
 ліс
-cactus
+кактус
 дерева
-bush
-thicket
-bramble
+кущ
+гущавина
+ожина
 
-boulder
+брила
 брила
 quarry
 stone
