@@ -63,5 +63,5 @@ vanquisher
 knight
 samurai
 hero
-king
-queen
+король
+королева
