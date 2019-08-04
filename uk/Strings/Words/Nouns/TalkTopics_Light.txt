@@ -1,40 +1,40 @@
-the weather
+погода
 
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
+пластівці для сніданку
+сніданок
+обід
+їжа
+обідній час
+звички в харчуванні
+солона їжа
+солодка їжа
+пікантні страви
+гіркі страви
 
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
+улюблені зачіски
+улюблений одяг
+зачіски
+мода
+макіяж
+бороди
+волосся на обличчі
 
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
+разова робота
+дитячі забавки
+розваги
+забавки
+дні народження
+кульки
+пияцтво
+напиватись
+боки
+канікули
+гарні люди
+товсті люди
+високі люди
+низькі люди
+заборонений плід
+блювота
 eating
 swimming
 sports
