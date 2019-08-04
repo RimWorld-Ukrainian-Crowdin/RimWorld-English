@@ -46,8 +46,8 @@ shooter
 різник
 кат
 
-cannibal
-violator
+людожер
+порушник
 deflier
 despoiler
 attacker
