@@ -3,13 +3,13 @@
 
   <!--======= Primary stats (calcualated from physical conditions) =======-->
 
-  <Impressiveness.label>вражаюче</Impressiveness.label>
+  <Impressiveness.label>враження</Impressiveness.label>
   <Impressiveness.scoreStages.0.label>жахливо</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>нудно</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.1.label>тьмяно</Impressiveness.scoreStages.1.label>
   <Impressiveness.scoreStages.2.label>посередньо</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>гідно</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>злегка вражає</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>дещо вражаюча</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.3.label>пристойно</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>трохи вражає</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>дещо вражаюче</Impressiveness.scoreStages.5.label>
   <Impressiveness.scoreStages.6.label>дуже вражає</Impressiveness.scoreStages.6.label>
   <Impressiveness.scoreStages.7.label>надзвичайно вражає</Impressiveness.scoreStages.7.label>
   <Impressiveness.scoreStages.8.label>неймовірно вражає</Impressiveness.scoreStages.8.label>
@@ -33,14 +33,14 @@
   <Space.scoreStages.3.label>дещо просторо</Space.scoreStages.3.label>
   <Space.scoreStages.4.label>досить просторо</Space.scoreStages.4.label>
   <Space.scoreStages.5.label>дуже просторо</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>вражаючи просторно</Space.scoreStages.6.label>
+  <Space.scoreStages.6.label>надзвичайно просторно</Space.scoreStages.6.label>
 
   <Beauty.label>краса</Beauty.label>
-  <Beauty.scoreStages.0.label>огидно</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>негарно</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>нейтральне</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.0.label>відразливо</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>потворно</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>нейтрально</Beauty.scoreStages.2.label>
   <Beauty.scoreStages.3.label>гарно</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>чудово</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.4.label>красиво</Beauty.scoreStages.4.label>
   <Beauty.scoreStages.5.label>дуже красиво</Beauty.scoreStages.5.label>
   <Beauty.scoreStages.6.label>надзвичайно красиво</Beauty.scoreStages.6.label>
   <Beauty.scoreStages.7.label>дивовижна краса</Beauty.scoreStages.7.label>
@@ -57,9 +57,9 @@
 
   <InfectionChanceFactor.label>ймовірність зараження</InfectionChanceFactor.label>
   <SurgerySuccessChanceCleanlinessFactor.label>шанс на успіх операції, фактор чистоти</SurgerySuccessChanceCleanlinessFactor.label>
-  <ResearchSpeedFactor.label>швидкість досліджень, фактор</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <ResearchSpeedFactor.label>швидкість досліджень</ResearchSpeedFactor.label>
+  <GraveVisitingJoyGainFactor.label>настрій від відвідування могили</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChance.label>шанс харчового отруєння</FoodPoisonChance.label>
 
 
 </LanguageData>
