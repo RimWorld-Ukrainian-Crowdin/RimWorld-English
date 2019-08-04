@@ -1,5 +1,5 @@
-﻿Primus
-Secundus
+Прімус
+Секундус
 Тертіус
 Куадрус
 Пентімус
@@ -16,9 +16,9 @@ Secundus
 Постеріоус
 Пріор
 
-Major
-Minor
-Primary
-Secondary
-Tertiary
-Ultimate
+Головний
+Незначний
+Первинний
+Вторинний
+Третинний
+Кінцевий
