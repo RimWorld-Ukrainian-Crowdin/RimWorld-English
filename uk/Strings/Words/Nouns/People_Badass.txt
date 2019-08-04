@@ -17,18 +17,18 @@ slayer
 солдат
 асасин
 брехло
-deplorable
-outlaw
-jailbird
-desperado
-deuce
-hustler
-malefactor
-sinner
-transgressor
+убогий
+поза законом
+рецидивіст
+головоріз
+двійка
+кишеньковий злодій
+зловмисник
+грішник
+порушник
 trespasser
-betrayer
-pirate
+зрадник
+пірат
 
 заточник
 різник
@@ -39,7 +39,7 @@ pirate
 снайпер
 руйнівник
 м'ясник
-shooter
+стрілець
 
 торгаш
 захоплювач
