@@ -53,14 +53,14 @@ despoiler
 attacker
 ravager
 
-champion
+чемпіон
 переможець
 щасливчик
 dominator
 conqueror
 vanquisher
 
-knight
+лицар
 samurai
 hero
 король
