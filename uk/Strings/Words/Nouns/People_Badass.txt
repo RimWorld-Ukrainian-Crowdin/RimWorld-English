@@ -61,7 +61,7 @@ conqueror
 vanquisher
 
 лицар
-samurai
+самурай
 hero
 король
 королева
