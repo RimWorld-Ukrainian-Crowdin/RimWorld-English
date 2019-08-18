@@ -9,13 +9,13 @@
   <GoForWalk.reportString>гуляє.</GoForWalk.reportString>
   <BuildSnowman.reportString>ліпить сніговика.</BuildSnowman.reportString>
   <VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
-  <ViewArt.reportString>споглядає мистецтво.</ViewArt.reportString>
+  <ViewArt.reportString>насолоджується мистецтвом.</ViewArt.reportString>
 
 
   <!-- Social -->
 
   <SocialRelax.reportString>соціально розслабляється.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>підбадьорює хворого.</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>відвідує хворого TargetA.</VisitSickPawn.reportString>
 
 
   <!-- Building interaction -->
