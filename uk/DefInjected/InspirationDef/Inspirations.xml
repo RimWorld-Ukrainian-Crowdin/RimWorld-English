@@ -3,21 +3,21 @@
 
   <Frenzy_Work.label>завзята праця</Frenzy_Work.label>
   <Frenzy_Work.baseInspectLine>Натхнення: завзята праця</Frenzy_Work.baseInspectLine>
-  <Frenzy_Work.beginLetter>{0} щойно надихнувся. [PAWN_pronoun] працюватиме у 2.5 рази швидше протягом наступних 24 годин.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] працюватиме у 2.5 рази швидше протягом наступних 24 годин.</Frenzy_Work.beginLetter>
   <Frenzy_Work.beginLetterLabel>Натхнення: завзята праця</Frenzy_Work.beginLetterLabel>
-  <Frenzy_Work.endMessage>{0} is no longer inspired (work frenzy).</Frenzy_Work.endMessage>
+  <Frenzy_Work.endMessage>{0} більше не відчуває натхнення (завзята праця).</Frenzy_Work.endMessage>
 
-  <Frenzy_Go.label>go frenzy</Frenzy_Go.label>
-  <Frenzy_Go.baseInspectLine>Inspired: Go frenzy</Frenzy_Go.baseInspectLine>
-  <Frenzy_Go.beginLetter>{0} has just been inspired. [PAWN_pronoun] will walk 1.5 times faster for the next 2 days.</Frenzy_Go.beginLetter>
-  <Frenzy_Go.beginLetterLabel>Inspiration: Go frenzy</Frenzy_Go.beginLetterLabel>
-  <Frenzy_Go.endMessage>{0} is no longer inspired (go frenzy).</Frenzy_Go.endMessage>
+  <Frenzy_Go.label>енергійність</Frenzy_Go.label>
+  <Frenzy_Go.baseInspectLine>Натхнення: енергійність</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] ходитиме у 1.5 рази швидше протягом наступних 2 днів.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Натхнення: енергійність</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.endMessage>{0} більше не відчуває натхнення (енергійність).</Frenzy_Go.endMessage>
 
-  <Frenzy_Shoot.label>shoot frenzy</Frenzy_Shoot.label>
-  <Frenzy_Shoot.baseInspectLine>Inspired: Shoot frenzy</Frenzy_Shoot.baseInspectLine>
-  <Frenzy_Shoot.beginLetter>{0} has just been inspired. [PAWN_possessive] shooting accuracy will be improved for the next 3 days.</Frenzy_Shoot.beginLetter>
-  <Frenzy_Shoot.beginLetterLabel>Inspiration: Shoot frenzy</Frenzy_Shoot.beginLetterLabel>
-  <Frenzy_Shoot.endMessage>{0} is no longer inspired (shoot frenzy).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.label>соколине око</Frenzy_Shoot.label>
+  <Frenzy_Shoot.baseInspectLine>Натхнення: соколине око</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. Точність [PAWN_possessive] стрільби буде покращеною протягом наступних 3 днів.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Натхнення: соколине око</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.endMessage>{0} більше не відчуває натхнення (соколине око).</Frenzy_Shoot.endMessage>
 
   <Inspired_Trade.label>inspired trade</Inspired_Trade.label>
   <Inspired_Trade.baseInspectLine>Inspired: Inspired trade</Inspired_Trade.baseInspectLine>
