@@ -4,16 +4,16 @@
   <Caravan.label>караван</Caravan.label>
   <Caravan.description>Група подорожуючих людей.</Caravan.description>
 
-  <Settlement.label>settlement</Settlement.label>
-  <Settlement.description>A base of one of the factions.</Settlement.description>
+  <Settlement.label>поселення</Settlement.label>
+  <Settlement.description>База однієї з фракцій.</Settlement.description>
 
-  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
-  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+  <AbandonedSettlement.label>покинуте поселення</AbandonedSettlement.label>
+  <AbandonedSettlement.description>Покинуте поселення.</AbandonedSettlement.description>
 
-  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
-  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+  <DestroyedSettlement.label>зруйноване поселення</DestroyedSettlement.label>
+  <DestroyedSettlement.description>Зруйноване поселення.</DestroyedSettlement.description>
 
-  <EscapeShip.label>корабель що приземлився</EscapeShip.label>
+  <EscapeShip.label>приземлений корабель</EscapeShip.label>
   <EscapeShip.description>Локація з прихованим кораблем який допоможе вам втекти з планети.</EscapeShip.description>
 
   <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
