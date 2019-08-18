@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Frenzy_Work.label>work frenzy</Frenzy_Work.label>
-  <Frenzy_Work.baseInspectLine>Inspired: Work frenzy</Frenzy_Work.baseInspectLine>
-  <Frenzy_Work.beginLetter>{0} has just been inspired. [PAWN_pronoun] will work 2.5 times faster for the next 24 hours.</Frenzy_Work.beginLetter>
-  <Frenzy_Work.beginLetterLabel>Inspiration: Work frenzy</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.label>завзята праця</Frenzy_Work.label>
+  <Frenzy_Work.baseInspectLine>Натхнення: завзята праця</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>{0} щойно надихнувся. [PAWN_pronoun] працюватиме у 2.5 рази швидше протягом наступних 24 годин.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Натхнення: завзята праця</Frenzy_Work.beginLetterLabel>
   <Frenzy_Work.endMessage>{0} is no longer inspired (work frenzy).</Frenzy_Work.endMessage>
 
   <Frenzy_Go.label>go frenzy</Frenzy_Go.label>
