@@ -19,15 +19,15 @@
   <Frenzy_Shoot.beginLetterLabel>Натхнення: соколине око</Frenzy_Shoot.beginLetterLabel>
   <Frenzy_Shoot.endMessage>{0} більше не відчуває натхнення (соколине око).</Frenzy_Shoot.endMessage>
 
-  <Inspired_Trade.label>inspired trade</Inspired_Trade.label>
-  <Inspired_Trade.baseInspectLine>Inspired: Inspired trade</Inspired_Trade.baseInspectLine>
-  <Inspired_Trade.beginLetter>{0} has just been inspired. [PAWN_pronoun] will get a significant trade price bonus for [PAWN_possessive] next trade deal.\n\nThe inspiration will end after 8 days or when the deal is done.</Inspired_Trade.beginLetter>
-  <Inspired_Trade.beginLetterLabel>Inspiration: Inspired trade</Inspired_Trade.beginLetterLabel>
-  <Inspired_Trade.endMessage>{0} is no longer inspired (inspired trade).</Inspired_Trade.endMessage>
+  <Inspired_Trade.label>торгівля</Inspired_Trade.label>
+  <Inspired_Trade.baseInspectLine>Натхнення: торгівля</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] отримає значні бонуси цін у [PAWN_possessive] наступній торговій угоді.\n\nНатхнення пройде через 8 днів, або після торгів.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>Натхнення: торгівля</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.endMessage>{0} більше не відчуває натхнення (торгівля).</Inspired_Trade.endMessage>
 
-  <Inspired_Recruitment.label>inspired recruitment</Inspired_Recruitment.label>
-  <Inspired_Recruitment.baseInspectLine>Inspired: Inspired recruitment</Inspired_Recruitment.baseInspectLine>
-  <Inspired_Recruitment.beginLetter>{0} has just been inspired. [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty.\n\nThe inspiration will end after 8 days or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.label>вербування</Inspired_Recruitment.label>
+  <Inspired_Recruitment.baseInspectLine>Натхнення: вербування</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] успішно рекрутує наступного в'язня, не залежно від складності.\n\nНатхнення пройде через 8 днів, або коли в'язня буде рекрутовано.</Inspired_Recruitment.beginLetter>
   <Inspired_Recruitment.beginLetterLabel>Inspiration: Inspired recruitment</Inspired_Recruitment.beginLetterLabel>
   <Inspired_Recruitment.endMessage>{0} is no longer inspired (inspired recruitment).</Inspired_Recruitment.endMessage>
 
