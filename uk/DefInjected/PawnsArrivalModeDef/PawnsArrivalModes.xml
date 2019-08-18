@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <EdgeWalkIn.textEnemy>A group of {0} from {1} have arrived nearby.</EdgeWalkIn.textEnemy>
-  <EdgeWalkIn.textFriendly>A group of friendly {0} from {1} have arrived nearby.</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textEnemy>{0} осіб прибуло з {1}.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>{0} дружніх осіб прибуло з {1}.</EdgeWalkIn.textFriendly>
 
   <EdgeDrop.textEnemy>A group of {0} from {1} have arrived in transport pods nearby.</EdgeDrop.textEnemy>
   <EdgeDrop.textFriendly>A group of friendly {0} from {1} have arrived in transport pods nearby.</EdgeDrop.textFriendly>
