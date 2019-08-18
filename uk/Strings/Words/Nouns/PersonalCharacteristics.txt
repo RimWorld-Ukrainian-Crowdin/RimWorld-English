@@ -18,76 +18,76 @@
 ніч
 вуха
 jawline
-forehead
-hands
-genitals
-body
-muscles
+лоб
+руки
+геніталії
+тіло
+м'язи
 
-voice
-way of speaking
-accent
+голос
+манера говорити
+акцент
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
-animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+вміння стріляти
+вміння битися
+соціальні навички
+навички садівництва
+медичні навички
+вміння приручати тварин
+кухарські здібності
+будівельні навички
+шахтарські навички
+артистичні навички
+вміння майструвати
+інтелектуальні навички
 
-skills
-abilities
-intelligence
+навички
+здібності
+інтелект
 judgment
 brainpower
-emotional stability
-self-control
-usefulness
-attitude
-way of walking
-way of thinking
+емоційна стійкість
+самоконтроль
+корисність
+ставлення
+спосіб ходьби
+спосіб мислення
 fighting methods
-learning ability
-diet
-eating habits
-food preferences
-relationship status
-age
+здатність до навчання
+дієта
+харчові звички
+харчові уподобання
+сімейний стан
+вік
 value as a human
-sense of responsibility
-sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-toilet habits
-sexual prowess
-sexual preferences
-sexual experience
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
-kindness
-eloquence
+почуття відповідальності
+почуття обов'язку
+честь
+чесність
+відважність
+погляди
+вірування
+ідеї
+надії та мрії
+амбіції
+особисті звички
+особиста гігієна
+туалетні звички
+інтимна майстерність
+інтимні вподобання
+сексуальний досвід
+міць
+особистість
+клас
+культура
+рекреаційні уподобання
+пунктуальність
+щедрість
+хоробрість
+вірність
+чесність
+милосердя
+красномовність
 broad-mindedness
 charm
 sincerity
