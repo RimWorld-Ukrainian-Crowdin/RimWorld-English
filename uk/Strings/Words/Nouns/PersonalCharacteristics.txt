@@ -1,22 +1,22 @@
-﻿clothes
-clothing choices
-fashion knowledge
-stylishness
+﻿одяг
+смак на одяг
+знання моди
+стильність
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
-body hair
-pubic hair
-facial hair
-leg hair
-face
-eyes
-nose
-ears
+форма
+зовнішній вигляд
+висота
+вага
+волосся
+зачіска
+волосся на тілі
+лобкове волосся
+волосся на обличчі
+волосся на ногах
+обличчя
+очі
+ніч
+вуха
 jawline
 forehead
 hands
