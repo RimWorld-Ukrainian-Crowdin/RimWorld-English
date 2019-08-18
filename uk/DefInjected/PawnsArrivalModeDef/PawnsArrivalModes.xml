@@ -13,8 +13,8 @@
   <EdgeDropGroups.textEnemy>{0} осіб прибуло з {1} окремими групами на транспортних ракетах.</EdgeDropGroups.textEnemy>
   <EdgeDropGroups.textFriendly>{0} дружніх осіб прибуло з {1} окремими групами на транспортних ракетах.</EdgeDropGroups.textFriendly>
 
-  <CenterDrop.textEnemy>A group of {0} from {1} have dropped in right on top of you!</CenterDrop.textEnemy>
-  <CenterDrop.textFriendly>A group of friendly {0} from {1} have dropped in right on top of you!</CenterDrop.textFriendly>
+  <CenterDrop.textEnemy>{0} осіб з {1} впали прямо на вас!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>{0} дружніх осіб з {1} впали прямо на вас!</CenterDrop.textFriendly>
 
   <RandomDrop.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</RandomDrop.textEnemy>
   <RandomDrop.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</RandomDrop.textFriendly>
