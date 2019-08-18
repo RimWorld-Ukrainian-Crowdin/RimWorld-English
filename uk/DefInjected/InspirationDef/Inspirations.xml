@@ -27,21 +27,21 @@
 
   <Inspired_Recruitment.label>вербування</Inspired_Recruitment.label>
   <Inspired_Recruitment.baseInspectLine>Натхнення: вербування</Inspired_Recruitment.baseInspectLine>
-  <Inspired_Recruitment.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] успішно рекрутує наступного в'язня, не залежно від складності.\n\nНатхнення пройде через 8 днів, або коли в'язня буде рекрутовано.</Inspired_Recruitment.beginLetter>
-  <Inspired_Recruitment.beginLetterLabel>Inspiration: Inspired recruitment</Inspired_Recruitment.beginLetterLabel>
-  <Inspired_Recruitment.endMessage>{0} is no longer inspired (inspired recruitment).</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. [PAWN_pronoun] успішно завербує наступного в'язня, не залежно від складності.\n\nНатхнення пройде через 8 днів, або коли в'язня буде завербовано.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>Натхнення: вербування</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.endMessage>{0} більше не відчуває натхнення (вербування).</Inspired_Recruitment.endMessage>
 
-  <Inspired_Surgery.label>inspired surgery</Inspired_Surgery.label>
-  <Inspired_Surgery.baseInspectLine>Inspired: Inspired surgery</Inspired_Surgery.baseInspectLine>
-  <Inspired_Surgery.beginLetter>{0} has just been inspired. The surgery failure chance for the next surgery performed by [PAWN_objective] will be 10 times smaller.\n\nThe inspiration will end after 8 days or when the surgery is performed.</Inspired_Surgery.beginLetter>
-  <Inspired_Surgery.beginLetterLabel>Inspiration: Inspired surgery</Inspired_Surgery.beginLetterLabel>
-  <Inspired_Surgery.endMessage>{0} is no longer inspired (inspired surgery).</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.label>хірургія</Inspired_Surgery.label>
+  <Inspired_Surgery.baseInspectLine>Натхненний: хірургія</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. Імовірність ускладнень під час [PAWN_possessive] наступної хірургічної операції буде зменшена у 10 разів.\n\nНатхнення пройде через 8 днів, або коли відбудеться операція.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>Натхненний: хірургія</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.endMessage>{0} більше не відчуває натхнення (хірургія).</Inspired_Surgery.endMessage>
 
-  <Inspired_Creativity.label>inspired creativity</Inspired_Creativity.label>
-  <Inspired_Creativity.baseInspectLine>Inspired: Inspired creativity</Inspired_Creativity.baseInspectLine>
-  <Inspired_Creativity.beginLetter>{0} has just been inspired. Any item crafted or piece of furniture or art completed will be 2 quality levels higher than it would otherwise be.\n\nThe inspiration will end after 8 days or when the item, furniture or art is completed.</Inspired_Creativity.beginLetter>
-  <Inspired_Creativity.beginLetterLabel>Inspiration: Inspired creativity</Inspired_Creativity.beginLetterLabel>
-  <Inspired_Creativity.endMessage>{0} is no longer inspired (inspired creativity).</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.label>творчість</Inspired_Creativity.label>
+  <Inspired_Creativity.baseInspectLine>Натхнення: творчість</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>{0} щойно {0_gender ? надихнувся : надихнулась}. Кожен створений предмет, елемент меблів, чи витвір мистецтва буде на 2 рівні якості вищим, ніж був би інакше.\n\nНатхнення пройде через 8 днів, або коли предмет, елемент меблів, чи витвір мистецтва буде створено.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>Натхнення: творчість</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.endMessage>{0} більше не відчуває натхнення (творчість).</Inspired_Creativity.endMessage>
 
 
 </LanguageData>
