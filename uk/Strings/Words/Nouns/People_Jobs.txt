@@ -24,7 +24,7 @@ thatcher
 хірург
 лікар
 мандрівник
-adventurer
+авантюрист
 drunkard
 священик
 cleric
