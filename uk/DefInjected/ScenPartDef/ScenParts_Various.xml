@@ -16,7 +16,7 @@
   <OnPawnDeathExplode.label>істоти вибухають після смерті</OnPawnDeathExplode.label>
   <ForcedTrait.label>покращені характеристики</ForcedTrait.label>
   <ForcedHediff.label>покращений стан здоров'я</ForcedHediff.label>
-  <Naked.label>naked</Naked.label>
+  <Naked.label>голий</Naked.label>
   <SetNeedLevel.label>встановити потрібний рівень</SetNeedLevel.label>
   <StartingResearch.label>старт з дослідженнями</StartingResearch.label>
   <GameCondition_Planetkiller.label>знищувач планет наближається</GameCondition_Planetkiller.label>
