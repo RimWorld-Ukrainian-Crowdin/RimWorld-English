@@ -10,8 +10,8 @@
   <LoadGame>Завантажити гру</LoadGame>
   <Options>Налаштування</Options>
   <Mods>Модифікації</Mods>
-  <SaveTranslationReport>Save translation report</SaveTranslationReport>
-  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
+  <SaveTranslationReport>Зберегти звіт перекладу</SaveTranslationReport>
+  <GeneratingTranslationReport>Генерується звіт перекладу</GeneratingTranslationReport>
   <Credits>Автори</Credits>
   <QuitToMainMenu>До головного меню</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Зберегти і вийти до меню</SaveAndQuitToMainMenu>
@@ -89,8 +89,8 @@
   <DragToReorder>Перетягніть, щоб змінити порядок</DragToReorder>
   
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Обрати сценарій</ChooseScenario>
-  <ScenariosCustom>Вручну</ScenariosCustom>
+  <ChooseScenario>Оберіть сценарій</ChooseScenario>
+  <ScenariosCustom>Власний</ScenariosCustom>
   <ScenariosSteamWorkshop>Майстерня Steam</ScenariosSteamWorkshop>
   <ScenarioEditor>Редактор сценаріїв</ScenarioEditor>
   <Delete>Видалити</Delete>
