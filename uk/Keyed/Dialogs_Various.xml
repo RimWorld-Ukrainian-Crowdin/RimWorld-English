@@ -250,7 +250,7 @@
   <AcceptButton>Accept</AcceptButton>
   <ResetButton>Reset</ResetButton>
   <CancelButton>Cancel</CancelButton>
-  <CloseButton>Close</CloseButton>
+  <CloseButton>Закрити</CloseButton>
   <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
   <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
