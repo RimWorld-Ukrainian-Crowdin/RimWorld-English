@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
@@ -14,7 +14,7 @@
   <SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
 
   <ResearchSpeed.label>research speed</ResearchSpeed.label>
-  <ResearchSpeed.description>How fast this person performs research.</ResearchSpeed.description>
+  <ResearchSpeed.description>How fast this person performs research and how quickly they can find things using scanning equipment.</ResearchSpeed.description>
 
   <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
   <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
@@ -27,6 +27,9 @@
 
   <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
   <PlantHarvestYield.description>The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+
+  <HuntingStealth.label>hunting stealth</HuntingStealth.label>
+  <HuntingStealth.description>This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack.</HuntingStealth.description>
 
   <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
   <ConstructionSpeed.description>The speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>

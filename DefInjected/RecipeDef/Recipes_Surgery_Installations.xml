@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--======================= Install natural parts =========================-->
+  <!-- Install natural parts -->
 
   <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
   <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
@@ -20,7 +20,7 @@
   <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
 
 
-  <!--==================== Install artificial parts =======================-->
+  <!-- Install artificial parts -->
 
   <InstallPegLeg.label>install peg leg</InstallPegLeg.label>
   <InstallPegLeg.description>Install a peg leg.</InstallPegLeg.description>

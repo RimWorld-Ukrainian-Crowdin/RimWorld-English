@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--======================= Requiring nothing =======================-->
+  <!-- Requiring nothing -->
 
   <Meditative.label>solitary relaxation</Meditative.label>
   <Social.label>social interaction</Social.label>
@@ -27,7 +27,7 @@
   <Telescope.label>telescope study</Telescope.label>
 
 
-  <!--======================= Item consumption =======================-->
+  <!-- Item consumption -->
 
   <Chemical.label>chemical consumption</Chemical.label>
   <Gluttonous.label>food consumption</Gluttonous.label>

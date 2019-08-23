@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- ================================== Shooting =======================================-->
+  <!-- Melee -->
 
   <MeleeDPS.label>melee DPS</MeleeDPS.label>
   <MeleeDPS.description>Average damage per second in melee combat. This stat ignores target defenses like dodging and armor.</MeleeDPS.description>
@@ -16,7 +16,7 @@
   <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
 
 
-  <!-- ================================== Shooting =======================================-->
+  <!-- Shooting -->
 
   <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
   <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>

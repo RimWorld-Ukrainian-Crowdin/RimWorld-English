@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <QuadrupedAnimalWithPaws.label>quadruped animal</QuadrupedAnimalWithPaws.label>
@@ -178,12 +178,12 @@
   <TurtleLike.corePart.parts.14.customLabel>rear right leg</TurtleLike.corePart.parts.14.customLabel>
 
   <Monkey.label>monkey</Monkey.label>
-  <Monkey.corePart.parts.12.customLabel>right kidney</Monkey.corePart.parts.12.customLabel>
   <Monkey.corePart.parts.1.customLabel>left clavicle</Monkey.corePart.parts.1.customLabel>
+  <Monkey.corePart.parts.2.customLabel>right clavicle</Monkey.corePart.parts.2.customLabel>
   <Monkey.corePart.parts.9.customLabel>left lung</Monkey.corePart.parts.9.customLabel>
   <Monkey.corePart.parts.10.customLabel>right lung</Monkey.corePart.parts.10.customLabel>
   <Monkey.corePart.parts.11.customLabel>left kidney</Monkey.corePart.parts.11.customLabel>
-  <Monkey.corePart.parts.2.customLabel>right clavicle</Monkey.corePart.parts.2.customLabel>
+  <Monkey.corePart.parts.12.customLabel>right kidney</Monkey.corePart.parts.12.customLabel>
   <Monkey.corePart.parts.14.parts.0.parts.1.customLabel>left eye</Monkey.corePart.parts.14.parts.0.parts.1.customLabel>
   <Monkey.corePart.parts.14.parts.0.parts.2.customLabel>right eye</Monkey.corePart.parts.14.parts.0.parts.2.customLabel>
   <Monkey.corePart.parts.14.parts.0.parts.3.customLabel>left ear</Monkey.corePart.parts.14.parts.0.parts.3.customLabel>

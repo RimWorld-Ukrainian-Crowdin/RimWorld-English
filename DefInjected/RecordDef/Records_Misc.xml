@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Combat -->
@@ -119,9 +119,6 @@
 
   <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
   <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
-
-  <TrapsRearmed.label>traps rearmed</TrapsRearmed.label>
-  <TrapsRearmed.description>The number of traps I have rearmed.</TrapsRearmed.description>
 
   <BodiesStripped.label>bodies stripped</BodiesStripped.label>
   <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>

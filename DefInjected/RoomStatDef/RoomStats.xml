@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--======= Primary stats (calcualated from physical conditions) =======-->
+  <!-- Primary stats (calcualated from physical conditions) -->
 
   <Impressiveness.label>impressiveness</Impressiveness.label>
   <Impressiveness.scoreStages.0.label>awful</Impressiveness.scoreStages.0.label>
@@ -53,7 +53,7 @@
   <Cleanliness.scoreStages.4.label>sterile</Cleanliness.scoreStages.4.label>
 
 
-  <!--======= Dependent stats (calculated from other stats) =======-->
+  <!-- Dependent stats (calculated from other stats) -->
 
   <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
   <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance cleanliness factor</SurgerySuccessChanceCleanlinessFactor.label>

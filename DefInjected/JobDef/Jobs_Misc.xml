@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--========= General ============-->
+  <!-- General -->
 
   <Goto.reportString>moving.</Goto.reportString>
   <Follow.reportString>following TargetA.</Follow.reportString>
@@ -26,7 +26,6 @@
   <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
   <Strip.reportString>stripping TargetA.</Strip.reportString>
   <Open.reportString>opening TargetA.</Open.reportString>
-  <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
   <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
   <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
   <Refuel.reportString>refueling TargetA.</Refuel.reportString>
@@ -35,6 +34,7 @@
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
   <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
   <ManTurret.reportString>operating turret.</ManTurret.reportString>
   <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
   <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
@@ -52,22 +52,23 @@
   <Insult.reportString>insulting TargetA.</Insult.reportString>
   <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
   <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
+  <OfferHelp.reportString>helping TargetA.</OfferHelp.reportString>
 
 
-  <!--============ Fire ============-->
+  <!-- Fire -->
 
   <Ignite.reportString>igniting TargetA.</Ignite.reportString>
   <BeatFire.reportString>beating fire out.</BeatFire.reportString>
   <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
 
 
-  <!--============ Need satisfaction ============-->
+  <!-- Need satisfaction -->
 
   <Ingest.reportString>consuming TargetA.</Ingest.reportString>
   <LayDown.reportString>lying down.</LayDown.reportString>
 
 
-  <!--============ Love ============-->
+  <!-- Love -->
 
   <Lovin.reportString>lovin'.</Lovin.reportString>
 

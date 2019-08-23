@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Orders.label>orders</Orders.label>
-  <Zone.label>zone/Area</Zone.label>
+  <Zone.label>zone</Zone.label>
   <Structure.label>structure</Structure.label>
   <Production.label>production</Production.label>
   <Furniture.label>furniture</Furniture.label>

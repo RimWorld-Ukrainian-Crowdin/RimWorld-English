@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--===================== Concepts taught through the learning readout, with no opportunity needed ===================-->
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
 
   <CameraDolly.label>Camera dolly</CameraDolly.label>
   <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys.</CameraDolly.helpText>
@@ -18,8 +18,8 @@
   <Stockpiles.label>Stockpiles</Stockpiles.label>
   <Stockpiles.helpText>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpText>
 
-  <Forbidding.label>Forbid and unforbid</Forbidding.label>
-  <Forbidding.helpText>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it.</Forbidding.helpText>
+  <Forbidding.label>Forbid and allow</Forbidding.label>
+  <Forbidding.helpText>Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it.</Forbidding.helpText>
 
   <GrowingFood.label>Growing zones</GrowingFood.label>
   <GrowingFood.helpText>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</GrowingFood.helpText>
@@ -28,7 +28,7 @@
   <EquippingWeapons.helpText>Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip.</EquippingWeapons.helpText>
 
   <Alerts.label>Alerts</Alerts.label>
-  <Alerts.helpText>The alerts at the right edge of the screen tell you about issue that need your attention.\n\nKeep an eye on the alerts.</Alerts.helpText>
+  <Alerts.helpText>The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts.</Alerts.helpText>
 
   <Mining.label>Mining</Mining.label>
   <Mining.helpText>You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials.</Mining.helpText>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <DesignatorCancel>Cancel</DesignatorCancel>
   <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
 
@@ -41,8 +41,8 @@
   <DesignatorForbid>Forbid</DesignatorForbid>
   <DesignatorForbidDesc>Mark items as forbidden. Colonists will not be able to interact with the designated items.</DesignatorForbidDesc>
 
-  <DesignatorUnforbid>Unforbid</DesignatorUnforbid>
-  <DesignatorUnforbidDesc>Mark items as unforbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
+  <DesignatorUnforbid>Allow</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Mark items as not forbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
@@ -80,7 +80,7 @@
   <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
 
   <DesignatorZoneExpand>Expand zone</DesignatorZoneExpand>
-  
+
   <DesignatorClaim>Claim</DesignatorClaim>
   <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
 
@@ -93,44 +93,39 @@
   <DesignatorStrip>Strip</DesignatorStrip>
   <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
-
   <DesignatorOpen>Open</DesignatorOpen>
   <DesignatorOpenDesc>Open containers.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
 
   <DesignatorTame>Tame</DesignatorTame>
   <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
 
-
   <!-- Failure messages -->
   <UnchosenStuff>Unchosen material</UnchosenStuff>
   <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
   <OutOfBounds>Out of bounds.</OutOfBounds>
   <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Interaction spot is blocked by {1_labelShort}.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {1_labelShort}.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} would block {1}'s interaction spot.</WouldBlockInteractionSpot>
   <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
   <SurfaceBeingSmoothed>The surface is already marked for smoothing.</SurfaceBeingSmoothed>
   <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
   <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
   <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} requires terrain that can support: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
   <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
   <MustBeOnMovingWater>The waterwheel must be on moving water.</MustBeOnMovingWater>
-  
-  
+
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
   <CreateNewZone>Create new {0}</CreateNewZone>
-  
-  
+
   <!-- Desc helpers -->
   <TransmitsPower>Transmits power</TransmitsPower>
   <ConstructionNeeded>Construction needed</ConstructionNeeded>

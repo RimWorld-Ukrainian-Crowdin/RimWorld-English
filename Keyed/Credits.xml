@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
@@ -10,7 +10,7 @@
   <Credit_GameArt>Art</Credit_GameArt>
   <Credit_MenuArt>Menu art</Credit_MenuArt>
   <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
-  
+
   <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
 
   <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>

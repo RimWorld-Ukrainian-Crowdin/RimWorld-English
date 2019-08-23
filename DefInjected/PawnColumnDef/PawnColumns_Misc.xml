@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Master.label>master</Master.label>
@@ -8,6 +8,7 @@
   <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
   <Outfit.label>current outfit</Outfit.label>
   <DrugPolicy.label>drug policy</DrugPolicy.label>
+  <FoodRestriction.label>food restriction</FoodRestriction.label>
 
 
 </LanguageData>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--===================== Misc =====================-->
+  <!-- Misc -->
 
   <Body.label>body</Body.label>
   <Beak.label>beak</Beak.label>
@@ -29,19 +29,22 @@
   <TurtleBeak.label>beak</TurtleBeak.label>
 
 
-  <!--===================== Insect legs =====================-->
+  <!-- Insect legs -->
 
   <InsectLeg.label>leg</InsectLeg.label>
 
 
-  <!--===================== Paws =====================-->
+  <!-- Paws -->
 
   <Paw.label>paw</Paw.label>
 
 
-  <!--===================== Hoofs =====================-->
+  <!-- Hoofs -->
 
   <Hoof.label>hoof</Hoof.label>
+
+
+  <!-- Claws -->
 
   <FrontClaw.label>front claw</FrontClaw.label>
   <FrontClaw.labelShort>claw</FrontClaw.labelShort>

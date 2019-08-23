@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Consciousness.label>consciousness</Consciousness.label>
@@ -14,8 +14,13 @@
   <Sight.label>sight</Sight.label>
   <Hearing.label>hearing</Hearing.label>
   <Breathing.label>breathing</Breathing.label>
+
   <BloodFiltration.label>blood filtration</BloodFiltration.label>
+  <BloodFiltration.labelMechanoids>fluid reprocessing</BloodFiltration.labelMechanoids>
+
   <BloodPumping.label>blood pumping</BloodPumping.label>
+  <BloodPumping.labelMechanoids>power generation</BloodPumping.labelMechanoids>
+
   <Metabolism.label>metabolism</Metabolism.label>
 
 
