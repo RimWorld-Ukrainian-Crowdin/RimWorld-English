@@ -4,51 +4,51 @@
   <!-- Various -->
   <HitPointsBasic>здоров’я</HitPointsBasic>
   <WorkLeft>Роботи лишилося</WorkLeft>
-  <Contents>Contents</Contents>
-  <ContainedResources>Contained resources</ContainedResources>
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
-  <InPrisonCell>In prison cell: For prisoner use</InPrisonCell>
-  <ForColonistUse>For colonist use</ForColonistUse>
-  <MedicalBed>Medical</MedicalBed>
-  <Owner>Owner</Owner>
-  <Owners>Owners</Owners>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
-  <DiedOn>Died on the {0}</DiedOn>
-  <Nobody>Nobody</Nobody>
-  <Unowned>Unowned</Unowned>
-  <DeadTime>Dead for {0}</DeadTime>
-  <WalkSpeed>walk speed {0}</WalkSpeed>
-  <FertShort>fert.</FertShort>
-  <DyingLower>dying</DyingLower>
-  <FilthOnFeet>Filth on feet:</FilthOnFeet>
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
-  <NothingLower>nothing</NothingLower>
+  <Contents>Вміст</Contents>
+  <ContainedResources>Ресурси всередині</ContainedResources>
+  <ForPrisonerUse>Для в'язнів</ForPrisonerUse>
+  <InPrisonCell>У тюремній камері: для в'язнів</InPrisonCell>
+  <ForColonistUse>Для колоністів</ForColonistUse>
+  <MedicalBed>Лікарняне</MedicalBed>
+  <Owner>Власник</Owner>
+  <Owners>Власники</Owners>
+  <AssignedColonist>Призначений колоніст</AssignedColonist>
+  <DiedOn>Помер на {0}</DiedOn>
+  <Nobody>Ніхто</Nobody>
+  <Unowned>Нічиє</Unowned>
+  <DeadTime>Мертвий {0}</DeadTime>
+  <WalkSpeed>швидкість ходьби {0}</WalkSpeed>
+  <FertShort>родюч.</FertShort>
+  <DyingLower>помирає</DyingLower>
+  <FilthOnFeet>Бруду на ногах:</FilthOnFeet>
+  <NotEnoughStoredLower>недостатньо на складах</NotEnoughStoredLower>
+  <NothingLower>нічого</NothingLower>
   <Adapted>Adapted</Adapted>
-  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
-  <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <CanTendNow>Can tend now</CanTendNow>
-  <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
-  <NextTendIn>Can be tended in {0}</NextTendIn>
-  <TendQuality>Tend quality</TendQuality>
-  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
-  <Immunity>Immunity</Immunity>
-  <Race>Race</Race>
-  <Description>Description</Description>
-  <Equipment>Equipment</Equipment>
-  <Apparel>Apparel</Apparel>
-  <Inventory>Inventory</Inventory>
-  <ThingInfo>Information</ThingInfo>
-  <DropThing>Drop</DropThing>
-  <Rename>Rename</Rename>
-  <RenameAnimal>Rename animal</RenameAnimal>
-  <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
-  <On>On</On>
-  <Off>Off</Off>
-  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <FreshMissingBodyPart>свіже</FreshMissingBodyPart>
+  <DevelopedImmunityLower>здобув імунітет</DevelopedImmunityLower>
+  <NeedsTendingNow>Вже потребує догляду</NeedsTendingNow>
+  <CanTendNow>Може доглянути зараз</CanTendNow>
+  <TreatmentExpiresIn>Догляд спливе через {0}</TreatmentExpiresIn>
+  <NextTendIn>Можна буде доглянути через {0}</NextTendIn>
+  <TendQuality>Якість догдяду</TendQuality>
+  <MissingMedicalBillIngredient>немає {0}</MissingMedicalBillIngredient>
+  <Immunity>Імунітет</Immunity>
+  <Race>Раса</Race>
+  <Description>Опис</Description>
+  <Equipment>Спорядження</Equipment>
+  <Apparel>Одяг</Apparel>
+  <Inventory>Інвентар</Inventory>
+  <ThingInfo>Інформація</ThingInfo>
+  <DropThing>Зняти</DropThing>
+  <Rename>Переназвати</Rename>
+  <RenameAnimal>Переназвати тварину</RenameAnimal>
+  <RenameColonist>Переназвати колоніста</RenameColonist>
+  <UnknownLower>невідомо</UnknownLower>
+  <On>Увімкнено</On>
+  <Off>Вимкнено</Off>
+  <PowerSwitch_Power>Струм</PowerSwitch_Power>
   <JoyTolerances>Recreation type tolerances</JoyTolerances>
-  <MilkFullness>Milk fullness</MilkFullness>
+  <MilkFullness>Повнота молока</MilkFullness>
   <WoolGrowth>Wool growth</WoolGrowth>
   <EggProgress>Egg progress</EggProgress>
   <Fertilized>Fertilized</Fertilized>
