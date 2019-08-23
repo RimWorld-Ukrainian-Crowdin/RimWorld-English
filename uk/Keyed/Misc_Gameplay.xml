@@ -2,8 +2,8 @@
 <LanguageData>
 
   <!-- Various -->
-  <HitPointsBasic>hit points</HitPointsBasic>
-  <WorkLeft>Work left</WorkLeft>
+  <HitPointsBasic>здоров’я</HitPointsBasic>
+  <WorkLeft>Роботи лишилося</WorkLeft>
   <Contents>Contents</Contents>
   <ContainedResources>Contained resources</ContainedResources>
   <ForPrisonerUse>For prisoner use</ForPrisonerUse>
