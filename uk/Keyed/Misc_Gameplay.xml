@@ -544,7 +544,7 @@
 
   <!-- Learning helper -->
   <LearningHelper>Навчальний помічник</LearningHelper>
-  <MarkLearned>Позначити як вивчене</MarkLearned>
+  <MarkLearned>Позначити вивченим</MarkLearned>
   <AlreadyLearned>Вже вивчено</AlreadyLearned>
   <Filter>Фільтр</Filter>
 
