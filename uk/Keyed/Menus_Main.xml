@@ -28,9 +28,9 @@
   <CreateWorld>Створити світ</CreateWorld>
 
   <!--=========== Main menu translations info window ===========-->
-  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers.</TranslationThanks>
-  <TranslationHowToContribute>You can contribute too. Click below to learn more (opens web browser).</TranslationHowToContribute>
-  <LearnMore>Learn more</LearnMore>
+  <TranslationThanks>Фанати перекладають цю гру. Цей фанатський переклад зробили перелічені далі чудові добровольці.</TranslationThanks>
+  <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-бравзері).</TranslationHowToContribute>
+  <LearnMore>Дізнатися більше</LearnMore>
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Переглянути світ</ReviewWorld>
@@ -69,7 +69,7 @@
   <OpenSteamWorkshop>Відкрити Майстерню Steam</OpenSteamWorkshop>
   <GetModsFromForum>Отримати моди з форуму</GetModsFromForum>
   <OpenModsDataFolder>Відкрити теку з модами</OpenModsDataFolder>
-  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
+  <ShowModsDataLocation>Показати папку з даними модів</ShowModsDataLocation>
   <ConfirmDisableCoreMod>Ви впевнені, що хочете відключити основний мод? Гра не працюватиме взагалі, якщо ви не маєте іншого мода, який замінює усі основні функціональні можливості.\n\nПамʼятайте, що інші моди можуть перевизначати defs в основному моді, використовуючи ті ж самі defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Ви впевнені, що хочете видалити весь контент для {0}?</ConfirmDeleteMod>
   <Unsubscribe>Відписатися</Unsubscribe>
