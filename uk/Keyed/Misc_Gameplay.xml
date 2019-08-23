@@ -23,7 +23,7 @@
   <FilthOnFeet>Бруду на ногах:</FilthOnFeet>
   <NotEnoughStoredLower>недостатньо на складах</NotEnoughStoredLower>
   <NothingLower>нічого</NothingLower>
-  <Adapted>Adapted</Adapted>
+  <Adapted>Пристосувався</Adapted>
   <FreshMissingBodyPart>свіже</FreshMissingBodyPart>
   <DevelopedImmunityLower>здобув імунітет</DevelopedImmunityLower>
   <NeedsTendingNow>Вже потребує догляду</NeedsTendingNow>
@@ -543,10 +543,10 @@
   <DeepDrillExhaustedNoFallback>Deep drill resources exhausted.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
-  <LearningHelper>Learning helper</LearningHelper>
-  <MarkLearned>Mark as learned</MarkLearned>
-  <AlreadyLearned>Already learned</AlreadyLearned>
-  <Filter>Filter</Filter>
+  <LearningHelper>Навчальний помічник</LearningHelper>
+  <MarkLearned>Позначити як вивчене</MarkLearned>
+  <AlreadyLearned>Вже вивчено</AlreadyLearned>
+  <Filter>Фільтр</Filter>
 
   <!-- Compass -->
   <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
