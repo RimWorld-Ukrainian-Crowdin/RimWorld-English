@@ -31,7 +31,7 @@
   <MessageAlreadyPreferredName>Це ім'я вже в списку бажаних.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Вибрати казкаря</ChangeStoryteller>
   <AutosaveInterval>Автозбереження</AutosaveInterval>
-  <TemperatureMode>Температурна шкала</TemperatureMode>
+  <TemperatureMode>Температура</TemperatureMode>
   <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
   <MaxNumberOfPlayerSettlements>Максимальна кількість колоній: {0}</MaxNumberOfPlayerSettlements>
   <PlantWindSway>Рослини коливаються вітром</PlantWindSway>
