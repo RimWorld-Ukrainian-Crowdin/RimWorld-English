@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Аудіовізуалізація</Audiovisuals>
+  <Audiovisuals>Звук та відео</Audiovisuals>
   <GameVolume>Гучність гри</GameVolume>
   <MusicVolume>Гучність музики</MusicVolume>
   <AmbientVolume>Гучність довкілля</AmbientVolume>
@@ -12,8 +12,8 @@
   <EdgeScreenScroll>Прокручування мишею країв екрану</EdgeScreenScroll>
   <PauseOnLoad>Пауза при завантаженні</PauseOnLoad>
   <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
-  <CustomCursor>Користувацький курсор</CustomCursor>
-  <HatsShownOnlyOnMap>Показувати капелюхи лише на ігровій мапі</HatsShownOnlyOnMap>
+  <CustomCursor>Власний курсор</CustomCursor>
+  <HatsShownOnlyOnMap>Показувати капелюхи лише на мапі</HatsShownOnlyOnMap>
   <UIScale>Розмір Інтерфейсу</UIScale>
 	<KeyboardConfig>Конфігурація клавіатури</KeyboardConfig>
   <ChooseLanguage>Змінити Мову</ChooseLanguage>
@@ -24,7 +24,7 @@
   <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
   <LogVerbose>Ведення докладного журналу</LogVerbose>
   <OpenSaveGameDataFolder>Відкрити теку зі збереженими даними</OpenSaveGameDataFolder>
-  <ShowSaveGameDataLocation>Show save data location</ShowSaveGameDataLocation>
+  <ShowSaveGameDataLocation>Показати папку з файлами збережень</ShowSaveGameDataLocation>
   <NamesYouWantToSee>Preferred player-created characters. These characters will be more likely to randomly appear during play:</NamesYouWantToSee>
   <AddName>Додати ім'я</AddName>
   <TypeFirstNickOrLastName>Введіть ім'я, прізвисько чи прізвище.</TypeFirstNickOrLastName>
@@ -33,7 +33,7 @@
   <AutosaveInterval>Інтервал автозбереження</AutosaveInterval>
   <TemperatureMode>Температурна шкала</TemperatureMode>
   <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
-  <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Максимальна кількість колоній: {0}</MaxNumberOfPlayerSettlements>
   <PlantWindSway>Рослини коливаються вітром</PlantWindSway>
   <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
   <MaxPermadeathAutosaveIntervalInfo>Максимальний інтервал автозбереження в режимі постійної смерті становить {0} день.</MaxPermadeathAutosaveIntervalInfo>
