@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <DesignatorCancel>Скасувати</DesignatorCancel>
   <DesignatorCancelDesc>Скасувати призначені будівництва, видобуток, перевезення, збір врожаю та всі інші призначення.</DesignatorCancelDesc>
 
@@ -41,8 +41,8 @@
   <DesignatorForbid>Forbid</DesignatorForbid>
   <DesignatorForbidDesc>Mark items as forbidden. Colonists will not be able to interact with the designated items.</DesignatorForbidDesc>
 
-  <DesignatorUnforbid>Unforbid</DesignatorUnforbid>
-  <DesignatorUnforbidDesc>Mark items as unforbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
+  <DesignatorUnforbid>Allow</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Mark items as not forbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>Розширити домашню територію</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Колоністи будуть ремонтувати будівлі, очищати підлогу і тушити пожежу тільки на домашній території.</DesignatorAreaHomeExpandDesc>
@@ -80,7 +80,7 @@
   <DesignatorZoneDeleteDesc>Видаляє зони, наприклад: склад або зона для вирощування.</DesignatorZoneDeleteDesc>
 
   <DesignatorZoneExpand>Expand zone</DesignatorZoneExpand>
-  
+
   <DesignatorClaim>Привласнити</DesignatorClaim>
   <DesignatorClaimDesc>Забрати нейтральні будівлі у власність колонії, в тому числі старовинні руїни і покинуті облогові бази. Привласнені будівлі можуть ремонтуватися і утримуватися твоїми колоністами.</DesignatorClaimDesc>
 
@@ -93,44 +93,39 @@
   <DesignatorStrip>Роздягти</DesignatorStrip>
   <DesignatorStripDesc>Зняти обладнання з трупів і поранених.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Перезарядити пастки</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Перезарядити пружину пастку для повторного використання.</DesignatorRearmTrapDesc>
-
   <DesignatorOpen>Відкрити</DesignatorOpen>
   <DesignatorOpenDesc>Відкрити контейнери.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Зарізати</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Зарізати приручену тварину.</DesignatorSlaughterDesc>
 
   <DesignatorTame>Приручити</DesignatorTame>
   <DesignatorTameDesc>Приручити дику тварину.</DesignatorTameDesc>
 
-
   <!-- Failure messages -->
   <UnchosenStuff>Не вибраний матеріал</UnchosenStuff>
   <TooCloseToMapEdge>Дуже близько до границі карти.</TooCloseToMapEdge>
   <OutOfBounds>Поза межами.</OutOfBounds>
   <CannotPlaceInUndiscovered>Не можна розмістити в недосліджених територіях.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Місце взаємодії блокується {0}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Interaction spot is blocked by {1_labelShort}.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Місце взаємодії поза межами.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Місце взаємодії заблокується {0}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {1_labelShort}.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} блокує місце взаємодії {1}.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Вибрана територія вже тут {0}.</TerrainIsAlready>
   <SurfaceBeingSmoothed>The surface is already marked for smoothing.</SurfaceBeingSmoothed>
   <IdenticalThingExists>Ідентична річ вже тут.</IdenticalThingExists>
   <IdenticalBlueprintExists>Ідентичний план вже тут.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Ця територія не може підтримувати це.</TerrainCannotSupport>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} requires terrain that can support: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <SpaceAlreadyOccupied>Територія вже зайнята.</SpaceAlreadyOccupied>
   <SpaceBeingSmoothed>Територія вже вирівнюється.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Потрібно вибрати підлогу з можливістю знищення.</TerrainMustBeRemovable>
   <MustBeOnMovingWater>The waterwheel must be on moving water.</MustBeOnMovingWater>
-  
-  
+
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Розширити {0} або\nСтворити нову {1}</ExpandOrCreateZone>
   <CreateNewZone>Створити нову {0}</CreateNewZone>
-  
-  
+
   <!-- Desc helpers -->
   <TransmitsPower>Передача потужності</TransmitsPower>
   <ConstructionNeeded>Потрібно будівництво</ConstructionNeeded>
