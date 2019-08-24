@@ -362,11 +362,11 @@
   <Ingredients>Ingredients</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0} grown</PercentGrowth>
-  <GrowthRate>Growth rate</GrowthRate>
+  <PercentGrowth>Виросло на {0}</PercentGrowth>
+  <GrowthRate>Темп росту</GrowthRate>
   <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
-  <PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
-  <PlantResting>Resting</PlantResting>
+  <PlantNeedsLightLevel>Потрібний рівень освітленості</PlantNeedsLightLevel>
+  <PlantResting>Відпочиває</PlantResting>
   <OutOfIdealTemperatureRange>Non-ideal temperature. Temperature growth multiplier: {0}%</OutOfIdealTemperatureRange>
   <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
