@@ -14,20 +14,21 @@
   <StatsReport_CharacterQuality>Властивість характеру</StatsReport_CharacterQuality>
   <StatsReport_Skills>Навички</StatsReport_Skills>
   <StatsReport_OtherStats>Інші навички</StatsReport_OtherStats>
-	<StatsReport_Health>Здоров'я</StatsReport_Health>
-	<HealthFactorPercentImpact>важливість {0}</HealthFactorPercentImpact>
-	<HealthOffsetScale>вплив {0}</HealthOffsetScale>
-	<HealthFactorMaxImpact>Максимум {0}</HealthFactorMaxImpact>
+  <StatsReport_Health>Здоров'я</StatsReport_Health>
+  <HealthFactorPercentImpact>важливість {0}</HealthFactorPercentImpact>
+  <HealthOffsetScale>вплив {0}</HealthOffsetScale>
+  <HealthFactorMaxImpact>Максимум {0}</HealthFactorMaxImpact>
   <HealthFactorAllowedDefect>якщо менше {0}</HealthFactorAllowedDefect>
-	<StatsReport_PostProcessed>Крива постобробки</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Крива постобробки</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Остаточне значення</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Базова ринкова ціна залежить від матеріалу виготовлення і кількості роботи.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Множник якості</StatsReport_QualityMultiplier>
+  <StatsReport_MaxGain>Max gain</StatsReport_MaxGain>
   <StatsReport_AgeMultiplier>Множник віку {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Множник здоров'я {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Множник настрою {0}</StatsReport_MoodMultiplier>
-	<StatsReport_LightMultiplier>Множник світла {0}</StatsReport_LightMultiplier>
-	<StatsReport_DifficultyMultiplier>Множник складністі {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_LightMultiplier>Множник світла {0}</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>Множник складністі {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>В ліжку</StatsReport_InBed>
   <StatsReport_Facilities>Споруди</StatsReport_Facilities>
   <StatsReport_BodySize>Множник розміру тіла {0}</StatsReport_BodySize>
@@ -39,9 +40,9 @@
   <StatsReport_LifeExpectancy>Очікувана тривалість життя</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Множник відсутніх частин тіла</StatsReport_MissingBodyParts>
   <StatsReport_GearAndInventoryMass>Спорядження та інвентар</StatsReport_GearAndInventoryMass>
-	<StatsReport_WornByCorpse>Множник перенесення трупів</StatsReport_WornByCorpse>
-	<AverageOfAllAttacks>середнє значення всіх атак</AverageOfAllAttacks>
-	<StatsReport_ScenarioFactor>Сценарій</StatsReport_ScenarioFactor>
+  <StatsReport_WornByCorpse>Множник перенесення трупів</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>середнє значення всіх атак</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>Сценарій</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>Інгредієнти</StatsReport_IngredientsMass>
   <StatsReport_PermanentlyDisabled>Постійно вимкнено.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
@@ -55,5 +56,6 @@
   <StatsReport_NotFlesh>Not flesh</StatsReport_NotFlesh>
   <StatsReport_NotFresh>Not fresh</StatsReport_NotFresh>
   <StatsReport_WildMan>Wild man</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>Attack</StatsReport_NonToolAttack>
 
 </LanguageData>
