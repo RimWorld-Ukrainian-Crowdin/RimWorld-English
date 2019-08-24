@@ -6,8 +6,8 @@
   <Architect_Orders.label>вкладка наказів</Architect_Orders.label>
   <Architect_Orders.description>Налаштування клавіш "Наказів" в секції Архітектура</Architect_Orders.description>
 
-  <Architect_Zone.label>вкладка зон</Architect_Zone.label>
-  <Architect_Zone.description>Налаштування клавіш "Зона" в секції Архітектура</Architect_Zone.description>
+  <Architect_Zone.label>zone tab</Architect_Zone.label>
+  <Architect_Zone.description>Key bindings for the "Zone" section of the Architect menu</Architect_Zone.description>
 
   <Architect_Structure.label>вкладка будівель</Architect_Structure.label>
   <Architect_Structure.description>Налаштування клавіш "Будівлі" в секції Архітектура</Architect_Structure.description>
@@ -30,8 +30,8 @@
   <Architect_Floors.label>вкладка підлоги</Architect_Floors.label>
   <Architect_Floors.description>Налаштування клавіш "Підлога" в секції Архітектура</Architect_Floors.description>
 
-  <Architect_Joy.label>вкладка відпочинку</Architect_Joy.label>
-  <Architect_Joy.description>Налаштування клавіш "Відпочинок" в секції Архітектура</Architect_Joy.description>
+  <Architect_Joy.label>recreation tab</Architect_Joy.label>
+  <Architect_Joy.description>Key bindings for the "Recreation" section of the Architect menu</Architect_Joy.description>
 
   <Architect_Ship.label>вкладка корабель</Architect_Ship.label>
   <Architect_Ship.description>Налаштування клавіш "Корабель" в секції Архітектура</Architect_Ship.description>
