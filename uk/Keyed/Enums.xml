@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- glow -->
+  <!-- Glow -->
   <Dark>Темрява</Dark>
   <Lit>Світло</Lit>
   <LitBrightly>Ярко</LitBrightly>
-  
-  <!-- history upload pref -->
-  <Unspecified>Не визначено</Unspecified>
-  <Always>Дозволено</Always>
-  <Never>Заборонено</Never>
-  
+
   <!-- Price types -->
   <PriceTypeVeryCheap>дуже дешево</PriceTypeVeryCheap>
   <PriceTypeCheap>дешево</PriceTypeCheap>
@@ -54,7 +49,7 @@
   <QualityCategoryShort_Excellent>відм</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>маст</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>лег</QualityCategoryShort_Legendary>
-  
+
   <!-- Hunger -->
   <HungerLevel_Starving>Помирає від голоду</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Дуже голодний(а)</HungerLevel_UrgentlyHungry>
@@ -73,7 +68,7 @@
   <Hilliness_LargeHills>великі пагорби</Hilliness_LargeHills>
   <Hilliness_Mountainous>гори</Hilliness_Mountainous>
   <Hilliness_Impassable>неможливі</Hilliness_Impassable>
-  
+
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Створення</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Перевірка</WorkshopInteractStage_SubmittingItem>
@@ -87,7 +82,7 @@
   <!-- Mod sources -->
   <ContentSource_LocalFolder>локальні файли</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-  
+
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>Без медичної допомоги</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Допомога лікаря, але без ліків</MedicalCareCategory_NoMeds>
@@ -99,7 +94,7 @@
   <HostilityResponseMode_Ignore>Ігнорувати</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Атакувати</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Втеча</HostilityResponseMode_Flee>
-  
+
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>зростає</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>вирощений</HediffGrowthMode_Stable>
@@ -122,17 +117,17 @@
   <PawnGenerationContext_All>всі персонажі</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>стартові персонажі гравця</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>не стартові персонажі</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
   <ShowAnimalNames>Імена тварин</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Приручені (тільки найменовані)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Приручені (всі)</AnimalNameDisplayMode_TameAll>
-  
+
   <!-- Temperature -->
   <Celsius>За Цельсієм</Celsius>
   <Fahrenheit>За Фаренгейтом</Fahrenheit>
   <Kelvin>В келвінах</Kelvin>
-  
+
   <!-- Direction8Way -->
   <Direction8Way_North_Short>Пн</Direction8Way_North_Short>
   <Direction8Way_NorthEast_Short>ПнСх</Direction8Way_NorthEast_Short>
@@ -142,7 +137,7 @@
   <Direction8Way_SouthWest_Short>ПдЗх</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>Зх</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>ПнЗх</Direction8Way_NorthWest_Short>
-  
+
   <!-- Diet category -->
   <DietCategory_NeverEats>Взагалі не їсть</DietCategory_NeverEats>
   <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
