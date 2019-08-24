@@ -110,7 +110,7 @@
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Оберіть ШІ казкаря</ChooseAIStoryteller>
-  <HowStorytellersWork>ШІ казкаря створює події, такі як піратські набіги, зменшення ресурсів або напади тварин. Їх вибір вплине на історію вашої колонії. Ці налаштування можна змінити в будь-який час.</HowStorytellersWork>
+  <HowStorytellersWork>ШІ казкаря створює події, такі як піратські набіги, випадіння ресурсів або напади тварин. Їх вибір вплине на історію вашої колонії. Ці налаштування можна змінити в будь-який час.</HowStorytellersWork>
   <MustChooseDifficulty>Будь ласка, оберіть рівень складності.</MustChooseDifficulty>
   <Difficulty>Рівень складності</Difficulty>
 
