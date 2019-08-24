@@ -371,9 +371,9 @@
   <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
   <Mature>Mature.</Mature>
-  <OutdoorGrowingPeriod>Growing period</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Never</NoGrowingPeriod>
-  <GrowYearRound>Year-round</GrowYearRound>
+  <OutdoorGrowingPeriod>Сезон росту</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Ніколи</NoGrowingPeriod>
+  <GrowYearRound>Цілий рік</GrowYearRound>
   <GrowSeasonHereNow>Growing season here now.</GrowSeasonHereNow>
   <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
   <Blighted>Blighted</Blighted>
