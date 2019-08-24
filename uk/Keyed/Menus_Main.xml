@@ -12,8 +12,8 @@
   <Mods>Модифікації</Mods>
   <SaveTranslationReport>Зберегти звіт перекладу</SaveTranslationReport>
   <GeneratingTranslationReport>Генерується звіт перекладу</GeneratingTranslationReport>
-  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
-  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
+  <CleanupTranslationFiles>Очистити файли перекладу</CleanupTranslationFiles>
+  <CleaningTranslationFiles>Очищення файлів перекладу</CleaningTranslationFiles>
   <Credits>Автори</Credits>
   <QuitToMainMenu>До головного меню</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Зберегти і вийти до меню</SaveAndQuitToMainMenu>
@@ -30,7 +30,7 @@
   <CreateWorld>Створити світ</CreateWorld>
 
   <!-- Main menu translations info window -->
-  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0}</TranslationThanks>
+  <TranslationThanks>Фанати перекладають цю гру. Цей фанатський переклад зробили перелічені далі чудові добровольці:\n\n{0}</TranslationThanks>
   <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-бравзері).</TranslationHowToContribute>
   <LearnMore>Дізнатися більше</LearnMore>
 
@@ -124,15 +124,15 @@
   <MustChoosePermadeath>Будь ласка, оберіть режим відданості, або режим перезавантаження будь-коли.</MustChoosePermadeath>
   <ReloadAnytimeModeInfo>Ти можеш зберігати та завантажувати гру будь-коли.\n\nЦе хороший варіант, якщо ти досі вчишся грати, якщо це твій власний стиль гри, якщо ти використовуєш моди, що можуть пошкодити гру, чи якщо ти самостійно контролюватимеш свій режим відданості.</ReloadAnytimeModeInfo>
   <PermadeathModeInfo>Зберігати гру можна тільки перед виходом.\n\nОскільки RimWorld є генератором історій, навіть втрата всіх, крім одного, колоністів - не кінець. Це лише частина історії. Гра розроблена так, щоб дозволити відновлення після втрат.\n\nПрогравання таких жахливих ситуацій робить історію одночасно і трагедією і тріумфом. RimWorld було задумано грати саме так.\n\nНа те є причина, що Люк Скайвокер не вийшов і перезавантажився, коли його сім'ю вбили. Втрати на відновлення додають драматизму.</PermadeathModeInfo>
-  <CanChangeStorytellerSettingsDuringPlay>Storyteller and difficulty can be changed any time.</CanChangeStorytellerSettingsDuringPlay>
-  <UnlockExtremeDifficulty>Merciless mode</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts.</ConfirmUnlockExtremeDifficulty>
+  <CanChangeStorytellerSettingsDuringPlay>Оповідача та складність можна змінити будь-коли.</CanChangeStorytellerSettingsDuringPlay>
+  <UnlockExtremeDifficulty>Немилосердний режим</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Немилосердний режим - це спеціальни ігровий режим, де всі виклики є надзвичайно складними.\n\nЦей режим розблоковується автоматично, коли ви досягаєте певних речей. Але ти можеш розблокувати його зараз.\n\nЦей варіант рекомендований тільки після того, як ти зіграв кілька ігор на високому рівні складності, маючи хороші шанси померти всупереш своїм зусиллям.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
-  <SelectStartingSite>Select starting site</SelectStartingSite>
-  <SelectRandomSite>Оберіть випадкове місце</SelectRandomSite>
+  <SelectStartingSite>Оберіть місце старту</SelectStartingSite>
+  <SelectRandomSite>Випадкове місце</SelectRandomSite>
   <SelectSite>Оберіть місце</SelectSite>
-  <MustSelectStartingSite>Please select a site.</MustSelectStartingSite>
+  <MustSelectStartingSite>Будь ласка, оберіть місце.</MustSelectStartingSite>
   <CannotLandBiome>Ви не можете приземлитися на цей біом: {0}</CannotLandBiome>
   <BiomeNotImplemented>Біом не реалізований</BiomeNotImplemented>
   <CannotLandImpassableMountains>Ви не можете приземлитися на непрохідні гори.</CannotLandImpassableMountains>
