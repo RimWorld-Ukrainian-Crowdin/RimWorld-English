@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
   <Tutorial>Посібник</Tutorial>
   <NewColony>Нова колонія</NewColony>
   <BackToGame>Повернутися до гри</BackToGame>
@@ -12,6 +12,8 @@
   <Mods>Модифікації</Mods>
   <SaveTranslationReport>Зберегти звіт перекладу</SaveTranslationReport>
   <GeneratingTranslationReport>Генерується звіт перекладу</GeneratingTranslationReport>
+  <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
+  <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
   <Credits>Автори</Credits>
   <QuitToMainMenu>До головного меню</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Зберегти і вийти до меню</SaveAndQuitToMainMenu>
@@ -27,12 +29,15 @@
   <BuySoundtrack>Купити саундтрек</BuySoundtrack>
   <CreateWorld>Створити світ</CreateWorld>
 
-  <!--=========== Main menu translations info window ===========-->
-  <TranslationThanks>Фанати перекладають цю гру. Цей фанатський переклад зробили перелічені далі чудові добровольці.</TranslationThanks>
+  <!-- Main menu translations info window -->
+  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0}</TranslationThanks>
   <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-бравзері).</TranslationHowToContribute>
   <LearnMore>Дізнатися більше</LearnMore>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu dev build -->
+  <DevBuildWarning>Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
+
+  <!-- Create/review world -->
   <ReviewWorld>Переглянути світ</ReviewWorld>
   <WorldGenerate>Згенерувати</WorldGenerate>
   <WorldSaveAndFinish>Зберегти і завершити</WorldSaveAndFinish>
@@ -51,21 +56,21 @@
   <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, оскільки це може зайняти дуже багато часу. Це відсоток поверхні, який ви бажаєте згенерувати.</PlanetCoverageTip>
   <WorldFactionsTab>Фракції</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
   <SelectWorld>Виберіть світ</SelectWorld>
   <WorldChooseButton>Обрати</WorldChooseButton>
   <NoWorldsFilesFound>Не знайдено файлів світу. Спочатку створіть світ.</NoWorldsFilesFound>
-  
-  <!--=========== Version info ==========-->
-  <BuildNowAvailable>Версія {0} наразі доступна. Перевірте ludeon.com для отримання додаткової інформації.</BuildNowAvailable>
-	<BuildUpToDate>Це остання версія.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Помилка при отриманні даних про версію: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Завантаження інформації щодо версії...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- Version info -->
+  <BuildNowAvailable>Версія {0} наразі доступна. Перевірте ludeon.com для отримання додаткової інформації.</BuildNowAvailable>
+  <BuildUpToDate>Це остання версія.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Помилка при отриманні даних про версію: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Завантаження інформації щодо версії...</LoadingVersionInfo>
+
+  <!-- World generator -->
   <GenerateWorld>Створити світ</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
   <OpenSteamWorkshop>Відкрити Майстерню Steam</OpenSteamWorkshop>
   <GetModsFromForum>Отримати моди з форуму</GetModsFromForum>
   <OpenModsDataFolder>Відкрити теку з модами</OpenModsDataFolder>
@@ -85,17 +90,18 @@
   <Source>Джерело</Source>
   <ModTargetVersion>Для версії: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>Цей мод розроблений не для цієї версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Мод повинен мати правильно відформатовану цільову версію в About.xml. Наприклад, так: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <ModNotMadeForThisVersion_Newer>Цей мод розроблений для новішої версії RimWorld і, ймовірно, буде правильно працювати.</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs properly formatted supported version information in About.xml. Like this: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; is deprecated. Check log for further information.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Перетягніть, щоб змінити порядок</DragToReorder>
-  
-  <!--=========== Select scenario =============-->
+
+  <!-- Select scenario -->
   <ChooseScenario>Оберіть сценарій</ChooseScenario>
   <ScenariosCustom>Власний</ScenariosCustom>
   <ScenariosSteamWorkshop>Майстерня Steam</ScenariosSteamWorkshop>
   <ScenarioEditor>Редактор сценаріїв</ScenarioEditor>
   <Delete>Видалити</Delete>
-  
-  <!--============ Scenario editor ===============-->
+
+  <!-- Scenario editor -->
   <Seed>зерно</Seed>
   <Load>Завантажити</Load>
   <EditMode>режим редагування</EditMode>
@@ -107,18 +113,26 @@
   <Incompatible>Несумісний</Incompatible>
   <TooMany>Забагато (максимум {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Може бути оновлено у Майстерні, оскільки ви є автором.</CanBeUpdatedOnWorkshop>
-  
-  <!--=========== Select storyteller ==========-->
+
+  <!-- Select storyteller -->
   <ChooseAIStoryteller>Оберіть ШІ казкаря</ChooseAIStoryteller>
   <HowStorytellersWork>ШІ казкаря створює події, такі як піратські набіги, випадіння ресурсів або напади тварин. Їх вибір вплине на історію вашої колонії. Ці налаштування можна змінити в будь-який час.</HowStorytellersWork>
   <MustChooseDifficulty>Будь ласка, оберіть рівень складності.</MustChooseDifficulty>
   <Difficulty>Рівень складності</Difficulty>
+  <CommitmentMode>Commitment mode</CommitmentMode>
+  <ReloadAnytimeMode>Reload anytime mode</ReloadAnytimeMode>
+  <MustChoosePermadeath>Please choose commitment mode or reload anytime mode.</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode.</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic.</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>Storyteller and difficulty can be changed any time.</CanChangeStorytellerSettingsDuringPlay>
+  <UnlockExtremeDifficulty>Merciless mode</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts.</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Landing site select =========-->
-  <SelectLandingSite>Оберіть місце приземлення</SelectLandingSite>
+  <!-- Site select -->
+  <SelectStartingSite>Select starting site</SelectStartingSite>
   <SelectRandomSite>Оберіть випадкове місце</SelectRandomSite>
   <SelectSite>Оберіть місце</SelectSite>
-  <MustSelectLandingSite>Будь ласка, оберіть місце приземлення.</MustSelectLandingSite>
+  <MustSelectStartingSite>Please select a site.</MustSelectStartingSite>
   <CannotLandBiome>Ви не можете приземлитися на цей біом: {0}</CannotLandBiome>
   <BiomeNotImplemented>Біом не реалізований</BiomeNotImplemented>
   <CannotLandImpassableMountains>Ви не можете приземлитися на непрохідні гори.</CannotLandImpassableMountains>
@@ -133,7 +147,7 @@
   <Elevation>Височина</Elevation>
   <Fertility>Родючість</Fertility>
   <AvgTemp>Середня температура</AvgTemp>
-	<Rainfall>Кількість опадів</Rainfall>
+  <Rainfall>Кількість опадів</Rainfall>
   <SpecialFeatures>Особливості</SpecialFeatures>
   <HasCoast0>північне узбережжя</HasCoast0>
   <HasCoast1>східне узбережжя</HasCoast1>
@@ -143,15 +157,14 @@
   <FactionBase>База фракції</FactionBase>
   <StoneTypesHere>Типи каменю</StoneTypesHere>
   <TimeZone>Часовий пояс</TimeZone>
-	<MovementDifficulty>Movement difficulty</MovementDifficulty>
+  <MovementDifficulty>Movement difficulty</MovementDifficulty>
   <AnimalsCanGrazeNow>Тварини можуть пастися зараз</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Середня частота захворювань</AverageDiseaseFrequency>
   <PerYear>за рік</PerYear>
   <Forageability>Forageability</Forageability>
   <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-	<!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
   <CreateCharacters>Створення персонажів</CreateCharacters>
   <FirstNameDesc>Імʼя персонажа.\n\nВідображається лише в деяких меню.</FirstNameDesc>
   <ShortIdentifierDesc>Короткий ідентифікатор персонажа.\n\nВідображається завжди. Це може бути імʼя або прізвище, або повністю окреме прізвисько.</ShortIdentifierDesc>
@@ -169,14 +182,16 @@
   <Current>Current</Current>
   <Male>чоловік</Male>
   <Female>жінка</Female>
+  <MaleAnimal>male</MaleAnimal>
+  <FemaleAnimal>female</FemaleAnimal>
   <Pain>Біль</Pain>
   <Health>Здоров'я</Health>
   <Relations>Відносини</Relations>
   <TeamSkills>Командні навички</TeamSkills>
   <StartingPawnsSelected>Обрано</StartingPawnsSelected>
   <StartingPawnsLeftBehind>Залишилися позаду</StartingPawnsLeftBehind>
-  
-  <!--=========== Misc ==========-->
+
+  <!-- Misc -->
   <Start>Почати</Start>
   <Advanced>Додатково</Advanced>
   <Next>Далі</Next>
@@ -187,8 +202,8 @@
   <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
   <Quit>Вийти</Quit>
   <Ignore>Ігнорувати</Ignore>
-  
-  <!--============ Progress bar==============-->
+
+  <!-- Progress bar -->
   <GeneratingWorld>Створення світу</GeneratingWorld>
   <GeneratingPlanet>Створення планети</GeneratingPlanet>
   <GeneratingMap>Створення мапи</GeneratingMap>
