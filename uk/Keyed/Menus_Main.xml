@@ -125,8 +125,8 @@
   <ReloadAnytimeModeInfo>Ти можеш зберігати та завантажувати гру будь-коли.\n\nЦе хороший варіант, якщо ти досі вчишся грати, якщо це твій власний стиль гри, якщо ти використовуєш моди, що можуть пошкодити гру, чи якщо ти самостійно контролюватимеш свій режим відданості.</ReloadAnytimeModeInfo>
   <PermadeathModeInfo>Зберігати гру можна тільки перед виходом.\n\nОскільки RimWorld є генератором історій, навіть втрата всіх, крім одного, колоністів - не кінець. Це лише частина історії. Гра розроблена так, щоб дозволити відновлення після втрат.\n\nПрогравання таких жахливих ситуацій робить історію одночасно і трагедією і тріумфом. RimWorld було задумано грати саме так.\n\nНа те є причина, що Люк Скайвокер не вийшов і перезавантажився, коли його сім'ю вбили. Втрати на відновлення додають драматизму.</PermadeathModeInfo>
   <CanChangeStorytellerSettingsDuringPlay>Оповідача та складність можна змінити будь-коли.</CanChangeStorytellerSettingsDuringPlay>
-  <UnlockExtremeDifficulty>Немилосердний режим</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>Немилосердний режим - це спеціальни ігровий режим, де всі виклики є надзвичайно складними.\n\nЦей режим розблоковується автоматично, коли ви досягаєте певних речей. Але ти можеш розблокувати його зараз.\n\nЦей варіант рекомендований тільки після того, як ти зіграв кілька ігор на високому рівні складності, маючи хороші шанси померти всупереш своїм зусиллям.</ConfirmUnlockExtremeDifficulty>
+  <UnlockExtremeDifficulty>Безжальний режим</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Безжальний режим - це спеціальни ігровий режим, де всі виклики є надзвичайно складними.\n\nЦей режим розблоковується автоматично, коли ви досягаєте певних речей. Але ти можеш розблокувати його зараз.\n\nЦей варіант рекомендований тільки після того, як ти зіграв кілька ігор на високому рівні складності, маючи хороші шанси померти всупереш своїм зусиллям.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <SelectStartingSite>Оберіть місце старту</SelectStartingSite>
@@ -182,8 +182,8 @@
   <Current>Current</Current>
   <Male>чоловік</Male>
   <Female>жінка</Female>
-  <MaleAnimal>male</MaleAnimal>
-  <FemaleAnimal>female</FemaleAnimal>
+  <MaleAnimal>самець</MaleAnimal>
+  <FemaleAnimal>самка</FemaleAnimal>
   <Pain>Біль</Pain>
   <Health>Здоров'я</Health>
   <Relations>Відносини</Relations>
@@ -199,7 +199,7 @@
   <Gameplay>Геймплей</Gameplay>
   <ConfirmQuit>Дійсно вийти? Ви втратите усі незбережені дані.</ConfirmQuit>
   <EveryoneNeedsValidName>Кожна особа потребує дійсного імені.</EveryoneNeedsValidName>
-  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Жодна обрана особа не може виконати такі завдання</RequiredWorkTypeDisabledForEveryone>
   <Quit>Вийти</Quit>
   <Ignore>Ігнорувати</Ignore>
 
