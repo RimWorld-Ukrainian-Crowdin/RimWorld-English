@@ -157,11 +157,11 @@
   <FactionBase>База фракції</FactionBase>
   <StoneTypesHere>Типи каменю</StoneTypesHere>
   <TimeZone>Часовий пояс</TimeZone>
-  <MovementDifficulty>Movement difficulty</MovementDifficulty>
+  <MovementDifficulty>Важкість пересування</MovementDifficulty>
   <AnimalsCanGrazeNow>Тварини можуть пастися зараз</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>Середня частота захворювань</AverageDiseaseFrequency>
   <PerYear>за рік</PerYear>
-  <Forageability>Forageability</Forageability>
+  <Forageability>Наявність харчів</Forageability>
   <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
