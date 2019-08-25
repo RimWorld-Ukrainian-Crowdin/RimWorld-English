@@ -1,7 +1,7 @@
 files:
-  - source: '*.txt'
+  - source: '/**/*.txt'
     translation: '%original_path%/%original_file_name%'
-  - source: '*.xml'
+  - source: '/**/*.xml'
     translation: '%original_path%/%original_file_name%'
     translate_attributes: 0
     content_segmentation: 0
