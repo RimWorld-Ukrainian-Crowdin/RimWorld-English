@@ -30,7 +30,7 @@
   <DesignatorMineDesc>Призначити зону каменю для видобування.</DesignatorMineDesc>
 
   <DesignatorSmoothSurface>Полірувати поверхню</DesignatorSmoothSurface>
-  <DesignatorSmoothSurfaceDesc>Designate rough stone terrain and walls to be smoothed.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Запланувати полірування кам'яного покриття чи стін.</DesignatorSmoothSurfaceDesc>
 
   <DesignatorPlan>Планування</DesignatorPlan>
   <DesignatorPlanDesc>Встановити позначки планування. Вони нічого не роблять, а лише допомагають планувати майбутні розширення.</DesignatorPlanDesc>
@@ -75,11 +75,11 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Створує склад де колоністи будуть зберігати сміття.\nМоже бути використаним для існуючого складу.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Shrink zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteSingular>Shrink zone</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDelete>Зменшити зони</DesignatorZoneDelete>
+  <DesignatorZoneDeleteSingular>Зменшити зону</DesignatorZoneDeleteSingular>
   <DesignatorZoneDeleteDesc>Видаляє зони, наприклад: склад або зона для вирощування.</DesignatorZoneDeleteDesc>
 
-  <DesignatorZoneExpand>Expand zone</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Розширити зону</DesignatorZoneExpand>
 
   <DesignatorClaim>Привласнити</DesignatorClaim>
   <DesignatorClaimDesc>Забрати нейтральні будівлі у власність колонії, в тому числі старовинні руїни і покинуті облогові бази. Привласнені будівлі можуть ремонтуватися і утримуватися твоїми колоністами.</DesignatorClaimDesc>
@@ -87,8 +87,8 @@
   <DesignatorRemoveFloor>Розібрати підлогу</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Видаляє підлогу і показує територію під ним.</DesignatorRemoveFloorDesc>
 
-  <DesignatorRemoveBridge>Remove bridge</DesignatorRemoveBridge>
-  <DesignatorRemoveBridgeDesc>Remove bridges to reveal the terrain underneath.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridge>Розібрати моста</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>Розібрати мости та розкрити приховані під ними поверхні.</DesignatorRemoveBridgeDesc>
 
   <DesignatorStrip>Роздягти</DesignatorStrip>
   <DesignatorStripDesc>Зняти обладнання з трупів і поранених.</DesignatorStripDesc>
@@ -107,12 +107,12 @@
   <TooCloseToMapEdge>Дуже близько до границі карти.</TooCloseToMapEdge>
   <OutOfBounds>Поза межами.</OutOfBounds>
   <CannotPlaceInUndiscovered>Не можна розмістити в недосліджених територіях.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked by {1_labelShort}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>{1_labelShort} блокує місце взаємодії.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Місце взаємодії поза межами.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>{1_labelShort} заблокує місце взаємодії.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} блокує місце взаємодії {1}.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Вибрана територія вже тут {0}.</TerrainIsAlready>
-  <SurfaceBeingSmoothed>The surface is already marked for smoothing.</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Територія вже відмічена для полірування.</SurfaceBeingSmoothed>
   <IdenticalThingExists>Ідентична річ вже тут.</IdenticalThingExists>
   <IdenticalBlueprintExists>Ідентичний план вже тут.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Ця територія не може підтримувати це.</TerrainCannotSupport>
