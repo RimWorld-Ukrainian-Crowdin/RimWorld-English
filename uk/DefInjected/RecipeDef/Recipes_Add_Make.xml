@@ -21,9 +21,9 @@
 
   <!-- Recipe Users: Campfire, ElectricStove, FueledStove -->
 
-  <Make_PsychiteTea.label>make psychite tea</Make_PsychiteTea.label>
-  <Make_PsychiteTea.description>Make psychite tea.</Make_PsychiteTea.description>
-  <Make_PsychiteTea.jobString>Making psychite tea.</Make_PsychiteTea.jobString>
+  <Make_PsychiteTea.label>заварити психоїдний чай</Make_PsychiteTea.label>
+  <Make_PsychiteTea.description>Заварити психоїдний чай.</Make_PsychiteTea.description>
+  <Make_PsychiteTea.jobString>Заварює психоїдний чай.</Make_PsychiteTea.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
@@ -114,9 +114,9 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_MedicineIndustrial.label>make medicine</Make_MedicineIndustrial.label>
-  <Make_MedicineIndustrial.description>Make medicine.</Make_MedicineIndustrial.description>
-  <Make_MedicineIndustrial.jobString>Making medicine.</Make_MedicineIndustrial.jobString>
+  <Make_MedicineIndustrial.label>зробити ліки</Make_MedicineIndustrial.label>
+  <Make_MedicineIndustrial.description>Зробити ліки.</Make_MedicineIndustrial.description>
+  <Make_MedicineIndustrial.jobString>Ваготовляє ліки.</Make_MedicineIndustrial.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
