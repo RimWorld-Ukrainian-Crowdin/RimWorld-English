@@ -29,7 +29,7 @@
   <AddName>Додати ім'я</AddName>
   <TypeFirstNickOrLastName>Введіть ім'я, прізвисько чи прізвище.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Це ім'я вже в списку бажаних.</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Storyteller settings</ChangeStoryteller>
+  <ChangeStoryteller>Вибрати казкаря</ChangeStoryteller>
   <AutosaveInterval>Автозбереження</AutosaveInterval>
   <TemperatureMode>Температура</TemperatureMode>
   <ShowRealtimeClock>Показати реальний час</ShowRealtimeClock>
