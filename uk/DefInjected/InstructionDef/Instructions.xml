@@ -3,7 +3,7 @@
 
   <CreateWorldParams.text>Вітаємо у грі Rimworld! Цей посібник навчить вас, як грати у гру.\n\nСпочатку необхідно створити світ, в якому будете грати.\n\nНа цій сторінці можна обрати параметри, за якими буде згенерований ваш світ.\n\nНа цей раз вистачить налаштувань за замовчуванням — просто йдіть далі, натиснувши кнопку СТВОРИТИ!</CreateWorldParams.text>
 
-  <ChooseLandingSite.text>Here you choose your starting site.\n\nClick a spot with temperate forest biome and no hills. This will be a light green area with brown dots. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Тут ви можете обрати стартову позицію.\n\nОберіть місце з помірним лісонасадженням та відсутністю пагорбів. This will be a light green area with brown dots. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
   <ChooseLandingSite.rejectInputMessage>Please choose a temperate forest site with no hills (light green with no brown dots).</ChooseLandingSite.rejectInputMessage>
 
   <ReorderCharacters.text>Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her.</ReorderCharacters.text>
