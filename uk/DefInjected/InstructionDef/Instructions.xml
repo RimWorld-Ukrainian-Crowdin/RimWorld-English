@@ -48,9 +48,9 @@
   <BuildAnimalSleepingSpot.rejectInputMessage>Побудуйте місце сну для тварини в кімнаті.</BuildAnimalSleepingSpot.rejectInputMessage>
   <BuildAnimalSleepingSpot.onMapInstruction>Побудуйте місце сну\nдля тварини в кімнаті</BuildAnimalSleepingSpot.onMapInstruction>
 
-  <BuildHorseshoesPin.text>Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room.</BuildHorseshoesPin.text>
-  <BuildHorseshoesPin.rejectInputMessage>Побудуйте палку для підков біля вашої кімнати.</BuildHorseshoesPin.rejectInputMessage>
-  <BuildHorseshoesPin.onMapInstruction>Вашим людям потрібні розваги</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.text>Ви полюбляєте відпочити та розвіятись? Ось і ваші колоністи потребуют.\n\nПобудуйте СТОВП ДЛЯ КИДАННЯ ПІДКОВ зовні, неподалік від будинку.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.rejectInputMessage>Побудуйте Стовп Для Кидання Підков біля вашої кімнати.</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.onMapInstruction>Побудуйте стовп для кидання підков\nпоза кімнатою</BuildHorseshoesPin.onMapInstruction>
 
   <MakeGrowingZone.text>Ваші люди будують собі житло!\n\nЇм треба щось їсти, тому розмістить ЗОНУ РОСТУ в місці, показаному на екрані.\n\nВаші колоністи будуть вирощувати рослини там.</MakeGrowingZone.text>
   <MakeGrowingZone.rejectInputMessage>Розмітьте зону росту у вказаному місці.</MakeGrowingZone.rejectInputMessage>
