@@ -40,15 +40,15 @@
   <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] кличе [RECIPIENT_nameDef] повернутися назад до спільноти.</TameAttempt.logRulesInitiator.rulesStrings.11>
   <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] затиснув вразливу частину тіла [RECIPIENT_nameDef], вимагаючи слухняності.</TameAttempt.logRulesInitiator.rulesStrings.12>
   <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] вказав на землю з наказом [RECIPIENT_nameDef] підійти.</TameAttempt.logRulesInitiator.rulesStrings.13>
-  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</TameAttempt.logRulesInitiator.rulesStrings.14>
+  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] подав [RECIPIENT_nameDef] першу команду.</TameAttempt.logRulesInitiator.rulesStrings.14>
 
   <TrainAttempt.label>спроба тренувати</TrainAttempt.label>
   <TrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
-  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] to train</TrainAttempt.logRulesInitiator.rulesStrings.1>
-  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] to show a new trick to</TrainAttempt.logRulesInitiator.rulesStrings.2>
-  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] to discipline</TrainAttempt.logRulesInitiator.rulesStrings.3>
-  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] to instruct</TrainAttempt.logRulesInitiator.rulesStrings.4>
-  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] to encourage a new skill in</TrainAttempt.logRulesInitiator.rulesStrings.5>
+  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] тренувати</TrainAttempt.logRulesInitiator.rulesStrings.1>
+  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] показує новий трюк</TrainAttempt.logRulesInitiator.rulesStrings.2>
+  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] вишкалює</TrainAttempt.logRulesInitiator.rulesStrings.3>
+  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] пояснює</TrainAttempt.logRulesInitiator.rulesStrings.4>
+  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] перевірити нову навичку у</TrainAttempt.logRulesInitiator.rulesStrings.5>
   <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->demonstrated a skill to</TrainAttempt.logRulesInitiator.rulesStrings.6>
   <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->encouraged a new response from</TrainAttempt.logRulesInitiator.rulesStrings.7>
   <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->tried</TrainAttempt.logRulesInitiator.rulesStrings.8>
