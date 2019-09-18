@@ -22,12 +22,12 @@
   <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->заспівав старовинну колискову</AnimalChat.logRulesInitiator.rulesStrings.17>
   <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->рішуче проте ніжно торкнувся</AnimalChat.logRulesInitiator.rulesStrings.18>
   <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->демонструє байдуже відношення</AnimalChat.logRulesInitiator.rulesStrings.19>
-  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->sat patiently near</AnimalChat.logRulesInitiator.rulesStrings.20>
-  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->whispered a story about [TalkTopicAny] to</AnimalChat.logRulesInitiator.rulesStrings.21>
+  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->терпляче сидить поряд</AnimalChat.logRulesInitiator.rulesStrings.20>
+  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->прошепотів історію про [TalkTopicAny] до</AnimalChat.logRulesInitiator.rulesStrings.21>
 
   <TameAttempt.label>спроба приручити</TameAttempt.label>
-  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
-  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</TameAttempt.logRulesInitiator.rulesStrings.1>
+  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] спроба приручити [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] приручення [RECIPIENT_nameDef] під контролем.</TameAttempt.logRulesInitiator.rulesStrings.1>
   <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
   <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
   <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
