@@ -102,11 +102,11 @@
   <ExpandAreaBuildRoof.rejectInputMessage>Розширте зону будування даху, хоча б трошки.</ExpandAreaBuildRoof.rejectInputMessage>
 
   <BuildSandbags.text>Чудово! Тепер ви знаєте основи будування колонії! Зрештою, хтось може напасти на ваше поселення. Хочеш миру? Готуйся до війни!\n\nОберіть МІШКИ З ПІСКОМ в меню ЗАХИСТ та побудуйте їх у зазначеному місці.</BuildSandbags.text>
-  <BuildSandbags.rejectInputMessage>Побудуйте укріплення на підсвіченій ділянці.</BuildSandbags.rejectInputMessage>
-  <BuildSandbags.onMapInstruction>Побудуйте укріплення тут</BuildSandbags.onMapInstruction>
+  <BuildSandbags.rejectInputMessage>Побудуйте мішки з піском на підсвіченій ділянці.</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.onMapInstruction>Побудуйте мішки з піском тут</BuildSandbags.onMapInstruction>
 
   <FinishSandbags.text>Тепер почекаємо, доки ваші люди збудують укріплення.\n\nВи завжди можете призначити більше людей до "Будування" через вкладку "Праця".\n\nТакож, ви можете пришвидшити час гри, щоб чекати менше.\n\nКоли все буде готово — я пошлю на вас розбійника, щоб випробувати ваш захист!</FinishSandbags.text>
-  <FinishSandbags.rejectInputMessage>Чекайте, доки поселенці добудовують укріплення.</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.rejectInputMessage>Чекайте, доки поселенці добудовують мішки з піском.</FinishSandbags.rejectInputMessage>
 
   <DownRaider.text>Я наказав бандиту атакувати вашу колонію\n\n1. Поставте гру на паузу кнопкою {Key:TogglePause}!\n2. Прочитайте червоне сповіщення внизу праворуч.\n3. Оберіть всіх колоністів та переведіть їх в бойовий режим. В ньому вони будуть виконувати усі ваші накази, пов'язані з боєм.\n4. Накажіть їм підійти впритул до укріплень.\n5. Зніміть паузу.\n\nКолоністи повинні стояти якомога ближче до укріплень, щоб використати їх як укриття. Коли всі будуть на місцях — просто почекайте, доки зловмисник підійде ближче. Колоністи відкриють вогонь автоматично.</DownRaider.text>
   <DownRaider.rejectInputMessage>Здобудьте перемогу в битві!</DownRaider.rejectInputMessage>
