@@ -101,7 +101,7 @@
   <ExpandAreaBuildRoof.text>ЗОНА БУДУВАННЯ ДАХУ потрібна, щоб розмітити де вашим колоністам потрібен дах над головою.\n\nВона створюється автоматично коли нову кімнату повністю збудовано.\n\nОберіть РОЗШИРИТИ ЗОНУ БУДУВАННЯ ДАХУ та зробіть ґанок перед вашим будинком.</ExpandAreaBuildRoof.text>
   <ExpandAreaBuildRoof.rejectInputMessage>Розширте зону будування даху, хоча б трошки.</ExpandAreaBuildRoof.rejectInputMessage>
 
-  <BuildSandbags.text>Чудово! Тепер ви знаєте основи будування колонії! Зрештою, хтось може напасти на ваше поселення. Ви можете підготуватися до атаки вже зараз.\n\nОберіть УКРІПЛЕННЯ в меню ЗАХИСТ та побудуйте їх у зазначеному місці.</BuildSandbags.text>
+  <BuildSandbags.text>Чудово! Тепер ви знаєте основи будування колонії! Зрештою, хтось може напасти на ваше поселення. Хочеш миру? Готуйся до війни!\n\nОберіть МІШКИ З ПІСКОМ в меню ЗАХИСТ та побудуйте їх у зазначеному місці.</BuildSandbags.text>
   <BuildSandbags.rejectInputMessage>Побудуйте укріплення на підсвіченій ділянці.</BuildSandbags.rejectInputMessage>
   <BuildSandbags.onMapInstruction>Побудуйте укріплення тут</BuildSandbags.onMapInstruction>
 
