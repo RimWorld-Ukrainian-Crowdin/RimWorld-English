@@ -33,13 +33,13 @@
   <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] кличе [RECIPIENT_nameDef] до себе [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
   <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] подає команду [RECIPIENT_nameDef] сидіти.</TameAttempt.logRulesInitiator.rulesStrings.5>
   <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] уважно переслідував [RECIPIENT_nameDef] та подав команду.</TameAttempt.logRulesInitiator.rulesStrings.6>
-  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</TameAttempt.logRulesInitiator.rulesStrings.7>
-  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
-  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</TameAttempt.logRulesInitiator.rulesStrings.9>
-  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</TameAttempt.logRulesInitiator.rulesStrings.10>
-  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</TameAttempt.logRulesInitiator.rulesStrings.11>
-  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</TameAttempt.logRulesInitiator.rulesStrings.12>
-  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</TameAttempt.logRulesInitiator.rulesStrings.13>
+  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] спроба утримувати [RECIPIENT_nameDef] струнко.</TameAttempt.logRulesInitiator.rulesStrings.7>
+  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] викрикує команду [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
+  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] поплескав [RECIPIENT_nameDef] в знак поваги.</TameAttempt.logRulesInitiator.rulesStrings.9>
+  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] направляє [RECIPIENT_nameDef] повернутися назад до спільноти.</TameAttempt.logRulesInitiator.rulesStrings.10>
+  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] кличе [RECIPIENT_nameDef] повернутися назад до спільноти.</TameAttempt.logRulesInitiator.rulesStrings.11>
+  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] затиснув вразливу частину тіла [RECIPIENT_nameDef], вимагаючи слухняності.</TameAttempt.logRulesInitiator.rulesStrings.12>
+  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] вказав на землю з наказом [RECIPIENT_nameDef] підійти.</TameAttempt.logRulesInitiator.rulesStrings.13>
   <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</TameAttempt.logRulesInitiator.rulesStrings.14>
 
   <TrainAttempt.label>спроба тренувати</TrainAttempt.label>
