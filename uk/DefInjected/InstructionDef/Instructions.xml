@@ -52,27 +52,27 @@
   <BuildHorseshoesPin.rejectInputMessage>Побудуйте Стовп Для Кидання Підков біля вашої кімнати.</BuildHorseshoesPin.rejectInputMessage>
   <BuildHorseshoesPin.onMapInstruction>Побудуйте стовп для кидання підков\nпоза кімнатою</BuildHorseshoesPin.onMapInstruction>
 
-  <MakeGrowingZone.text>Ваші люди будують собі житло!\n\nЇм треба щось їсти, тому розмістить ЗОНУ РОСТУ в місці, показаному на екрані.\n\nВаші колоністи будуть вирощувати рослини там.</MakeGrowingZone.text>
+  <MakeGrowingZone.text>Як ви можете бачити, ваші люди приступили до будівництва.\n\nТепер забезпечимо їх їжею, для цього оберіть ЗОНУ РОСТУ (у меню БУДІВНИЦТВО категорія ЗОНИ) та розмітьте вказану зону\n\n На цьому місці ваші поселенці будуть вирощувати рослини.</MakeGrowingZone.text>
   <MakeGrowingZone.rejectInputMessage>Розмітьте зону росту у вказаному місці.</MakeGrowingZone.rejectInputMessage>
-  <MakeGrowingZone.onMapInstruction>Розмітьте город</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.onMapInstruction>Розмітьте зону росту тут\n(так само як і розмітити склад)</MakeGrowingZone.onMapInstruction>
 
-  <SetToGrowRice.text>Ваші люди можуть вирощувати багато культур.\n\n1. Натисніть правою кнопкою миші щоб вийти з меню будування.\n2. Натисніть на зону росту, щоб обрати її.\n3. Click the plant selector at the bottom and change it to rice.</SetToGrowRice.text>
+  <SetToGrowRice.text>Тепер ви можете обрати, що саме ваші поселенці будуть вирощувати.\n\n1. Натисніть правою кнопкою миші щоб вийти з меню будування.\n2. Натисніть на зону росту, щоб обрати її.\n3. Натисніть на "Обрати рослину" у вкладці знизу, та оберіть там Рис.</SetToGrowRice.text>
   <SetToGrowRice.rejectInputMessage>Оберіть рис для вирощування.</SetToGrowRice.rejectInputMessage>
-  <SetToGrowRice.onMapInstruction>Вирощуйте рис</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.onMapInstruction>Оберіть рис для вирощування</SetToGrowRice.onMapInstruction>
 
-  <EquipWeapons.text>Хай ваші колоністи візьмуть стартову зброю. Для цього вам потрібно:\n\n1. Натиснути на колоніста, щоб обрати його.\n2. Натиснути правою кнопкою миші на зброю, яку хочете екіпірувати.\n3. Обрати "взяти зброю" в меню, що випало.\n\nОберіть зброю для кожного поселенця, враховуючи їх навички.</EquipWeapons.text>
-  <EquipWeapons.rejectInputMessage>Накажіть колоністам взяти зброю.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.text>Теперь забезпечимо поселенців зброєю. Щоб це зробити:\n\n1. Оберіть колоніста натиснувши на нього на єкрані в полі зору або на портрет у верхній центральній частині єкрану о.\n2. Тепер натисніть правою клавішею миші на спорядження, яке ви хочете екіпірувати.\n3. Обрати "взяти зброю" в меню, що випало.\n\nОберіть зброю для кожного поселенця, враховуючи їх навички.</EquipWeapons.text>
+  <EquipWeapons.rejectInputMessage>Накажіть колоністам екіпірувати зброю.</EquipWeapons.rejectInputMessage>
   <EquipWeapons.onMapInstruction>Візьміть це</EquipWeapons.onMapInstruction>
 
-  <BuildFueledStove.text>Чудово!\n\nЗробіть плиту, щоб готувати їжу.\n\nПобудуйте ДРОВ’ЯНУ ПЛИТУ в кімнаті.</BuildFueledStove.text>
+  <BuildFueledStove.text>Прекрасно!\n\nТепер нам потрібна плита для приготування їжі.\n\nПобудуйте ДРОВ’ЯНУ ПЛИТУ в кімнаті.</BuildFueledStove.text>
   <BuildFueledStove.rejectInputMessage>Збудуйте дров’яну плиту в кімнаті.</BuildFueledStove.rejectInputMessage>
-  <BuildFueledStove.onMapInstruction>Побудуйте піч для їжі</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.onMapInstruction>Побудуйте дров'яну плиту в середині кімнти</BuildFueledStove.onMapInstruction>
 
-  <AddBillSimpleMeal.text>Вкажіть колоністам що саме готувати.\n\nНакази про готування віддаються на самій плиті. Після створення наказів колоністи будуть виконувати його автоматично.\n\n1. Почекайте, доки поселенці побудують плиту.\n2. Натисніть на неї.\n3. Відкрийте вкладку ЗАВДАННЯ у меню.\n4. Натисніть ДОДАТИ ЗАВДАННЯ.\n5. Оберіть ПРИГОТУВАТИ ПРОСТУ СТРАВУ у меню, що випаде.\n6. Накажіть годувати 10 страв.\n\nПам'ятайте, швидкість гри завжди можна збільшити, щоб не чекати так довго.\n\n Ви можете обрати колоніста та власноруч наказати йому будувати плиту, або готувати їжу на ній.</AddBillSimpleMeal.text>
-  <AddBillSimpleMeal.rejectInputMessage>Створіть наказ готувати їжу на плиті.</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.text>Вкажіть колоністам що саме готувати.\n\nРозпорядження на приготування їжі віддаються на самій плиті. Після створення розпорядження, колоністи будуть виконувати його автоматично.\n\n1. Заждіть поки поселенці побудують плиту.\n2. Теперь натисніть на плиту щоб обрати її.\n3. Відкрийте вкладку ЗАВДАННЯ у меню.\n4. Натисніть ДОДАТИ ЗАВДАННЯ.\n5. Оберіть ПРИГОТУВАТИ ПРОСТУ СТРАВУ у меню, що випаде.\n6. Теперь натискайте на клавішу + щоб збільшити кількість замовлень до 10.\n\nПам'ятайте, що швидкість гри завжди можна збільшити, щоб не чекати так довго.\n\n Ви можете обрати колоніста та власноруч наказати йому будувати плиту, або готувати їжу на ній.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.rejectInputMessage>Створіть завдання на приготування їжі на плиті.</AddBillSimpleMeal.rejectInputMessage>
   <AddBillSimpleMeal.onMapInstruction>Оберіть це</AddBillSimpleMeal.onMapInstruction>
 
-  <MineSteel.text>Ваші колоністи почали готувати їжу! Смакота!\n\nА тепер вам потрібно добути сталь. Я зробив для вас породу зі сталлю коло вашої бази.\n\nОберіть наказ ВИДОБУТИ та виділить сталь, щоб добути її.</MineSteel.text>
+  <MineSteel.text>Ваші колоністи почали готувати їжу! Смакота!\n\nТепер займемось забезпеченням видобуванням корисних копалин. Поряд із поселенням утворена порода зі сталлю.\n\nОберіть наказ ВИДОБУТИ та виділить сталь, щоб добути її.</MineSteel.text>
   <MineSteel.rejectInputMessage>Використайте наказ "видобувати", щоб добути сталь.</MineSteel.rejectInputMessage>
   <MineSteel.onMapInstruction>Накажіть колоністам видобувати ці ресурси</MineSteel.onMapInstruction>
 
