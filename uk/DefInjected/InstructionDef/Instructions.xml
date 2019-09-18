@@ -74,28 +74,28 @@
 
   <MineSteel.text>Ваші колоністи почали готувати їжу! Смакота!\n\nТепер займемось забезпеченням видобуванням корисних копалин. Поряд із поселенням утворена порода зі сталлю.\n\nОберіть наказ ВИДОБУТИ та виділить сталь, щоб добути її.</MineSteel.text>
   <MineSteel.rejectInputMessage>Використайте наказ "видобувати", щоб добути сталь.</MineSteel.rejectInputMessage>
-  <MineSteel.onMapInstruction>Накажіть колоністам видобувати ці ресурси</MineSteel.onMapInstruction>
+  <MineSteel.onMapInstruction>Розьмітьте усю сталь\nдля видобування</MineSteel.onMapInstruction>
 
-  <ChopTrees.text>Вам потрібно дерево. Накажіть колоністам зрубити декілька дерев.\n\nОберіть наказ РУБАТИ ДЕРЕВА і вкажіть на 10 дерев, які ви хочете пустити на дрова.\n\n(Наказ можна перетягнути на декілька дерево одразу)</ChopTrees.text>
+  <ChopTrees.text>На потрібно більше деревини. Накажіть колоністам зрубити декілька дерев.\n\nОберіть наказ РУБАТИ ДЕРЕВА і вкажіть на 10 дерев, які ви хочете пустити на дрова.\n\n(Наказ можна перетягнути на декілька дерево одразу)</ChopTrees.text>
   <ChopTrees.rejectInputMessage>Вкажіть на дерева, щоб вирубати їх.</ChopTrees.rejectInputMessage>
 
   <OpenMainTabWork.text>Ви можете обрати який саме колоніст буде виконувати той, чи інший вид роботи.\n\nВідкрийте вкладу РОБОТА в меню знизу.</OpenMainTabWork.text>
   <OpenMainTabWork.rejectInputMessage>Відкрийте вкладку "Праця".</OpenMainTabWork.rejectInputMessage>
 
-  <ChangeWorkSettings.text>Оберіть яку саме роботу ви хочете, щоб виконував той чи інший колоніст. Люди виконують завдання по пріоритету, зліва направо.\n\nСпробуйте щось змінити.\n\nНе забувайте — люди завжди виконують роботу по пріоритету, навіть якщо це змушує їх робити щось незрозуміле! Setting up a smart work regime is an important skill in RimWorld. Тому обачно розставляйте їх, та не забувайте перевіряти час від часу!</ChangeWorkSettings.text>
+  <ChangeWorkSettings.text>Оберіть яку саме роботу ви хочете, щоб виконував той чи інший колоніст. Люди виконують завдання по пріоритету, зліва направо.\n\nСпробуйте щось змінити.\n\nНе забувайте — люди завжди виконують роботу по пріоритету, навіть якщо це змушує їх робити щось незрозуміле! Правильно розподілені пріорітети для робітників - ключовий елемент успіху в грі RimWorld так і у реальному житті. Тому визначайте все обачно, та завжди перевіряйте справність виконання!</ChangeWorkSettings.text>
   <ChangeWorkSettings.rejectInputMessage>Відкрийте вкладку "Праця" та змініть трохи налаштувань.</ChangeWorkSettings.rejectInputMessage>
 
   <BuildSimpleResearchBench.text>Для розвитку вам необхідно вчити нові технології.\n\nПобудуйте ПРОСТИЙ ДОСЛІДНИЦЬКИЙ СТІЛ з дерева у кімнаті.</BuildSimpleResearchBench.text>
   <BuildSimpleResearchBench.rejectInputMessage>Побудуйте дослідницький стіл з дерева у кімнаті.</BuildSimpleResearchBench.rejectInputMessage>
-  <BuildSimpleResearchBench.onMapInstruction>Побудуйте дослідницький стіл</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.onMapInstruction>Побудуйте дослідницький стіл\nв середині кімнати</BuildSimpleResearchBench.onMapInstruction>
 
   <OpenMainTabResearch.text>Чудово! Вам потрібно вказати, яку саме технологію вивчати.\n\nВідкрийте вкладу ТЕХНОЛОГІЇ.</OpenMainTabResearch.text>
   <OpenMainTabResearch.rejectInputMessage>Відкрийте вкладу "досліди".</OpenMainTabResearch.rejectInputMessage>
 
-  <SelectResearchProject.text>Коли дослідницький стіл буде готовий — оберіть будь-яку технологію.\n\nМожливо вам доведеться зачекати деякий час, доки побудується стіл, або колоністи вирубають дерева на дрова.\n\nЯкщо чекати не хочеться — призначте більше людей на будівництво, або власноруч накажіть їм працювати.</SelectResearchProject.text>
-  <SelectResearchProject.rejectInputMessage>Оберіть технологію для вивчення.</SelectResearchProject.rejectInputMessage>
+  <SelectResearchProject.text>Тепер ви можете обрати, що хочете дослідити у першу чергу.\n\nСкоріш за все вам доведеться почекати поки збудують стіл, або підготують деревину.\n\nДля прискорення виконання робіт, розподіліть більше колоністів через вкладку РОБОТА.</SelectResearchProject.text>
+  <SelectResearchProject.rejectInputMessage>Оберіть дослідницький проект.</SelectResearchProject.rejectInputMessage>
 
-  <ExpandAreaHome.text>А тепер ми навчимося розмічати ЖИЛУ ЗОНУ.\n\nПоселенці прибирають, гасять пожежі та використовують предмети лише в живій зоні, все інше вони ігнорують.\n\nЖила зона автоматично створюється навколо споруд, або зон які ви розмічаєте та будуєте, але її можна розширити і вручну.\n\n Оберіть РОЗШИРИТИ ЖИЛУ ЗОНУ в меню ЗОНИ та розмітьте її в будь-якому місці.</ExpandAreaHome.text>
+  <ExpandAreaHome.text>А тепер ми навчимося розмічати ЖИЛУ ЗОНУ.\n\nПоселенці прибирають, гасять пожежі та використовують предмети лише в жилій зоні, все інше вони ігнорують.\n\nЖила зона автоматично створюється навколо споруд, або зон які ви розмічаєте та будуєте, але її можна розширити і вручну.\n\n Оберіть РОЗШИРИТИ ЖИЛУ ЗОНУ в меню ЗОНИ та розмітьте її в будь-якому місці.</ExpandAreaHome.text>
   <ExpandAreaHome.rejectInputMessage>Розширте жилу зону, хоча б трошки.</ExpandAreaHome.rejectInputMessage>
 
   <ExpandAreaBuildRoof.text>ЗОНА БУДУВАННЯ ДАХУ потрібна, щоб розмітити де вашим колоністам потрібен дах над головою.\n\nВона створюється автоматично коли нову кімнату повністю збудовано.\n\nОберіть РОЗШИРИТИ ЗОНУ БУДУВАННЯ ДАХУ та зробіть ґанок перед вашим будинком.</ExpandAreaBuildRoof.text>
