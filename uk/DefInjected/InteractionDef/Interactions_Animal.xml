@@ -28,11 +28,11 @@
   <TameAttempt.label>спроба приручити</TameAttempt.label>
   <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] спроба приручити [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
   <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] приручення [RECIPIENT_nameDef] під контролем.</TameAttempt.logRulesInitiator.rulesStrings.1>
-  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
-  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
-  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
-  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</TameAttempt.logRulesInitiator.rulesStrings.5>
-  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</TameAttempt.logRulesInitiator.rulesStrings.6>
+  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] пробує взяти за комір [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
+  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] потребує слухняності від [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
+  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] кличе [RECIPIENT_nameDef] до себе [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
+  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] подає команду [RECIPIENT_nameDef] сидіти.</TameAttempt.logRulesInitiator.rulesStrings.5>
+  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] уважно переслідував [RECIPIENT_nameDef] та подав команду.</TameAttempt.logRulesInitiator.rulesStrings.6>
   <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</TameAttempt.logRulesInitiator.rulesStrings.7>
   <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
   <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</TameAttempt.logRulesInitiator.rulesStrings.9>
