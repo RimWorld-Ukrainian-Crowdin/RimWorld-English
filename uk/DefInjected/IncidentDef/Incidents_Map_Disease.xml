@@ -2,16 +2,16 @@
 <LanguageData>
 
   <Disease_Flu.label>грип</Disease_Flu.label>
-  <Disease_Flu.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Flu.letterText>
+  <Disease_Flu.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Переконайтеся, що вони отримують найкраще лікування та дотримуються постільного режиму.\n\nнастуні {1} захворіли:\n\n{3}</Disease_Flu.letterText>
   <Disease_Flu.letterLabel>Хвороба (грип)</Disease_Flu.letterLabel>
 
   <Disease_Plague.label>чума</Disease_Plague.label>
-  <Disease_Plague.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Plague.letterText>
-  <Disease_Plague.letterLabel>Disease (plague)</Disease_Plague.letterLabel>
+  <Disease_Plague.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Переконайтеся, що вони отримують найкраще лікування та дотримуються постільного режиму.\n\nнастуні {1} захворіли:\n\n{3}</Disease_Plague.letterText>
+  <Disease_Plague.letterLabel>Хвороба (чума)</Disease_Plague.letterLabel>
 
   <Disease_Malaria.label>малярія</Disease_Malaria.label>
-  <Disease_Malaria.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Malaria.letterText>
-  <Disease_Malaria.letterLabel>Disease (malaria)</Disease_Malaria.letterLabel>
+  <Disease_Malaria.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Переконайтеся, що вони отримують найкраще лікування та дотримуються постільного режиму.\n\nнастуні {1} захворіли:\n\n{3}</Disease_Malaria.letterText>
+  <Disease_Malaria.letterLabel>Хвороба (малярія)</Disease_Malaria.letterLabel>
 
   <Disease_SleepingSickness.label>сонна хвороба</Disease_SleepingSickness.label>
   <Disease_SleepingSickness.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_SleepingSickness.letterText>
