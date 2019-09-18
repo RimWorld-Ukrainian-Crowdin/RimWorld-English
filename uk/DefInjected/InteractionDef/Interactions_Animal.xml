@@ -49,10 +49,10 @@
   <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] вишкалює</TrainAttempt.logRulesInitiator.rulesStrings.3>
   <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] пояснює</TrainAttempt.logRulesInitiator.rulesStrings.4>
   <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] перевірити нову навичку у</TrainAttempt.logRulesInitiator.rulesStrings.5>
-  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->demonstrated a skill to</TrainAttempt.logRulesInitiator.rulesStrings.6>
-  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->encouraged a new response from</TrainAttempt.logRulesInitiator.rulesStrings.7>
-  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->tried</TrainAttempt.logRulesInitiator.rulesStrings.8>
-  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->attempted</TrainAttempt.logRulesInitiator.rulesStrings.9>
+  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->демонструє вивчені навички</TrainAttempt.logRulesInitiator.rulesStrings.6>
+  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->перевіряє вивченя навичок</TrainAttempt.logRulesInitiator.rulesStrings.7>
+  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->спроба</TrainAttempt.logRulesInitiator.rulesStrings.8>
+  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->спроба</TrainAttempt.logRulesInitiator.rulesStrings.9>
 
   <Nuzzle.label>пестити</Nuzzle.label>
   <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
