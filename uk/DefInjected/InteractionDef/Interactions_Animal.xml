@@ -3,13 +3,13 @@
 
   <AnimalChat.label>чат тварини</AnimalChat.label>
   <AnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</AnimalChat.logRulesInitiator.rulesStrings.0>
-  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
-  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
-  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
-  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->made calming noises towards</AnimalChat.logRulesInitiator.rulesStrings.4>
-  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->offered slow, friendly gestures to</AnimalChat.logRulesInitiator.rulesStrings.5>
-  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->made shushing noises at</AnimalChat.logRulesInitiator.rulesStrings.6>
-  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed->made happy clicking noises at</AnimalChat.logRulesInitiator.rulesStrings.7>
+  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] сів біля [RECIPIENT_nameDef] та спілкувався з [INITIATOR_objective]про [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
+  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] наближався до [RECIPIENT_nameDef] шепотівши [INITIATOR_objective]про [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
+  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] наблизився до [RECIPIENT_nameDef] поки розмовляв [INITIATOR_objective]про [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
+  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->видає заспокійливі звуки</AnimalChat.logRulesInitiator.rulesStrings.4>
+  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->робить повільні, доброзичливі жести</AnimalChat.logRulesInitiator.rulesStrings.5>
+  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->видає шиплячий звук</AnimalChat.logRulesInitiator.rulesStrings.6>
+  <AnimalChat.logRulesInitiator.rulesStrings.7>amed->робить радісні клікаючі звуки</AnimalChat.logRulesInitiator.rulesStrings.7>
   <AnimalChat.logRulesInitiator.rulesStrings.8>tamed->gestured gently and approached</AnimalChat.logRulesInitiator.rulesStrings.8>
   <AnimalChat.logRulesInitiator.rulesStrings.9>tamed->slowly approached</AnimalChat.logRulesInitiator.rulesStrings.9>
   <AnimalChat.logRulesInitiator.rulesStrings.10>tamed->gently touched</AnimalChat.logRulesInitiator.rulesStrings.10>
