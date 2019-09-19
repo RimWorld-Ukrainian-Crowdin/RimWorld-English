@@ -29,13 +29,13 @@
   <Adaptation.graphLabelY>Дні</Adaptation.graphLabelY>
 
   <ThreatPoints.label>балів щастя /10</ThreatPoints.label>
-  <ThreatPoints.graphLabelY>Points</ThreatPoints.graphLabelY>
+  <ThreatPoints.graphLabelY>Бали</ThreatPoints.graphLabelY>
 
   <PopAdaptation.label>pop recovery</PopAdaptation.label>
-  <PopAdaptation.graphLabelY>Days</PopAdaptation.graphLabelY>
+  <PopAdaptation.graphLabelY>Дні</PopAdaptation.graphLabelY>
 
   <PopIntent.label>pop intent x10</PopIntent.label>
-  <PopIntent.graphLabelY>Days</PopIntent.graphLabelY>
+  <PopIntent.graphLabelY>Дні</PopIntent.graphLabelY>
 
 
 </LanguageData>
