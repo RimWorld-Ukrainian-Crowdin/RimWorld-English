@@ -11,7 +11,7 @@
   <Wealth_Buildings.graphLabelY>Сума</Wealth_Buildings.graphLabelY>
 
   <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
-  <Wealth_Pawns.graphLabelY>Amount</Wealth_Pawns.graphLabelY>
+  <Wealth_Pawns.graphLabelY>Сума</Wealth_Pawns.graphLabelY>
 
   <FreeColonists.label>вільні колоністи</FreeColonists.label>
   <FreeColonists.graphLabelY>Колоністи</FreeColonists.graphLabelY>
@@ -25,10 +25,10 @@
 
   <!-- Debug -->
 
-  <Adaptation.label>recovery</Adaptation.label>
-  <Adaptation.graphLabelY>Days</Adaptation.graphLabelY>
+  <Adaptation.label>відновлення</Adaptation.label>
+  <Adaptation.graphLabelY>Дні</Adaptation.graphLabelY>
 
-  <ThreatPoints.label>fun points /10</ThreatPoints.label>
+  <ThreatPoints.label>балів щастя /10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>Points</ThreatPoints.graphLabelY>
 
   <PopAdaptation.label>pop recovery</PopAdaptation.label>
