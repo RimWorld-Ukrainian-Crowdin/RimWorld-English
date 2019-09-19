@@ -36,9 +36,9 @@
   <HerdMigration.letterText>Велике стадо {0} проходить повз вас. \n\nНе провокуйте і вони пройдут повз.</HerdMigration.letterText>
   <HerdMigration.letterLabel>Міграція тварин: {0}</HerdMigration.letterLabel>
 
-  <WildManWandersIn.label>прихід дикуна</WildManWandersIn.label>
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
-  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.label>дикун завітав до нас</WildManWandersIn.label>
+  <WildManWandersIn.letterText>Людина, що живе серед тварин, потрапила до нашої території. {PAWN_pronoun} звати {0}. \n\nВи можете спробувати запросити або захопити у заручники {PAWN_objective}.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>{PAWN_kind} бродить біля нас</WildManWandersIn.letterLabel>
 
 
   <!-- Bad -->
@@ -46,11 +46,11 @@
   <PsychicDrone.label>психічний дрон</PsychicDrone.label>
 
   <ToxicFallout.label>токсичні опади</ToxicFallout.label>
-  <ToxicFallout.letterText>Далекий хімічний вогонь випустив струмінь отрути над цілим регіоном. \n\nБудь-яка людина або істота, що не під дахом, буде повільно хворіти токсичним пилом, що осідає з атмосфери. \n\nЦе триватиме десь між кілька днів до сезону.</ToxicFallout.letterText>
+  <ToxicFallout.letterText>Далеко від вас стався викид хімічних речовин, що сприяло зараженню цілого регіону.\n\nУсі хто не сховані під дахом будуть уражені.\n\nЦе має протривати декілька днів.</ToxicFallout.letterText>
   <ToxicFallout.letterLabel>Токсичні опади</ToxicFallout.letterLabel>
 
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
-  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Температура впаде і рослини будуть страждати через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато квадрумів.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Відбудеться різке зниження температури і ваші рослини перестануть рости через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато років.</VolcanicWinter.letterText>
   <VolcanicWinter.letterLabel>Вулканічна зима</VolcanicWinter.letterLabel>
 
   <HeatWave.label>хвиля спеки</HeatWave.label>
