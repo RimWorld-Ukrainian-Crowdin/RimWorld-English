@@ -17,9 +17,9 @@
   <Disease_SleepingSickness.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Переконайтеся, що вони отримують найкраще лікування та дотримуються постільного режиму.\n\nнастуні {1} захворіли:\n\n{3}</Disease_SleepingSickness.letterText>
   <Disease_SleepingSickness.letterLabel>Хвороба (сонна хвороба)</Disease_SleepingSickness.letterLabel>
 
-  <Disease_FibrousMechanites.label>механітна хвороба (м’язи)</Disease_FibrousMechanites.label>
-  <Disease_FibrousMechanites.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_FibrousMechanites.letterText>
-  <Disease_FibrousMechanites.letterLabel>Disease (fibrous mechanites)</Disease_FibrousMechanites.letterLabel>
+  <Disease_FibrousMechanites.label>ураження механітами (м'язи)</Disease_FibrousMechanites.label>
+  <Disease_FibrousMechanites.letterText>{0} з ваших {1} заразився від {2}.\n\nПереконайтеся в наявності ліжка, лікаря та медикаментів. Переконайтеся, що вони отримують найкраще лікування та дотримуються постільного режиму.\n\nнастуні {1} захворіли:\n\n{3}</Disease_FibrousMechanites.letterText>
+  <Disease_FibrousMechanites.letterLabel>Хвороба (ураження м'язів механітами)</Disease_FibrousMechanites.letterLabel>
 
   <Disease_SensoryMechanites.label>механітна хвороба (органи сприйняття)</Disease_SensoryMechanites.label>
   <Disease_SensoryMechanites.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_SensoryMechanites.letterText>
