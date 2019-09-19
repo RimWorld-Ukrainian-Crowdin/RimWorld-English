@@ -57,9 +57,9 @@
   <HeatWave.letterText>Розпочалася незвичайна спека.\n\nХвиля спеки може швидко вбити, якщо люди отримають тепловий удар. Зберігайте прохолоду, збудувавши кондиціонер, або заглибтесь глибоко в гори.</HeatWave.letterText>
   <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
 
-  <ColdSnap.label>похолодання</ColdSnap.label>
-  <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягнітьвідповідний одяг і спробуйте зібрати врожай, перш він замерзне і загине.</ColdSnap.letterText>
-  <ColdSnap.letterLabel>Похолодання</ColdSnap.letterLabel>
+  <ColdSnap.label>заморозки</ColdSnap.label>
+  <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягніть відповідний одяг і спробуйте зібрати врожай, перш ніж він замерзне та загине.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Заморозки</ColdSnap.letterLabel>
 
   <Flashstorm.label>гроза з блискавками</Flashstorm.label>
   <Flashstorm.letterText>Несподівана гроза вражає невелику площу блискавками. Це може викликати масові пожежі.</Flashstorm.letterText>
