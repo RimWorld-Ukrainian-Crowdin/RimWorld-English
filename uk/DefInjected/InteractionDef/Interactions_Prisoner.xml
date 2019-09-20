@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildRapport.label>try to get to know</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
-  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
+  <BuildRapport.label>спроба дізнатись</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef] про [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
+  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] описує [subject] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
   <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
   <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
   <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.5>
