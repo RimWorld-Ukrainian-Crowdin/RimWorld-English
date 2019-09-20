@@ -56,29 +56,29 @@
 
   <Nuzzle.label>пестити</Nuzzle.label>
   <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
-  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</Nuzzle.logRulesInitiator.rulesStrings.1>
-  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->nuzzled</Nuzzle.logRulesInitiator.rulesStrings.2>
-  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->snuggled up to</Nuzzle.logRulesInitiator.rulesStrings.3>
+  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] потер [INITIATOR_possessive] ніс проти [RECIPIENT_nameDef] [rubbedpart].</Nuzzle.logRulesInitiator.rulesStrings.1>
+  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->понюхав</Nuzzle.logRulesInitiator.rulesStrings.2>
+  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->притиснулась до</Nuzzle.logRulesInitiator.rulesStrings.3>
   <Nuzzle.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></Nuzzle.logRulesInitiator.rulesStrings.4>
-  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->gently</Nuzzle.logRulesInitiator.rulesStrings.5>
-  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->encouragingly</Nuzzle.logRulesInitiator.rulesStrings.6>
-  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->happily</Nuzzle.logRulesInitiator.rulesStrings.7>
-  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->softly</Nuzzle.logRulesInitiator.rulesStrings.8>
-  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->supportively</Nuzzle.logRulesInitiator.rulesStrings.9>
-  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->lightly</Nuzzle.logRulesInitiator.rulesStrings.10>
-  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->warmly</Nuzzle.logRulesInitiator.rulesStrings.11>
-  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->plaintively</Nuzzle.logRulesInitiator.rulesStrings.12>
-  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->lovingly</Nuzzle.logRulesInitiator.rulesStrings.13>
-  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->affectionately</Nuzzle.logRulesInitiator.rulesStrings.14>
-  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->leg</Nuzzle.logRulesInitiator.rulesStrings.15>
-  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->knee</Nuzzle.logRulesInitiator.rulesStrings.16>
-  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->foot</Nuzzle.logRulesInitiator.rulesStrings.17>
-  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->elbow</Nuzzle.logRulesInitiator.rulesStrings.18>
-  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->hip</Nuzzle.logRulesInitiator.rulesStrings.19>
-  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->shoulder</Nuzzle.logRulesInitiator.rulesStrings.20>
-  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->hand</Nuzzle.logRulesInitiator.rulesStrings.21>
-  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->side</Nuzzle.logRulesInitiator.rulesStrings.22>
-  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->arm</Nuzzle.logRulesInitiator.rulesStrings.23>
+  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->ніжно</Nuzzle.logRulesInitiator.rulesStrings.5>
+  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->заохочуючи</Nuzzle.logRulesInitiator.rulesStrings.6>
+  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->щасливо</Nuzzle.logRulesInitiator.rulesStrings.7>
+  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->м'яко</Nuzzle.logRulesInitiator.rulesStrings.8>
+  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->прихильно</Nuzzle.logRulesInitiator.rulesStrings.9>
+  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->злегка</Nuzzle.logRulesInitiator.rulesStrings.10>
+  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->тепло</Nuzzle.logRulesInitiator.rulesStrings.11>
+  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->жалібно</Nuzzle.logRulesInitiator.rulesStrings.12>
+  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->любовно</Nuzzle.logRulesInitiator.rulesStrings.13>
+  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->ласкаво</Nuzzle.logRulesInitiator.rulesStrings.14>
+  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->ноги</Nuzzle.logRulesInitiator.rulesStrings.15>
+  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->коліно</Nuzzle.logRulesInitiator.rulesStrings.16>
+  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->стопу</Nuzzle.logRulesInitiator.rulesStrings.17>
+  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->лікоть</Nuzzle.logRulesInitiator.rulesStrings.18>
+  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->стегно</Nuzzle.logRulesInitiator.rulesStrings.19>
+  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->плече</Nuzzle.logRulesInitiator.rulesStrings.20>
+  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->рука</Nuzzle.logRulesInitiator.rulesStrings.21>
+  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->бік</Nuzzle.logRulesInitiator.rulesStrings.22>
+  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->рука</Nuzzle.logRulesInitiator.rulesStrings.23>
 
 
 </LanguageData>
