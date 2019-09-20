@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RomanceAttempt.label>спроба пікапу</RomanceAttempt.label>
+  <RomanceAttempt.label>спроба флірту</RomanceAttempt.label>
   <RomanceAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
   <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->tried to flirt with</RomanceAttempt.logRulesInitiator.rulesStrings.1>
   <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->flirted with</RomanceAttempt.logRulesInitiator.rulesStrings.2>
