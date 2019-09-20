@@ -6,7 +6,7 @@
   <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef] про [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
   <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] описує [subject] [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
   <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] просив [RECIPIENT_nameDef] [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
-  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
+  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] пропонує шанс для [RECIPIENT_nameDef] [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
   <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] висловив зацікавленість у [RECIPIENT_nameDef] [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.5>
   <BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] запитав [RECIPIENT_nameDef] про [RECIPIENT_possessive] [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.6>
   <BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(п=2)->розповів історію про</BuildRapport.logRulesInitiator.rulesStrings.7>
@@ -37,21 +37,21 @@
   <BuildRapport.logRulesInitiator.rulesStrings.32>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</BuildRapport.logRulesInitiator.rulesStrings.32>
   <BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
 
-  <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
+  <RecruitAttempt.label>спроба завербувати</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] запропонував [RECIPIENT_nameDef] приєднатися.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] пообіцяв [goodthing] [RECIPIENT_nameDef], і запропонував [RECIPIENT_objective] приєднатися.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
   <RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->[ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->free, fresh [Vegetable]s</RecruitAttempt.logRulesInitiator.rulesStrings.3>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->безкоштовні, свіжі [Vegetable]</RecruitAttempt.logRulesInitiator.rulesStrings.3>
 
-  <SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->freedom</SparkJailbreak.logRulesInitiator.rulesStrings.4>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->opportunity</SparkJailbreak.logRulesInitiator.rulesStrings.5>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->home</SparkJailbreak.logRulesInitiator.rulesStrings.6>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->self-determination</SparkJailbreak.logRulesInitiator.rulesStrings.7>
+  <SparkJailbreak.label>втеча з в'язниці</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] говорить про [freedom], і запропонував спосіб порятунку.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] розповідав про те, який прекрасний [TerrainFeature], і запропонував свободу.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] показав засоби порятунку [RECIPIENT_nameDef], і пообіцяв [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef], що охорона слабка, і пропонує втечу.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->свободу</SparkJailbreak.logRulesInitiator.rulesStrings.4>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->можливості</SparkJailbreak.logRulesInitiator.rulesStrings.5>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->дім</SparkJailbreak.logRulesInitiator.rulesStrings.6>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->самовизначення</SparkJailbreak.logRulesInitiator.rulesStrings.7>
 
 
 </LanguageData>
