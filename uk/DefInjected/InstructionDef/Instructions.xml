@@ -26,7 +26,7 @@
 
   <UnforbidStartingResources.text>Що ж, тепер потрібно надати дозвіл вашим колоністам на перенесення "заборонених" речей до складу.\n\n1. Оберіть речі які довкола вас помічені маленьким червоним хрестиком.\n2. Тепер натисніть ДОЗВОЛИТИ щоб ваші персонажі могли з ними взаємодіяти.\n\n(Підказка: зробивши подвійний клік на обраному предметі, ви також обираєте усі такіж самі предмети які видно на екрані.)</UnforbidStartingResources.text>
   <UnforbidStartingResources.rejectInputMessage>Будь-ласка, зніміть заборону використання зі стартових предметів.</UnforbidStartingResources.rejectInputMessage>
-  <UnforbidStartingResources.onMapInstruction>Allow this</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.onMapInstruction>Можу дозволити</UnforbidStartingResources.onMapInstruction>
 
   <BuildRoomWalls.text>Супер! А тепер збудуймо кімнату.\n\n1. Відкрийте вкладку СТВОРИТИ.\n2. Натисніть на БУДІВЛІ.\n3. Оберіть СТІНА.\n4. У якості матеріалу для будівництва оберіть ДЕРЕВО.\n5. За допомогою перетягування (майже так само, як ви позначали склад) позначте чотири стіни для побудови у виділених місцях.</BuildRoomWalls.text>
   <BuildRoomWalls.rejectInputMessage>Будь ласка, побудуйте стіни вздовж сторін виділеного прямокутника.</BuildRoomWalls.rejectInputMessage>
