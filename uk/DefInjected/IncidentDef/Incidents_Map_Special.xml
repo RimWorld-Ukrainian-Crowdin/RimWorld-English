@@ -31,8 +31,8 @@
   <!-- Good - special -->
 
   <StrangerInBlackJoin.label>люди в чорному</StrangerInBlackJoin.label>
-  <StrangerInBlackJoin.letterText>Відчуваючи білу, таємничий [PAWN_kind] завітав до нас.\n\nЧи зможе [PAWN_pronoun] знайти та вирішити паранормальні явища?</StrangerInBlackJoin.letterText>
-  <StrangerInBlackJoin.letterLabel>Man in black</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>Відчуваючи біду, таємничий [PAWN_kind] завітав до нас.\n\nЧи зможе [PAWN_pronoun] знайти та вирішити паранормальні явища?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterLabel>Люди в чорному</StrangerInBlackJoin.letterLabel>
 
 
 </LanguageData>
