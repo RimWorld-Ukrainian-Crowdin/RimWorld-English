@@ -2,10 +2,10 @@
 <LanguageData>
 
   <Slave.label>раб</Slave.label>
-  <Slave.labelPlural>slaves</Slave.labelPlural>
+  <Slave.labelPlural>раби</Slave.labelPlural>
 
-  <WildMan.label>дикий чоловік</WildMan.label>
-  <WildMan.labelPlural>дикі чоловіки</WildMan.labelPlural>
+  <WildMan.label>дикун</WildMan.label>
+  <WildMan.labelPlural>дикуни</WildMan.labelPlural>
   <WildMan.labelMale>male wild man</WildMan.labelMale>
   <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>
   <WildMan.labelFemale>дика жінка</WildMan.labelFemale>
