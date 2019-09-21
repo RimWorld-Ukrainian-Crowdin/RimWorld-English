@@ -96,15 +96,15 @@
   <Wander_OwnRoom.recoveryMessage>{0} перестає ховатись у своїх кімнаті.</Wander_OwnRoom.recoveryMessage>
   <Wander_OwnRoom.baseInspectLine>Психічний стан: Усамітнення</Wander_OwnRoom.baseInspectLine>
 
-  <InsultingSpree.label>ображається</InsultingSpree.label>
-  <InsultingSpree.beginLetter>{0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others.</InsultingSpree.beginLetter>
-  <InsultingSpree.recoveryMessage>{0} більше не ображається.</InsultingSpree.recoveryMessage>
-  <InsultingSpree.baseInspectLine>Психічний стан: Образа</InsultingSpree.baseInspectLine>
+  <InsultingSpree.label>бажання лаятись</InsultingSpree.label>
+  <InsultingSpree.beginLetter>{0} не може стримати своїх емоцій.\n\n[PAWN_pronoun] безцільно бродить довкола обсипаючи всіх образами.</InsultingSpree.beginLetter>
+  <InsultingSpree.recoveryMessage>{0} схаменувся(лася).</InsultingSpree.recoveryMessage>
+  <InsultingSpree.baseInspectLine>Психічний стан: Бажання лаятись</InsultingSpree.baseInspectLine>
 
-  <TargetedInsultingSpree.label>ображається</TargetedInsultingSpree.label>
-  <TargetedInsultingSpree.beginLetter>{0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.label>бажання лаятись</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.beginLetter>{0} хоче висловити все що думає про {1}.\n\n[PAWN_pronoun] буде ходити за {1} та висловлювати образи.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.recoveryMessage/>
-  <TargetedInsultingSpree.baseInspectLine>Психічний стан: Образа на {0}</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>Психічний стан: Бажання лаятись на {0}</TargetedInsultingSpree.baseInspectLine>
 
 
 </LanguageData>
