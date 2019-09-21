@@ -2,15 +2,15 @@
 <LanguageData>
 
   <Mood.label>настрій</Mood.label>
-  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
+  <Mood.description>Шкала настрою вказує наскільки ваш колоніст задоволений. Якщо показники стають занадто низькі, є ризик психічного розладу. В залежності від настрою, якщо стається психічний розлад, колоніст може сховатись на добу, або навіть когось вбити.</Mood.description>
 
   <Food.label>їжа</Food.label>
   <Food.description>Їжа - це кількість харчів, які нещодавно споживалися істотою. Якщо це в нулі, істота стає все більше голодною і в кінцевому підсумку помре.</Food.description>
 
-  <Rest.label>відпочинок</Rest.label>
-  <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+  <Rest.label>сон</Rest.label>
+  <Rest.description>Шкала сну вказує на те, скільки певна істота спала останнім часм. Якщо вона на нулі, істота може втратити свідомість.</Rest.description>
 
-  <Joy.label>recreation</Joy.label>
+  <Joy.label>дозвілля</Joy.label>
   <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
 
   <Beauty.label>краса</Beauty.label>
