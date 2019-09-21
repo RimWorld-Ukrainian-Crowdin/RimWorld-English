@@ -70,31 +70,31 @@
   <SadisticRage.recoveryMessage>{0} заспокоївся(лася).</SadisticRage.recoveryMessage>
   <SadisticRage.baseInspectLine>Психічний стан: Прояв садизму</SadisticRage.baseInspectLine>
 
-  <CorpseObsession.label>одержимість трупами</CorpseObsession.label>
-  <CorpseObsession.beginLetter>{0} психічний розлад і дуже цікавиться трупами.\n\n[PAWN_pronoun] збирається викопати труп та показати його іншим.</CorpseObsession.beginLetter>
-  <CorpseObsession.recoveryMessage>{0} більше не цікавиться трупами.</CorpseObsession.recoveryMessage>
-  <CorpseObsession.baseInspectLine>Психічний стан: Одержимість трупами</CorpseObsession.baseInspectLine>
+  <CorpseObsession.label>знущання над трупами</CorpseObsession.label>
+  <CorpseObsession.beginLetter>{0} явно не в собі.\n\nСхоже, що [PAWN_pronoun] збирається викопати труп та показати його іншим.</CorpseObsession.beginLetter>
+  <CorpseObsession.recoveryMessage>{0} більше не знущається над трупами.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.baseInspectLine>Психічний стан: Знущання над трупами</CorpseObsession.baseInspectLine>
 
 
   <!-- Mental breaks: minor -->
 
   <Binging_Food.label>переїдання</Binging_Food.label>
   <Binging_Food.beginLetter>{0} постійно хоче їсти.</Binging_Food.beginLetter>
-  <Binging_Food.beginLetterLabel>food binge</Binging_Food.beginLetterLabel>
-  <Binging_Food.recoveryMessage>{0} is no longer pigging out on food.</Binging_Food.recoveryMessage>
-  <Binging_Food.baseInspectLine>Mental state: Pigging out</Binging_Food.baseInspectLine>
+  <Binging_Food.beginLetterLabel>переїдання</Binging_Food.beginLetterLabel>
+  <Binging_Food.recoveryMessage>{0} заспокоївся(лась).</Binging_Food.recoveryMessage>
+  <Binging_Food.baseInspectLine>Психічний стан: об'їдається</Binging_Food.baseInspectLine>
 
-  <Wander_Sad.label>sad wandering</Wander_Sad.label>
-  <Wander_Sad.beginLetter>{0} has broken down and is wandering around in sadness.</Wander_Sad.beginLetter>
-  <Wander_Sad.beginLetterLabel>sad wander</Wander_Sad.beginLetterLabel>
-  <Wander_Sad.recoveryMessage>{0} is no longer wandering in sadness.</Wander_Sad.recoveryMessage>
-  <Wander_Sad.baseInspectLine>Mental state: Sad wandering</Wander_Sad.baseInspectLine>
+  <Wander_Sad.label>меланхолія</Wander_Sad.label>
+  <Wander_Sad.beginLetter>{0} зламався(лася) і блукає навколо в печалі.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetterLabel>меланхолія</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.recoveryMessage>{0} піднявся(лась) духом.</Wander_Sad.recoveryMessage>
+  <Wander_Sad.baseInspectLine>Психічний стан: Меланхолія</Wander_Sad.baseInspectLine>
 
-  <Wander_OwnRoom.label>sitting alone</Wander_OwnRoom.label>
-  <Wander_OwnRoom.beginLetter>{0} is hiding in [PAWN_possessive] room.</Wander_OwnRoom.beginLetter>
-  <Wander_OwnRoom.beginLetterLabel>hide in room</Wander_OwnRoom.beginLetterLabel>
-  <Wander_OwnRoom.recoveryMessage>{0} is no longer hiding in [PAWN_possessive] room.</Wander_OwnRoom.recoveryMessage>
-  <Wander_OwnRoom.baseInspectLine>Mental state: Hiding in room</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.label>усамітнення</Wander_OwnRoom.label>
+  <Wander_OwnRoom.beginLetter>{0} сховався в своїй кіманті.</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetterLabel>ховається в кімнаті</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.recoveryMessage>{0} перестає ховатись у своїх кімнаті.</Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.baseInspectLine>Психічний стан: Усамітнення</Wander_OwnRoom.baseInspectLine>
 
   <InsultingSpree.label>ображається</InsultingSpree.label>
   <InsultingSpree.beginLetter>{0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others.</InsultingSpree.beginLetter>
