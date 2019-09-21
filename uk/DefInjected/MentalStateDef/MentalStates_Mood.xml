@@ -13,8 +13,8 @@
   <FireStartingSpree.recoveryMessage>{0} схаменувся(лася).</FireStartingSpree.recoveryMessage>
   <FireStartingSpree.baseInspectLine>Психічний стан: Піроманіяк</FireStartingSpree.baseInspectLine>
 
-  <Binging_DrugExtreme.label>binging on drug</Binging_DrugExtreme.label>
-  <Binging_DrugExtreme.baseInspectLine>Mental state: Binging on {0}</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.label>під кайфом</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.baseInspectLine>Психічний стан: {0} під впливом наркотиків</Binging_DrugExtreme.baseInspectLine>
 
   <Jailbreaker.label>підбурює в'язня до втечі</Jailbreaker.label>
   <Jailbreaker.beginLetter>{0} має психічний розлад і збирається спонукати до втечі ув'язнених.</Jailbreaker.beginLetter>
