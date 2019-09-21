@@ -75,7 +75,7 @@
   <Dev_ToggleDebugActionsMenu.label>меню дій (режим розробника)</Dev_ToggleDebugActionsMenu.label>
   <Dev_ToggleDebugLogMenu.label>меню журналів відладки</Dev_ToggleDebugLogMenu.label>
   <Dev_ToggleDebugInspector.label>інспектор відладки</Dev_ToggleDebugInspector.label>
-  <Dev_ToggleDebugSettingsMenu.label>toggle debug settings menu</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>меню налаштування відладки</Dev_ToggleDebugSettingsMenu.label>
 
 
 </LanguageData>
