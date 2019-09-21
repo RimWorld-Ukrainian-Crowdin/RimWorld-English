@@ -3,15 +3,15 @@
 
   <!-- Mental breaks: extreme -->
 
-  <Berserk.label>лють</Berserk.label>
-  <Berserk.beginLetter>{0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</Berserk.beginLetter>
+  <Berserk.label>берсерк</Berserk.label>
+  <Berserk.beginLetter>{0} увійшов в кураж.\n\n[PAWN_pronoun] атакує будь-якого [PAWN_pronoun] у полі бачення.</Berserk.beginLetter>
   <Berserk.recoveryMessage>{0} заспокоївся(лася).</Berserk.recoveryMessage>
-  <Berserk.baseInspectLine>Психічний стан: Лють</Berserk.baseInspectLine>
+  <Berserk.baseInspectLine>Психічний стан: берсерк</Berserk.baseInspectLine>
 
-  <FireStartingSpree.label>схопив(ла) сірники</FireStartingSpree.label>
-  <FireStartingSpree.beginLetter>{0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.label>піроманіяк</FireStartingSpree.label>
+  <FireStartingSpree.beginLetter>{0} підпалює усе довкола.\n\n[PAWN_pronoun] на деякий буде блукати навколо, періодично щось підпалюючи.</FireStartingSpree.beginLetter>
   <FireStartingSpree.recoveryMessage>{0} схаменувся(лася).</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.baseInspectLine>Психічний стан: Піроманьяк</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>Психічний стан: Піроманіяк</FireStartingSpree.baseInspectLine>
 
   <Binging_DrugExtreme.label>binging on drug</Binging_DrugExtreme.label>
   <Binging_DrugExtreme.baseInspectLine>Mental state: Binging on {0}</Binging_DrugExtreme.baseInspectLine>
