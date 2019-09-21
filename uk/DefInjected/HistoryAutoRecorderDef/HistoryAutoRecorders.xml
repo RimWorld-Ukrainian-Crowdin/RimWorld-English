@@ -10,7 +10,7 @@
   <Wealth_Buildings.label>багатство (будівлі)</Wealth_Buildings.label>
   <Wealth_Buildings.graphLabelY>Сума</Wealth_Buildings.graphLabelY>
 
-  <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
+  <Wealth_Pawns.label>багатство (живність)</Wealth_Pawns.label>
   <Wealth_Pawns.graphLabelY>Сума</Wealth_Pawns.graphLabelY>
 
   <FreeColonists.label>вільні колоністи</FreeColonists.label>
