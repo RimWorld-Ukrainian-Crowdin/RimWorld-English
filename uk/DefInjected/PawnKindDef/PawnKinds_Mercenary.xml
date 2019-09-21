@@ -3,11 +3,11 @@
 
   <!-- Low merc tier - grenadiers -->
 
-  <Grenadier_Destructive.label>grenadier</Grenadier_Destructive.label>
-  <Grenadier_Destructive.labelPlural>grenadiers</Grenadier_Destructive.labelPlural>
+  <Grenadier_Destructive.label>гренадер</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>гренадери</Grenadier_Destructive.labelPlural>
 
-  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
-  <Grenadier_EMP.labelPlural>EMP grenadiers</Grenadier_EMP.labelPlural>
+  <Grenadier_EMP.label>ЕМІ гренадер</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>ЕМІ гренадери</Grenadier_EMP.labelPlural>
 
 
   <!-- Mid merc tier - gunner, slasher, sniper, heavy -->
