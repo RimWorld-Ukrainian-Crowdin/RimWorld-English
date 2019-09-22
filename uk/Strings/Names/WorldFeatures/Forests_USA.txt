@@ -23,24 +23,24 @@
 Кліуотер
 Клівленд
 Коконіно
-Colville
-Conecuh
+Колвіль
+Конкуч
 Коронадо
-Croatan
-Custer
-Daniel Boone
-Davy Crockett
-Delta
-Deschutes
-De Soto
-Dixie
-Eldorado
-El Yunque
-Finger Lakes
-Fishlake
-Flathead
-Francis Marion
-Fremont-Winema
+Кротан
+Кастер
+Даніель Бун
+Дейві Крокет
+Дельта
+Дешутс
+Де Сото
+Діксі
+Ельдорадо
+Ел-Юнке
+Фінгер Лейкс
+Фішлейк
+Флатхед
+Френсіс Мерйон
+Фремонт-Вінема
 Gallatin
 Gifford Pinchot
 Gila
