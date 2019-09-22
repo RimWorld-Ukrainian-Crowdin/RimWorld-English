@@ -41,23 +41,23 @@
 Флатхед
 Френсіс Мерйон
 Фремонт-Вінема
-Gallatin
-Gifford Pinchot
-Gila
-Grand Mesa
-Green Mountain
-Gunnison
-Helena
-Hiawatha
-Holly Springs
-Homochitto
-Hoosier
-Humboldt-Toiyabe
-Huron-Manistee
-Inyo
-Kaibab
-Kisatchie
-Klamath
+Галатін
+Гіфорд Пінчота
+Гіла
+Гранд Меса
+Грін Монтейн
+Ганнісон
+Хелен
+Хйаваз
+Холі Спрінгз
+Хомочіто
+Хузер
+Хумболт-Тойаб
+Харон-Манст
+Інйо
+Кайбаб
+Кісатчі
+Кламаз
 Kootenai
 Land Between The Lakes
 Lassen
