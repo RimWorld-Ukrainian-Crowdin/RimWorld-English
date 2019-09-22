@@ -91,40 +91,40 @@ Ozark-St. Francis
 Плюмас
 Прескот
 Ріо Гранд
-Rogue River-Siskiyou
-Roosevelt
+Рогью Рівер-Сіскійо
+Рузвельт
 Сабіна
-Salmon-Challis
-Sam Houston
-Samuel R. McKelvie
-San Bernardino
-San Isabel
-San Juan
-Santa Fe
-Sawtooth
-Sequoia
-Shasta-Trinity
-Shawnee
-Shoshone
-Sierra
-Siuslaw
-Six Rivers
-Stanislaus
-Sumter
-Superior
+Салмон-Чаліс
+Сем Хьюстон
+Семюел Р. мМаккелві
+Сан Бернардіно
+Сан Ізабель
+Сан Хуань
+Санта-Фе
+Савтуз
+Секвоя
+Шаста-Трініті
+Шавні
+Шошон
+Сьера
+Сислоу
+Сікс Ріверс
+Станіслава
+Самтер
+Суперіор
 Тахо
-Talladega
-Tombigbee
-Tongass
+Таладега
+Томбігбі
+Тонгас
 Тонто
 Таскігі
-Uinta-Wasatch-Cache
-Umatilla
-Umpqua
-Uncompahgre
-Uwharrie
-Wallowa-Whitman
-Wayne
+Уінта-Васач-Кеш
+Уматілла
+Ампква
+Анкомпаге
+Уварі
+Валова-Вітмен
+Вейн
 White Mountain
 White River
 Willamette
