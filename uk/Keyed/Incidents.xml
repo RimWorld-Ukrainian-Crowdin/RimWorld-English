@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Mad {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Сказ у {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>A local {ANIMAL_label} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Божевільний {0}</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Скажений {0}</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Якась психічна хвиля прокотилася над землею. Ваші колоністи впорядку, але...\n\nЗдається багато {0} в цьому районі зійшли з розуму.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Чума</LetterLabelCropBlight>
