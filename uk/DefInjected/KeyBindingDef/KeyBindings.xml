@@ -47,7 +47,7 @@
 
   <!-- Selection special -->
 
-  <Command_TogglePower.label>toggle power</Command_TogglePower.label>
+  <Command_TogglePower.label>перемкнути живлення</Command_TogglePower.label>
   <Command_ItemForbid.label>перемкнути заборону</Command_ItemForbid.label>
   <Command_ColonistDraft.label>бойовий режим</Command_ColonistDraft.label>
 
@@ -69,7 +69,7 @@
 
   <!-- Debug -->
 
-  <Dev_TickOnce.label>tick once</Dev_TickOnce.label>
+  <Dev_TickOnce.label>спрацювати один раз</Dev_TickOnce.label>
   <Dev_ToggleGodMode.label>перемикання "режим бога"</Dev_ToggleGodMode.label>
   <Dev_ToggleDebugLog.label>журнал відладки</Dev_ToggleDebugLog.label>
   <Dev_ToggleDebugActionsMenu.label>меню дій (режим розробника)</Dev_ToggleDebugActionsMenu.label>
