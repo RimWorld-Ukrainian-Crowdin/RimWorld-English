@@ -686,22 +686,22 @@
 	<FarmKid40>
 		<title>Сільська дитина</title>
 		<titleShort>Сільська дитина</titleShort>
-		<desc>NAME grew up on his family's beef farm. He enjoyed working the fields and taking care of the animals.</desc>
+		<desc>{PAWN_nameDef} виріс зі своєю сім'єю на фермі. Робота на фермі завжди приносила {PAWN_nameDef} задоволення що виразилось на здатності особливого піклування над тваринами.</desc>
 	</FarmKid40>
 	<CivilEngineer41>
 		<title>Інженер-будівельник</title>
 		<titleShort>Інженер</titleShort>
-		<desc>NAME was a well-known civil engineer. HISCAP job involved designing and maintaining rock fortification structures. HECAP did enough statistical analysis to keep his mind sharp.</desc>
+		<desc>{PAWN_nameDef} дуже добре розбирався у цивільній інженерії. {PAWN_possessive} робота передбачала розробку та підтримку гірських фортифікацій. {PAWN_pronoun} так часто робив статистичний аналіз, що може проводити складні розрахунки у себе в голові.</desc>
 	</CivilEngineer41>
 	<FarmerBoy63>
 		<title>Селюк</title>
 		<titleShort>Фермер</titleShort>
-		<desc>Benjamin's parents died in a fire when he was seven. He grew up on his uncle's farm, plowing fields and doing manual labor.
+		<desc>Батьки {PAWN_nameDef} загинули у пожежі коли {PAWN_possessive} було всього сім років. {PAWN_possessive} дядько прийняв до себе на ферму та влаштував робітником у полі.
 
-He could not bear answering questions about his parents, so he replaced social contact with hard work.</desc>
+{PAWN_nameDef} так і не дає відповідь на те, що саме сталося із її батьками, тому замість спілкування обирає важку працю.</desc>
 	</FarmerBoy63>
 	<ArmyCook51>
-		<title>Армійський кухар</title>
+		<title>Військовий кухар</title>
 		<titleShort>Кухар</titleShort>
 		<desc>Ben joined the army as a worker and spent most of his time cooking and repairing. While he was stationed on a dangerous planet, he underwent basic shooting and survival training.</desc>
 	</ArmyCook51>
