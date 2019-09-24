@@ -708,14 +708,14 @@
 	<UrbworldCriminal64>
 		<title>Злочинець урбанізованного світу</title>
 		<titleShort>Злочинець</titleShort>
-		<desc>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
+		<desc>{PAWN_pronoun} народився в урбнізованому світі який страждав на перенаселення, недостачу продуктів та моралі. {PAWN_nameDef} час від часу вдавався до дрібниї порушень, щоб вижити у цьому надсуворому світі.
 
-Грабежі та вбивства стали повсякденністю для нього. Vladimir learned that surviving was winning.</desc>
+Смак порушень увійшли у звичку, і в хід йшли грабежі та вбивства. {PAWN_nameDef} вивчив тільке це, бо тільки так міг виживати.</desc>
 	</UrbworldCriminal64>
 	<UrbworldPolitican16>
-		<title>Urbworld politican</title>
+		<title>Політик урбанізованого світу</title>
 		<titleShort>Політик</titleShort>
-		<desc>It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. Vladimir was one such figurehead.
+		<desc>Ні для кого не секрет, що головний хто приймає рішення в урбанізованому світі, є великі корпорації, проте хабарі то комусь треба давати. Vladimir was one such figurehead.
 
 He learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</desc>
 	</UrbworldPolitican16>
