@@ -715,9 +715,9 @@
 	<UrbworldPolitican16>
 		<title>Політик урбанізованого світу</title>
 		<titleShort>Політик</titleShort>
-		<desc>Ні для кого не секрет, що головний хто приймає рішення в урбанізованому світі, є великі корпорації, проте хабарі то комусь треба давати. Vladimir was one such figurehead.
+		<desc>Ні для кого не секрет, що головний хто приймає рішення в урбанізованому світі, є великі корпорації, проте хабарі то комусь треба давати. {PAWN_nameDef} був якраз ідеальною особою для цього.
 
-He learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</desc>
+{PAWN_pronoun} навчився маніпулювати надіями та мріями людей, і не задумувався ні про що попиваючи коктейль у своєму пентхаусі.</desc>
 	</UrbworldPolitican16>
 	<OptimisticChild43>
 		<title>Оптимістична дитина</title>
