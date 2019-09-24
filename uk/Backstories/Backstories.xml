@@ -703,10 +703,10 @@
 	<ArmyCook51>
 		<title>Військовий кухар</title>
 		<titleShort>Кухар</titleShort>
-		<desc>Ben joined the army as a worker and spent most of his time cooking and repairing. While he was stationed on a dangerous planet, he underwent basic shooting and survival training.</desc>
+		<desc>{PAWN_nameDef} вступив у лави збройних сил як працівник і проводив більшу частину свого часу за приготуванням їхі та проведенням ремонту. У ті часи {PAWN_pronoun} зі своїм підрозділом базувались на небезпечній планеті, тому {PAWN_pronoun} отримав базові навички стрільби та виживання.</desc>
 	</ArmyCook51>
 	<UrbworldCriminal64>
-		<title>Urbworld criminal</title>
+		<title>Злочинець урбанізованного світу</title>
 		<titleShort>Злочинець</titleShort>
 		<desc>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
 
