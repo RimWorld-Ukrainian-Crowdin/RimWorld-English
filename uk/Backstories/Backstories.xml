@@ -722,7 +722,7 @@
 	<OptimisticChild43>
 		<title>Оптимістична дитина</title>
 		<titleShort>Оптиміст</titleShort>
-		<desc>Kees was blessed with loving parents and a pleasant midworld life. He was an  optimistic and sociable kid who loved making friends and listening to their stories. His imagination would run wild with ideas and questions.</desc>
+		<desc>{PAWN_nameDef} благословенний мати люблячих батьків у середньому світі. {PAWN_pronoun} оптиміст та товариська дитина, яка любить дружити та слухати їх історії. {PAWN_possessive} уява завжди бурляла, тільки дай ідею або запитання.</desc>
 	</OptimisticChild43>
 	<GraphicDesigner99>
 		<title>Графічний дизайнер</title>
