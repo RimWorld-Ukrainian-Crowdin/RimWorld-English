@@ -77,13 +77,13 @@
   <Make_SimpleProstheticHeart.jobString>Майстрування штучного серця.</Make_SimpleProstheticHeart.jobString>
 
   <Make_CochlearImplant.label>змайструвати слуховий апарат</Make_CochlearImplant.label>
-  <Make_CochlearImplant.description>Make cochlear implant.</Make_CochlearImplant.description>
-  <Make_CochlearImplant.jobString>Making cochlear implant.</Make_CochlearImplant.jobString>
+  <Make_CochlearImplant.description>Змайструвати слуховий апарат.</Make_CochlearImplant.description>
+  <Make_CochlearImplant.jobString>Майстрування слухового апарату.</Make_CochlearImplant.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_BionicEye.label>make bionic eye</Make_BionicEye.label>
+  <Make_BionicEye.label>змайструвати біонічне око</Make_BionicEye.label>
   <Make_BionicEye.description>Make bionic eye.</Make_BionicEye.description>
   <Make_BionicEye.jobString>Making bionic eye.</Make_BionicEye.jobString>
 
