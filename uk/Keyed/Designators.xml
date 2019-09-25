@@ -17,17 +17,17 @@
   <DesignatorHarvestDesc>Вімітити рослини для збору для їжі або інших русурсів.</DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>Зрубати дерева</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Вімітити дерева для зрубу.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Відмітити дерева для зрубу.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Перемістити речі</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Вімітити глиби каменів і інші речі для переміщення на звалище. Не потрібно для таких речей як їжа або трупів, на які завжди діє переміщення.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Відмітити глиби каменів і інші речі для переміщення на звалище. Не потрібно для таких речей як їжа або трупів, на які завжди діє переміщення.</DesignatorHaulThingsDesc>
   <MustHaulHaulables>Можна призначити лише ті, що рідко переносяться (наприклад, шматки каменю).</MustHaulHaulables>
 
   <DesignatorHunt>Полювати</DesignatorHunt>
-  <DesignatorHuntDesc>Вімітити тварин для полювання твоїми мисливцями.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Відмітити тварин для полювання твоїми мисливцями.</DesignatorHuntDesc>
 
   <DesignatorMine>Видобувати</DesignatorMine>
-  <DesignatorMineDesc>Призначити зону каменю для видобування.</DesignatorMineDesc>
+  <DesignatorMineDesc>Позначити частину глиби для видобування.</DesignatorMineDesc>
 
   <DesignatorSmoothSurface>Полірувати поверхню</DesignatorSmoothSurface>
   <DesignatorSmoothSurfaceDesc>Запланувати полірування кам'яного покриття чи стін.</DesignatorSmoothSurfaceDesc>
@@ -38,11 +38,11 @@
   <DesignatorPlanRemove>Видалити план</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Видаляє заплановані задачі.</DesignatorPlanRemoveDesc>
 
-  <DesignatorForbid>Forbid</DesignatorForbid>
-  <DesignatorForbidDesc>Mark items as forbidden. Colonists will not be able to interact with the designated items.</DesignatorForbidDesc>
+  <DesignatorForbid>Заборонити</DesignatorForbid>
+  <DesignatorForbidDesc>Позначте предмети як заборонені. Колоністи не зможуть взаємодіяти із позначеними предметами.</DesignatorForbidDesc>
 
-  <DesignatorUnforbid>Allow</DesignatorUnforbid>
-  <DesignatorUnforbidDesc>Mark items as not forbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
+  <DesignatorUnforbid>Дозволити</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Позначити предмет як дозволений. Колоністи зможуть взаємодіяти із обраними предметами.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>Розширити домашню територію</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Колоністи будуть ремонтувати будівлі, очищати підлогу і тушити пожежу тільки на домашній території.</DesignatorAreaHomeExpandDesc>
@@ -50,7 +50,7 @@
   <DesignatorAreaHomeClearDesc>Видаляє домашню територію. Колоністи бідьше не будуть ремонтувати будівлі, очищати підлогу і тушити пожежу тут.</DesignatorAreaHomeClearDesc>
 
   <DesignatorAreaBuildRoofExpand>Будувати дах</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Колоністи побудують дах на заданій території.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Колоністи побудують дах на заданій території(будь-те обережні для даху обов'язково потрібні опори).</DesignatorAreaBuildRoofExpandDesc>
 
   <DesignatorAreaNoRoofExpand>Видалити дах</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Колоністи знищать дах на заданій території (окрім стелі гори, яка не може бути знищена).</DesignatorAreaNoRoofExpandDesc>
