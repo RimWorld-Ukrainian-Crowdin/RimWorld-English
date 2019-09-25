@@ -18,7 +18,7 @@
   <SilverGiftSent>{0} дякує вас.\n\n(Карма підвищена на {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
-  <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
+  <RequestTrader>Запит на торговий караван (коштує: {0} карми)</RequestTrader>
   <ChooseTraderKind>{0} запитує який тип торгового каравану, вам потрібно.</ChooseTraderKind>
   <TraderSent>{0} зобов'язується надіслати вам торговий караван. Він прибуде протягом декількох днів.</TraderSent>
   <WaitTime>очікуйте {0}</WaitTime>
