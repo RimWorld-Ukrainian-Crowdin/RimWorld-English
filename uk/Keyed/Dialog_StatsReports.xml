@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tool>Tool</Tool>
-  <DamageLower>damage</DamageLower>
-  <SecondsPerAttackLower>seconds per attack</SecondsPerAttackLower>
+  <Tool>Інструмент</Tool>
+  <DamageLower>пошкодження</DamageLower>
+  <SecondsPerAttackLower>затримка перед атакою</SecondsPerAttackLower>
 
   <StatsReport_BaseValue>Базове значення</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>Актуальні особливості</StatsReport_RelevantTraits>
@@ -21,14 +21,14 @@
   <HealthFactorAllowedDefect>якщо менше {0}</HealthFactorAllowedDefect>
   <StatsReport_PostProcessed>Крива постобробки</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Остаточне значення</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Витрати</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Множник якості</StatsReport_QualityMultiplier>
-  <StatsReport_MaxGain>Max gain</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Максимальне збільшення</StatsReport_MaxGain>
   <StatsReport_AgeMultiplier>Множник віку {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Множник здоров'я {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Множник настрою {0}</StatsReport_MoodMultiplier>
   <StatsReport_LightMultiplier>Множник світла {0}</StatsReport_LightMultiplier>
-  <StatsReport_DifficultyMultiplier>Множник складністі {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Множник складності {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>В ліжку</StatsReport_InBed>
   <StatsReport_Facilities>Споруди</StatsReport_Facilities>
   <StatsReport_BodySize>Множник розміру тіла {0}</StatsReport_BodySize>
