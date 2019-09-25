@@ -3,9 +3,7 @@
 	<ColonySettler43>
 		<title>Поселенець</title>
 		<titleShort>Колоніст</titleShort>
-		<desc>{PAWN_nameDef} був поселенцем у новому колоніальному світі.
-
-Таке життя вимагає бути майстром на всі руки в основних практичних завданнях.</desc>
+		<desc>{PAWN_nameDef} був поселенцем у новому колоніальному світі. Таке життя вимагає бути майстром на всі руки в основних практичних завданнях.</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
 		<title>Середньовічний сільський дурник</title>
@@ -732,7 +730,7 @@
 	<UrbworldHooligan8>
 		<title>Хуліган урбанізованого світу</title>
 		<titleShort>Хуліган</titleShort>
-		<desc>NAME grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</desc>
+		<desc>{PAWN_nameDef} ріс у небезпечному світі. {PAWN_pronoun} швидко зрозумів(ла), що єдиний спосіб добути їжу - це кримінал. Такі дії не залишали простору для готувуання та розвитку особистих якостей.</desc>
 	</UrbworldHooligan8>
 	<SpaceTechnician89>
 		<title>Космічний технік</title>
