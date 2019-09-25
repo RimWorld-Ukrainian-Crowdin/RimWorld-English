@@ -727,7 +727,7 @@
 	<GraphicDesigner99>
 		<title>Графічний дизайнер</title>
 		<titleShort>Дизайнер</titleShort>
-		<desc>Kees' interest in artistic expression led him to become a designer. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project.</desc>
+		<desc>{PAWN_nameDef} завжди цікавився експресіонізмом та вирів виявляти цю зацікавленість у дизайнерській справі. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project.</desc>
 	</GraphicDesigner99>
 	<UrbworldHooligan8>
 		<title>Urbworld hooligan</title>
