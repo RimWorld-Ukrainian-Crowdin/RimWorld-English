@@ -727,10 +727,10 @@
 	<GraphicDesigner99>
 		<title>Графічний дизайнер</title>
 		<titleShort>Дизайнер</titleShort>
-		<desc>{PAWN_nameDef} завжди цікавився експресіонізмом та вирів виявляти цю зацікавленість у дизайнерській справі. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project.</desc>
+		<desc>{PAWN_nameDef} завжди цікавився експресіонізмом та вирів виявляти цю зацікавленість у дизайнерській справі. {PAWN_possessive} увага до деталей та витонченний смак створили велику популярність на {PAWN_possessive} планеті. Проте скурпулезність до деталей завжди витрачала багато часу.</desc>
 	</GraphicDesigner99>
 	<UrbworldHooligan8>
-		<title>Urbworld hooligan</title>
+		<title>Хуліган урбанізованого світу</title>
 		<titleShort>Хуліган</titleShort>
 		<desc>NAME grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</desc>
 	</UrbworldHooligan8>
