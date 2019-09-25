@@ -3,19 +3,19 @@
 
   <FactionGreetingHostile>{0} лається у мікрофон та відключився.</FactionGreetingHostile>
   <FactionGreetingHostileAppreciative>{0} просить вас про жест доброї волі у вигляді {0_possessive} колоністів, або звільнити {0_possessive} заручників з їхнього племені цілими та неушкодженними. До тих пір, {0_pronoun} не має наміру спілкуватись.\n\n(щось пробурмотів та відключився).</FactionGreetingHostileAppreciative>
-  <FactionGreetingWary>{0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle.</FactionGreetingWary>
-  <FactionGreetingWarm>{0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you.</FactionGreetingWarm>
+  <FactionGreetingWary>{0} обережно вітається із {NEGOTIATOR_labelShort} та цікавиться що ви збираєтесь запропонувати.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} радісно вітає {NEGOTIATOR_labelShort} та питається, чим {LEADER_pronoun} може вам допомогти.</FactionGreetingWarm>
 
   <Disconnect>Відключитися</Disconnect>
 
   <!-- Gift offer -->
   <OfferGift>Запропунувати подарунок</OfferGift>
-  <MustBeAlly>must be ally</MustBeAlly>
-  <NeedGoodwill>need {0} goodwill</NeedGoodwill>
-  <NeedSilverLaunchable>потрібна {0} срібло поблизу торгового маяка</NeedSilverLaunchable>
+  <MustBeAlly>повинен бути союзником</MustBeAlly>
+  <NeedGoodwill>необхідно {0} карми</NeedGoodwill>
+  <NeedSilverLaunchable>потрібно {0} срібло поблизу торгового маяка</NeedSilverLaunchable>
   <NotEnoughSilver>не вистачає срібла</NotEnoughSilver>
   <SilverForGoodwill>срібло від {0}, як жест доброзичливості для {1}</SilverForGoodwill>
-  <SilverGiftSent>{0} thanks you.\n\n(Goodwill improved by {1})</SilverGiftSent>
+  <SilverGiftSent>{0} дякує вас.\n\n(Карма підвищена на {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
