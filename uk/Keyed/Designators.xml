@@ -87,7 +87,7 @@
   <DesignatorRemoveFloor>Розібрати підлогу</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Видаляє підлогу і показує територію під ним.</DesignatorRemoveFloorDesc>
 
-  <DesignatorRemoveBridge>Розібрати моста</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Розібрати міст</DesignatorRemoveBridge>
   <DesignatorRemoveBridgeDesc>Розібрати мости та розкрити приховані під ними поверхні.</DesignatorRemoveBridgeDesc>
 
   <DesignatorStrip>Роздягти</DesignatorStrip>
@@ -116,11 +116,11 @@
   <IdenticalThingExists>Ідентична річ вже тут.</IdenticalThingExists>
   <IdenticalBlueprintExists>Ідентичний план вже тут.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Ця територія не може підтримувати це.</TerrainCannotSupport>
-  <TerrainCannotSupport_TerrainAffordance>{0_label} requires terrain that can support: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} потребує простір для підтримки {1_label}</TerrainCannotSupport_TerrainAffordance>
   <SpaceAlreadyOccupied>Територія вже зайнята.</SpaceAlreadyOccupied>
   <SpaceBeingSmoothed>Територія вже вирівнюється.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Потрібно вибрати підлогу з можливістю знищення.</TerrainMustBeRemovable>
-  <MustBeOnMovingWater>The waterwheel must be on moving water.</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Водяне колесо має бути розміщенно у руслі ріки.</MustBeOnMovingWater>
 
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Розширити {0} або\nСтворити нову {1}</ExpandOrCreateZone>
@@ -129,7 +129,7 @@
   <!-- Desc helpers -->
   <TransmitsPower>Передача потужності</TransmitsPower>
   <ConstructionNeeded>Потрібно будівництво</ConstructionNeeded>
-  <NoColonistWithConstructionSkillTip>None of your {0} have this skill.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <NoColonistWithConstructionSkillTip>Жоден з ваших {0} не має цих навичків.</NoColonistWithConstructionSkillTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Усі {0} хто не задіяний за {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>
