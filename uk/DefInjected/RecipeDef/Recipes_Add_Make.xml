@@ -64,19 +64,19 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_SimpleProstheticLeg.label>make prosthetic leg</Make_SimpleProstheticLeg.label>
-  <Make_SimpleProstheticLeg.description>Make prosthetic leg.</Make_SimpleProstheticLeg.description>
-  <Make_SimpleProstheticLeg.jobString>Making prosthetic leg.</Make_SimpleProstheticLeg.jobString>
+  <Make_SimpleProstheticLeg.label>змайструвати протез ноги</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>Змайструвати протез ноги.</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.jobString>Майстрування протезу ноги.</Make_SimpleProstheticLeg.jobString>
 
-  <Make_SimpleProstheticArm.label>make prosthetic arm</Make_SimpleProstheticArm.label>
-  <Make_SimpleProstheticArm.description>Make prosthetic arm.</Make_SimpleProstheticArm.description>
-  <Make_SimpleProstheticArm.jobString>Making prosthetic arm.</Make_SimpleProstheticArm.jobString>
+  <Make_SimpleProstheticArm.label>змайструвати протез руки</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>Змайструвати протез руки.</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.jobString>Майстрування протезу руки.</Make_SimpleProstheticArm.jobString>
 
-  <Make_SimpleProstheticHeart.label>make prosthetic heart</Make_SimpleProstheticHeart.label>
-  <Make_SimpleProstheticHeart.description>Make prosthetic heart.</Make_SimpleProstheticHeart.description>
-  <Make_SimpleProstheticHeart.jobString>Making prosthetic heart.</Make_SimpleProstheticHeart.jobString>
+  <Make_SimpleProstheticHeart.label>змайструвати штучне серце</Make_SimpleProstheticHeart.label>
+  <Make_SimpleProstheticHeart.description>Змайструвати штучне сердце.</Make_SimpleProstheticHeart.description>
+  <Make_SimpleProstheticHeart.jobString>Майстрування штучного серця.</Make_SimpleProstheticHeart.jobString>
 
-  <Make_CochlearImplant.label>make cochlear implant</Make_CochlearImplant.label>
+  <Make_CochlearImplant.label>змайструвати слуховий апарат</Make_CochlearImplant.label>
   <Make_CochlearImplant.description>Make cochlear implant.</Make_CochlearImplant.description>
   <Make_CochlearImplant.jobString>Making cochlear implant.</Make_CochlearImplant.jobString>
 
