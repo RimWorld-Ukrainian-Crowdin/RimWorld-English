@@ -178,70 +178,70 @@
   <Make_Apparel_WarMask.jobString>Майстрування бойової маски.</Make_Apparel_WarMask.jobString>
 
   <Make_Apparel_WarVeil.label>товстошкіра куртка</Make_Apparel_WarVeil.label>
-  <Make_Apparel_WarVeil.description>Виготовити бойову вуаль.</Make_Apparel_WarVeil.description>
-  <Make_Apparel_WarVeil.jobString>Робить бойову вуаль.</Make_Apparel_WarVeil.jobString>
+  <Make_Apparel_WarVeil.description>Пошити товстошкіру куртку.</Make_Apparel_WarVeil.description>
+  <Make_Apparel_WarVeil.jobString>Пошиття товстошкірої куртки.</Make_Apparel_WarVeil.jobString>
 
 
   <!-- Recipe Users: TableMachining, ElectricSmithy, FueledSmithy -->
 
-  <Make_Apparel_SimpleHelmet.label>зробити простий шолом</Make_Apparel_SimpleHelmet.label>
-  <Make_Apparel_SimpleHelmet.description>Зробити простий шолом.</Make_Apparel_SimpleHelmet.description>
-  <Make_Apparel_SimpleHelmet.jobString>Створення простого шолому.</Make_Apparel_SimpleHelmet.jobString>
+  <Make_Apparel_SimpleHelmet.label>простий шолом</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>Змайструвати простий шолом.</Make_Apparel_SimpleHelmet.description>
+  <Make_Apparel_SimpleHelmet.jobString>Майстрування простого шолому.</Make_Apparel_SimpleHelmet.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_AdvancedHelmet.label>зробити сучасний шолом</Make_Apparel_AdvancedHelmet.label>
-  <Make_Apparel_AdvancedHelmet.description>Зробити сучасний шолом.</Make_Apparel_AdvancedHelmet.description>
-  <Make_Apparel_AdvancedHelmet.jobString>Створення сучасного шолому.</Make_Apparel_AdvancedHelmet.jobString>
+  <Make_Apparel_AdvancedHelmet.label>покращений шолом</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>Змайструвати покращений шолом.</Make_Apparel_AdvancedHelmet.description>
+  <Make_Apparel_AdvancedHelmet.jobString>Майстрування покращеного шолому.</Make_Apparel_AdvancedHelmet.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Apparel_PowerArmorHelmet.label>make marine helmet</Make_Apparel_PowerArmorHelmet.label>
-  <Make_Apparel_PowerArmorHelmet.description>Make marine helmet.</Make_Apparel_PowerArmorHelmet.description>
-  <Make_Apparel_PowerArmorHelmet.jobString>Making marine helmet.</Make_Apparel_PowerArmorHelmet.jobString>
+  <Make_Apparel_PowerArmorHelmet.label>шолом піхотинця</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Виготовити шолом піхотинця.</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.jobString>Виготовлення шолому піхотинця.</Make_Apparel_PowerArmorHelmet.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_TribalA.label>зробити племінний одяг</Make_Apparel_TribalA.label>
-  <Make_Apparel_TribalA.description>Зробити племінний одяг.</Make_Apparel_TribalA.description>
-  <Make_Apparel_TribalA.jobString>Створення племінного одягу.</Make_Apparel_TribalA.jobString>
+  <Make_Apparel_TribalA.label>племінний одяг</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>Пошити племінний одяг.</Make_Apparel_TribalA.description>
+  <Make_Apparel_TribalA.jobString>Пошиття племінного одягу.</Make_Apparel_TribalA.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_Parka.label>зробити пальто</Make_Apparel_Parka.label>
-  <Make_Apparel_Parka.description>Зробити пальто.</Make_Apparel_Parka.description>
-  <Make_Apparel_Parka.jobString>Створення пальта.</Make_Apparel_Parka.jobString>
+  <Make_Apparel_Parka.label>пальто</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>Пошити пальто.</Make_Apparel_Parka.description>
+  <Make_Apparel_Parka.jobString>Пошиття пальта.</Make_Apparel_Parka.jobString>
 
-  <Make_Apparel_Pants.label>зробити штани</Make_Apparel_Pants.label>
-  <Make_Apparel_Pants.description>Зробити штани.</Make_Apparel_Pants.description>
-  <Make_Apparel_Pants.jobString>Створення штанів.</Make_Apparel_Pants.jobString>
+  <Make_Apparel_Pants.label>штани</Make_Apparel_Pants.label>
+  <Make_Apparel_Pants.description>Пошити штани.</Make_Apparel_Pants.description>
+  <Make_Apparel_Pants.jobString>Пошиття штанів.</Make_Apparel_Pants.jobString>
 
-  <Make_Apparel_BasicShirt.label>зробити футболку</Make_Apparel_BasicShirt.label>
-  <Make_Apparel_BasicShirt.description>Зробити футболку.</Make_Apparel_BasicShirt.description>
-  <Make_Apparel_BasicShirt.jobString>Створення футболки.</Make_Apparel_BasicShirt.jobString>
+  <Make_Apparel_BasicShirt.label>футболка</Make_Apparel_BasicShirt.label>
+  <Make_Apparel_BasicShirt.description>Пошити футболку.</Make_Apparel_BasicShirt.description>
+  <Make_Apparel_BasicShirt.jobString>Пошиття футболки.</Make_Apparel_BasicShirt.jobString>
 
-  <Make_Apparel_CollarShirt.label>зробити сорочку</Make_Apparel_CollarShirt.label>
-  <Make_Apparel_CollarShirt.description>Зробити сорочку.</Make_Apparel_CollarShirt.description>
-  <Make_Apparel_CollarShirt.jobString>Створення сорочки.</Make_Apparel_CollarShirt.jobString>
+  <Make_Apparel_CollarShirt.label>сорочка</Make_Apparel_CollarShirt.label>
+  <Make_Apparel_CollarShirt.description>Пошити сорочку.</Make_Apparel_CollarShirt.description>
+  <Make_Apparel_CollarShirt.jobString>Пошиття сорочки.</Make_Apparel_CollarShirt.jobString>
 
-  <Make_Apparel_Duster.label>зробити пильовик</Make_Apparel_Duster.label>
-  <Make_Apparel_Duster.description>Зробити пильовик.</Make_Apparel_Duster.description>
-  <Make_Apparel_Duster.jobString>Створення пильовика.</Make_Apparel_Duster.jobString>
+  <Make_Apparel_Duster.label>пильовик</Make_Apparel_Duster.label>
+  <Make_Apparel_Duster.description>Пошити пильовик.</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.jobString>Пошиття пильовика.</Make_Apparel_Duster.jobString>
 
-  <Make_Apparel_Jacket.label>зробити куртку</Make_Apparel_Jacket.label>
-  <Make_Apparel_Jacket.description>Зробити куртку.</Make_Apparel_Jacket.description>
-  <Make_Apparel_Jacket.jobString>Створення куртки.</Make_Apparel_Jacket.jobString>
+  <Make_Apparel_Jacket.label>куртка</Make_Apparel_Jacket.label>
+  <Make_Apparel_Jacket.description>Пошити куртку.</Make_Apparel_Jacket.description>
+  <Make_Apparel_Jacket.jobString>Пошиття куртки.</Make_Apparel_Jacket.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_Apparel_PlateArmor.label>make plate armor</Make_Apparel_PlateArmor.label>
-  <Make_Apparel_PlateArmor.description>Make plate armor.</Make_Apparel_PlateArmor.description>
-  <Make_Apparel_PlateArmor.jobString>Making plate armor.</Make_Apparel_PlateArmor.jobString>
+  <Make_Apparel_PlateArmor.label>металеві обладунки</Make_Apparel_PlateArmor.label>
+  <Make_Apparel_PlateArmor.description>Викувати металеві обладунки.</Make_Apparel_PlateArmor.description>
+  <Make_Apparel_PlateArmor.jobString>Виковування металевих обладунків.</Make_Apparel_PlateArmor.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
