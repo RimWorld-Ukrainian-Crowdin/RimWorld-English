@@ -24,8 +24,8 @@
   <WaitTime>очікуйте {0}</WaitTime>
 
   <!-- AI core request -->
-  <RequestAICoreInformation>Request the location of an {0} (cost: {1} silver)</RequestAICoreInformation>
-  <RequestAICoreInformationResult>{0} sends the requested information and wishes you good luck.</RequestAICoreInformationResult>
+  <RequestAICoreInformation>Запит на розміщення на {0} (коштує {1} срібла)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} надсилає запитану інформацію та бажає вам успіху.</RequestAICoreInformationResult>
   <NoKnownAICore>no more locations known</NoKnownAICore>
 
   <!-- Military aid request -->
