@@ -129,55 +129,55 @@
   <Make_Shell_Incendiary.description>Виготовити запальний снаряд.</Make_Shell_Incendiary.description>
   <Make_Shell_Incendiary.jobString>Виготовлення запального снаряду.</Make_Shell_Incendiary.jobString>
 
-  <Make_Shell_EMP.label>зробити ЕМП снаряд</Make_Shell_EMP.label>
-  <Make_Shell_EMP.description>Зробити ЕМП снаряд.</Make_Shell_EMP.description>
-  <Make_Shell_EMP.jobString>Створення ЕМП снаряду.</Make_Shell_EMP.jobString>
+  <Make_Shell_EMP.label>ЕМІ снаряд</Make_Shell_EMP.label>
+  <Make_Shell_EMP.description>Виготовити ЕМІ снаряд.</Make_Shell_EMP.description>
+  <Make_Shell_EMP.jobString>Виготовлення ЕМІ снаряду.</Make_Shell_EMP.jobString>
 
-  <Make_Shell_Firefoam.label>зробити снаряд з протипожежною піною</Make_Shell_Firefoam.label>
-  <Make_Shell_Firefoam.description>Зробити снаряд з протипожежною піною.</Make_Shell_Firefoam.description>
-  <Make_Shell_Firefoam.jobString>Створення снаряду з протипожежною піною.</Make_Shell_Firefoam.jobString>
+  <Make_Shell_Firefoam.label>снаряд з протипожежною піною</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.description>Виготовити снаряд з протипожежною піною.</Make_Shell_Firefoam.description>
+  <Make_Shell_Firefoam.jobString>Виготовлення снаряду з протипожежною піною.</Make_Shell_Firefoam.jobString>
 
-  <Make_Apparel_ShieldBelt.label>зробити поясний щит</Make_Apparel_ShieldBelt.label>
-  <Make_Apparel_ShieldBelt.description>Зробити поясний щит.</Make_Apparel_ShieldBelt.description>
-  <Make_Apparel_ShieldBelt.jobString>Створення поясного щита.</Make_Apparel_ShieldBelt.jobString>
+  <Make_Apparel_ShieldBelt.label>поясний щит</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>Виготовити поясний щит.</Make_Apparel_ShieldBelt.description>
+  <Make_Apparel_ShieldBelt.jobString>Виготовлення поясного щита.</Make_Apparel_ShieldBelt.jobString>
 
-  <Make_Apparel_SmokepopBelt.label>зробити ремінь з димовими бомбами</Make_Apparel_SmokepopBelt.label>
-  <Make_Apparel_SmokepopBelt.description>Зробити ремінь з димовими бомбами.</Make_Apparel_SmokepopBelt.description>
-  <Make_Apparel_SmokepopBelt.jobString>Створення ременя з димовими бомбами.</Make_Apparel_SmokepopBelt.jobString>
+  <Make_Apparel_SmokepopBelt.label>ремінь з димовими бомбами</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>Змайструвати ремінь з димовими бомбами.</Make_Apparel_SmokepopBelt.description>
+  <Make_Apparel_SmokepopBelt.jobString>Майстрування ременя з димовими бомбами.</Make_Apparel_SmokepopBelt.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_CowboyHat.label>зробити ковбойський капелюх</Make_Apparel_CowboyHat.label>
-  <Make_Apparel_CowboyHat.description>Зробити ковбойський капелюх.</Make_Apparel_CowboyHat.description>
-  <Make_Apparel_CowboyHat.jobString>Створення ковбойського капелюха.</Make_Apparel_CowboyHat.jobString>
+  <Make_Apparel_CowboyHat.label>ковбойський капелюх</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>Пошити ковбойський капелюх.</Make_Apparel_CowboyHat.description>
+  <Make_Apparel_CowboyHat.jobString>Пошиття ковбойського капелюха.</Make_Apparel_CowboyHat.jobString>
 
-  <Make_Apparel_BowlerHat.label>зробити шапку</Make_Apparel_BowlerHat.label>
-  <Make_Apparel_BowlerHat.description>Зробити шапку.</Make_Apparel_BowlerHat.description>
-  <Make_Apparel_BowlerHat.jobString>Створення шапки.</Make_Apparel_BowlerHat.jobString>
+  <Make_Apparel_BowlerHat.label>шапка</Make_Apparel_BowlerHat.label>
+  <Make_Apparel_BowlerHat.description>Пошити шапку.</Make_Apparel_BowlerHat.description>
+  <Make_Apparel_BowlerHat.jobString>Пошиття шапки.</Make_Apparel_BowlerHat.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_TribalHeaddress.label>зробити племінний головний убір</Make_Apparel_TribalHeaddress.label>
-  <Make_Apparel_TribalHeaddress.description>Зробити племінний головний убір.</Make_Apparel_TribalHeaddress.description>
-  <Make_Apparel_TribalHeaddress.jobString>Створення племінного головного убору.</Make_Apparel_TribalHeaddress.jobString>
+  <Make_Apparel_TribalHeaddress.label>племінний головний убір</Make_Apparel_TribalHeaddress.label>
+  <Make_Apparel_TribalHeaddress.description>Пошити племінний головний убір.</Make_Apparel_TribalHeaddress.description>
+  <Make_Apparel_TribalHeaddress.jobString>Пошиття племінного головного убору.</Make_Apparel_TribalHeaddress.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_Tuque.label>зробити в'язану шапку</Make_Apparel_Tuque.label>
-  <Make_Apparel_Tuque.description>Виготовити в'язану шапку.</Make_Apparel_Tuque.description>
-  <Make_Apparel_Tuque.jobString>В'яже шапку.</Make_Apparel_Tuque.jobString>
+  <Make_Apparel_Tuque.label>в'язана шапка</Make_Apparel_Tuque.label>
+  <Make_Apparel_Tuque.description>Зв'язати шапку.</Make_Apparel_Tuque.description>
+  <Make_Apparel_Tuque.jobString>Зв'яжує шапку.</Make_Apparel_Tuque.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_WarMask.label>зробити бойову маску</Make_Apparel_WarMask.label>
-  <Make_Apparel_WarMask.description>Зробити бойову маску.</Make_Apparel_WarMask.description>
-  <Make_Apparel_WarMask.jobString>Створення бойової маски.</Make_Apparel_WarMask.jobString>
+  <Make_Apparel_WarMask.label>бойову маску</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>Змайструвати бойову маску.</Make_Apparel_WarMask.description>
+  <Make_Apparel_WarMask.jobString>Майстрування бойової маски.</Make_Apparel_WarMask.jobString>
 
-  <Make_Apparel_WarVeil.label>зробити бойову вуаль</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.label>товстошкіра куртка</Make_Apparel_WarVeil.label>
   <Make_Apparel_WarVeil.description>Виготовити бойову вуаль.</Make_Apparel_WarVeil.description>
   <Make_Apparel_WarVeil.jobString>Робить бойову вуаль.</Make_Apparel_WarVeil.jobString>
 
