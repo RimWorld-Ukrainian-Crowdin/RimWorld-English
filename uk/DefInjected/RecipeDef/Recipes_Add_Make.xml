@@ -246,24 +246,24 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_FlakVest.label>make flak vest</Make_Apparel_FlakVest.label>
-  <Make_Apparel_FlakVest.description>Make flak vest.</Make_Apparel_FlakVest.description>
-  <Make_Apparel_FlakVest.jobString>Making flak vest.</Make_Apparel_FlakVest.jobString>
+  <Make_Apparel_FlakVest.label>бронежилет</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>Виготовити бронежилет.</Make_Apparel_FlakVest.description>
+  <Make_Apparel_FlakVest.jobString>Виготовлення бронежилету.</Make_Apparel_FlakVest.jobString>
 
-  <Make_Apparel_FlakPants.label>make flak pants</Make_Apparel_FlakPants.label>
-  <Make_Apparel_FlakPants.description>Make flak pants.</Make_Apparel_FlakPants.description>
-  <Make_Apparel_FlakPants.jobString>Making flak pants.</Make_Apparel_FlakPants.jobString>
+  <Make_Apparel_FlakPants.label>укріплені штани</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>Виготовити укріплені штани.</Make_Apparel_FlakPants.description>
+  <Make_Apparel_FlakPants.jobString>Виготовлення укріплених штанів.</Make_Apparel_FlakPants.jobString>
 
-  <Make_Apparel_FlakJacket.label>make flak jacket</Make_Apparel_FlakJacket.label>
-  <Make_Apparel_FlakJacket.description>Make flak jacket.</Make_Apparel_FlakJacket.description>
-  <Make_Apparel_FlakJacket.jobString>Making flak jacket.</Make_Apparel_FlakJacket.jobString>
+  <Make_Apparel_FlakJacket.label>укріплена куртка</Make_Apparel_FlakJacket.label>
+  <Make_Apparel_FlakJacket.description>Виготовити укріплену куртку.</Make_Apparel_FlakJacket.description>
+  <Make_Apparel_FlakJacket.jobString>Виготовлення укріпленої куртки.</Make_Apparel_FlakJacket.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Apparel_PowerArmor.label>make marine armor</Make_Apparel_PowerArmor.label>
-  <Make_Apparel_PowerArmor.description>Make marine armor.</Make_Apparel_PowerArmor.description>
-  <Make_Apparel_PowerArmor.jobString>Making marine armor.</Make_Apparel_PowerArmor.jobString>
+  <Make_Apparel_PowerArmor.label>форма піхотинця</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Виготовити форму піхотинця.</Make_Apparel_PowerArmor.description>
+  <Make_Apparel_PowerArmor.jobString>Виготовлення форми піхотинця.</Make_Apparel_PowerArmor.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
