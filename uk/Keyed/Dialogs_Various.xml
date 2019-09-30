@@ -4,7 +4,7 @@
   <Confirm>Підтвердити</Confirm>
   <GoBack>Повернутися</GoBack>
   <OK>ОК</OK>
-  <Close>Close</Close>
+  <Close>Закрити</Close>
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld було оновлено з версії {0} до версії {1}.</GameUpdatedToNewVersionInitial>
@@ -20,15 +20,15 @@
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Помилка під час завантаження ресурсів</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>Сталася помилка при завантаженні ігрових ресурсів. Перегляньте журнал помилок для отримання додаткової інформації.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssets_ModsInfo>На данний момент у грі присутні модифікації від гравців - є вірогідність того, що вони можуть викликати сбої та помилки.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Помилка при створенні мапи</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Сталася помилка при створенні нової мапи. Подивітся журнал помилок для більш детальної інформації.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Помилка під час завантаження мапи</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Сталася помилка під час завантаження мапи. Подивіться журнал помилок для більш детальної інформації.</ErrorWhileLoadingMap>
 
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+  <ModsChanged>Список модифікації було змінено. Гра автоматично перезавантажиться.</ModsChanged>
+  <FailedToRestart>Щось пішло не так при перезавантажені. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
   <Restarting>Перезавантаження</Restarting>
 
   <!-- Missing Steam -->
