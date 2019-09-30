@@ -30,11 +30,11 @@
 
   <!-- Military aid request -->
   <RequestMilitaryAid>Запит негайної військової допомоги (Вартість: {0} карми)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} не допоможе вам боротися з іншими фракціями, які не є їх ворогами. Це включає в себе фракції, які в даний момент загрожють вашій, {1}. Усе одно запросити допомоги?</MilitaryAidConfirmMutualEnemy>
-  <CallConfirm>Так, позвати їх будь яким методом.</CallConfirm>
+  <MilitaryAidConfirmMutualEnemy>{0} не допоможе вам боротися з іншими фракціями, які не є їх ворогами. Це включає в себе фракції, які на даний момент загрожють вашому поселеню, {1}. Усе одно запросити допомоги?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Так, викликати їх будь яким методом.</CallConfirm>
   <CallCancel>Ні, ні в якому разі.</CallCancel>
   <MilitaryAidSent>{0} зобов'язується надіслати бійців, щоб допомогти вам.</MilitaryAidSent>
-  <CantSendMilitaryAidInTime>{0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} вибачає бо не зможе встигнути надіслати допомогу вчасно.\n\n (Відсутні потрібні технології для цього)</CantSendMilitaryAidInTime>
   <HostileVisitorsPresent>hostile visitors present</HostileVisitorsPresent>
 
 </LanguageData>
