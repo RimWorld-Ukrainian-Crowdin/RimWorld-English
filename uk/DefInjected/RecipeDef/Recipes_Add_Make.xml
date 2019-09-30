@@ -268,13 +268,13 @@
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_MeleeWeapon_Mace.label>зробити булаву</Make_MeleeWeapon_Mace.label>
-  <Make_MeleeWeapon_Mace.description>Зробити булаву.</Make_MeleeWeapon_Mace.description>
-  <Make_MeleeWeapon_Mace.jobString>Створення булави.</Make_MeleeWeapon_Mace.jobString>
+  <Make_MeleeWeapon_Mace.label>булава</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>Змайструвати булаву.</Make_MeleeWeapon_Mace.description>
+  <Make_MeleeWeapon_Mace.jobString>Майстрування булави.</Make_MeleeWeapon_Mace.jobString>
 
-  <Make_MeleeWeapon_Gladius.label>зробити гладіус</Make_MeleeWeapon_Gladius.label>
-  <Make_MeleeWeapon_Gladius.description>Зробити гладіус.</Make_MeleeWeapon_Gladius.description>
-  <Make_MeleeWeapon_Gladius.jobString>Створення гладіуса.</Make_MeleeWeapon_Gladius.jobString>
+  <Make_MeleeWeapon_Gladius.label>гладіус</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>Змайструвати гладіус.</Make_MeleeWeapon_Gladius.description>
+  <Make_MeleeWeapon_Gladius.jobString>Майстрування гладіуса.</Make_MeleeWeapon_Gladius.jobString>
 
   <Make_MeleeWeapon_LongSword.label>зробити меч</Make_MeleeWeapon_LongSword.label>
   <Make_MeleeWeapon_LongSword.description>Зробити меч.</Make_MeleeWeapon_LongSword.description>
