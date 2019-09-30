@@ -35,6 +35,6 @@
   <CallCancel>Ні, ні в якому разі.</CallCancel>
   <MilitaryAidSent>{0} зобов'язується надіслати бійців, щоб допомогти вам.</MilitaryAidSent>
   <CantSendMilitaryAidInTime>{0} вибачає бо не зможе встигнути надіслати допомогу вчасно.\n\n (Відсутні потрібні технології для цього)</CantSendMilitaryAidInTime>
-  <HostileVisitorsPresent>hostile visitors present</HostileVisitorsPresent>
+  <HostileVisitorsPresent>ворожі відвідувачі поблизу</HostileVisitorsPresent>
 
 </LanguageData>
