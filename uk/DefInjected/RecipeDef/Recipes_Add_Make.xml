@@ -42,7 +42,7 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_WakeUp.label>зробити бадьорин</Make_WakeUp.label>
+  <Make_WakeUp.label>make wake-up</Make_WakeUp.label>
   <Make_WakeUp.description>Make wake-up.</Make_WakeUp.description>
   <Make_WakeUp.jobString>Making wake-up.</Make_WakeUp.jobString>
 
@@ -115,7 +115,7 @@
   <!-- Recipe Users: DrugLab -->
 
   <Make_MedicineIndustrial.label>ліки</Make_MedicineIndustrial.label>
-  <Make_MedicineIndustrial.description>Зробити ліки.</Make_MedicineIndustrial.description>
+  <Make_MedicineIndustrial.description>Створити ліки.</Make_MedicineIndustrial.description>
   <Make_MedicineIndustrial.jobString>Створення ліків.</Make_MedicineIndustrial.jobString>
 
 
@@ -173,7 +173,7 @@
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_WarMask.label>бойову маску</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.label>бойова маска</Make_Apparel_WarMask.label>
   <Make_Apparel_WarMask.description>Змайструвати бойову маску.</Make_Apparel_WarMask.description>
   <Make_Apparel_WarMask.jobString>Майстрування бойової маски.</Make_Apparel_WarMask.jobString>
 
@@ -353,56 +353,56 @@
   <Make_Gun_Minigun.description>Виготовити мініґан.</Make_Gun_Minigun.description>
   <Make_Gun_Minigun.jobString>Виготовлення мініґана.</Make_Gun_Minigun.jobString>
 
-  <Make_Weapon_GrenadeFrag.label>make frag grenades</Make_Weapon_GrenadeFrag.label>
-  <Make_Weapon_GrenadeFrag.description>Make frag grenades.</Make_Weapon_GrenadeFrag.description>
-  <Make_Weapon_GrenadeFrag.jobString>Making frag grenades.</Make_Weapon_GrenadeFrag.jobString>
+  <Make_Weapon_GrenadeFrag.label>осколкова граната</Make_Weapon_GrenadeFrag.label>
+  <Make_Weapon_GrenadeFrag.description>Виготовити осколкову гранату.</Make_Weapon_GrenadeFrag.description>
+  <Make_Weapon_GrenadeFrag.jobString>Виготовлення осколкової гранати.</Make_Weapon_GrenadeFrag.jobString>
 
-  <Make_Weapon_GrenadeMolotov.label>make molotov cocktails</Make_Weapon_GrenadeMolotov.label>
-  <Make_Weapon_GrenadeMolotov.description>Make molotov cocktails.</Make_Weapon_GrenadeMolotov.description>
-  <Make_Weapon_GrenadeMolotov.jobString>Making molotov cocktails.</Make_Weapon_GrenadeMolotov.jobString>
+  <Make_Weapon_GrenadeMolotov.label>коктейль Молотова</Make_Weapon_GrenadeMolotov.label>
+  <Make_Weapon_GrenadeMolotov.description>Виготовити коктейль Молотова.</Make_Weapon_GrenadeMolotov.description>
+  <Make_Weapon_GrenadeMolotov.jobString>Виготовлення коктейля Молотова.</Make_Weapon_GrenadeMolotov.jobString>
 
-  <Make_Weapon_GrenadeEMP.label>make EMP grenades</Make_Weapon_GrenadeEMP.label>
-  <Make_Weapon_GrenadeEMP.description>Make EMP grenades.</Make_Weapon_GrenadeEMP.description>
-  <Make_Weapon_GrenadeEMP.jobString>Making EMP grenades.</Make_Weapon_GrenadeEMP.jobString>
-
-
-  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
-
-  <Make_Bow_Short.label>зробити короткий лук</Make_Bow_Short.label>
-  <Make_Bow_Short.description>Зробити короткий лук.</Make_Bow_Short.description>
-  <Make_Bow_Short.jobString>Створення короткого лука.</Make_Bow_Short.jobString>
-
-
-  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
-
-  <Make_Pila.label>зробити гасту</Make_Pila.label>
-  <Make_Pila.description>Зробити гасту.</Make_Pila.description>
-  <Make_Pila.jobString>Створення гасти.</Make_Pila.jobString>
+  <Make_Weapon_GrenadeEMP.label>ЕМІ граната</Make_Weapon_GrenadeEMP.label>
+  <Make_Weapon_GrenadeEMP.description>Виготовити ЕМІ гранату.</Make_Weapon_GrenadeEMP.description>
+  <Make_Weapon_GrenadeEMP.jobString>Виготовлення ЕМІ гранати.</Make_Weapon_GrenadeEMP.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
 
-  <Make_Bow_Recurve.label>зробити лук</Make_Bow_Recurve.label>
-  <Make_Bow_Recurve.description>Зробити лук.</Make_Bow_Recurve.description>
-  <Make_Bow_Recurve.jobString>Створення лука.</Make_Bow_Recurve.jobString>
+  <Make_Bow_Short.label>короткий лук</Make_Bow_Short.label>
+  <Make_Bow_Short.description>Змайструвати короткий лук.</Make_Bow_Short.description>
+  <Make_Bow_Short.jobString>Майстрування короткого лука.</Make_Bow_Short.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_Bow_Great.label>зробити великий лук</Make_Bow_Great.label>
-  <Make_Bow_Great.description>Зробити великий лук.</Make_Bow_Great.description>
-  <Make_Bow_Great.jobString>Створення великого лука.</Make_Bow_Great.jobString>
+  <Make_Pila.label>гаста</Make_Pila.label>
+  <Make_Pila.description>Змайструвати гасту(спис).</Make_Pila.description>
+  <Make_Pila.jobString>Майстрування гасти.</Make_Pila.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
+
+  <Make_Bow_Recurve.label>лук</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>Змайструвати лук.</Make_Bow_Recurve.description>
+  <Make_Bow_Recurve.jobString>Майстрування лука.</Make_Bow_Recurve.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+
+  <Make_Bow_Great.label>великий лук</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Змайструвати великий лук.</Make_Bow_Great.description>
+  <Make_Bow_Great.jobString>Майстрування великого лука.</Make_Bow_Great.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Gun_ChargeRifle.label>зробити енергетичну гвинтівку</Make_Gun_ChargeRifle.label>
-  <Make_Gun_ChargeRifle.description>Зробити енергетичну гвинтівку.</Make_Gun_ChargeRifle.description>
-  <Make_Gun_ChargeRifle.jobString>Створення автоматичної гвинтівки.</Make_Gun_ChargeRifle.jobString>
+  <Make_Gun_ChargeRifle.label>енергетична гвинтівка</Make_Gun_ChargeRifle.label>
+  <Make_Gun_ChargeRifle.description>Змайструвати енергетичну гвинтівку.</Make_Gun_ChargeRifle.description>
+  <Make_Gun_ChargeRifle.jobString>Майстрування автоматичної гвинтівки.</Make_Gun_ChargeRifle.jobString>
 
-  <Make_Gun_ChargeLance.label>make charge lance</Make_Gun_ChargeLance.label>
-  <Make_Gun_ChargeLance.description>Make charge lance.</Make_Gun_ChargeLance.description>
-  <Make_Gun_ChargeLance.jobString>Making charge lance.</Make_Gun_ChargeLance.jobString>
+  <Make_Gun_ChargeLance.label>енергоспис</Make_Gun_ChargeLance.label>
+  <Make_Gun_ChargeLance.description>Виготовити енергоспис.</Make_Gun_ChargeLance.description>
+  <Make_Gun_ChargeLance.jobString>Виготовлення енергосписа.</Make_Gun_ChargeLance.jobString>
 
 
 </LanguageData>
