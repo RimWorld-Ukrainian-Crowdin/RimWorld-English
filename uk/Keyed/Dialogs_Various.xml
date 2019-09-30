@@ -28,7 +28,7 @@
 
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>Список модифікації було змінено. Гра автоматично перезавантажиться.</ModsChanged>
-  <FailedToRestart>Щось пішло не так при перезавантажені. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+  <FailedToRestart>Щось пішло не так при перезавантажені. Гра не може повністю активувати (деактивувати) модифікації, тому деякі модифікації все ще будуть працювати (або ні).\n\n Рекомендуємо негайно перезавантажити гру для активації модів начисто.</FailedToRestart>
   <Restarting>Перезавантаження</Restarting>
 
   <!-- Missing Steam -->
