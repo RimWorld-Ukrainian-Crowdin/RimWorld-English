@@ -26,10 +26,10 @@
   <!-- AI core request -->
   <RequestAICoreInformation>Запит на розміщення на {0} (коштує {1} срібла)</RequestAICoreInformation>
   <RequestAICoreInformationResult>{0} надсилає запитану інформацію та бажає вам успіху.</RequestAICoreInformationResult>
-  <NoKnownAICore>no more locations known</NoKnownAICore>
+  <NoKnownAICore>відсутні доступні локації</NoKnownAICore>
 
   <!-- Military aid request -->
-  <RequestMilitaryAid>Request immediate military aid (cost: {0} goodwill)</RequestMilitaryAid>
+  <RequestMilitaryAid>Запит негайної військової допомоги (Вартість: {0} карми)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} не допоможе вам боротися з іншими фракціями, які не є їх ворогами. Це включає в себе фракції, які в даний момент загрожють вашій, {1}. Усе одно запросити допомоги?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Так, позвати їх будь яким методом.</CallConfirm>
   <CallCancel>Ні, ні в якому разі.</CallCancel>
