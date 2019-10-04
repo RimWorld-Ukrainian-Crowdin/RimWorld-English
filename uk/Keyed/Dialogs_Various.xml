@@ -36,8 +36,8 @@
 
   <!-- Long events -->
   <InitializingInterface>Ініціалізація інтерфейсу</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
+  <UnloadingUnusedAssets>Вивантаження незадіяних активів</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Завантаження усіх активних модифікацій</LoadingAllActiveMods>
   <LoadingDefs>Завантаження локалізації</LoadingDefs>
   <LoadingAssets>Завантаження ресурсів</LoadingAssets>
   <Initializing>Ініціалізація</Initializing>
