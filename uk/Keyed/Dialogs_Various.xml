@@ -32,10 +32,10 @@
   <Restarting>Перезавантаження</Restarting>
 
   <!-- Missing Steam -->
-  <SteamClientMissing>Не можу ініціалізувати Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Не можу ініціалізувати Steam API. Можливі причини:\n\nНе запущен клієнт Steam.\n-Запущено поза клієнтом Steam без файлу steam_appid.txt у розташуванні.\n-Запущенно з ріщними привілегіями ніж у клієнті Steam (по типу "права адміністратора").\n\nВ більшості випадків допомагає перезавантаження комп'ютера.\n\nВи можете далі грати у гру, проте досягнення Steam не будуть фіксуватись.</SteamClientMissing>
 
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
+  <InitializingInterface>Ініціалізація інтерфейсу</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
   <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
   <LoadingDefs>Завантаження локалізації</LoadingDefs>
