@@ -30,8 +30,8 @@
   <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->поділились переконаннями щодо</DeepTalk.logRulesInitiator.rulesStrings.6>
   <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->обговорив (-ла) тему</DeepTalk.logRulesInitiator.rulesStrings.7>
   <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->мали щиру розмову про</DeepTalk.logRulesInitiator.rulesStrings.8>
-  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->попліткував (-ла) про</DeepTalk.logRulesInitiator.rulesStrings.9>
-  <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->talked deeply about</DeepTalk.logRulesInitiator.rulesStrings.10>
+  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->попліткували про</DeepTalk.logRulesInitiator.rulesStrings.9>
+  <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->поспілкувались про</DeepTalk.logRulesInitiator.rulesStrings.10>
   <DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->connected on the topic of</DeepTalk.logRulesInitiator.rulesStrings.11>
   <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
 
@@ -58,7 +58,7 @@
   <Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
   <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.3>
   <Insult.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef]'s [PersonFamily]</Insult.logRulesInitiator.rulesStrings.4>
-  <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->insulted</Insult.logRulesInitiator.rulesStrings.5>
+  <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->образив (-ла)</Insult.logRulesInitiator.rulesStrings.5>
   <Insult.logRulesInitiator.rulesStrings.6>insulted->openly insulted</Insult.logRulesInitiator.rulesStrings.6>
   <Insult.logRulesInitiator.rulesStrings.7>insulted->loudly insulted</Insult.logRulesInitiator.rulesStrings.7>
   <Insult.logRulesInitiator.rulesStrings.8>insulted->flagrantly insulted</Insult.logRulesInitiator.rulesStrings.8>
@@ -72,9 +72,9 @@
   <Insult.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</Insult.logRulesInitiator.rulesStrings.16>
 
   <KindWords.label>теплі слова</KindWords.label>
-  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</KindWords.logRulesInitiator.rulesStrings.0>
-  <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->complimented</KindWords.logRulesInitiator.rulesStrings.1>
-  <KindWords.logRulesInitiator.rulesStrings.2>complimented->praised</KindWords.logRulesInitiator.rulesStrings.2>
+  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] [PersonalCharacteristic].</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->похвалив (-ла)</KindWords.logRulesInitiator.rulesStrings.1>
+  <KindWords.logRulesInitiator.rulesStrings.2>complimented->оцінив (-ла)</KindWords.logRulesInitiator.rulesStrings.2>
   <KindWords.logRulesInitiator.rulesStrings.3>complimented->commended</KindWords.logRulesInitiator.rulesStrings.3>
   <KindWords.logRulesInitiator.rulesStrings.4>complimented->lauded</KindWords.logRulesInitiator.rulesStrings.4>
   <KindWords.logRulesInitiator.rulesStrings.5>complimented->applauded</KindWords.logRulesInitiator.rulesStrings.5>
