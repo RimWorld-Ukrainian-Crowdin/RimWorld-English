@@ -18,19 +18,19 @@
   <Chitchat.logRulesInitiator.rulesStrings.11>commentedabout->сказав (-ла) слово про</Chitchat.logRulesInitiator.rulesStrings.11>
   <Chitchat.logRulesInitiator.rulesStrings.12>commentedabout->зробив (-ла) коментар щодо</Chitchat.logRulesInitiator.rulesStrings.12>
   <Chitchat.logRulesInitiator.rulesStrings.13>commentedabout->прокоментував (-ла) щодо</Chitchat.logRulesInitiator.rulesStrings.13>
-  <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->told a joke about</Chitchat.logRulesInitiator.rulesStrings.14>
+  <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->розповів (-ла) жарт про</Chitchat.logRulesInitiator.rulesStrings.14>
 
   <DeepTalk.label>розмова</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
-  <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</DeepTalk.logRulesInitiator.rulesStrings.1>
-  <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->communicated thoughts about</DeepTalk.logRulesInitiator.rulesStrings.2>
-  <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->exchanged thoughts about</DeepTalk.logRulesInitiator.rulesStrings.3>
-  <DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->exchanged ideas about</DeepTalk.logRulesInitiator.rulesStrings.4>
-  <DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->shared views on</DeepTalk.logRulesInitiator.rulesStrings.5>
-  <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->shared beliefs on</DeepTalk.logRulesInitiator.rulesStrings.6>
-  <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->discussed the topic of</DeepTalk.logRulesInitiator.rulesStrings.7>
-  <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->had a heartfelt conversation about</DeepTalk.logRulesInitiator.rulesStrings.8>
-  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->talked quietly about</DeepTalk.logRulesInitiator.rulesStrings.9>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
+  <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] з [RECIPIENT_nameDef].</DeepTalk.logRulesInitiator.rulesStrings.1>
+  <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->поділився (-лась) думкою щодо</DeepTalk.logRulesInitiator.rulesStrings.2>
+  <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->обмінялись думками щодо</DeepTalk.logRulesInitiator.rulesStrings.3>
+  <DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->обмінялись ідеями щодо</DeepTalk.logRulesInitiator.rulesStrings.4>
+  <DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->поділились поглядами на</DeepTalk.logRulesInitiator.rulesStrings.5>
+  <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->поділились переконаннями щодо</DeepTalk.logRulesInitiator.rulesStrings.6>
+  <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->обговорив (-ла) тему</DeepTalk.logRulesInitiator.rulesStrings.7>
+  <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->мали щиру розмову про</DeepTalk.logRulesInitiator.rulesStrings.8>
+  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->попліткував (-ла) про</DeepTalk.logRulesInitiator.rulesStrings.9>
   <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->talked deeply about</DeepTalk.logRulesInitiator.rulesStrings.10>
   <DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->connected on the topic of</DeepTalk.logRulesInitiator.rulesStrings.11>
   <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
