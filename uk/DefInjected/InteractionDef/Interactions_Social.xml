@@ -3,21 +3,21 @@
 
   <!-- Random social interactions -->
 
-  <Chitchat.label>балачка</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
-  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.1>
-  <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.2>
-  <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->chatted about</Chitchat.logRulesInitiator.rulesStrings.3>
-  <Chitchat.logRulesInitiator.rulesStrings.4>talkedabout->shared a word about</Chitchat.logRulesInitiator.rulesStrings.4>
-  <Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->spoke about</Chitchat.logRulesInitiator.rulesStrings.5>
-  <Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->gabbed about</Chitchat.logRulesInitiator.rulesStrings.6>
-  <Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->talked about</Chitchat.logRulesInitiator.rulesStrings.7>
-  <Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->joked about</Chitchat.logRulesInitiator.rulesStrings.8>
-  <Chitchat.logRulesInitiator.rulesStrings.9>talkedabout->quipped about</Chitchat.logRulesInitiator.rulesStrings.9>
-  <Chitchat.logRulesInitiator.rulesStrings.10>commentedabout->said something about</Chitchat.logRulesInitiator.rulesStrings.10>
-  <Chitchat.logRulesInitiator.rulesStrings.11>commentedabout->said a word about</Chitchat.logRulesInitiator.rulesStrings.11>
-  <Chitchat.logRulesInitiator.rulesStrings.12>commentedabout->made a comment about</Chitchat.logRulesInitiator.rulesStrings.12>
-  <Chitchat.logRulesInitiator.rulesStrings.13>commentedabout->commented about</Chitchat.logRulesInitiator.rulesStrings.13>
+  <Chitchat.label>балаканина</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
+  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] з [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.1>
+  <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] до [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.2>
+  <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->базікав про</Chitchat.logRulesInitiator.rulesStrings.3>
+  <Chitchat.logRulesInitiator.rulesStrings.4>talkedabout->поділився думкою стосовно</Chitchat.logRulesInitiator.rulesStrings.4>
+  <Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->розповідав про</Chitchat.logRulesInitiator.rulesStrings.5>
+  <Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->побазікали про</Chitchat.logRulesInitiator.rulesStrings.6>
+  <Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->поговорили про</Chitchat.logRulesInitiator.rulesStrings.7>
+  <Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->жартували про</Chitchat.logRulesInitiator.rulesStrings.8>
+  <Chitchat.logRulesInitiator.rulesStrings.9>talkedabout->підмітив про</Chitchat.logRulesInitiator.rulesStrings.9>
+  <Chitchat.logRulesInitiator.rulesStrings.10>commentedabout->сказав (-ла) щось про</Chitchat.logRulesInitiator.rulesStrings.10>
+  <Chitchat.logRulesInitiator.rulesStrings.11>commentedabout->сказав (-ла) слово про</Chitchat.logRulesInitiator.rulesStrings.11>
+  <Chitchat.logRulesInitiator.rulesStrings.12>commentedabout->зробив (-ла) коментар щодо</Chitchat.logRulesInitiator.rulesStrings.12>
+  <Chitchat.logRulesInitiator.rulesStrings.13>commentedabout->прокоментував (-ла) щодо</Chitchat.logRulesInitiator.rulesStrings.13>
   <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->told a joke about</Chitchat.logRulesInitiator.rulesStrings.14>
 
   <DeepTalk.label>розмова</DeepTalk.label>
