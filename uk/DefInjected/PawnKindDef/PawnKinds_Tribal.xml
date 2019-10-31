@@ -31,13 +31,13 @@
   <Tribal_Berserker.labelPlural>берсерки</Tribal_Berserker.labelPlural>
 
   <Tribal_HeavyArcher.label>важкий лучник</Tribal_HeavyArcher.label>
-  <Tribal_HeavyArcher.labelPlural>heavy archers</Tribal_HeavyArcher.labelPlural>
+  <Tribal_HeavyArcher.labelPlural>важкі лучники</Tribal_HeavyArcher.labelPlural>
 
   <!--[Duplicated] <Tribal_ChiefMelee.label>Tribal_ChiefMelee</Tribal_ChiefMelee.label>-->
   <!--[Duplicated] <Tribal_ChiefMelee.labelPlural>Tribal_ChiefMelees</Tribal_ChiefMelee.labelPlural>-->
 
-  <Tribal_ChiefMelee.label>очільник берсеркерів</Tribal_ChiefMelee.label>
-  <Tribal_ChiefMelee.labelPlural>очільники берсеркерів</Tribal_ChiefMelee.labelPlural>
+  <Tribal_ChiefMelee.label>очільник берсерків</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelPlural>очільники берсерків</Tribal_ChiefMelee.labelPlural>
 
   <Tribal_ChiefRanged.label>очільник лучників</Tribal_ChiefRanged.label>
   <Tribal_ChiefRanged.labelPlural>очільники лучників</Tribal_ChiefRanged.labelPlural>
