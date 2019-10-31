@@ -27,10 +27,10 @@
 
   <!-- High tier - berserker, heavy archer, chief melee, chief ranged -->
 
-  <Tribal_Berserker.label>берсеркер</Tribal_Berserker.label>
-  <Tribal_Berserker.labelPlural>берсеркери</Tribal_Berserker.labelPlural>
+  <Tribal_Berserker.label>берсерк</Tribal_Berserker.label>
+  <Tribal_Berserker.labelPlural>берсерки</Tribal_Berserker.labelPlural>
 
-  <Tribal_HeavyArcher.label>heavy archer</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.label>важкий лучник</Tribal_HeavyArcher.label>
   <Tribal_HeavyArcher.labelPlural>heavy archers</Tribal_HeavyArcher.labelPlural>
 
   <!--[Duplicated] <Tribal_ChiefMelee.label>Tribal_ChiefMelee</Tribal_ChiefMelee.label>-->
