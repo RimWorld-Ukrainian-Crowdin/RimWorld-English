@@ -4,7 +4,7 @@
   <RomanceAttempt.label>флірт</RomanceAttempt.label>
   <RomanceAttempt.logRulesInitiator.rulesStrings.0>_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef], [wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
   <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->Спроба флірту</RomanceAttempt.logRulesInitiator.rulesStrings.1>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->flirted with</RomanceAttempt.logRulesInitiator.rulesStrings.2>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->фліртує до</RomanceAttempt.logRulesInitiator.rulesStrings.2>
   <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->привертає увагу</RomanceAttempt.logRulesInitiator.rulesStrings.3>
   <RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->заграє до</RomanceAttempt.logRulesInitiator.rulesStrings.4>
   <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->tried to woo</RomanceAttempt.logRulesInitiator.rulesStrings.5>
