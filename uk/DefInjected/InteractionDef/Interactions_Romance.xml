@@ -3,7 +3,7 @@
 
   <RomanceAttempt.label>спроба флірту</RomanceAttempt.label>
   <RomanceAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] [wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->tried to flirt with</RomanceAttempt.logRulesInitiator.rulesStrings.1>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->Спроба флірту</RomanceAttempt.logRulesInitiator.rulesStrings.1>
   <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->flirted with</RomanceAttempt.logRulesInitiator.rulesStrings.2>
   <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->tried to attract</RomanceAttempt.logRulesInitiator.rulesStrings.3>
   <RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->tried to romance</RomanceAttempt.logRulesInitiator.rulesStrings.4>
