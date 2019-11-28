@@ -15,8 +15,8 @@
 
   <!-- Scyther - fast melee -->
 
-  <Mech_Scyther.label>scyther</Mech_Scyther.label>
-  <Mech_Scyther.labelPlural>scythers</Mech_Scyther.labelPlural>
+  <Mech_Scyther.label>жнець</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>жнеці</Mech_Scyther.labelPlural>
 
 
 </LanguageData>
