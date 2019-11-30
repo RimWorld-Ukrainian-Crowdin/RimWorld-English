@@ -7,10 +7,10 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->фліртує до</RomanceAttempt.logRulesInitiator.rulesStrings.2>
   <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->привертає увагу</RomanceAttempt.logRulesInitiator.rulesStrings.3>
   <RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->заграє до</RomanceAttempt.logRulesInitiator.rulesStrings.4>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->tried to woo</RomanceAttempt.logRulesInitiator.rulesStrings.5>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->wooed</RomanceAttempt.logRulesInitiator.rulesStrings.6>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->намагався свататись</RomanceAttempt.logRulesInitiator.rulesStrings.5>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->сватався</RomanceAttempt.logRulesInitiator.rulesStrings.6>
   <RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->pursued</RomanceAttempt.logRulesInitiator.rulesStrings.7>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->charmed</RomanceAttempt.logRulesInitiator.rulesStrings.8>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->обворожений</RomanceAttempt.logRulesInitiator.rulesStrings.8>
   <RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->courted</RomanceAttempt.logRulesInitiator.rulesStrings.9>
   <RomanceAttempt.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.10>
   <RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic->telling a story about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
@@ -36,7 +36,7 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.31>complimenting->jokingly half-complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.31>
   <RomanceAttempt.logRulesInitiator.rulesStrings.32>complimenting->impishly questioning</RomanceAttempt.logRulesInitiator.rulesStrings.32>
   <RomanceAttempt.logRulesInitiator.rulesStrings.33>complimenting->cheerfully making fun of</RomanceAttempt.logRulesInitiator.rulesStrings.33>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.34>romantic_adj->beautiful</RomanceAttempt.logRulesInitiator.rulesStrings.34>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.34>romantic_adj->красивий(а)</RomanceAttempt.logRulesInitiator.rulesStrings.34>
   <RomanceAttempt.logRulesInitiator.rulesStrings.35>romantic_adj->shining</RomanceAttempt.logRulesInitiator.rulesStrings.35>
   <RomanceAttempt.logRulesInitiator.rulesStrings.36>romantic_adj->glimmering</RomanceAttempt.logRulesInitiator.rulesStrings.36>
   <RomanceAttempt.logRulesInitiator.rulesStrings.37>romantic_adj->heavenly</RomanceAttempt.logRulesInitiator.rulesStrings.37>
