@@ -87,7 +87,7 @@ culture differences
 culture shock
 human nature
 humanity
-religion
+релігія
 the meaning of life
 identity
 eternity
@@ -102,18 +102,18 @@ the inevitability of suffering
 the nature of knowledge
 the nature of emotion
 
-fate
-the fate of mankind
-the fate of the universe
+доля
+доля людства
+доля всесвіту
 
-art
+мистецтво
 art movements
 artistic ambition
 human aesthetics
 artistic instincts
 art history
 
-love
+любов
 romance
 sexuality
 sexual morality
@@ -129,10 +129,10 @@ archotechs
 AI personas
 the Johnson-Tanaka drive
 the Ordo Historia
-old Earth
+стара Земля
 rim worlds
 core worlds
 cryptosleep
 cryptosleep tombs
-mechanoids
-cannibalism
+механоїди
+людоїдство
