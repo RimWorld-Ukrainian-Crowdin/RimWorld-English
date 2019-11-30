@@ -12,7 +12,7 @@
 
   <Make_Penoxycyline.label>пеноксицилін</Make_Penoxycyline.label>
   <Make_Penoxycyline.description>Створити пеноксицілин.</Make_Penoxycyline.description>
-  <Make_Penoxycyline.jobString>Making penoxycyline.</Make_Penoxycyline.jobString>
+  <Make_Penoxycyline.jobString>Створення пеноксицілина.</Make_Penoxycyline.jobString>
 
   <Make_Flake.label>флейк</Make_Flake.label>
   <Make_Flake.description>Створити флейк.</Make_Flake.description>
