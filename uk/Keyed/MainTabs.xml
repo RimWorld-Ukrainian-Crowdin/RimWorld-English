@@ -7,7 +7,7 @@
   <LowerPriority>низький пріоритет</LowerPriority>
   <RelevantSkills>Необхідні навички: {0}\nв середньому відповідних навичок: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>Натисніть, щоб перейти до:</ClickToJumpTo>
-  <CannotDoThisWork>{1_labelShort} cannot do this kind of work.</CannotDoThisWork>
+  <CannotDoThisWork>{1_labelShort} не може виконати подібну роботу.</CannotDoThisWork>
   <NoneBrackets>(не задано)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>Цей колоніст не може робити будь-яку роботу такого типу через його стан здоров'я.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
@@ -20,7 +20,7 @@
   <ForcedApparel>Примусовий одяг</ForcedApparel>
   <AssignTabEdit>Редагувати...</AssignTabEdit>
   <ManageDrugPolicies>Управління політики щодо наркотиків</ManageDrugPolicies>
-  <ManageFoodRestrictions>Manage food restrictions</ManageFoodRestrictions>
+  <ManageFoodRestrictions>Управління харчовими обмеженнями</ManageFoodRestrictions>
 
   <!-- Restrictions tab -->
   <Copy>Копіювати</Copy>
@@ -78,7 +78,7 @@
   <ThisMapColonyWealthTotal>Багатство колонії (ця карта)</ThisMapColonyWealthTotal>
   <ThisMapColonyWealthItems>Багатство колонії (предметів) (ця карта)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>Багатство колонії (споруди) (ця карта)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthColonistsAndTameAnimals>Colony wealth (people and animals) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Багатство колонії (люди і тварини) (ця карта)</ThisMapColonyWealthColonistsAndTameAnimals>
   <NumThreatBigs>Основні загрози</NumThreatBigs>
   <NumEnemyRaids>Ворожі напади</NumEnemyRaids>
   <ThisMapDamageTaken>Шкода завдана (ця карта)</ThisMapDamageTaken>
