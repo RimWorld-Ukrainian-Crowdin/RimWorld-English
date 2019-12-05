@@ -12,12 +12,12 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->Намагається пікапити</RomanceAttempt.logRulesInitiator.rulesStrings.7>
   <RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->обворожений</RomanceAttempt.logRulesInitiator.rulesStrings.8>
   <RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->заграє</RomanceAttempt.logRulesInitiator.rulesStrings.9>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.10>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic->telling a story about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.12>wootactic->telling a tale about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.12>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.13>wootactic->joking about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.13>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.14>wootactic->making an observation about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.14>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.15>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.10>&lt;li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]&lt;/li></RomanceAttempt.logRulesInitiator.rulesStrings.10>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic(p=2)->розповідає історію [TalkTopicLight]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.12>wootactic(p=2)->розповідає історію [TalkTopicHeavy]</RomanceAttempt.logRulesInitiator.rulesStrings.12>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.13>wootactic->шуткує про [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.13>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.14>wootactic->Дискутує з приводу [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.14>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting] [INITIATOR_possessive] свою [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.15>
   <RomanceAttempt.logRulesInitiator.rulesStrings.16>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.16>
   <RomanceAttempt.logRulesInitiator.rulesStrings.17>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.17>
   <RomanceAttempt.logRulesInitiator.rulesStrings.18>boasting->boasting about</RomanceAttempt.logRulesInitiator.rulesStrings.18>
