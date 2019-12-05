@@ -18,14 +18,14 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.13>wootactic->шуткує про [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.13>
   <RomanceAttempt.logRulesInitiator.rulesStrings.14>wootactic->Дискутує з приводу [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.14>
   <RomanceAttempt.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting] [INITIATOR_possessive] свою [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.15>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.16>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.16>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.17>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.17>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.18>boasting->boasting about</RomanceAttempt.logRulesInitiator.rulesStrings.18>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.19>boasting->mentioning</RomanceAttempt.logRulesInitiator.rulesStrings.19>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.20>boasting->implying good things about</RomanceAttempt.logRulesInitiator.rulesStrings.20>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.21>boasting->exaggerating</RomanceAttempt.logRulesInitiator.rulesStrings.21>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.22>boasting->talking about</RomanceAttempt.logRulesInitiator.rulesStrings.22>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.23>boasting->drawing attention to</RomanceAttempt.logRulesInitiator.rulesStrings.23>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.16>wootactic->порівнює [RECIPIENT_possessive] з [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.16>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.17>wootactic->описує [RECIPIENT_possessive] як [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.17>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.18>boasting->[boasting_adverb] хвалиться</RomanceAttempt.logRulesInitiator.rulesStrings.18>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.19>boasting->[boasting_adverb] показує</RomanceAttempt.logRulesInitiator.rulesStrings.19>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.20>boasting->[boasting_adverb] згадуючи про хороше</RomanceAttempt.logRulesInitiator.rulesStrings.20>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.21>boasting->[boasting_adverb] перебільшуючи</RomanceAttempt.logRulesInitiator.rulesStrings.21>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.22>boasting->[boasting_adverb] розповідає про</RomanceAttempt.logRulesInitiator.rulesStrings.22>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.23>boasting->[boasting_adverb] згадуючи в розмові</RomanceAttempt.logRulesInitiator.rulesStrings.23>
   <RomanceAttempt.logRulesInitiator.rulesStrings.24>complimenting(p=3)->complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.24>
   <RomanceAttempt.logRulesInitiator.rulesStrings.25>complimenting->subtly complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.25>
   <RomanceAttempt.logRulesInitiator.rulesStrings.26>complimenting->lauding</RomanceAttempt.logRulesInitiator.rulesStrings.26>
