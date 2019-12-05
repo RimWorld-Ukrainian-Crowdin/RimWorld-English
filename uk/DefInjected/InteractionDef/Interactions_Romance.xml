@@ -7,11 +7,11 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->фліртує</RomanceAttempt.logRulesInitiator.rulesStrings.2>
   <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->привертає увагу</RomanceAttempt.logRulesInitiator.rulesStrings.3>
   <RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->заграє до</RomanceAttempt.logRulesInitiator.rulesStrings.4>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->намагався свататись</RomanceAttempt.logRulesInitiator.rulesStrings.5>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->сватався</RomanceAttempt.logRulesInitiator.rulesStrings.6>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->pursued</RomanceAttempt.logRulesInitiator.rulesStrings.7>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->намагається здобути прихильність</RomanceAttempt.logRulesInitiator.rulesStrings.5>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->пробує завести роман з</RomanceAttempt.logRulesInitiator.rulesStrings.6>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->Намагається пікапити</RomanceAttempt.logRulesInitiator.rulesStrings.7>
   <RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->обворожений</RomanceAttempt.logRulesInitiator.rulesStrings.8>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->courted</RomanceAttempt.logRulesInitiator.rulesStrings.9>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->заграє</RomanceAttempt.logRulesInitiator.rulesStrings.9>
   <RomanceAttempt.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.10>
   <RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic->telling a story about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
   <RomanceAttempt.logRulesInitiator.rulesStrings.12>wootactic->telling a tale about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.12>
