@@ -2846,8 +2846,8 @@ They were some of the last smiths on the planet that to use traditional smithing
 Sometimes, after work, NAME would practice using the swords HE forged.</desc>
 	</ApprenticeSmith9>
 	<Blacksmith32>
-		<title>Blacksmith</title>
-		<titleShort>Blacksmith</titleShort>
+		<title>Коваль</title>
+		<titleShort>Коваль</titleShort>
 		<desc>As a blacksmith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</desc>
 	</Blacksmith32>
 	<CloneFarmed43>
@@ -2868,8 +2868,8 @@ Sometimes, after work, NAME would practice using the swords HE forged.</desc>
 No matter how hard it became to survive, he never gave up.</desc>
 	</GangMember12>
 	<GangBoss0>
-		<title>Gang boss</title>
-		<titleShort>Boss</titleShort>
+		<title>Бос банди</title>
+		<titleShort>Бос</titleShort>
 		<desc>To survive, NAME's gang often had to rob interstellar traders for food and supplies. Sometimes he had to kill the guards. Sometimes he had to kill the police who arrived to stop him.
 
 After years of this, he became one of the most-wanted criminals in the local stellar empire.</desc>
