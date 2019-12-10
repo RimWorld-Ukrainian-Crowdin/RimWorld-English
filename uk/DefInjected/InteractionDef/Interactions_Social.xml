@@ -36,7 +36,7 @@
   <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
 
   <Slight.label>підкол</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [madefunof] [target] [PersonalCharacteristic].</Slight.logRulesInitiator.rulesStrings.0>
   <Slight.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_nameDef]</Slight.logRulesInitiator.rulesStrings.1>
   <Slight.logRulesInitiator.rulesStrings.2>target->[RECIPIENT_nameDef]'s [PersonFamily]</Slight.logRulesInitiator.rulesStrings.2>
   <Slight.logRulesInitiator.rulesStrings.3>madefunof->made fun of</Slight.logRulesInitiator.rulesStrings.3>
