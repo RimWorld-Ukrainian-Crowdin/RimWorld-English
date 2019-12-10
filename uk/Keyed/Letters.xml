@@ -114,7 +114,7 @@
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
   <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
-  <LetterLabelRelationsChange_NeutralFromHostile>Enemy now neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>Ворог тепер нейтральний: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
@@ -129,7 +129,7 @@
   <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
 
   <!-- Party -->
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
+  <LetterLabelNewParty>Вечірка</LetterLabelNewParty>
   <LetterNewParty>{1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</LetterNewParty>
 
   <!-- Newly addicted -->
@@ -205,7 +205,7 @@
   <LetterPawnsLostBecauseMapClosed_Home>The following people and animals have been abandoned</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
-  <LetterLabelHibernateComplete>Reactor ready</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>Реактор готовий</LetterLabelHibernateComplete>
   <LetterHibernateComplete>Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</LetterHibernateComplete>
   <LetterHibernateCompleteStandalone>The reactor's power up sequence is complete. It is now ready to power a liftoff.</LetterHibernateCompleteStandalone>
 
