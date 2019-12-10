@@ -2946,14 +2946,14 @@ HECAP specialized in canines, but learned a great deal about all animals. HECAP 
 	</BehaviourResearch99>
 	<RebelStudent39>
 		<title>Rebel student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>NAME grew up in a modest but privileged family who encouraged him to play chess and shoot skeet at a young age.
 
 As a bored student, HE found joy in challenging his teachers about the contradictions between his planet's official values and their government's policies.</desc>
 	</RebelStudent39>
 	<PoliticalActivist61>
-		<title>Political activist</title>
-		<titleShort>Activist</titleShort>
+		<title>Політичний активіст</title>
+		<titleShort>Активіст</titleShort>
 		<desc>Matt was involved with a radical political faction which worked against his homeworld's government.
 
 The guerilla tactics training that Matt received from his associates gave him the skills to fight, but also drove him to compromise his own beliefs.</desc>
@@ -2981,14 +2981,14 @@ Sometimes, her ship was assigned to short exploratory jaunts into dangerous regi
 	</ShipTechnician62>
 	<ChiefEngineer74>
 		<title>Chief engineer</title>
-		<titleShort>Engineer</titleShort>
+		<titleShort>Інженер</titleShort>
 		<desc>As chief engineer on board a large spaceship, NAME was an expert in all things fiddly and complex.
 
 She relied on other members of the crew for some of the basic necessities of life. She and her ship eventually disappeared into a longsleep voyage of exploration.</desc>
 	</ChiefEngineer74>
 	<BlacksmithsSon72>
-		<title>Blacksmith's son</title>
-		<titleShort>Blacksmith</titleShort>
+		<title>Син коваля</title>
+		<titleShort>Коваль</titleShort>
 		<desc>NAME's father owned the blacksmith shop in an run-down old city district. NAME would help his father whenever he could.
 
 Later, HIS father took him as a blacksmith's apprentice and raised him as a man. NAME also to on shooting as a hobby.</desc>
@@ -3118,7 +3118,7 @@ She dealt with the worst of humanity, from protecting greedy urbworld nobility i
 	</UrbworldEnforcer55>
 	<GameFanatic49>
 		<title>Game fanatic</title>
-		<titleShort>Gamer</titleShort>
+		<titleShort>Геймер</titleShort>
 		<desc>NAME was a fanatical gamer who learned to survive in virtual reality games.
 
 Once, while attempting to prove HIS skills in the real world, HE was abducted by a criminal scientist and experimented on. HECAP escaped, but the experience stayed with him.</desc>
@@ -3296,7 +3296,7 @@ HECAP was given with the most challenging task - conquering distant and unexplor
 	</ImperialGeneral31>
 	<CaravanTraveler5>
 		<title>Caravan traveler</title>
-		<titleShort>Traveler</titleShort>
+		<titleShort>Мандрівник</titleShort>
 		<desc>Born to a family of traveling merchants, NAME was mentored by HIS father in the ways of being a trader. HECAP was often tasked with caring for the pack animals. Due to HIS nomadic lifestyle, HE hunted and bartered for HIS food.</desc>
 	</CaravanTraveler5>
 	<Caravaneer77>
@@ -3319,8 +3319,8 @@ When HE was a teenager, a traveling doctor found HIM injured near a road, hissin
 		<desc>NAME practiced aromatherapy, using essences extracted from home-grown plants.</desc>
 	</Aromatherapist84>
 	<FarmersSon51>
-		<title>Farmer's son</title>
-		<titleShort>Farmer</titleShort>
+		<title>Син фермера</title>
+		<titleShort>Фермер</titleShort>
 		<desc>Ade spent much of his childhood learning biome farming. In his biome they kept animals to investigate which would cope best in the alien environment.
 
 Due to this, the travel restrictions and oxygen rationing system, he rarely got to meet anyone from outside his family.</desc>
@@ -3334,7 +3334,7 @@ Later, his unit gave him the nickname "Rare" after he burnt down the luxury vill
 	</RebelFighter79>
 	<WealthyStudent21>
 		<title>Wealthy student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>NAME was born on a wealthy glitterworld. HECAP studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.
 
 NAME grew up in clean, sterile environments. HECAP never saw a farm or livestock.</desc>
@@ -3423,7 +3423,7 @@ Accustomed to manual labor and with an intuitive mind, NAME could survive weeks 
 	</RangerChild91>
 	<BushSniper97>
 		<title>Bush sniper</title>
-		<titleShort>Sniper</titleShort>
+		<titleShort>Снайпер</titleShort>
 		<desc>NAME's peaceful life was cut short when HIS country was brutally invaded.
 
 NAME was drafted into service as soon as HE was of legal age, and quickly showed an aptitude for rifles. HECAP spent months living in the forests picking off soldiers who dared cross the border.</desc>
@@ -3437,14 +3437,14 @@ Unfortunately, her crooked teeth made her undesirable to suitors, so she became 
 	</GlitterworldRoyal5>
 	<PirateSympathizer24>
 		<title>Pirate sympathizer</title>
-		<titleShort>Pirate</titleShort>
+		<titleShort>Пірат</titleShort>
 		<desc>From her youth, NAME developed connections in the underworld. There she trained in melee combat and became a trusted underworld advisor.
 
 After participating in a failed rebellion, she fled her homeworld to travel with a pirate band.</desc>
 	</PirateSympathizer24>
 	<PlagueSurvivor48>
 		<title>Plague survivor</title>
-		<titleShort>Survivor</titleShort>
+		<titleShort>Уцілілий</titleShort>
 		<desc>NAME watched as a mysterious plague spread through his town, killing his family and friends.
 
 HECAP learned some medicine from watching the plague doctors, but was mentally scarred by the ordeal.</desc>
@@ -3458,7 +3458,7 @@ HECAP often used patients for HIS experiments - whether they were willing or not
 	</UnethicalDoctor97>
 	<OffworldRecruit22>
 		<title>Offworld recruit</title>
-		<titleShort>Recruit</titleShort>
+		<titleShort>Рекрут</titleShort>
 		<desc>NAME was born an raised in an offworld soldier growth facility. From a very young age, HE was taught close-quarters combat tactics, aggression, and how to survive on distant planets.
 
 One of the best, NAME was eventually chose to enter the orbital-deployment shock troop corps.</desc>
@@ -3472,7 +3472,7 @@ During a risky assault, HIS whole unit was wiped out. Nobody else knew what happ
 	</ShockTrooper52>
 	<ProdigalStudent39>
 		<title>Prodigal student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>NAME was a faithful student, and was dedicated to learning anything and everything he could about humanity and its creations.
 
 While HE was shunned as a nerd, HE didn't mind. HECAP hoped for a brighter future.</desc>
@@ -3500,14 +3500,14 @@ HECAP grew to hate people slaughtering animals for luxury and profit.</desc>
 	</WildlifeRanger47>
 	<AdventurousYouth32>
 		<title>Adventurous youth</title>
-		<titleShort>Adventurer</titleShort>
+		<titleShort>Авантюрист</titleShort>
 		<desc>NAME explored all around HIS family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.
 
 During his teenage years, NAME made numerous enemies</desc>
 	</AdventurousYouth32>
 	<TreasureHunter70>
-		<title>Treasure hunter</title>
-		<titleShort>Adventurer</titleShort>
+		<title>Мисливець за скарбами</title>
+		<titleShort>Авантюрист</titleShort>
 		<desc>NAME explored outer rim planets in hopes of finding rare treasures.
 
 After succeeding in finding one legendary sculpture, HE was betrayed by HIS men. HECAP survived their treasonous attack, but the sculpture was taken.
@@ -3523,7 +3523,7 @@ From a young age, HE collected pilot memorabilia and studied pilot books, prepar
 	</PilotFan99>
 	<StarfighterPilot54>
 		<title>Starfighter pilot</title>
-		<titleShort>Pilot</titleShort>
+		<titleShort>Пілот</titleShort>
 		<desc>After years of training and drilling, NAME finally became a starfighter pilot.
 
 Hundreds of combat missions later, HE grew bored and started seeking newer thrills. HECAP joined a band of space pirates, which eagerly welcomed HIM because of HIS piloting skill.</desc>
@@ -3556,7 +3556,7 @@ HISCAP experiences desensitized him to people around him, and his social skills 
 	</SpaceMarine80>
 	<RebelWriter82>
 		<title>Rebel writer</title>
-		<titleShort>Writer</titleShort>
+		<titleShort>Письменник</titleShort>
 		<desc>Early on, NAME developed a talent for writing. HECAP was soon writing a popular online journal - anonymously, to hide HIS age - on topics ranging from bioethics to political theory and xenosociology.</desc>
 	</RebelWriter82>
 	<Adventurer17>
@@ -3581,8 +3581,8 @@ Living in a foreign land, mostly alone, HE spent most of HIS time making huts an
 One day, he had a mental break and went on a long rampage, destroying several towns and killing many. HECAP eventually calmed, but HIS bloodlust never left HIM.</desc>
 	</BloodyWanderer51>
 	<NewAgeDuelist36>
-		<title>New age duelist</title>
-		<titleShort>Duelist</titleShort>
+		<title>Дуелянт нового віку</title>
+		<titleShort>Дуелянт</titleShort>
 		<desc>NAME was fascinated with combat. HIS parents traveled often, so HE was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.
 
 A polite child, most fighters accepted HIS requests for training - but moving around often without finishing a tutelage made HIM lazy.</desc>
@@ -3610,7 +3610,7 @@ After a pursuit, HE managed to escape HIS planet and travel to a new world.</des
 	</BloodyDentist33>
 	<CowFarmer93>
 		<title>Cow farmer</title>
-		<titleShort>Farmer</titleShort>
+		<titleShort>Фермер</titleShort>
 		<desc>NAME grew up on a rim world, under the tyranny of HIS father, who forced HIM to work every day on the farm. HE dreamed of escaping HIS father and exploring the universe.
 
 One day, when the trade ship was overhead, HE stowed away among the goods in the launch pods, and escaped into space.</desc>
@@ -3638,7 +3638,7 @@ One day, they were caught in a fight they couldn't win. Refusing to retreat, NAM
 	</Mercenary19>
 	<DisasterSurvivor28>
 		<title>Disaster survivor</title>
-		<titleShort>Survivor</titleShort>
+		<titleShort>Уцілілий</titleShort>
 		<desc>NAME's planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. HECAP was left in the ruins to fend for himself.</desc>
 	</DisasterSurvivor28>
 	<ExplorerWriter37>
@@ -3691,8 +3691,8 @@ HISCAP creators used HIM as a teaching aid on mind design, hoping HE would event
 Such work required wearing a smile on HIS face and a pistol under HIS costume.</desc>
 	</RunawayDancer10>
 	<MusicIdol79>
-		<title>Music idol</title>
-		<titleShort>Music idol</titleShort>
+		<title>Музичний ідол</title>
+		<titleShort>Музичний ідол</titleShort>
 		<desc>NAME was the only daughter of a powerful company president. HISCAP beautiful appearance led to a career as a music idol.
 
 When HIS mother died, NAME could not bear HIS father's loneliness, and became his sexual companion.</desc>
@@ -3784,7 +3784,7 @@ HECAP was known for HIS balanced approach to problems, building, fighting, or ne
 In truth, HE was part of an elaborate experiment. Researchers were conditioning HIM using social interactions and mechanite injections to try to produce an elite soldier.</desc>
 	</SoldierExperiment38>
 	<LostSoldier35>
-		<title>Lost soldier</title>
+		<title>Заблукалий солдат</title>
 		<titleShort>Заблукалий</titleShort>
 		<desc>NAME's childhood soldier conditioning failed, and the experiment was shut down. HECAP was abandoned, purposeless, friendless.
 
