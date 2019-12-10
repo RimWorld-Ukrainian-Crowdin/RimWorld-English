@@ -758,7 +758,7 @@ Unfortunately this also lead to HIM being a loner as HE prefered technical books
 	<MilitaryEngineer44>
 		<title>Військовий інженер</title>
 		<titleShort>Інженер</titleShort>
-		<desc>NAME worked as an engineer for a colonial military. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
+		<desc>{PAWN_nameDef} працював інженером для колоніальної арміїї. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
 
 HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tested them HIMself.</desc>
 	</MilitaryEngineer44>
