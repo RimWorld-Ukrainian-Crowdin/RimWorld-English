@@ -758,7 +758,7 @@ Unfortunately this also lead to HIM being a loner as HE prefered technical books
 	<MilitaryEngineer44>
 		<title>Військовий інженер</title>
 		<titleShort>Інженер</titleShort>
-		<desc>{PAWN_nameDef} працював інженером для колоніальної арміїї. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
+		<desc>{PAWN_nameDef} працював інженером для колоніальної армії. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
 
 HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tested them HIMself.</desc>
 	</MilitaryEngineer44>
@@ -902,20 +902,20 @@ He enjoyed this lonely work, and tended to stay out of people's way and do his o
 		<desc>NAME spent his childhood as a penniless orphan living on a space station. He managed to scrape by doing filthy jobs and stealing. He became so violent due to poor treatment by his “betters” that he was banished from the station, just to be picked up by space pirates.</desc>
 	</StationWhelp51>
 	<PirateKing62>
-		<title>Pirate king</title>
-		<titleShort>Pirate</titleShort>
+		<title>Король піратів</title>
+		<titleShort>Пірат</titleShort>
 		<desc>With no real care for other people, NAME fit in perfectly with the pirate crew that he had once been a captive of. Shortly after becoming one of the crew, NAME began to kill anyone or anything that got in his way—including his crew mates.</desc>
 	</PirateKing62>
 	<ConstructionGrunt79>
 		<title>Construction grunt</title>
-		<titleShort>Builder</titleShort>
+		<titleShort>Будівельник</titleShort>
 		<desc>Growing up in his father's lab, Jackson was given the life of an intellectual elite. He got everything he desired, and price was never an object.
 
 However Jackson did not partake in the luxury given to him. Instead, he pursued more physical, and - in his father's eyes - lower-class jobs.</desc>
 	</ConstructionGrunt79>
 	<MilitaryInventor44>
-		<title>Military inventor</title>
-		<titleShort>Inventor</titleShort>
+		<title>Військовий винахідник</title>
+		<titleShort>Винахідник</titleShort>
 		<desc>Jackson, in a final act of rebellion, left his father's lab and joined the local Imperial military.
 
 He used his laboratory skills to design machines of war. At this he was one of the best on his planet.</desc>
@@ -928,13 +928,13 @@ He used his laboratory skills to design machines of war. At this he was one of t
 When HE was 13 years old, an interplanetary criminal group took HIM under their wing.</desc>
 	</StreetKid29>
 	<BanditLeader92>
-		<title>Bandit leader</title>
-		<titleShort>Bandit</titleShort>
+		<title>Лідер бандитів</title>
+		<titleShort>Бандит</titleShort>
 		<desc>NAME rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. His dog Rest never left his side.</desc>
 	</BanditLeader92>
 	<StudentEngineer40>
-		<title>Student engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>Інженер студент</title>
+		<titleShort>Інженер</titleShort>
 		<desc>A genius child, NAME was put in a special training program covering aerospace warfare and engineering.
 
 One day, he tried to befriend a squirrel by giving it a bracelet. The squirrel bit him, earning him the nickname “Squirrel Boy.”
@@ -943,14 +943,14 @@ NAME came to believe that work involving manual labor is beneath HIM.</desc>
 	</StudentEngineer40>
 	<EngineeredPilot99>
 		<title>Engineered pilot</title>
-		<titleShort>Pilot</titleShort>
+		<titleShort>Пілот</titleShort>
 		<desc>After his province was besieged by one of its neighbors, NAME volunteered for a generic modification program that created pilots for the very fighter craft that he had helped develop. The modifications allowed him to pilot the ship, but also made him less able to focus on the people around him.
 
 By this time, people were calling him "Squirrel."</desc>
 	</EngineeredPilot99>
 	<FrontierMarshal0>
 		<title>Frontier marshal</title>
-		<titleShort>Marshal</titleShort>
+		<titleShort>Маршал</titleShort>
 		<desc>Henry inherited a sense of duty from his father, and began a law enforcement career on his frontier homeworld.
 
 He tried to uphold the law with honor, but the corruption and greed of local government officials often discouraged him.</desc>
@@ -983,7 +983,7 @@ He is a naturally gifted sharpshooter. However, his real passion is in perfectin
 	</AbandonedChild78>
 	<CargoPilot0>
 		<title>Cargo pilot</title>
-		<titleShort>Pilot</titleShort>
+		<titleShort>Пілот</titleShort>
 		<desc>NAME was brought up by cargo hands on a long-haul ore transport ship. HECAP perfected HIS skills at trading and manipulation of people while running weapons between systems.</desc>
 	</CargoPilot0>
 	<TradersChild31>
@@ -1000,7 +1000,7 @@ NAME learned the customs and methods of trade of many cultures by participating 
 	</SpaceHumanitarian98>
 	<CorpStudent17>
 		<title>Corp student</title>
-		<titleShort>Student</titleShort>
+		<titleShort>Студент</titleShort>
 		<desc>De Dion was bred to become an executive officer for the large space trading corporation that owned his home planet. His family had been working for that corporation for seven generations.
 
 At age six, HE started to study at the corporate academy, where he learned to become a loyal follower and a ruthless executive.</desc>
@@ -1013,12 +1013,12 @@ At age six, HE started to study at the corporate academy, where he learned to be
 He was found guilty. However, because of his family's influence, he was exiled instead of put to death.</desc>
 	</ExecutiveOfficer58>
 	<VRAddict62>
-		<title>VR addict</title>
-		<titleShort>VR addict</titleShort>
+		<title>ВР залежний</title>
+		<titleShort>ВР залежний</titleShort>
 		<desc>Douglas was a VR head - someone who is permanently jacked into the virtual gaming universe by his spinal plug. He moved through his daily tasks barely aware of the physical reality around him. This left him nearly unable to socialize.</desc>
 	</VRAddict62>
 	<RugbyPlayer15>
-		<title>Rugby player</title>
+		<title>Гравець в регбі</title>
 		<titleShort>Winger</titleShort>
 		<desc>After years of addiction to virtual reality games, Douglas was saved when the doctors unplugged him.
 
@@ -1032,8 +1032,8 @@ Unfortunately, they unplugged him during a match of Rugby Rampage 4. The mental 
 His strong French accent kept him from making real friends.</desc>
 	</Nerd92>
 	<StateEngineer74>
-		<title>State engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>Державний інженер</title>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME enrolled in the state weapons research program.
 
 While brilliant in his work, he was so enthusiastic in testing his creations that he accidentally wounded some colleagues and was marked as unfit for service.</desc>
@@ -1070,8 +1070,8 @@ He chose to operate as a hired gun, working for various rebel organizations, ens
 His departed father had left behind an old bolt-action rifle, and Jon practiced with it every chance he got.</desc>
 	</SonOfAHuntress96>
 	<SpaceHunter67>
-		<title>Space hunter</title>
-		<titleShort>Huntsman</titleShort>
+		<title>Космічний мисливець</title>
+		<titleShort>Єгер</titleShort>
 		<desc>Now a man as well as proficient hunter and marksman, Jon yearned for more. He took leave from his birth world, traveling the great expanse in search of exotic game.</desc>
 	</SpaceHunter67>
 	<StudentSocialite73>
@@ -1082,7 +1082,7 @@ His departed father had left behind an old bolt-action rifle, and Jon practiced 
 While he was naturally adept at reading and manipulating people, he found no joy in it. He left the academy several years before graduation.</desc>
 	</StudentSocialite73>
 	<PoliticalAssassin87>
-		<title>Political assassin</title>
+		<title>Політичний вбивця</title>
 		<titleShort>Deathjack</titleShort>
 		<desc>Matis realized that his true calling was in physical solutions to diplomatic problems. He sought training from the assassins guild on Ceti V.
 
@@ -1094,8 +1094,8 @@ He was a quick study at the arts of subterfuge and death. He soon earned the gui
 		<desc>Always fascinated by machines, Dave spent his time studying robotics and holography. He preferred the company of his scientific creations to that of other people.</desc>
 	</AwkwardNerd12>
 	<AIResearcher30>
-		<title>AI researcher</title>
-		<titleShort>Researcher</titleShort>
+		<title>Дослідник ШІ</title>
+		<titleShort>Дослідник</titleShort>
 		<desc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</desc>
 	</AIResearcher30>
 	<MidworldGeek88>
@@ -1117,7 +1117,7 @@ He was a quick study at the arts of subterfuge and death. He soon earned the gui
 	</CatHerder45>
 	<FelineScientist25>
 		<title>Feline scientist</title>
-		<titleShort>Scientist</titleShort>
+		<titleShort>Вчений</titleShort>
 		<desc>NAME became a renowned scientist in the field of felines. Wanting the best for his animals and specializing in selective breeding, he set out on a journey to find the perfect breeding grounds for his cats.</desc>
 	</FelineScientist25>
 	<Scavenger26>
@@ -1136,7 +1136,7 @@ HECAP defended their ships against pirates and engaged in private space warfare 
 	</SpaceMarine90>
 	<VatgrownAssassin17>
 		<title>Vatgrown assassin</title>
-		<titleShort>Clone</titleShort>
+		<titleShort>Клон</titleShort>
 		<desc>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.</desc>
 	</VatgrownAssassin17>
 	<Mercenary40>
@@ -1152,8 +1152,8 @@ HECAP defended their ships against pirates and engaged in private space warfare 
 When HE did go out onto the catwalks of the city, HE enjoyed playing war games, becoming proficient with various simulation weapons.</desc>
 	</HiveWorldChild62>
 	<Microbiologist37>
-		<title>Microbiologist</title>
-		<titleShort>Biologist</titleShort>
+		<title>Мікробіолог</title>
+		<titleShort>Біолог</titleShort>
 		<desc>A plague struck NAME's native urbworld. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
 
 NAME barely escaped his homeworld as it fell into chaos.</desc>
@@ -1192,8 +1192,8 @@ However, after one vicious battle, he found himself stranded and his carrier shi
 He soon became skilled with firearms and knives as well as words.</desc>
 	</ArtfulDodger87>
 	<Assassin16>
-		<title>Assassin</title>
-		<titleShort>Assassin</titleShort>
+		<title>Вбивця</title>
+		<titleShort>Вбивця</titleShort>
 		<desc>Robin was specially trained as an operative to be used for high-risk assassinations. His skill with a rifle was unrivalled.
 
 He was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again.</desc>
