@@ -5,36 +5,36 @@
 Озеро Онтаріо
 Велике Солоне Озеро
 Лісове озеро
-Iliamna Lake
+Озеро Іліамна
 Озеро Оахе
 Озеро Окічобі
-Lake Pontchartrain
-Lake Sakakawea
-Lake Champlain
-Becharof Lake
-Lake St. Clair
+Озеро Понтчартрейн
+Озеро Сакакавиа
+Озеро Шамплейн
+Озеро Бечароф
+Озеро Сант-Клер
 Червоне Озеро
-Selawik Lake
-Fort Peck Lake
-Salton Sea
-Rainy Lake
-Devils Lake
-Toledo Bend Reservoir
-Lake Powell
-Kentucky Lake
-Lake Mead
-Naknek Lake
-Lake Winnebago
-Mille Lacs Lake
-Flathead Lake
-Lake Tahoe
-Pyramid Lake
-Sam Rayburn Reservoir
-Eufaula Lake
-Lake Marion
-Leech Lake
-Utah Lake
-Lake Francis Case
+Озеро Селавік
+Озеро Форт-Пек
+Море Селтон
+Озеро Дощів
+Озеро Диявола
+Водосховище Толедо-Бенд
+Озеро Пауел
+Озеро Кентуккі
+Озеро Мід
+Озеро Накнек
+Озеро Уіннебаго
+Озеро Мілле Лакс
+Озеро Флатхед
+Озеро Тахо
+Озеро Піраміди
+Водосховище Сем Рейбурн
+Озеро Юфола
+Озеро Меріон
+Озеро Лііхч
+Озеро Юта
+Озеро Френсіс Кейс
 Lake Pend Oreille
 Lake Texoma
 Yellowstone Lake
