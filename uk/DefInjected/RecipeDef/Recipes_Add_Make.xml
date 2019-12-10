@@ -42,9 +42,9 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_WakeUp.label>make wake-up</Make_WakeUp.label>
-  <Make_WakeUp.description>Make wake-up.</Make_WakeUp.description>
-  <Make_WakeUp.jobString>Making wake-up.</Make_WakeUp.jobString>
+  <Make_WakeUp.label>проснутись</Make_WakeUp.label>
+  <Make_WakeUp.description>Проснутись.</Make_WakeUp.description>
+  <Make_WakeUp.jobString>Просинається.</Make_WakeUp.jobString>
 
 
   <!-- Recipe Users: TableSculpting -->
