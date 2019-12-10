@@ -1194,7 +1194,7 @@ He soon became skilled with firearms and knives as well as words.</desc>
 	<Assassin16>
 		<title>Вбивця</title>
 		<titleShort>Вбивця</titleShort>
-		<desc>Robin was specially trained as an operative to be used for high-risk assassinations. His skill with a rifle was unrivalled.
+		<desc>Робін був спеціально навченим оперативником, щоб бути використаним для вбивств з високим ризиком. His skill with a rifle was unrivalled.
 
 He was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again.</desc>
 	</Assassin16>
@@ -1272,36 +1272,36 @@ Being a quick learner, he honed many of his skills and, apart from his crippling
 	</TestSubject1>
 	<AmateurEngineer21>
 		<title>Amateur engineer</title>
-		<titleShort>Engineer</titleShort>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME grew up in a family with a military and engineering background. HECAP wanted to join the army but his father didn't like the idea, so HIS interest turned to great flying machines and works of engineering. HECAP secretly hoped that this would one day lead him to a life of galactic exploration.</desc>
 	</AmateurEngineer21>
 	<AerospaceEngineer58>
 		<title>Aerospace engineer</title>
-		<titleShort>Engineer</titleShort>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME was an engineer responsible for the production of aircraft and spaceships. HECAP focused on improving production lines, and was known for HIS mastery of technical and research issues.</desc>
 	</AerospaceEngineer58>
 	<WildChild8>
-		<title>Wild child</title>
-		<titleShort>Wild child</titleShort>
+		<title>Дика дитина</title>
+		<titleShort>Дика дитина</titleShort>
 		<desc>NAME was abandoned on a toxic world overgrown with hostile plant life. HECAP became accustomed early to the cold burn of loneliness.
 
 HE learned to fight, but ate his food raw and uncooked.</desc>
 	</WildChild8>
 	<AlcoholicTrucker38>
 		<title>Alcoholic trucker</title>
-		<titleShort>Alcoholic</titleShort>
+		<titleShort>Алкоголік</titleShort>
 		<desc>NAME was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.
 
 His body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence.</desc>
 	</AlcoholicTrucker38>
 	<HackerProdigy70>
 		<title>Hacker prodigy</title>
-		<titleShort>Hacker</titleShort>
+		<titleShort>Хакер</titleShort>
 		<desc>Wedge was raised as the only child of wealthy surgeons. After being pressured into accepting a medical apprenticeship, he snapped. He seized his inheritance and went underground to learn how to exploit computer networks. He quickly became one of the most feared hackers on his home planet.</desc>
 	</HackerProdigy70>
 	<IntelligenceAgent4>
 		<title>Intelligence agent</title>
-		<titleShort>Agent</titleShort>
+		<titleShort>Агент</titleShort>
 		<desc>Because of his hacking skills, Wedge was recruited by his home planet's governing body to serve as an intelligence agent. The government trained him in combat, but he prefers psychological warfare.
 
 Government rules proved too strict for him, so he went rogue. His current activities are unknown.</desc>
@@ -1338,8 +1338,8 @@ Later, she was spotted clad in pygmy wombat furs, discussing the importance of h
 		<desc>Born on a cold hillbilly planet inhabited mainly by furred xenohumans, Benjamin grew up to the sound of bar fights and shootouts. Though his childhood was spent playing the banjo and working as a mechanic, his abnormal intelligence made him want something more; he entered medical school at age twenty.</desc>
 	</HillbillyProdigy33>
 	<MedicalScientist25>
-		<title>Medical scientist</title>
-		<titleShort>Scientist</titleShort>
+		<title>Вчений-медик</title>
+		<titleShort>Вчений</titleShort>
 		<desc>Benjamin enlisted as a doctor on a passing science vessel. Roaming the stars with a large crew of xenohumans and transbirds, he did genetic research on encountered species. He developed a deep friendship with one transbird but was forced to leave the ship when the captain dismissed all non-avians.</desc>
 	</MedicalScientist25>
 	<UrbworldUrchin35>
@@ -1349,7 +1349,7 @@ Later, she was spotted clad in pygmy wombat furs, discussing the importance of h
 	</UrbworldUrchin35>
 	<VoidRaider31>
 		<title>Void raider</title>
-		<titleShort>Raider</titleShort>
+		<titleShort>Розбійник</titleShort>
 		<desc>Craving adventure and glory, NAME set out across the void with a raider band, swearing his loyalty to his band and brothers, and spreading their glory through the stars with his blade and pistol in hand.</desc>
 	</VoidRaider31>
 	<MidworldSketcher21>
@@ -1368,8 +1368,8 @@ In the end, NAME was the leader of a large group of trained and dangerous pirate
 	</MidworldSailor20>
 	<CoreWorldStudent4>
 		<title>Core world student</title>
-		<titleShort>Student</titleShort>
-		<desc>Born a male named Alex, Alyssa didn't fit in well with the other boys. When very young, she preferred creative pursuits, such as crafting jewelry, over sports. She felt she had the wrong body. Luckily, her family and friends supported her sex reassignment; as a teen, she underwent surgery to become a female.</desc>
+		<titleShort>Студент</titleShort>
+		<desc>Народившись чоловіком названим Алекс, Аліса не почувалася добре з іншими хлопцями. When very young, she preferred creative pursuits, such as crafting jewelry, over sports. She felt she had the wrong body. Luckily, her family and friends supported her sex reassignment; as a teen, she underwent surgery to become a female.</desc>
 	</CoreWorldStudent4>
 	<CoreWorldJeweler59>
 		<title>Core world jeweler</title>
@@ -1382,8 +1382,8 @@ In the end, NAME was the leader of a large group of trained and dangerous pirate
 		<desc>William grew up on a medieval planet as a knight in training. He trained directly under the king's war adviser for most of his youth, and learned to fight with a sword and shield.</desc>
 	</MedievalSquire61>
 	<MedievalKnight71>
-		<title>Medieval knight </title>
-		<titleShort>Knight</titleShort>
+		<title>Середньовічний лицар </title>
+		<titleShort>Лицар</titleShort>
 		<desc>William fought for king and country on the battlefield, where he further honed his skill as a swordsman. His greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point.</desc>
 	</MedievalKnight71>
 	<StarSquire93>
@@ -1394,8 +1394,8 @@ In the end, NAME was the leader of a large group of trained and dangerous pirate
 Ever since, HE dreamed of squiring for a knight amidst the star-filled heavens. HISCAP focus on that vision left HIM somewhat single-minded.</desc>
 	</StarSquire93>
 	<StarKnight78>
-		<title>Star knight</title>
-		<titleShort>Knight</titleShort>
+		<title>Зоряний лицар</title>
+		<titleShort>Лицар</titleShort>
 		<desc>Abducted from his medieval homeworld, NAME later escaped his captors via an impressive display of swordsmanship.
 
 For a moment, as he drifted in the escape pod, his childhood dream of becoming a knight among the stars felt so real. Then he crash-landed.</desc>
@@ -1414,12 +1414,12 @@ He was exploited by the local gang as a drug mule to traffic "substance F" acros
 	</TestSubject82>
 	<ArtisanFarmer56>
 		<title>Artisan farmer</title>
-		<titleShort>Farmer</titleShort>
+		<titleShort>Фермер</titleShort>
 		<desc>NAME grew up on a HIS family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology.</desc>
 	</ArtisanFarmer56>
 	<GeneticEngineer63>
-		<title>Genetic engineer</title>
-		<titleShort>Geneticist</titleShort>
+		<title>Генний інженер</title>
+		<titleShort>Генетик</titleShort>
 		<desc>NAME carried out HIS first genetic experiments on farm animals. HECAP soon grew to become quite skilled in all forms of genetic engineering.
 
 A horrifying lab accident left him with a mortal fear of rodents.</desc>
@@ -1432,8 +1432,8 @@ A horrifying lab accident left him with a mortal fear of rodents.</desc>
 This pampered lifestyle caused HIM to miss many basic life lessons. HECAP developed a special aversion to cooking, and always ordered the staff to do the kitchen work.</desc>
 	</Pampered62>
 	<NinjaAssassin4>
-		<title>Ninja assassin</title>
-		<titleShort>Ninja</titleShort>
+		<title>Ніндзя-вбивця</title>
+		<titleShort>Ніндзя</titleShort>
 		<desc>NAME performed stiletto-precise assassinations for an interplanetary conglomerate. HECAP was assigned the most complex missions involving disguise, deception, subterfuge, and efficient violence.
 
 A nasty incident with a potted plant and an assassination gone wrong left HIM with an aversion to plant life.</desc>
@@ -1446,8 +1446,8 @@ A nasty incident with a potted plant and an assassination gone wrong left HIM wi
 Following the tradition of HIS family, HE enlisted at the earliest possible age.</desc>
 	</MilitaryChild84>
 	<LazyProgrammer84>
-		<title>Lazy programmer</title>
-		<titleShort>Programmer</titleShort>
+		<title>Лінивий програміст</title>
+		<titleShort>Програміст</titleShort>
 		<desc>NAME independently developed software that had a competitive edge against local urbworld corporations.
 
 HISCAP legally questionable methods lead to a growing number in unsolved claims of intellectual property theft.</desc>
@@ -1511,7 +1511,7 @@ Travelling often, HE was home-schooled and saw the world mostly through a comput
 	</DiplomatsChild66>
 	<WhiteHatHacker49>
 		<title>White-hat hacker</title>
-		<titleShort>Hacker</titleShort>
+		<titleShort>Хакер</titleShort>
 		<desc>From HIS computer, NAME helped rid the online world of bad people.</desc>
 	</WhiteHatHacker49>
 	<Winerunner96>
@@ -1539,18 +1539,18 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>NAME became a gifted pharmaceutical scientist, but was captured by slavers. HECAP was sold to a warlord and forced to create drugs to test on other slaves. This left HIM with deep and troubling questions on the ethics of scientific research and medicine.</desc>
 	</SlaveChemist35>
 	<SlaveFarmer49>
-		<title>Slave farmer</title>
-		<titleShort>Slave</titleShort>
+		<title>Раб фермер</title>
+		<titleShort>Раб</titleShort>
 		<desc>Abandoned as a little girl, NAME was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.</desc>
 	</SlaveFarmer49>
 	<RocketEngineer75>
 		<title>Rocket engineer</title>
-		<titleShort>Engineer</titleShort>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME won a grant to a top school and earned a degree in rocket engineering. After several years working for a space mining company she left to travel and see the universe.</desc>
 	</RocketEngineer75>
 	<MedievalSlave34>
-		<title>Medieval slave</title>
-		<titleShort>Slave</titleShort>
+		<title>Середньовічний раб</title>
+		<titleShort>Раб</titleShort>
 		<desc>Born into slavery, Soren never knew his parents. He eventually escaped from his masters and boarded a military cargo ship, where he was pressed into military service.</desc>
 	</MedievalSlave34>
 	<SpaceMarine27>
@@ -1564,8 +1564,8 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>NAME grew up as an apprentice in the foundries of an industrial world. This experience gave HIM metalworking skills and strong muscles, but stunted HIS artistic development.</desc>
 	</FoundryApprentice81>
 	<CombatEngineer42>
-		<title>Combat engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>Бойовий інженер</title>
+		<titleShort>Інженер</titleShort>
 		<desc>NAME became a combat engineer. HE built bases, fixed guns, and repaired vehicles for the army - when HE wasn't shooting at people, that is.</desc>
 	</CombatEngineer42>
 	<PrivilegedProdigy5>
@@ -1574,24 +1574,24 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>NAME was recognized as gifted early in his glitterworld upbringing. Luckily, HIS family was in a position to cultivate that genius through advanced education. HIS training included science, leadership, and the arts.</desc>
 	</PrivilegedProdigy5>
 	<PlanetaryDiplomat42>
-		<title>Planetary diplomat</title>
-		<titleShort>Diplomat</titleShort>
+		<title>Планетарний дипломат</title>
+		<titleShort>Дипломат</titleShort>
 		<desc>NAME's passion and profession was interplanetary politics. HE was a master of social manipulation and negotiation and devoted HIMself to working towards peace, compromise and mutual benefit.</desc>
 	</PlanetaryDiplomat42>
 	<ChildProdigy22>
-		<title>Child prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<title>Дитина геній</title>
+		<titleShort>Геній</titleShort>
 		<desc>After graduating college at age twelve, Jered devoted his life to becoming immortal.  However his research crossed the line when he tried to modify his body using gene therapy and mechanical augmentation.  He was arrested and condemned to a prison planet.</desc>
 	</ChildProdigy22>
 	<RenegadeEngineer33>
 		<title>Renegade engineer</title>
-		<titleShort>Engineer</titleShort>
+		<titleShort>Інженер</titleShort>
 		<desc>After a daring escape from the prison planet with a small crew of fellow inmates, Jered set his gaze on his homeworld.
 
 He travelled there, recruited more followers, hijacked a space cruiser, and launched into the void.</desc>
 	</RenegadeEngineer33>
 	<BoneCollector51>
-		<title>Bone collector</title>
+		<title>Збирач кісток</title>
 		<titleShort>Pupil</titleShort>
 		<desc>Born to a family of fortune hunters, NAME always had a passion for ancient history.
 
@@ -1606,14 +1606,14 @@ With his new found fame and fitness came a sudden reluctance to preform menial l
 	</Osteologist68>
 	<GNomeSculptor81>
 		<title>G-nome sculptor</title>
-		<titleShort>Sculptor</titleShort>
+		<titleShort>Скульптор</titleShort>
 		<desc>NAME was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.
 
 The G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories.</desc>
 	</GNomeSculptor81>
 	<Gnomebiologist56>
 		<title>Gnomebiologist</title>
-		<titleShort>Biologist</titleShort>
+		<titleShort>Біолог</titleShort>
 		<desc>Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.
 
 However, he never stopped sculpting yard gnomes, and considers this to be his true profession.</desc>
@@ -1664,7 +1664,7 @@ After enrolling as a local policeman, he was soon promoted to sergeant.</desc>
 HECAP learned to maneuver in the both the political landscape and in close quarters combat.</desc>
 	</FeudalLordling43>
 	<SystemLord49>
-		<title>System lord</title>
+		<title>Системний лорд</title>
 		<titleShort>Лорд</titleShort>
 		<desc>For NAME, ruling a country, or even a planet, was not good enough. HECAP sought to expand his influence across the system - by legal or extralegal means.</desc>
 	</SystemLord49>
@@ -1676,7 +1676,7 @@ HECAP learned to maneuver in the both the political landscape and in close quart
 He lived in an unusual feudal kingdom which co-existed with a midworld society which was itself well-known for genetic manipulation.</desc>
 	</FeudalFarmBoy31>
 	<HunterOfTheKing3>
-		<title>Hunter of the king</title>
+		<title>Мисливець короля</title>
 		<titleShort>Pest guard</titleShort>
 		<desc>NAME was forced to protect his colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.
 
@@ -1711,7 +1711,7 @@ HISCAP obsession with technology meant that HE never appreciated arts or culture
 	</WarChild73>
 	<BountyHunter22>
 		<title>Bounty hunter</title>
-		<titleShort>Hunter</titleShort>
+		<titleShort>Мисливець</titleShort>
 		<desc>When the civil war ended, Mushinto had to find a new way to use his fighting skills. He decided to hunt down war criminals and soon realized that he enjoyed capturing  bad guys by any means necessary.</desc>
 	</BountyHunter22>
 	<UpperUrbworlder20>
@@ -1720,13 +1720,13 @@ HISCAP obsession with technology meant that HE never appreciated arts or culture
 		<desc>NAME had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, HE spent most of HIS time reading or drawing the cityscape he saw through HIS window.</desc>
 	</UpperUrbworlder20>
 	<Missionary23>
-		<title>Missionary</title>
-		<titleShort>Missionary</titleShort>
+		<title>Місіонер</title>
+		<titleShort>Місіонер</titleShort>
 		<desc>NAME decided to devote HIS life to religious service. HE made a vow of peace and spent several years preaching and serving food in soup kitchens for the homeless.</desc>
 	</Missionary23>
 	<IdealisticCadet35>
-		<title>Idealistic cadet</title>
-		<titleShort>Cadet</titleShort>
+		<title>Ідеалістичний кадет</title>
+		<titleShort>Кадет</titleShort>
 		<desc>Raised in the military traditions of his forefathers, NAME was taught from a young age that he would be a great leader and the hero of the Dichter family.
 
 He excelled at his studies and graduated from the academy with honors.</desc>
@@ -1746,15 +1746,15 @@ His men were loyal and fought hard, but their ideals soon faded away and their c
 To survive on a planet devoid of life, HE had to learn how to farm underground and how to fight without wasting bullets.</desc>
 	</ChildOfGlass96>
 	<LoneTraveler73>
-		<title>Lone traveler</title>
-		<titleShort>Traveler</titleShort>
+		<title>Самотній мандрівник</title>
+		<titleShort>Мандрівник</titleShort>
 		<desc>After escaping HIS homeworld on a jury-rigged ship, NAME traveled to new worlds to experience their beauty.
 
 HECAP joined resistance groups and applied the skills HE cultivated on HIS homeworld. HECAP often warned of the nuclear horror HE saw as a child.</desc>
 	</LoneTraveler73>
 	<AmateurBotanist14>
 		<title>Amateur botanist</title>
-		<titleShort>Botanist</titleShort>
+		<titleShort>Ботанік</titleShort>
 		<desc>Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more.</desc>
 	</AmateurBotanist14>
 	<Undertaker50>
@@ -1774,19 +1774,19 @@ HECAP joined resistance groups and applied the skills HE cultivated on HIS homew
 	</Mercenary75>
 	<AdventuringChild56>
 		<title>Adventuring child</title>
-		<titleShort>Adventurer</titleShort>
+		<titleShort>Авантюрист</titleShort>
 		<desc>Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.
 
 One night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port.</desc>
 	</AdventuringChild56>
 	<HiredAssassin2>
-		<title>Hired assassin</title>
-		<titleShort>Assassin</titleShort>
+		<title>Найманий вбивця</title>
+		<titleShort>Вбивця</titleShort>
 		<desc>Axle was a master thief, working mostly for organized crime. Over time, he made a name for himself and shifted his business into the paid "removal" of human threats.</desc>
 	</HiredAssassin2>
 	<VideoGamer91>
-		<title>Video gamer</title>
-		<titleShort>Gamer</titleShort>
+		<title>Відео геймер</title>
+		<titleShort>Геймер</titleShort>
 		<desc>Ryan was raised in a glitterworld. Everything he wanted came to him. In school he was a social butterfly. At home, he spent his time looking up the newest gadgets and playing his favourite video games.</desc>
 	</VideoGamer91>
 	<SpaceshipChef34>
