@@ -3785,7 +3785,7 @@ In truth, HE was part of an elaborate experiment. Researchers were conditioning 
 	</SoldierExperiment38>
 	<LostSoldier35>
 		<title>Lost soldier</title>
-		<titleShort>Lost</titleShort>
+		<titleShort>Заблукалий</titleShort>
 		<desc>NAME's childhood soldier conditioning failed, and the experiment was shut down. HECAP was abandoned, purposeless, friendless.
 
 NAME eventually found solace in physically demanding work. HECAP especially liked building houses and crafting heavy armor.</desc>
@@ -3819,7 +3819,7 @@ At an early age, she was shown how to use guns and cruelty to project her will. 
 Fortunately for her, someone cut the power to her cell block. Riots ignited. Guards and trained wargs were deployed to quell the uprising. Organizing a few other inmates, NAME escaped in a small spacecraft.</desc>
 	</PrisonerOfWar83>
 	<AngryStudent39>
-		<title>Angry student</title>
+		<title>Агресивний студент</title>
 		<titleShort>Студент</titleShort>
 		<desc>NAME trained towards HIS dream of working for his hometown's local council.
 
@@ -3833,7 +3833,7 @@ For reasons he never quite understood, HE was bullied relentlessly by his classm
 One day, NAME discovered a corruption racket run by some of HIS bosses. After reporting this, HE was fired. Wishing to hunt down those responsible, HE went on a mass murder spree.</desc>
 	</MadAccountant34>
 	<TransferStudent80>
-		<title>Transfer student</title>
+		<title>Переведений студент</title>
 		<titleShort>Студент</titleShort>
 		<desc>A midworld child, NAME's wealthy parents sent HIM to a nearby glitterworld to receive a better education.
 
@@ -3903,8 +3903,8 @@ NAME became very familiar with machines, but HE grew up with almost no other exp
 HECAP was trained in advanced combat and survival skills. While HE excelled in HIS studies, NAME was a loner and never cared about HIS crewmates.</desc>
 	</MilitaryOfficer12>
 	<Empath28>
-		<title>Empath</title>
-		<titleShort>Empath</titleShort>
+		<title>Емпат</title>
+		<titleShort>Емпат</titleShort>
 		<desc>NAME was an incredibly empathetic child, so much that HE was totally overwhelmed by simple social interactions. Once, HE stepped on a bug and felt so guilty HE cried for an hour.
 
 NAME did try to use a gun one time, but it went very poorly, as the loud noise made HIM flinch uncontrollably.</desc>
