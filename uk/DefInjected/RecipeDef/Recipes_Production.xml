@@ -33,9 +33,9 @@
   <Make_ComponentSpacer.description>Виготовити покращений компонент.</Make_ComponentSpacer.description>
   <Make_ComponentSpacer.jobString>Виготовлення покращеного компоненту.</Make_ComponentSpacer.jobString>
 
-  <Make_Patchleather.label>make patchleather</Make_Patchleather.label>
-  <Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
-  <Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
+  <Make_Patchleather.label>виготовити шкіряний пластир</Make_Patchleather.label>
+  <Make_Patchleather.description>Об'єднайте різні види шкіри, щоб створити слабкий шкіряний пластир.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>Створення шкіряного пластира.</Make_Patchleather.jobString>
 
 
 </LanguageData>
