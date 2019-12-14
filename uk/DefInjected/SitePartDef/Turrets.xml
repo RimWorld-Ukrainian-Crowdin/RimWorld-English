@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Turrets.label>турелі</Turrets.label>
-  <Turrets.description>A group of turrets.</Turrets.description>
+  <Turrets.description>Група турелей.</Turrets.description>
   <Turrets.descriptionDialogue>{0} defend the site</Turrets.descriptionDialogue>
 
 
