@@ -14,31 +14,31 @@
   <Construction.skillLabel>будівництво</Construction.skillLabel>
 
   <Mining.label>шахтарство</Mining.label>
-  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
+  <Mining.description>Викопування тунелів та видобування корисних копалин.</Mining.description>
   <Mining.skillLabel>шахтарство</Mining.skillLabel>
 
   <Cooking.label>кулінарія</Cooking.label>
-  <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
+  <Cooking.description>Створення страв з сирих інгредієнтів швидко і без випадкового харчового отруєння.</Cooking.description>
   <Cooking.skillLabel>кулінарія</Cooking.skillLabel>
 
   <Plants.label>рослинництво</Plants.label>
-  <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
+  <Plants.description>Посів, догляд і збір врожаю, і збір їжі під час подорожей.</Plants.description>
   <Plants.skillLabel>рослинництво</Plants.skillLabel>
 
   <Animals.label>тваринництво</Animals.label>
-  <Animals.description>Taming, training, and controlling animals.</Animals.description>
+  <Animals.description>Приручення, тренування, та контроль над тваринами.</Animals.description>
   <Animals.skillLabel>тваринництво</Animals.skillLabel>
 
   <Crafting.label>ремесло</Crafting.label>
   <Crafting.description>Створення предметів включаючи зброю, компоненти, та перероблених ресурсів.</Crafting.description>
   <Crafting.skillLabel>ремесло</Crafting.skillLabel>
 
-  <Artistic.label>artistic</Artistic.label>
+  <Artistic.label>мистецтво</Artistic.label>
   <Artistic.description>Створення творів мистецтва.</Artistic.description>
   <Artistic.skillLabel>мистецтво</Artistic.skillLabel>
 
   <Medicine.label>медицина</Medicine.label>
-  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
+  <Medicine.description>Догляд за пораненнями і хворобами, та виконання хірургічних операцій.</Medicine.description>
   <Medicine.skillLabel>медицина</Medicine.skillLabel>
 
   <Social.label>соціальність</Social.label>
