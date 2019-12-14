@@ -3,7 +3,7 @@
 
   <Muffalo.label>муффало</Muffalo.label>
   <Muffalo.labelPlural>муффали</Muffalo.labelPlural>
-  <Muffalo.lifeStages.0.label>муффалято</Muffalo.lifeStages.0.label>
+  <Muffalo.lifeStages.0.label>муффалятко</Muffalo.lifeStages.0.label>
   <Muffalo.lifeStages.0.labelPlural>муффаляти</Muffalo.lifeStages.0.labelPlural>
   <Muffalo.lifeStages.0.labelMale>male muffalo calf</Muffalo.lifeStages.0.labelMale>
   <Muffalo.lifeStages.0.labelMalePlural>male muffalo calves</Muffalo.lifeStages.0.labelMalePlural>
@@ -11,9 +11,9 @@
   <Muffalo.lifeStages.0.labelFemalePlural>female muffalo calves</Muffalo.lifeStages.0.labelFemalePlural>
   <Muffalo.lifeStages.1.label>муффало</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.1.labelPlural>муффало</Muffalo.lifeStages.1.labelPlural>
-  <Muffalo.lifeStages.1.labelMale>male muffalo</Muffalo.lifeStages.1.labelMale>
-  <Muffalo.lifeStages.1.labelMalePlural>male muffalos</Muffalo.lifeStages.1.labelMalePlural>
-  <Muffalo.lifeStages.1.labelFemale>female muffalo</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.1.labelMale>самець муффало</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelMalePlural>самець муфалло</Muffalo.lifeStages.1.labelMalePlural>
+  <Muffalo.lifeStages.1.labelFemale>самка муффало</Muffalo.lifeStages.1.labelFemale>
   <Muffalo.lifeStages.1.labelFemalePlural>female muffalos</Muffalo.lifeStages.1.labelFemalePlural>
   <Muffalo.lifeStages.2.label>muffalo</Muffalo.lifeStages.2.label>
   <Muffalo.lifeStages.2.labelPlural>muffalo</Muffalo.lifeStages.2.labelPlural>
