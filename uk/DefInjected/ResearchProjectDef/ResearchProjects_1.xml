@@ -39,7 +39,7 @@
   <CarpetMaking.label>carpet making</CarpetMaking.label>
   <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
 
-  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.label>пеммікан</Pemmican.label>
   <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
 
 
@@ -69,7 +69,7 @@
 
   <!-- Medieval weapons -->
 
-  <LongBlades.label>long blades</LongBlades.label>
+  <LongBlades.label>довгі клинки</LongBlades.label>
   <LongBlades.description>Craft longswords and spears.</LongBlades.description>
 
   <PlateArmor.label>plate armor</PlateArmor.label>
