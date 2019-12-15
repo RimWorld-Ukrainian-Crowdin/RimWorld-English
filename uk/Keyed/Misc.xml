@@ -10,7 +10,7 @@
 
   <VersionIndicator>Версія {0}</VersionIndicator>
   <DevelopmentBuildLower>версія розроблення</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>Складено {0}</CompiledOn>
   <LoggedIntoSteamAs>Увійшли в Steam як {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
@@ -28,13 +28,13 @@
   <repeat>повторення</repeat>
   <default>за замовчанням</default>
   <distance>відстань</distance>
-  <YesUppercase>YES</YesUppercase>
-  <NoUppercase>NO</NoUppercase>
-  <kg>kg</kg>
-  <Day>Day</Day>
-  <day>day</day>
-  <Default>Default</Default>
-  <Average>Average</Average>
+  <YesUppercase>Так</YesUppercase>
+  <NoUppercase>Ні</NoUppercase>
+  <kg>кг</kg>
+  <Day>День</Day>
+  <day>день</day>
+  <Default>Стандартні</Default>
+  <Average>Середня</Average>
   <MoneyFormat>${0}</MoneyFormat>
 
   <!-- Content generation-->
@@ -46,7 +46,7 @@
 
   <CorpseLabel>{0} труп</CorpseLabel>
   <CorpseDesc>Мертве тіло {0}.</CorpseDesc>
-  <DeadLabel>{1_label} (dead)</DeadLabel>
+  <DeadLabel>{1_label} (мертвий(а))</DeadLabel>
 
   <RoughStoneTerrainLabel>нерівна {0}</RoughStoneTerrainLabel>
   <RoughStoneTerrainDesc>Нерівна, природна {0} поверхня.</RoughStoneTerrainDesc>
@@ -64,8 +64,8 @@
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} створено {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
-  <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}</CouplesRoom>
+  <SomeonesRoom>{PAWN_labelShort} {1}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort} і {PAWN2_labelShort} {2}</CouplesRoom>
 
   <VariousLabel>(різні)</VariousLabel>
 
