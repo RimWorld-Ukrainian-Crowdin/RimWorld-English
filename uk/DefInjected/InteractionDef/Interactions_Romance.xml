@@ -69,7 +69,7 @@
   <MarriageProposal.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</MarriageProposal.logRulesInitiator.rulesStrings.2>
 
   <Breakup.label>розставання</Breakup.label>
-  <Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] запропонував [RECIPIENT_nameDef] перепочити.</Breakup.logRulesInitiator.rulesStrings.0>
   <Breakup.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</Breakup.logRulesInitiator.rulesStrings.1>
   <Breakup.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</Breakup.logRulesInitiator.rulesStrings.2>
   <Breakup.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</Breakup.logRulesInitiator.rulesStrings.3>
