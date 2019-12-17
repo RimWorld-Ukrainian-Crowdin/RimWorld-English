@@ -3,12 +3,12 @@
 дитяча любов
 дитячий досвід
 життя
-life challenges
+життєві випробування
 життєві нагороди
 життєві спогади
 життєві цілі
 life regrets
-life stresses
+життєві стреси
 the disappointment of life
 the pointlessness of life
 the randomness of life
@@ -18,7 +18,7 @@ adulthood
 діти
 fear
 кошмари
-success
+успіх
 the morality of poverty
 the morality of wealth
 
@@ -53,9 +53,9 @@ man's spread through the universe
 примітивізм
 луддизм
 technology
-machine intelligence
-artificial intelligence
-computer technology
+машинний інтелект
+штучний інтелект
+комп'ютерні технології
 weapons technology
 
 society
@@ -126,7 +126,7 @@ Von Neumann probes
 
 archotechnology
 archotechs
-AI personas
+ШІ персони
 the Johnson-Tanaka drive
 the Ordo Historia
 стара Земля
