@@ -7,16 +7,16 @@
 життєві нагороди
 життєві спогади
 життєві цілі
-life regrets
+життєві жалі
 життєві стреси
 the disappointment of life
 the pointlessness of life
 the randomness of life
 надія
-maturity
-adulthood
+зрілість
+повноліття
 діти
-fear
+страх
 кошмари
 успіх
 the morality of poverty
@@ -35,14 +35,14 @@ aiding the downtrodden
 helping the sick
 helping the poor
 
-aliens
-alien contact
-alien conspiracies
+інопланетяни
+інопланетний контакт
+інопланетні змови
 the absence of aliens
-government conspiracies
-religious conspiracies
+урядові змови
+релігійні змови
 
-the stars
+зірки
 інші планети
 ця планета
 the scale of the universe
@@ -56,10 +56,10 @@ technology
 машинний інтелект
 штучний інтелект
 комп'ютерні технології
-weapons technology
+збройні технології
 
-society
-morality
+суспільство
+мораль
 свобода
 закон
 уряд
@@ -67,40 +67,40 @@ morality
 історія
 терор
 тероризм
-politics
-honor
-social issues
-the market
+політика
+честь
+соціальні питання
+ринок
 свобода
 авторитаризм
 анархія
-injustice
-justice
-truth
-tribalism
+несправедливість
+справедливість
+правда
+племіннизм
 ingroup preference
 
-philosophy
+філософія
 reality
-culture
+культура
 culture differences
-culture shock
+культурний шок
 human nature
 humanity
 релігія
 the meaning of life
 identity
-eternity
-monism
+вічність
+монізм
 дуалізм
 epistemology
 honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+свобода слова
+етнічність
+лібералізм
+неминучість страждання
+природа знання
+природа емоцій
 
 доля
 доля людства
@@ -109,9 +109,9 @@ the nature of emotion
 мистецтво
 мистецтво руху
 мистецькі амбіції
-human aesthetics
-artistic instincts
-art history
+людська естетика
+мистецькі інстинкти
+історія мистецтва
 
 любов
 romance
@@ -130,9 +130,9 @@ archotechs
 the Johnson-Tanaka drive
 the Ordo Historia
 стара Земля
-rim worlds
-core worlds
-cryptosleep
-cryptosleep tombs
+обідок світів
+серединні світи
+крипто сон
+гробниці крипто сну
 механоїди
 людоїдство
