@@ -26,11 +26,11 @@
 невідворотність смерті
 звільнення смерті
 життя після смерті
-dead loved ones
-absent friends
+померла перша любов
+відсутність друзів
 
-charity
-philanthropism
+благодійність
+меценатство
 допомагаючи пригнобленим
 допомагаючи хворим
 допомагаючи бідним
@@ -93,8 +93,8 @@ identity
 вічність
 монізм
 дуалізм
-epistemology
-honesty
+гносеологія
+чесність
 свобода слова
 етнічність
 лібералізм
@@ -114,21 +114,21 @@ honesty
 історія мистецтва
 
 любов
-romance
-sexuality
-sexual morality
-masculinity
-femininity
+романс
+сексуальність
+мораль сексуальності
+маскулінність
+жіночність
 
-self-replicating machines
-generation ships
-Von Neumann probes
+самовідтворюванні машини
+покоління кораблів
+Зонди Фон Неймана
 
-archotechnology
-archotechs
+архотехнології
+архотехніки
 ШІ персони
-the Johnson-Tanaka drive
-the Ordo Historia
+алея привід Джонсона-Танаки
+ордо Історія
 стара Земля
 обідок світів
 серединні світи
