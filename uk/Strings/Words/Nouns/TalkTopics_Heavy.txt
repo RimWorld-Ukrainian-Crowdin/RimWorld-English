@@ -9,9 +9,9 @@
 життєві цілі
 життєві жалі
 життєві стреси
-the disappointment of life
-the pointlessness of life
-the randomness of life
+життєві розчарування
+безглуздість життя
+хаотичність життя
 надія
 зрілість
 повноліття
@@ -19,40 +19,40 @@ the randomness of life
 страх
 кошмари
 успіх
-the morality of poverty
-the morality of wealth
+мораль бідності
+мораль багатства
 
 смерть
-death's inevitability
-death's release
+невідворотність смерті
+звільнення смерті
 життя після смерті
 dead loved ones
 absent friends
 
 charity
 philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+допомагаючи пригнобленим
+допомагаючи хворим
+допомагаючи бідним
 
 інопланетяни
 інопланетний контакт
 інопланетні змови
-the absence of aliens
+відсутність інопланетян
 урядові змови
 релігійні змови
 
 зірки
 інші планети
 ця планета
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+масштаби всесвіту
+вік всесвіту
+доля всесвіту
+люди поширюються через всесвіт
 
 примітивізм
 луддизм
-technology
+технології
 машинний інтелект
 штучний інтелект
 комп'ютерні технології
