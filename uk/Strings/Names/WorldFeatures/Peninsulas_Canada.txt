@@ -39,17 +39,17 @@
 Півострів Мелвілль
 Півострів Мета-Інкогніта
 Півострів Наткусіек
-Niagara Peninsula
-North Peninsula
-Nova Scotia Peninsula
-Pangertot Peninsula
-Parry Peninsula
-Pethel Peninsula
-Point Pelee
-Port au Port Peninsula
-Prince Albert Peninsula
-Prince Edward Peninsula
-Sibley Peninsula
+Півострів Ніагара
+Північний півострів
+Півострів Нова-Шотландія
+Півострів Пангертот
+Півострів Перрі
+Півострів Петгел
+Точка Піліі
+Півострів Порт-ау-Порт
+Півострів Принца Альберта
+Півострів Принца Едварда
+Півострів Сіблей
 Simpson Peninsula
 Siorarsuk Peninsula
 Steensby Peninsula
