@@ -35,30 +35,30 @@
 Озеро Лііхч
 Озеро Юта
 Озеро Френсіс Кейс
-Lake Pend Oreille
-Lake Texoma
-Yellowstone Lake
-Falcon Lake
-Lake Livingston
-Lake Roosevelt
-Lake Clark
-Moosehead Lake
-Lake Strom Thurmond
-Bear Lake
-Lake Guntersville
-Lake St. Francis
-Wheeler Lake
-Amistad Lake
-Klamath Lake
-Lake Moultrie
-Lake Winnibigoshish
-Lake Barkley
-Lake Sharpe
-American Falls Reservoir
-Lake Hartwell
-Truman Reservoir
-Lake of the Ozarks
-Oneida Lake
+Озеро Панд-Орей
+Озеро Техома
+Озеро Єлоустоун
+Озеро Фалкон
+Озеро Лівінгстон
+Озеро Роозевельт
+Озеро Кларк
+Озеро Моосехед
+Озеро Стром-Хурмонд
+Озеро Біар
+Озеро Гунтерсвілль
+Озеро Св. Францісса
+Озеро Уілер
+Озеро Емістад
+Озеро Кламах
+Озеро Моултрі
+Озеро Віннібігошіш
+Озеро Барклі
+Озеро Шарп
+Водосховище Американського Водоспаду
+Озеро Гартвелл
+Водосховище Труман
+Озеро Озарк
+Озеро Онеіда
 Lake Cumberland
 Kerr Lake
 Calcasieu Lake
