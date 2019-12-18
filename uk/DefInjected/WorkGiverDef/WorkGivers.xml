@@ -83,9 +83,9 @@
   <BasicReleasePrisoner.verb>release</BasicReleasePrisoner.verb>
   <BasicReleasePrisoner.gerund>releasing</BasicReleasePrisoner.gerund>
 
-  <Open.label>open containers</Open.label>
-  <Open.verb>open</Open.verb>
-  <Open.gerund>opening</Open.gerund>
+  <Open.label>відкрити контейнери</Open.label>
+  <Open.verb>відкрити</Open.verb>
+  <Open.gerund>відкриття</Open.gerund>
 
 
   <!-- Warden -->
@@ -167,9 +167,9 @@
 
   <!-- Hunting -->
 
-  <HunterHunt.label>hunt</HunterHunt.label>
-  <HunterHunt.verb>hunt</HunterHunt.verb>
-  <HunterHunt.gerund>hunting</HunterHunt.gerund>
+  <HunterHunt.label>полювати</HunterHunt.label>
+  <HunterHunt.verb>полювати</HunterHunt.verb>
+  <HunterHunt.gerund>полювання</HunterHunt.gerund>
 
 
   <!-- Construction -->
@@ -383,9 +383,9 @@
 
   <!-- Cleaning -->
 
-  <CleanClearSnow.label>clear snow</CleanClearSnow.label>
-  <CleanClearSnow.verb>clear snow</CleanClearSnow.verb>
-  <CleanClearSnow.gerund>clearing snow</CleanClearSnow.gerund>
+  <CleanClearSnow.label>прибрати сніг</CleanClearSnow.label>
+  <CleanClearSnow.verb>прибрати сніг</CleanClearSnow.verb>
+  <CleanClearSnow.gerund>прибирання снігу</CleanClearSnow.gerund>
 
   <CleanFilth.label>clean filth</CleanFilth.label>
   <CleanFilth.verb>clean</CleanFilth.verb>
