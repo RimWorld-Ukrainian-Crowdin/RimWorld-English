@@ -51,13 +51,13 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.46>romantic_adj->lovely</RomanceAttempt.logRulesInitiator.rulesStrings.46>
   <RomanceAttempt.logRulesInitiator.rulesStrings.47>romantic_adj->wonderful</RomanceAttempt.logRulesInitiator.rulesStrings.47>
   <RomanceAttempt.logRulesInitiator.rulesStrings.48>romantic_adj(p=3)->[AdjectiveBadass]</RomanceAttempt.logRulesInitiator.rulesStrings.48>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.49>romantic_noun->flower</RomanceAttempt.logRulesInitiator.rulesStrings.49>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.50>romantic_noun->spring</RomanceAttempt.logRulesInitiator.rulesStrings.50>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.51>romantic_noun->river</RomanceAttempt.logRulesInitiator.rulesStrings.51>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.52>romantic_noun->star</RomanceAttempt.logRulesInitiator.rulesStrings.52>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.53>romantic_noun->moon</RomanceAttempt.logRulesInitiator.rulesStrings.53>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.54>romantic_noun->sun</RomanceAttempt.logRulesInitiator.rulesStrings.54>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.55>romantic_noun->house</RomanceAttempt.logRulesInitiator.rulesStrings.55>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.49>romantic_noun->квітка</RomanceAttempt.logRulesInitiator.rulesStrings.49>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.50>romantic_noun->весна</RomanceAttempt.logRulesInitiator.rulesStrings.50>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.51>romantic_noun->річка</RomanceAttempt.logRulesInitiator.rulesStrings.51>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.52>romantic_noun->зірка</RomanceAttempt.logRulesInitiator.rulesStrings.52>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.53>romantic_noun->місяць</RomanceAttempt.logRulesInitiator.rulesStrings.53>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.54>romantic_noun->сонце</RomanceAttempt.logRulesInitiator.rulesStrings.54>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.55>romantic_noun->будинок</RomanceAttempt.logRulesInitiator.rulesStrings.55>
   <RomanceAttempt.logRulesInitiator.rulesStrings.56>romantic_noun->aurora</RomanceAttempt.logRulesInitiator.rulesStrings.56>
   <RomanceAttempt.logRulesInitiator.rulesStrings.57>romantic_noun->[TreeType] tree</RomanceAttempt.logRulesInitiator.rulesStrings.57>
   <RomanceAttempt.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)->[TerrainFeature]</RomanceAttempt.logRulesInitiator.rulesStrings.58>
