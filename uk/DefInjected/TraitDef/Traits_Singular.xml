@@ -79,7 +79,7 @@
   <DislikesWomen.degreeDatas.0.label>жінконенависть</DislikesWomen.degreeDatas.0.label>
   <DislikesWomen.degreeDatas.0.description>{PAWN_nameDef} really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
 
-  <GreatMemory.degreeDatas.0.label>great memory</GreatMemory.degreeDatas.0.label>
+  <GreatMemory.degreeDatas.0.label>відмінна пам'ять</GreatMemory.degreeDatas.0.label>
   <GreatMemory.degreeDatas.0.description>{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
 
   <Tough.degreeDatas.0.label>tough</Tough.degreeDatas.0.label>
