@@ -4,19 +4,19 @@
   <!-- Install natural parts -->
 
   <InstallNaturalKidney.label>імплантація нирки</InstallNaturalKidney.label>
-  <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.description>Імплантація біологічної нирки.</InstallNaturalKidney.description>
   <InstallNaturalKidney.jobString>Імплантує нирку.</InstallNaturalKidney.jobString>
 
   <InstallNaturalLiver.label>імплантація печінки</InstallNaturalLiver.label>
-  <InstallNaturalLiver.description>Install a biological liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.description>Імплантація біологічної печінки.</InstallNaturalLiver.description>
   <InstallNaturalLiver.jobString>Імплантує печінку.</InstallNaturalLiver.jobString>
 
   <InstallNaturalLung.label>імплантація легенів</InstallNaturalLung.label>
-  <InstallNaturalLung.description>Install a lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.description>Імплантація легенів.</InstallNaturalLung.description>
   <InstallNaturalLung.jobString>Імплантує легені.</InstallNaturalLung.jobString>
 
   <InstallNaturalHeart.label>імплантація серця</InstallNaturalHeart.label>
-  <InstallNaturalHeart.description>Install a biological heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.description>Імплантація біологічного серця.</InstallNaturalHeart.description>
   <InstallNaturalHeart.jobString>Імплантує серце.</InstallNaturalHeart.jobString>
 
 
@@ -30,7 +30,7 @@
   <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
   <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
 
-  <InstallDenture.label>встановлення зубного протезу</InstallDenture.label>
+  <InstallDenture.label>встановлення щелепи</InstallDenture.label>
   <InstallDenture.description>Install a denture.</InstallDenture.description>
   <InstallDenture.jobString>Встановлює зубний протез.</InstallDenture.jobString>
 
