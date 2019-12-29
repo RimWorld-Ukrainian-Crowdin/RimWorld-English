@@ -13,16 +13,16 @@
   <MiracleHeal>{0} дивом видужав(ла)!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidLeaderPresent>One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Один з {LEADER_factionPawnsPlural} - {LEADER_labelShort}, є лідером фракції.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidLeaderPresent>One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Один з {LEADER_factionPawnsPlural} - {LEADER_labelShort}, є лідером фракції.</FriendlyRaidLeaderPresent>
 
-  <LetterLabelRefugeePodCrash>Transport pod crash</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Падіння транспортної капсули</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>{PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded.</RefugeePodCrash>
   <RefugeePodCrash_Factionless>{PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes.</RefugeePodCrash_Factionless>
   <RefugeePodCrash_Hostile>{PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes.</RefugeePodCrash_Hostile>
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction.</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} з {PAWN_factionName}. Якщо ви врятуєте {PAWN_objective}, {PAWN_pronoun} може приєднатися до вас. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction.</RefugeePodCrash_NonHostile>
 
   <LetterLabelCargoPodCrash>Cargo pods</LetterLabelCargoPodCrash>
   <CargoPodCrash>You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage.</CargoPodCrash>
@@ -43,10 +43,10 @@
   <SingleVisitorArrives>{PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
   <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
-  <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>A group from {0} are visiting the colony.{1}{2}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>They seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>One of the visitors - {1_labelShort}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Відвідувачі</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Група з {0} відвідують колонію.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>Вони здається, мають кілька речей для торгівлі.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>Один з відвідувачів - {1_labelShort}, є лідером цієї фракції.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 
   <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
@@ -116,8 +116,8 @@
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
   <CaravanMeeting>{0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2}</CaravanMeeting>
-  <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
-  <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
+  <CaravanMeeting_Trade>Торгівля</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Атакувати</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
   <CaravanMeeting_TradeIncapable>no caravan members capable of trading</CaravanMeeting_TradeIncapable>
 
