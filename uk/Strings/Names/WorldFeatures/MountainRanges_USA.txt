@@ -1,9 +1,9 @@
-Absaroka Range
-Adirondack Mountains
-Alaska Range
-Allegheny Mountains
-Amargosa Range
-Appalachian Mountains
+Хребет Абсарока
+Гори Адірондак
+Хребет Аляска
+Гори Алехені
+Хребет Амаргоса
+Гори Аппалачі
 Arbuckle Mountains
 Baird Mountains
 Bear River Mountains
