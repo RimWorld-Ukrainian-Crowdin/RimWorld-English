@@ -2,7 +2,7 @@
 <LanguageData>
 
   <LetterLabelAnimalInsanitySingle>Сказ у {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>A local {ANIMAL_label} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Місцевий {ANIMAL_label} зійшов з розуму. Він буде атакувати все що бачить.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Скажений {0}</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Якась психічна хвиля прокотилася над землею. Ваші колоністи впорядку, але...\n\nЗдається багато {0} в цьому районі зійшли з розуму.</AnimalInsanityMultiple>
 
