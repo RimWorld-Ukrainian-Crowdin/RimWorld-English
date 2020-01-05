@@ -57,8 +57,8 @@
   <TalkTopicsUtility.rulePack.rulesStrings.5>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</TalkTopicsUtility.rulePack.rulesStrings.5>
   <TalkTopicsUtility.rulePack.rulesStrings.6>TalkTopicLight(p=25)->[talktopiclightfile]</TalkTopicsUtility.rulePack.rulesStrings.6>
   <TalkTopicsUtility.rulePack.rulesStrings.7>TalkTopicLight->[Vegetable]</TalkTopicsUtility.rulePack.rulesStrings.7>
-  <TalkTopicsUtility.rulePack.rulesStrings.8>TalkTopicLight->eating [Vegetable]s</TalkTopicsUtility.rulePack.rulesStrings.8>
-  <TalkTopicsUtility.rulePack.rulesStrings.9>TalkTopicLight->cooking with [Vegetable]s</TalkTopicsUtility.rulePack.rulesStrings.9>
+  <TalkTopicsUtility.rulePack.rulesStrings.8>TalkTopicLight->їсть [Vegetable]</TalkTopicsUtility.rulePack.rulesStrings.8>
+  <TalkTopicsUtility.rulePack.rulesStrings.9>TalkTopicLight->готує з [Vegetable]</TalkTopicsUtility.rulePack.rulesStrings.9>
   <TalkTopicsUtility.rulePack.rulesStrings.10>TalkTopicLight->[Game]</TalkTopicsUtility.rulePack.rulesStrings.10>
   <TalkTopicsUtility.rulePack.rulesStrings.11>TalkTopicLight->playing [Game]</TalkTopicsUtility.rulePack.rulesStrings.11>
   <TalkTopicsUtility.rulePack.rulesStrings.12>TalkTopicLight->practicing [Game]</TalkTopicsUtility.rulePack.rulesStrings.12>
