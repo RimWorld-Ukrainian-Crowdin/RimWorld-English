@@ -32,27 +32,27 @@
   <Elephant.lifeStages.0.labelPlural>слоненята</Elephant.lifeStages.0.labelPlural>
   <Elephant.lifeStages.0.labelMale>слоненя самець</Elephant.lifeStages.0.labelMale>
   <Elephant.lifeStages.0.labelMalePlural>слоненята самці</Elephant.lifeStages.0.labelMalePlural>
-  <Elephant.lifeStages.0.labelFemale>female elephant calf</Elephant.lifeStages.0.labelFemale>
-  <Elephant.lifeStages.0.labelFemalePlural>female elephant calfs</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.0.labelFemale>слоненя самка</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>слоненята самки</Elephant.lifeStages.0.labelFemalePlural>
   <Elephant.lifeStages.1.label>слон</Elephant.lifeStages.1.label>
   <Elephant.lifeStages.1.labelPlural>слони</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.1.labelMale>male elephant</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>male elephants</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelFemale>female elephant</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>female elephants</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.2.label>elephant</Elephant.lifeStages.2.label>
-  <Elephant.lifeStages.2.labelPlural>elephant</Elephant.lifeStages.2.labelPlural>
-  <Elephant.lifeStages.2.labelMale>male elephant</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>male elephants</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelFemale>female elephant</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>female elephants</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.labelMale>male elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>male elephants</Elephant.labelMalePlural>
-  <Elephant.labelFemale>female elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>female elephants</Elephant.labelFemalePlural>
+  <Elephant.lifeStages.1.labelMale>слон самець</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>слони самці</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>самка слона</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>самки слонів</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.2.label>слон</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>слон</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.2.labelMale>слон самець</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>слони самці</Elephant.lifeStages.2.labelMalePlural>
+  <Elephant.lifeStages.2.labelFemale>самка слона</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>самки слонів</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>слон самець</Elephant.labelMale>
+  <Elephant.labelMalePlural>слони самці</Elephant.labelMalePlural>
+  <Elephant.labelFemale>самка слона</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>самки слонів</Elephant.labelFemalePlural>
 
   <Megasloth.label>гігантський лінивець</Megasloth.label>
-  <Megasloth.labelPlural>megasloths</Megasloth.labelPlural>
+  <Megasloth.labelPlural>гігантські лінивці</Megasloth.labelPlural>
   <Megasloth.lifeStages.0.label>дитя гігантського лінивця</Megasloth.lifeStages.0.label>
   <Megasloth.lifeStages.0.labelPlural>діти гігантського лінивця</Megasloth.lifeStages.0.labelPlural>
   <Megasloth.lifeStages.0.labelMale>male megasloth</Megasloth.lifeStages.0.labelMale>
