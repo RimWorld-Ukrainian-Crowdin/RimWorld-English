@@ -39,23 +39,23 @@
   <InstallSimpleProstheticLeg.jobString>Встановлює протез ноги.</InstallSimpleProstheticLeg.jobString>
 
   <InstallSimpleProstheticArm.label>встановити протез руки</InstallSimpleProstheticArm.label>
-  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
-  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.description>Встановити протез руки.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Встановлює протез руки.</InstallSimpleProstheticArm.jobString>
 
-  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
-  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
-  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.label>встановити штучне серце</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Встановити штучне серце.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Встановлює штучне серце.</InstallSimpleProstheticHeart.jobString>
 
-  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
-  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
-  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.label>встановити слуховий апарат</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Встановити слуховий апарат.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Встановлює слуховий апарат.</InstallCochlearImplant.jobString>
 
   <InstallBionicArm.label>встановити біонічну руку</InstallBionicArm.label>
   <InstallBionicArm.description>Встановити біонічну руку.</InstallBionicArm.description>
   <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
 
-  <InstallBionicLeg.label>встанолення біонічної ноги</InstallBionicLeg.label>
-  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.label>встановити біонічну ногу</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Встановити біонічну ногу.</InstallBionicLeg.description>
   <InstallBionicLeg.jobString>Встановлює біонічну ногу.</InstallBionicLeg.jobString>
 
   <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
