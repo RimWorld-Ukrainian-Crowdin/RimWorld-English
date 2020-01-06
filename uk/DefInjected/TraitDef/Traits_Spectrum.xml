@@ -59,7 +59,7 @@
   <ShootingAccuracy.degreeDatas.0.label>обережний стрілець</ShootingAccuracy.degreeDatas.0.label>
   <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy.</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>рембо</ShootingAccuracy.degreeDatas.1.label>
-  <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.</ShootingAccuracy.degreeDatas.1.description>
+  <ShootingAccuracy.degreeDatas.1.description>Пах! Пах! Пах! [PAWN_nameDef] любить натискати на гачок. [PAWN_pronoun] стріляє швидше за інших, але з меншою точністю.</ShootingAccuracy.degreeDatas.1.description>
 
   <Beauty.degreeDatas.0.label>прекрасний</Beauty.degreeDatas.0.label>
   <Beauty.degreeDatas.0.description>[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.</Beauty.degreeDatas.0.description>
