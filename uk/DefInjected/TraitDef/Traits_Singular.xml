@@ -14,7 +14,7 @@
   <Psychopath.degreeDatas.0.description>{PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing.</Psychopath.degreeDatas.0.description>
 
   <Cannibal.degreeDatas.0.label>людожер</Cannibal.degreeDatas.0.label>
-  <Cannibal.degreeDatas.0.description>{PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it.</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.description>{PAWN_nameDef} вихований на тому що поїдання людського мяса це неправильно та жахливо. Але одного разу {PAWN_pronoun} спробував це... і {PAWN_pronoun} сподобав це.</Cannibal.degreeDatas.0.description>
 
   <Abrasive.degreeDatas.0.label>прямий</Abrasive.degreeDatas.0.label>
   <Abrasive.degreeDatas.0.description>{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.</Abrasive.degreeDatas.0.description>
@@ -80,7 +80,7 @@
   <DislikesWomen.degreeDatas.0.description>{PAWN_nameDef} really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
 
   <GreatMemory.degreeDatas.0.label>відмінна пам'ять</GreatMemory.degreeDatas.0.label>
-  <GreatMemory.degreeDatas.0.description>{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
+  <GreatMemory.degreeDatas.0.description>{PAWN_nameDef} має фантастичну память на деталі. {PAWN_pronoun} втрачає не використовувані навички, лише в половину швидкості від інших людей.</GreatMemory.degreeDatas.0.description>
 
   <Tough.degreeDatas.0.label>tough</Tough.degreeDatas.0.label>
   <Tough.degreeDatas.0.description>{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.</Tough.degreeDatas.0.description>
