@@ -26,17 +26,17 @@
   <InstallPegLeg.description>Встановити дерев'яну ногу.</InstallPegLeg.description>
   <InstallPegLeg.jobString>Встановлює дерев'яну ногу.</InstallPegLeg.jobString>
 
-  <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
-  <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
-  <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+  <InstallWoodenFoot.label>встановити дерев'яну ступню</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Встановити дерев'яну ступню.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Встановлення дерев'яної ступні.</InstallWoodenFoot.jobString>
 
   <InstallDenture.label>встановити щелепу</InstallDenture.label>
   <InstallDenture.description>Встановити щелепу.</InstallDenture.description>
-  <InstallDenture.jobString>Встановлює зубний протез.</InstallDenture.jobString>
+  <InstallDenture.jobString>Встановлює щелепу.</InstallDenture.jobString>
 
-  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
-  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
-  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.label>встановити протез ноги</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Встановити протез ноги.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Встановлює протез ноги.</InstallSimpleProstheticLeg.jobString>
 
   <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
   <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
