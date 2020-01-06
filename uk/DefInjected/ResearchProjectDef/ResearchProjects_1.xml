@@ -27,16 +27,16 @@
 
   <!-- Column 2 -->
 
-  <DrugProduction.label>drug production</DrugProduction.label>
+  <DrugProduction.label>хімічне виробництво</DrugProduction.label>
   <DrugProduction.description>Build a drug lab for basic drug synthesis. Further research is required to make specific drugs.</DrugProduction.description>
 
-  <Cocoa.label>cocoa</Cocoa.label>
-  <Cocoa.description>Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too.</Cocoa.description>
+  <Cocoa.label>какао</Cocoa.label>
+  <Cocoa.description>Садіть какао дерева, щоб створити свій власний смачний шоколад. Вживання шоколаду задовольняє потребу людини у відпочинку, а також він цінний на ринку.</Cocoa.description>
 
   <Devilstrand.label>devilstrand</Devilstrand.label>
   <Devilstrand.description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</Devilstrand.description>
 
-  <CarpetMaking.label>carpet making</CarpetMaking.label>
+  <CarpetMaking.label>шиття килимів</CarpetMaking.label>
   <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
 
   <Pemmican.label>пеммікан</Pemmican.label>
@@ -45,7 +45,7 @@
 
   <!-- Column 3+ -->
 
-  <Smithing.label>smithing</Smithing.label>
+  <Smithing.label>ковальство</Smithing.label>
   <Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
 
   <RecurveBow.label>recurve bow</RecurveBow.label>
@@ -72,11 +72,11 @@
   <LongBlades.label>довгі клинки</LongBlades.label>
   <LongBlades.description>Craft longswords and spears.</LongBlades.description>
 
-  <PlateArmor.label>plate armor</PlateArmor.label>
+  <PlateArmor.label>пластинчастий обладунок</PlateArmor.label>
   <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
 
-  <Greatbow.label>greatbow</Greatbow.label>
-  <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>
+  <Greatbow.label>довгі луки</Greatbow.label>
+  <Greatbow.description>Створюйте довгі луки для вбивства ворогів на великій відстані.</Greatbow.description>
 
 
 </LanguageData>
