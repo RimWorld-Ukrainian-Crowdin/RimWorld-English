@@ -38,7 +38,7 @@
   <InstallSimpleProstheticLeg.description>Встановити протез ноги.</InstallSimpleProstheticLeg.description>
   <InstallSimpleProstheticLeg.jobString>Встановлює протез ноги.</InstallSimpleProstheticLeg.jobString>
 
-  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>встановити протез руки</InstallSimpleProstheticArm.label>
   <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
   <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
 
