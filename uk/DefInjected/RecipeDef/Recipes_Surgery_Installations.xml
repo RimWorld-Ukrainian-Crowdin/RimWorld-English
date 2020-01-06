@@ -22,16 +22,16 @@
 
   <!-- Install artificial parts -->
 
-  <InstallPegLeg.label>встановлення дерев'яної ноги</InstallPegLeg.label>
-  <InstallPegLeg.description>Install a peg leg.</InstallPegLeg.description>
+  <InstallPegLeg.label>встановити дерев'яну ногу</InstallPegLeg.label>
+  <InstallPegLeg.description>Встановити дерев'яну ногу.</InstallPegLeg.description>
   <InstallPegLeg.jobString>Встановлює дерев'яну ногу.</InstallPegLeg.jobString>
 
   <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
   <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
   <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
 
-  <InstallDenture.label>встановлення щелепи</InstallDenture.label>
-  <InstallDenture.description>Install a denture.</InstallDenture.description>
+  <InstallDenture.label>встановити щелепу</InstallDenture.label>
+  <InstallDenture.description>Встановити щелепу.</InstallDenture.description>
   <InstallDenture.jobString>Встановлює зубний протез.</InstallDenture.jobString>
 
   <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
@@ -50,8 +50,8 @@
   <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
   <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
 
-  <InstallBionicArm.label>встанолення біонічної руки</InstallBionicArm.label>
-  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.label>встановити біонічну руку</InstallBionicArm.label>
+  <InstallBionicArm.description>Встановити біонічну руку.</InstallBionicArm.description>
   <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
 
   <InstallBionicLeg.label>встанолення біонічної ноги</InstallBionicLeg.label>
