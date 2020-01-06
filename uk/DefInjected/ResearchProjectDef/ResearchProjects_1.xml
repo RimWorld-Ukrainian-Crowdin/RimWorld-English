@@ -15,20 +15,20 @@
   <ComplexFurniture.label>complex furniture</ComplexFurniture.label>
   <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>Make passive coolers, to cool indoor spaces without using electricity.</PassiveCooler.description>
+  <PassiveCooler.label>пасивний охолоджувач</PassiveCooler.label>
+  <PassiveCooler.description>Пасивні охолоджувачі застосовують для охолодження приміщень без використання електроенергії.</PassiveCooler.description>
 
-  <Stonecutting.label>stonecutting</Stonecutting.label>
-  <Stonecutting.description>Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways.</Stonecutting.description>
+  <Stonecutting.label>різка каменю</Stonecutting.label>
+  <Stonecutting.description>Різка кам'яних брил на кам'яні блоки для використання в будівництві. Будуйте красиву кам'яну плитку або потворні бетонні доріжки.</Stonecutting.description>
 
-  <ComplexClothing.label>complex clothing</ComplexClothing.label>
+  <ComplexClothing.label>складний одяг</ComplexClothing.label>
   <ComplexClothing.description>Tailor complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
 
 
   <!-- Column 2 -->
 
   <DrugProduction.label>хімічне виробництво</DrugProduction.label>
-  <DrugProduction.description>Build a drug lab for basic drug synthesis. Further research is required to make specific drugs.</DrugProduction.description>
+  <DrugProduction.description>Побудуйте хімічну лабораторію для синтезу основних хімічних речовин. Необхідні подальші дослідження для створення спеціалізованих речовин.</DrugProduction.description>
 
   <Cocoa.label>какао</Cocoa.label>
   <Cocoa.description>Садіть какао дерева, щоб створити свій власний смачний шоколад. Вживання шоколаду задовольняє потребу людини у відпочинку, а також він цінний на ринку.</Cocoa.description>
@@ -70,7 +70,7 @@
   <!-- Medieval weapons -->
 
   <LongBlades.label>довгі клинки</LongBlades.label>
-  <LongBlades.description>Craft longswords and spears.</LongBlades.description>
+  <LongBlades.description>Створення мечей і списів.</LongBlades.description>
 
   <PlateArmor.label>пластинчастий обладунок</PlateArmor.label>
   <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
