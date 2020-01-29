@@ -14,7 +14,7 @@
   <!-- Damage multipliers should be stats on stuffs only -->
 
   <MeleeWeapon_CooldownMultiplier.label>інтервал між ударами</MeleeWeapon_CooldownMultiplier.label>
-  <MeleeWeapon_CooldownMultiplier.description>A multiplier on attack delay for weapons made of this material.</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.description>Множник на затримку атаки для зброї зробленої з цього матеріалу.</MeleeWeapon_CooldownMultiplier.description>
 
   <SharpDamageMultiplier.label>гострі ушкодження</SharpDamageMultiplier.label>
   <SharpDamageMultiplier.description>A multiplier on damage from sharp-type attacks for weapons made of this material.</SharpDamageMultiplier.description>
