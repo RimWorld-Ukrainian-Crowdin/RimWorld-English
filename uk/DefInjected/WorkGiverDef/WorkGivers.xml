@@ -10,7 +10,7 @@
 
   <!-- Patient -->
 
-  <PatientGoToBedEmergencyTreatment.label>go to bed for emergency treatment</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.label>екстренна госпіталізація</PatientGoToBedEmergencyTreatment.label>
   <PatientGoToBedEmergencyTreatment.verb>receive treatment in</PatientGoToBedEmergencyTreatment.verb>
   <PatientGoToBedEmergencyTreatment.gerund>receiving treatment in</PatientGoToBedEmergencyTreatment.gerund>
 
@@ -49,9 +49,9 @@
   <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
   <DoctorTendToAnimals.gerund>tending to</DoctorTendToAnimals.gerund>
 
-  <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.verb>feed</DoctorFeedAnimals.verb>
-  <DoctorFeedAnimals.gerund>feeding</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.label>годівля тварин</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>годувати</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>годівля</DoctorFeedAnimals.gerund>
 
   <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>operate on</DoBillsMedicalAnimalOperation.verb>
@@ -110,7 +110,7 @@
   <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
   <DeliverFoodToPrisoner.gerund>delivering food for</DeliverFoodToPrisoner.gerund>
 
-  <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>чат з ув’язненими</ChatWithPrisoner.label>
   <ChatWithPrisoner.verb>chat with</ChatWithPrisoner.verb>
   <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
 
@@ -138,7 +138,7 @@
   <Tame.gerund>taming</Tame.gerund>
 
   <Train.label>train animals</Train.label>
-  <Train.verb>train</Train.verb>
+  <Train.verb>потяг</Train.verb>
   <Train.gerund>training</Train.gerund>
 
 
