@@ -75,7 +75,7 @@
 	<Inventor42>
 		<title>Винахідник</title>
 		<titleShort>Винахідник</titleShort>
-		<desc>На батьківщині NAME працював помірно успішним винахідником. HECAP розробив кілька незначних технологій.</desc>
+		<desc>На батьківщині {PAWN_nameDef} був посереднім винахідником. {PAWN_pronoun} розробив кілька незначних технологій.</desc>
 	</Inventor42>
 	<Teacher24>
 		<title>Вчитель</title>
