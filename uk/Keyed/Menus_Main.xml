@@ -35,7 +35,7 @@
   <LearnMore>Дізнатися більше</LearnMore>
 
   <!-- Main menu dev build -->
-  <DevBuildWarning>Попередження: Це нестабільна будівля. Це означає, що ми запускаємо експериментальний дизайн і робимо технічну розробку.\n\nДеякі речі тимчасово незбалансовані за призначенням. Це класичний метод проєктування гри, де ми свідомо йдемо занадто далеко зі зміною балансу, щоб краще зрозуміти межі балансу. Потім ми можемо використовувати цю інформацію, щоб визначитися з остаточною точкою балансу.\n\n Також будуть помилки, в тому числі ігрові вильоти. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
+  <DevBuildWarning>Попередження: Це нестабільна будівля. Це означає, що ми запускаємо експериментальний дизайн і робимо технічну розробку.\n\nДеякі речі тимчасово незбалансовані за призначенням. Це класичний метод проєктування гри, де ми свідомо йдемо занадто далеко зі зміною балансу, щоб краще зрозуміти межі балансу. Потім ми можемо використовувати цю інформацію, щоб визначитися з остаточною точкою балансу.\n\n Також будуть помилки, в тому числі ігрові вильоти. Сумісність завантажень може зламатися в будь-який час.\n\nЯкщо ти погоджуєшся з цим, Спасибі за тестування! Якщо ви не хочете бути об'єктом для наших експериментів, будь ласка, грайте в останню стабільну версію.</DevBuildWarning>
 
   <!-- Create/review world -->
   <ReviewWorld>Переглянути світ</ReviewWorld>
@@ -162,7 +162,7 @@
   <AverageDiseaseFrequency>Середня частота захворювань</AverageDiseaseFrequency>
   <PerYear>за рік</PerYear>
   <Forageability>Наявність харчів</Forageability>
-  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Ніхто з обраних людей не може виконувати наступні завдання:\n\n{0}\n\nЦе може зробити гру складнішою ніж зазвичай. Ви впевнені, що хочете продовжити?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <CreateCharacters>Створення персонажів</CreateCharacters>
