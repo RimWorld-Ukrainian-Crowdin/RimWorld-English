@@ -44,7 +44,7 @@
   <LoadingWorld>Завантаження світу</LoadingWorld>
   <LoadingMap>Завантаження колонії</LoadingMap>
   <InitializingGame>Ініціалізація гри</InitializingGame>
-  <SpawningAllThings>Spawning things</SpawningAllThings>
+  <SpawningAllThings>Розкладання речей</SpawningAllThings>
   <SpawningColonists>Розташовуємо колоністів</SpawningColonists>
 
   <!-- Save/load -->
@@ -57,7 +57,7 @@
   <NeedAName>Введіть ім'я.</NeedAName>
   <LoadingLongEvent>Завантаження</LoadingLongEvent>
   <SavingLongEvent>Збереження</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>(Незворотна смерть)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
@@ -421,25 +421,25 @@
   <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <FoodRestriction>Food restriction</FoodRestriction>
-  <FoodRestrictionLavish>Lavish</FoodRestrictionLavish>
-  <FoodRestrictionFine>Fine</FoodRestrictionFine>
-  <FoodRestrictionSimple>Simple</FoodRestrictionSimple>
-  <FoodRestrictionPaste>Paste</FoodRestrictionPaste>
-  <FoodRestrictionRaw>Raw</FoodRestrictionRaw>
-  <FoodRestrictionNothing>Nothing</FoodRestrictionNothing>
-  <SelectFoodRestriction>Select food restriction</SelectFoodRestriction>
-  <NewFoodRestriction>New food restriction</NewFoodRestriction>
-  <DeleteFoodRestriction>Delete food restriction</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>No food restriction selected</NoFoodRestrictionSelected>
+  <FoodRestriction>Обмеження в їжі</FoodRestriction>
+  <FoodRestrictionLavish>Пишне</FoodRestrictionLavish>
+  <FoodRestrictionFine>Добре</FoodRestrictionFine>
+  <FoodRestrictionSimple>Просте</FoodRestrictionSimple>
+  <FoodRestrictionPaste>Часткове</FoodRestrictionPaste>
+  <FoodRestrictionRaw>Сира</FoodRestrictionRaw>
+  <FoodRestrictionNothing>Нічого</FoodRestrictionNothing>
+  <SelectFoodRestriction>Вибрати обмеження в їжі</SelectFoodRestriction>
+  <NewFoodRestriction>Нове обмеження в їжі</NewFoodRestriction>
+  <DeleteFoodRestriction>Видалити обмеження в їжі</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>Немає обраних обмежень в їжі</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
+  <MedGroupColonist>Колоніст</MedGroupColonist>
   <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
+  <MedGroupColonyAnimal>Колоніальна тварина</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Нейтральна тварина</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Нейтральна фракція</MedGroupNeutralFaction>
   <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
 
   <!-- Growing -->
