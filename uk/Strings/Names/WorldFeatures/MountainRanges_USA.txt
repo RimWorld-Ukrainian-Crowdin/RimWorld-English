@@ -4,13 +4,13 @@
 Гори Алехені
 Хребет Амаргоса
 Гори Аппалачі
-Arbuckle Mountains
-Baird Mountains
-Bear River Mountains
-Beartooth Mountains
-Beaverhead Mountains
-Bendeleben Mountains
-Bighorn Mountains
+Гори Арбакл
+Гори Берд
+Гори Беар-Рівер
+Гори Беартот
+Гори Біверхед
+Гори Бендлебен
+Гори Бігхорн
 Bitterroot Range
 Black Hills
 Blue Mountains
@@ -67,14 +67,14 @@ Kettle River Range
 Kigluaik Mountains
 La Sal Mountains
 Laguna Mountains
-Lake Range
-Laramie Mountains
-Lemhi Range
-Lewis Range
-Livingston Range
-Madison Range
-Manzano Mountains
-Misquah Hills
+Хребет Лейк
+Гори Ларамі
+Хребет Лемхі
+Хребет Левіс
+Хребет Лівінгстон
+Хребет Медісон
+Гори Манзано
+Пагорби Міску
 Monashee Mountains
 Mosquito Range
 Ocooch Mountains
