@@ -35,7 +35,7 @@
   <LearnMore>Дізнатися більше</LearnMore>
 
   <!-- Main menu dev build -->
-  <DevBuildWarning>Попередження: Це нестабільна будівля. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
+  <DevBuildWarning>Попередження: Це нестабільна будівля. Це означає, що ми запускаємо експериментальний дизайн і робимо технічну розробку.\n\nДеякі речі тимчасово незбалансовані за призначенням. Це класичний метод проєктування гри, де ми свідомо йдемо занадто далеко зі зміною балансу, щоб краще зрозуміти межі балансу. Потім ми можемо використовувати цю інформацію, щоб визначитися з остаточною точкою балансу.\n\n Також будуть помилки, в тому числі ігрові вильоти. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
 
   <!-- Create/review world -->
   <ReviewWorld>Переглянути світ</ReviewWorld>
