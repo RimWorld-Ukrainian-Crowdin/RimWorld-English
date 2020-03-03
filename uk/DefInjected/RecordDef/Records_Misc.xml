@@ -19,12 +19,12 @@
   <PawnsDowned.description>Кількість істот, яких я повалив.</PawnsDowned.description>
 
   <PawnsDownedHumanlikes.label>ворогів збито (гуманоїди)</PawnsDownedHumanlikes.label>
-  <PawnsDownedHumanlikes.description>The number of humanlike creatures I have downed.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.description>Кількість гуманоїдів, котрих я повалив.</PawnsDownedHumanlikes.description>
 
   <PawnsDownedAnimals.label>ворогів збито (тварини)</PawnsDownedAnimals.label>
-  <PawnsDownedAnimals.description>The number of animals I have downed, whether hunting or in combat.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.description>Кількість тварин, котрих я повалив під час полювання чи в бою.</PawnsDownedAnimals.description>
 
-  <PawnsDownedMechanoids.label>ворогів збито (механоїди)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.label>ворогів повалено (механоїди)</PawnsDownedMechanoids.label>
   <PawnsDownedMechanoids.description>Кількість механоїдів, яких я повалив.</PawnsDownedMechanoids.description>
 
   <ShotsFired.label>постріли</ShotsFired.label>
@@ -60,10 +60,10 @@
   <OperationsPerformed.label>операцій проведено</OperationsPerformed.label>
   <OperationsPerformed.description>Скільки раз я проводив операції.</OperationsPerformed.description>
 
-  <TimesTendedTo.label>tends received</TimesTendedTo.label>
+  <TimesTendedTo.label>догляду отримано</TimesTendedTo.label>
   <TimesTendedTo.description>How many times I have had my medical conditions tended.</TimesTendedTo.description>
 
-  <TimesTendedOther.label>tends given</TimesTendedOther.label>
+  <TimesTendedOther.label>догляду надано</TimesTendedOther.label>
   <TimesTendedOther.description>How many times I have tended to others' medical conditions.</TimesTendedOther.description>
 
   <PeopleCaptured.label>людей захоплено</PeopleCaptured.label>
