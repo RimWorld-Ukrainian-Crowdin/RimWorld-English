@@ -59,11 +59,11 @@
   <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.3>
   <Insult.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef]'s [PersonFamily]</Insult.logRulesInitiator.rulesStrings.4>
   <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->образив (-ла)</Insult.logRulesInitiator.rulesStrings.5>
-  <Insult.logRulesInitiator.rulesStrings.6>insulted->openly insulted</Insult.logRulesInitiator.rulesStrings.6>
-  <Insult.logRulesInitiator.rulesStrings.7>insulted->loudly insulted</Insult.logRulesInitiator.rulesStrings.7>
+  <Insult.logRulesInitiator.rulesStrings.6>відкрито образив</Insult.logRulesInitiator.rulesStrings.6>
+  <Insult.logRulesInitiator.rulesStrings.7>голосно образив</Insult.logRulesInitiator.rulesStrings.7>
   <Insult.logRulesInitiator.rulesStrings.8>insulted->flagrantly insulted</Insult.logRulesInitiator.rulesStrings.8>
   <Insult.logRulesInitiator.rulesStrings.9>insulted->directly insulted</Insult.logRulesInitiator.rulesStrings.9>
-  <Insult.logRulesInitiator.rulesStrings.10>insulted->viciously insulted</Insult.logRulesInitiator.rulesStrings.10>
+  <Insult.logRulesInitiator.rulesStrings.10>злісно образив</Insult.logRulesInitiator.rulesStrings.10>
   <Insult.logRulesInitiator.rulesStrings.11>insulted->flagrantly disrespected</Insult.logRulesInitiator.rulesStrings.11>
   <Insult.logRulesInitiator.rulesStrings.12>insulted->slandered</Insult.logRulesInitiator.rulesStrings.12>
   <Insult.logRulesInitiator.rulesStrings.13>insulted->hurled invective about</Insult.logRulesInitiator.rulesStrings.13>
