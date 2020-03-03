@@ -4,7 +4,7 @@
   <MeleeWeapon_Mace.label>булава</MeleeWeapon_Mace.label>
   <MeleeWeapon_Mace.description>Вишукана булава, створена для ефективного розмаху та смертоносного наслідку.</MeleeWeapon_Mace.description>
   <MeleeWeapon_Mace.tools.0.label>handle</MeleeWeapon_Mace.tools.0.label>
-  <MeleeWeapon_Mace.tools.1.label>head</MeleeWeapon_Mace.tools.1.label>
+  <MeleeWeapon_Mace.tools.1.label>навершя</MeleeWeapon_Mace.tools.1.label>
 
   <MeleeWeapon_Gladius.label>гладіус</MeleeWeapon_Gladius.label>
   <MeleeWeapon_Gladius.description>Короткий меч давнього дизайну. Хороший для ударів або порізів. Він легкий і спритний, що іноді дозволяє бити сильніше ніж важкою зброєю.</MeleeWeapon_Gladius.description>
