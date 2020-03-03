@@ -16,7 +16,7 @@
   <KillsMechanoids.description>Кількість механоїдів, яких я вбив.</KillsMechanoids.description>
 
   <PawnsDowned.label>ворогів збито</PawnsDowned.label>
-  <PawnsDowned.description>The number of creatures I have downed.</PawnsDowned.description>
+  <PawnsDowned.description>Кількість істот, яких я повалив.</PawnsDowned.description>
 
   <PawnsDownedHumanlikes.label>ворогів збито (гуманоїди)</PawnsDownedHumanlikes.label>
   <PawnsDownedHumanlikes.description>The number of humanlike creatures I have downed.</PawnsDownedHumanlikes.description>
@@ -25,7 +25,7 @@
   <PawnsDownedAnimals.description>The number of animals I have downed, whether hunting or in combat.</PawnsDownedAnimals.description>
 
   <PawnsDownedMechanoids.label>ворогів збито (механоїди)</PawnsDownedMechanoids.label>
-  <PawnsDownedMechanoids.description>The number of mechanoids I have downed.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.description>Кількість механоїдів, яких я повалив.</PawnsDownedMechanoids.description>
 
   <ShotsFired.label>постріли</ShotsFired.label>
   <ShotsFired.description>Кількість пострілів, які я зробив.</ShotsFired.description>
