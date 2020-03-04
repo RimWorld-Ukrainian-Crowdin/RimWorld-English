@@ -780,17 +780,17 @@ HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tes
 	<FighterController64>
 		<title>Оператор винищувача</title>
 		<titleShort>Оператор</titleShort>
-		<desc>Під час кризи Зарта, Bashkire воював у багатьох світах як оператор винищувача, забезпечуючи життєво важливий зв'язок між землею та повітрям. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</desc>
+		<desc>Під час кризи Зарта, Bashkire воював у багатьох світах як оператор винищувача, забезпечуючи життєво важливий зв'язок між землею та повітрям. Під час кампаній, {Pawn_pronoun} бачив, як отримують поранення та гинуть друзі. Ця психічна травма донині переслідує його у снах, але його влучність залишаєеться точною.</desc>
 	</FighterController64>
 	<ReclusiveProdigy98>
 		<title>Замкнутий вундеркід</title>
 		<titleShort>Вундеркінд</titleShort>
-		<desc>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
+		<desc>Зростання на квітучій утопічній планеті дало Holli можливість повністю присвятити себе навчанню.
 
-Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.</desc>
+З юного віку, відверто захопившисть генетичними модифікаціями та нервовими аугментаціями, у неї було мало часу (або бажання) на звичайне дитинство.</desc>
 	</ReclusiveProdigy98>
 	<FerventResearcher44>
-		<title>Fervent researcher</title>
+		<title>Завзятий дослідник</title>
 		<titleShort>Дослідник</titleShort>
 		<desc>As a young adult, Holly was sure that her planet and its people were nearing their time of transcendence.
 
