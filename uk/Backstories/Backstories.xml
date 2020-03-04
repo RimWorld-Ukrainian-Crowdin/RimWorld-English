@@ -778,8 +778,8 @@ HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tes
 		<desc>З юних років, {Pawn_nameDef} вчився бути лідером. Хлопчиком, {Pawn_pronoun} вступив у Військовий Коледж Вану і здобув широкий досвід користування зброєю та методик виживання.</desc>
 	</OfficerCadet81>
 	<FighterController64>
-		<title>Fighter controller</title>
-		<titleShort>Controller</titleShort>
+		<title>Оператор винищувача</title>
+		<titleShort>Оператор</titleShort>
 		<desc>During the Zartha crisis, Bashkire fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</desc>
 	</FighterController64>
 	<ReclusiveProdigy98>
