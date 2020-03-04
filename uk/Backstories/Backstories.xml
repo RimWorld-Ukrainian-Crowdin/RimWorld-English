@@ -748,12 +748,12 @@
 		<desc>{PAWN_nameDef} зумів відкрити сховище потойбічних технологій під час обшуку розкопок. {PAWN_pronoun} мимоволі активував пристрій судного дня, що стерло усе живе з планети. Більш зацікавленний у техніці, ніж у людському житті, {PAWN_pronoun} сів на борт космічного корабля у сховищі і відчалив, щоб знайти більше реліквій для зловживань.</desc>
 	</DoomsdayPariah26>
 	<MechanoidNerd80>
-		<title>Механоїдний ботанік</title>
-		<titleShort>Mechanerd</titleShort>
-		<desc>NAME ріс в урбаністичному світі як єдина дитина в сім'ї дизайнерів механоїдів.
-They encouraged HIS interest in the machines. Eventually, HE became obsessed with building HIS own.
+		<title>Механоїдний нерд</title>
+		<titleShort>Меха-Нерд</titleShort>
+		<desc>{PAWN_nameDef} виріс в урбаністичному світі єдиною дитиною в сім'ї дизайнерів механоїдів.
+Вони заохочували його інтерес до машин. Зрештою, він став одержимий ідеєю будівництва власних.
 
-Unfortunately this also lead to HIM being a loner as HE prefered technical books to friends.</desc>
+На жаль, це також привело до того, що він став одинаком, віддаючи перевагу технічнім книгам, а не друзям.</desc>
 	</MechanoidNerd80>
 	<MilitaryEngineer44>
 		<title>Військовий інженер</title>
@@ -775,7 +775,7 @@ HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tes
 	<OfficerCadet81>
 		<title>Офіцер-кадет</title>
 		<titleShort>Кадет</titleShort>
-		<desc>From a young age, Bashkire trained to be a leader of men. He enrolled in the Vanu Defense College when he was a boy and became proficient with a range of weapons and survival techniques.</desc>
+		<desc>З юних років, {Pawn_nameDef} вчився бути лідером. Хлопчиком, {Pawn_pronoun} вступив у Військовий Коледж Вану і здобув широкий досвід користування зброєю та методик виживання.</desc>
 	</OfficerCadet81>
 	<FighterController64>
 		<title>Fighter controller</title>
