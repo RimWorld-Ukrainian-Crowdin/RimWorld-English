@@ -745,7 +745,7 @@
 	<DoomsdayPariah26>
 		<title>Парія судного дня</title>
 		<titleShort>Парія</titleShort>
-		<desc>{PAWN_nameDef} зумів відкрити сховище потойбічних технологій під час обшуку розкопок. HE unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, HE boarded the vault’s spacecraft and departed to find more relics to abuse.</desc>
+		<desc>{PAWN_nameDef} зумів відкрити сховище потойбічних технологій під час обшуку розкопок. {PAWN_pronoun} мимоволі активував пристрій судного дня, що стерло усе живе з планети. Більш зацікавленний у техніці, ніж у людському житті, {PAWN_pronoun} сів на борт космічного корабля у сховищі і відчалив, щоб знайти більше реліквій для зловживань.</desc>
 	</DoomsdayPariah26>
 	<MechanoidNerd80>
 		<title>Механоїдний ботанік</title>
