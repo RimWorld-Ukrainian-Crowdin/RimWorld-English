@@ -740,12 +740,12 @@
 	<IndworldUrchin11>
 		<title>Безпритульник з промислової планети</title>
 		<titleShort>Безпритульник</titleShort>
-		<desc>{PAWN_nameDef} виріс на вулицях планети, що перебувала на ранніх етапах промислової революції. HECAP passed HIS days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty.</desc>
+		<desc>NAME виріс на вулицях планети, що перебувала на ранніх етапах промислової революції. {PAWN_pronoun} проживав свої дні у крадіжках, жебракуванні та ремонті викинутого машинного утилю, завжди у пошуках уникнути бідності.</desc>
 	</IndworldUrchin11>
 	<DoomsdayPariah26>
-		<title>Знедолений свідок апокаліпсису</title>
-		<titleShort>Знедолений</titleShort>
-		<desc>NAME managed to open a vault of otherworldly technology while scavenging a dig site. HE unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, HE boarded the vault’s spacecraft and departed to find more relics to abuse.</desc>
+		<title>Парія судного дня</title>
+		<titleShort>Парія</titleShort>
+		<desc>{PAWN_nameDef} зумів відкрити сховище потойбічних технологій під час обшуку розкопок. HE unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, HE boarded the vault’s spacecraft and departed to find more relics to abuse.</desc>
 	</DoomsdayPariah26>
 	<MechanoidNerd80>
 		<title>Механоїдний ботанік</title>
