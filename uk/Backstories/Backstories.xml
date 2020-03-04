@@ -738,9 +738,9 @@
 		<desc>{PAWN_nameDef} нарешті зумів втекти від кримінального життя, отримавши роботу з обслуговування на прилеглій космічній станції. Він багаторазово виконував ремонтні та будівельні роботи. Він також брав участь в основних науково-дослідних заходах і часто оскаржував аргументи колег. Він ніколи не любив займатись мистецтвом.</desc>
 	</SpaceTechnician89>
 	<IndworldUrchin11>
-		<title>Indworld urchin</title>
-		<titleShort>Urchin</titleShort>
-		<desc>NAME grew up on the streets of a world in the early stages of its industrial revolution. HECAP passed HIS days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty.</desc>
+		<title>Безпритульник з промислової планети</title>
+		<titleShort>Безпритульник</titleShort>
+		<desc>{PAWN_nameDef} виріс на вулицях планети, що перебувала на ранніх етапах промислової революції. HECAP passed HIS days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty.</desc>
 	</IndworldUrchin11>
 	<DoomsdayPariah26>
 		<title>Знедолений свідок апокаліпсису</title>
