@@ -735,7 +735,7 @@
 	<SpaceTechnician89>
 		<title>Космічний технік</title>
 		<titleShort>Технік</titleShort>
-		<desc>NAME finally managed to flee his criminal life by getting a maintenance job on a nearby space station. Він виконав багато ремонтних і будівельних робіт. He also used to participate in basic research activities and often defused co-workers' arguments. Він ніколи не любив мистецтво.</desc>
+		<desc>{PAWN_nameDef} нарешті зумів втекти від кримінального життя, отримавши роботу з обслуговування на прилеглій космічній станції. Він багаторазово виконував ремонтні та будівельні роботи. He also used to participate in basic research activities and often defused co-workers' arguments. Він ніколи не любив мистецтво.</desc>
 	</SpaceTechnician89>
 	<IndworldUrchin11>
 		<title>Indworld urchin</title>
