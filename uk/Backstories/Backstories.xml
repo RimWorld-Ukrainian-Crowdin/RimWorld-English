@@ -391,7 +391,7 @@
 	</MedievalSlave75>
 	<MedievalLordling62>
 		<title>Середньовічний шляхтич</title>
-		<titleShort>Шляхтич</titleShort>
+		<titleShort>Молодий пан</titleShort>
 		<desc>{PAWN_nameDef} був незначним шляхтичем у старому королівстві в середньовічному світі. {PAWN_pronoun} виріс у камʼяному маєтку, і йому прислуговували, кланяючись, слуги.
 
 Таке життя не вчить ніяким технічним навичкам і прищеплює довічну відразу до ручної праці — але {PAWN_nameDef} рано дізнався про способи соціального маніпулювання.</desc>
@@ -2014,27 +2014,27 @@ With his wife Morgan, NAME undertook a journey into the unknown.</desc>
 HECAP got used to repairing toys brought to HIM by other children, and even fixed a few devices from HIS elders.</desc>
 	</AspiringEngineer42>
 	<ExpertHandyman95>
-		<title>Expert handyman</title>
-		<titleShort>Handyman</titleShort>
+		<title>Різноробочий-експерт</title>
+		<titleShort>Різноробочий</titleShort>
 		<desc>NAME worked as a traveling engineer. HECAP fixed things ranging from a simple communications array to the intricate software harness in his ship's AI meta-core. Nothing is beyond repair for HIM.</desc>
 	</ExpertHandyman95>
 	<MedicalStudent18>
-		<title>Medical student</title>
-		<titleShort>Student</titleShort>
+		<title>Студент-медик</title>
+		<titleShort>Студент</titleShort>
 		<desc>NAME grew up on a glitterworld in a family of doctors and chose to maintain the tradition.
 
 HECAP had few friends, but got along with HIS siblings very well.</desc>
 	</MedicalStudent18>
 	<MedicSoldier37>
-		<title>Medic soldier </title>
-		<titleShort>Medic</titleShort>
+		<title>Солдат-медик </title>
+		<titleShort>Медик</titleShort>
 		<desc>NAME enrolled in his planetary army as a frontline medic. He soon knew the horrors of war and was deeply marked by them.
 
 HECAP left the military and his homeworld and began researching medicine and helping those he came across.</desc>
 	</MedicSoldier37>
 	<HighBaroness49>
-		<title>High baroness</title>
-		<titleShort>Noble</titleShort>
+		<title>Баронесса</title>
+		<titleShort>Дворянин</titleShort>
 		<desc>NAME was born as low-ranking royalty in a large imperial family.
 
 She was placed In charge of running her home planet from an early age, and learned important political and cultural skills in that role.</desc>
