@@ -3609,21 +3609,21 @@ HECAP was expected to become one of the best doctors in the world.</desc>
 After a pursuit, HE managed to escape HIS planet and travel to a new world.</desc>
 	</BloodyDentist33>
 	<CowFarmer93>
-		<title>Cow farmer</title>
+		<title>Корівник</title>
 		<titleShort>Фермер</titleShort>
 		<desc>NAME grew up on a rim world, under the tyranny of HIS father, who forced HIM to work every day on the farm. HE dreamed of escaping HIS father and exploring the universe.
 
 One day, when the trade ship was overhead, HE stowed away among the goods in the launch pods, and escaped into space.</desc>
 	</CowFarmer93>
 	<MasterChef6>
-		<title>Master chef</title>
-		<titleShort>Chef</titleShort>
+		<title>Шеф-кухар</title>
+		<titleShort>Кухар</titleShort>
 		<desc>On a glitterworld, NAME found a job washing dishes at a famous restaurant and worked HIS way up the ranks.
 
 A few years later, HIS career came to an end when someone poisoned the meal HE was preparing for the mayor. Jobless, HE and left to explore the stars once again.</desc>
 	</MasterChef6>
 	<DiscardedYouth95>
-		<title>Discarded youth</title>
+		<title>Покинута молодь</title>
 		<titleShort>Discarded</titleShort>
 		<desc>NAME grew up isolated on a trash planet. A dumping ground for surrounding glitterworlds, it was a harsh home. As a baby, HE sucked on the tap of a discarded nutrient paste dispenser for comfort.
 
@@ -3637,7 +3637,7 @@ In these desperate circumstances, against all odds, HE survived - and thrived.</
 One day, they were caught in a fight they couldn't win. Refusing to retreat, NAME was shot down by his enemies. HECAP was alarmed to awake in a heap of corpses, mysteriously unharmed.</desc>
 	</Mercenary19>
 	<DisasterSurvivor28>
-		<title>Disaster survivor</title>
+		<title>Переживший катастрофу</title>
 		<titleShort>Уцілілий</titleShort>
 		<desc>NAME's planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. HECAP was left in the ruins to fend for himself.</desc>
 	</DisasterSurvivor28>
@@ -3684,7 +3684,7 @@ Unfortunately, NAME only very rarely had contact with nature.</desc>
 HISCAP creators used HIM as a teaching aid on mind design, hoping HE would eventually grow to be a great mind and continue their research.</desc>
 	</VatgrownScientist41>
 	<RunawayDancer10>
-		<title>Runaway dancer</title>
+		<title>Танцюрист-втікач</title>
 		<titleShort>Танцюрист</titleShort>
 		<desc>Grown by and for science, NAME gave it up. Instead, HECAP wanted to dance for crowds across many worlds, from the glamor of the glitterworlds to the dangers of the rim.
 
@@ -3698,7 +3698,7 @@ Such work required wearing a smile on HIS face and a pistol under HIS costume.</
 When HIS mother died, NAME could not bear HIS father's loneliness, and became his sexual companion.</desc>
 	</MusicIdol79>
 	<ProstituteIdol99>
-		<title>Prostitute idol</title>
+		<title>Ідол повій</title>
 		<titleShort>Повія</titleShort>
 		<desc>After HIS father was deposed, NAME's beauty led HIM to be forced into pornography to survive.
 
@@ -3719,8 +3719,8 @@ Using his quick wit and silver tongue, Lynn was able to get out of almost any si
 His childhood cough never went away.</desc>
 	</SicklyLawyer36>
 	<IceworldSurvivor81>
-		<title>Iceworld survivor</title>
-		<titleShort>Iceborn</titleShort>
+		<title>Уцілівший з крижаного краю</title>
+		<titleShort>Кригородженний</titleShort>
 		<desc>NAME was born on an iceworld. Survival depended on staying together and building with nothing.
 
 HECAP got used to the cold. HECAP never got used to dealing with those strange green things called plants.</desc>
@@ -3861,14 +3861,14 @@ They sought a mythical substance they believed could liberate them from ignoranc
 HECAP claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future.</desc>
 	</Philosopher62>
 	<ArtisticWeirdo41>
-		<title>Artistic weirdo</title>
+		<title>Креативний дивак</title>
 		<titleShort>Дивак</titleShort>
 		<desc>NAME grew up in a house near a bustling midworld metropolis.
 
 HECAP was talented at art and creative work, but often acted strangely, and thus had few friends.</desc>
 	</ArtisticWeirdo41>
 	<AdventurousWeirdo48>
-		<title>Adventurous weirdo</title>
+		<title>Дивак-авантюрист</title>
 		<titleShort>Дивак</titleShort>
 		<desc>A creative but strange individual, NAME dedicated his life to his twin passions of medieval world history and high technology.
 
@@ -3910,22 +3910,22 @@ HECAP was trained in advanced combat and survival skills. While HE excelled in H
 NAME did try to use a gun one time, but it went very poorly, as the loud noise made HIM flinch uncontrollably.</desc>
 	</Empath28>
 	<FearfulChef79>
-		<title>Fearful chef</title>
-		<titleShort>Шеф-кухар</titleShort>
+		<title>Наляканий кухар</title>
+		<titleShort>Кухар</titleShort>
 		<desc>NAME was a excellent chef who worked in a high-end restaurant.
 
 One day, HE left the stove on, and accidentally burned down the whole building. This event shook HIM so much that HE swore to never touch a stove again.</desc>
 	</FearfulChef79>
 	<PetKeeper10>
-		<title>Pet keeper</title>
-		<titleShort>Pet keeper</titleShort>
+		<title>Власник домашніх тварин</title>
+		<titleShort>Твариновод</titleShort>
 		<desc>NAME spent most of HIS childhood tending the animals HE had bought or rescued.
 
 HECAP saw beauty in natural things more than fabricated objects, and chose the company of HIS animals over that of HIS peers.</desc>
 	</PetKeeper10>
 	<Herpetologist38>
-		<title>Herpetologist</title>
-		<titleShort>Herper</titleShort>
+		<title>Герпетолог</title>
+		<titleShort>Герпетолог</titleShort>
 		<desc>After a terrible mining accident, NAME set off into space in search of exotic new animal species.
 
 HECAP hoped to leave HIS past behind and find long-lived companions. HECAP knew the pain of loss too well.</desc>
@@ -3974,14 +3974,14 @@ HECAP набрав понад мільйон підписників.</desc>
 З часом він став дуже кваліфікованим у проведенні демонстрацій продукту та переговорів про вигідні угоди.</desc>
 	</GunDealer81>
 	<AspiringPhysicist7>
-		<title>Початківець фізик</title>
+		<title>Перспективний фізик</title>
 		<titleShort>Студент</titleShort>
 		<desc>Будучи дочкою енжинера і лікаря, раннє життя NAME було інтелектуально насичене. Після візиту до фізичної лабораторії, вона вирішила, що буде квантовим фізиком.
 
 Bitten by a camel, kicked off a horse, and chased by dogs, NAME developed a fear of animals.</desc>
 	</AspiringPhysicist7>
 	<DeepSpaceSurveor17>
-		<title>Космічний шахтар</title>
+		<title>Геодезист глибокого космосу</title>
 		<titleShort>Геодезист</titleShort>
 		<desc>Name була космічним геодезистом. Вона досліджувала планети, які були найбільш придатними для колонізації.
 
