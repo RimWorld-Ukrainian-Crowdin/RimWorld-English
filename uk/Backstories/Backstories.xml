@@ -1140,9 +1140,9 @@ HECAP defended their ships against pirates and engaged in private space warfare 
 		<desc>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.</desc>
 	</VatgrownAssassin17>
 	<Mercenary40>
-		<title>Mercenary</title>
-		<titleShort>Merc</titleShort>
-		<desc>Vas spent his teenage years as a mercenary, being hired to kill and maim others. He was tall, menacing, and frightening. He could instill fear into the hearts of any man who crossed him, and kill anyone he wanted.</desc>
+		<title>Найманець</title>
+		<titleShort>Наймит</titleShort>
+		<desc>Вас провів підліткові роки найманцем, найнятим вбивати та калічити іншим. {PAWN_pronoun} був рослим, грізним та моторошним. {PAWN_pronoun} міг вселити жах у сердце будь-якої людини, що була на його шляху, і вбити кого заманеться.</desc>
 	</Mercenary40>
 	<HiveWorldChild62>
 		<title>Hive world child</title>
