@@ -1893,51 +1893,51 @@ Knowing that showing weakness could be fatal, he closed himself of to others.</d
 He relied less on his fists and more on his guns. His reputation spread faster due to his cold-bloodedness and ruthless methods.</desc>
 	</CrimeLord40>
 	<BoySoldier18>
-		<title>Boy soldier</title>
-		<titleShort>Soldier</titleShort>
+		<title>Дитина-солдат</title>
+		<titleShort>Солдат</titleShort>
 		<desc>War may never change - but the cast of characters does.
 
 Born on a violent urbworld, NAME was trained from a young age to fight the wars of others, and became rather good at it.</desc>
 	</BoySoldier18>
 	<MarbleDoctor3>
-		<title>Marble doctor</title>
-		<titleShort>Doctor</titleShort>
+		<title>Холоднокровний лікар</title>
+		<titleShort>Лікар</titleShort>
 		<desc>On a bomb-blasted world, first aid is often the only aid.
 
 NAME used his medical skills to help the injured and the sick. HECAP believed that while guns and machines may be powerful, a doctor is even more so.</desc>
 	</MarbleDoctor3>
 	<ApocalypseChild97>
-		<title>Apocalypse child </title>
-		<titleShort>Apocalypse</titleShort>
+		<title>Дитя апокаліпсису </title>
+		<titleShort>Апокаліпсис</titleShort>
 		<desc>NAME spent his childhood on a post-apocalyptic world. He fought for survival from a young age, on a planet where trust did not exist.
 
 He told everyone that he had no luck.</desc>
 	</ApocalypseChild97>
 	<MobHenchman44>
-		<title>Mob henchman</title>
-		<titleShort>Henchman</titleShort>
+		<title>Кримінальний прихвостень</title>
+		<titleShort>Прихвостень</titleShort>
 		<desc>After being "saved" from his home world by a slaver ship, NAME was sold to an urbworld crime lord, where he was used as a henchman. He specialized in low-tech beat-downs and intimidation.</desc>
 	</MobHenchman44>
 	<OrphanOfWar96>
-		<title>Orphan of war</title>
-		<titleShort>Orphan</titleShort>
+		<title>Сирота війни</title>
+		<titleShort>Сирота</titleShort>
 		<desc>NAME lost his family and home early in life. His life became emotionally hollow, but his painful memories drove him to survive.
 
 HECAP took several jobs, but never achieved more than a basic education.</desc>
 	</OrphanOfWar96>
 	<MechWarVeteran90>
-		<title>Mech war veteran</title>
-		<titleShort>Veteran</titleShort>
+		<title>Ветеран Меха-війни</title>
+		<titleShort>Ветеран</titleShort>
 		<desc>NAME fought against swarms of rogue mechanoids since he was old enough to enlist. HECAP has bled on half a dozen worlds and has lost more than he cares to recall. These experiences left him hardened, both mentally and physically.</desc>
 	</MechWarVeteran90>
 	<ImperialStudent92>
-		<title>Imperial student</title>
-		<titleShort>Student</titleShort>
+		<title>Імперський студент</title>
+		<titleShort>Студент</titleShort>
 		<desc>NAME studied on an imperial midworld where guns were banned and self-defense study was encouraged. The relative safety allowed HIM to focus on HIS botanical research.</desc>
 	</ImperialStudent92>
 	<PoisonGardener85>
-		<title>Poison gardener</title>
-		<titleShort>Botanist</titleShort>
+		<title>Садівник отрути</title>
+		<titleShort>Ботанік</titleShort>
 		<desc>NAME spent almost all HIS time tending to a poison garden and became withdrawn from society.
 
 In that time HE learnt a few safe culinary and medicinal uses for the otherwise deadly plants.</desc>
@@ -1955,15 +1955,15 @@ In that time HE learnt a few safe culinary and medicinal uses for the otherwise 
 HECAP formed a crew to gather materials for HIS work - and to deal with outsiders who might interfere.</desc>
 	</ArtificerRampant50>
 	<Orphan91>
-		<title>Orphan</title>
-		<titleShort>Orphan</titleShort>
+		<title>Сирота</title>
+		<titleShort>Сирота</titleShort>
 		<desc>Left alone in the world without parents, Kevin did the best he could to adapt.
 
 Having to take care both of himself and younger kids at the orphanage, he learned a lot about humans and how to interact with them.</desc>
 	</Orphan91>
 	<NeuroScientist84>
-		<title>Neuro scientist</title>
-		<titleShort>Scientist</titleShort>
+		<title>Невролог</title>
+		<titleShort>Науковець</titleShort>
 		<desc>Kevin worked for a long time to improve the world's understanding of the human brain.
 
 After succeeding in mapping the whole brain, Kevin joined a team of scientist on a quest to map the brains of xeno species.</desc>
