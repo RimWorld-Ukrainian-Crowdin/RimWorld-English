@@ -1869,7 +1869,7 @@ HISCAP name has been linked more then once to strategies that overcame overwhelm
 		<titleShort>Приблуда</titleShort>
 		<desc>Незважаючи на батьківську любов, {PAWN_nameDef} навряд чи знав своїх батьків.
 
-HECAP was frequently left to his own devices which meant more time devoted to exploring his interests…and getting into trouble.</desc>
+{PAWN_pronoun} часто залишали на самоті зі своїми витівками, що означало більше часу для пошуку власних захоплень... і потрапляння у халепу.</desc>
 	</Straggler99>
 	<Spiceminer98>
 		<title>Spiceminer</title>
@@ -1879,15 +1879,15 @@ HECAP was frequently left to his own devices which meant more time devoted to ex
 Little did he know, Benn was about to embark on a career path that would change his life.</desc>
 	</Spiceminer98>
 	<BrutalThief33>
-		<title>Brutal thief</title>
-		<titleShort>Thief</titleShort>
+		<title>Жорстокий злодій</title>
+		<titleShort>Злодій</titleShort>
 		<desc>Growing up in a gang, NAME learned the brutality of the streets.
 
 Knowing that showing weakness could be fatal, he closed himself of to others.</desc>
 	</BrutalThief33>
 	<CrimeLord40>
-		<title>Crime lord</title>
-		<titleShort>Crime lord</titleShort>
+		<title>Кримінальний авторитет</title>
+		<titleShort>Кримінальний авторитет</titleShort>
 		<desc>Through brutality and cruelty, NAME rose to the rank of crime lord.
 
 He relied less on his fists and more on his guns. His reputation spread faster due to his cold-bloodedness and ruthless methods.</desc>
