@@ -1111,25 +1111,25 @@ He was a quick study at the arts of subterfuge and death. He soon earned the gui
 	<CatHerder45>
 		<title>Котячий пастух</title>
 		<titleShort>Пастух</titleShort>
-		<desc>Name допомагав у вихованні дітьми батька, копання, пасуванні та годуванні сотень котів.
+		<desc>Name допомагав у бізнесі батька з розведення кішок, спілкуючись, вигулюючи та годуючи сотні котів.
 
-Коли він відмовився прибирати після кота, його перенесли в відділ селекційної науки.</desc>
+Коли він відмовився прибирати за кішками, його перевели у відділ селекційної науки.</desc>
 	</CatHerder45>
 	<FelineScientist25>
-		<title>Feline scientist</title>
+		<title>Котячий вчений</title>
 		<titleShort>Вчений</titleShort>
-		<desc>NAME became a renowned scientist in the field of felines. Wanting the best for his animals and specializing in selective breeding, he set out on a journey to find the perfect breeding grounds for his cats.</desc>
+		<desc>{PAWN_nameDef} став відомим вченим у галузі котячих. Бажаючи найкращого для своїх тварин і спеціалізуючись на селекційному розведенні, {PAWN_pronoun} вирушив у подорож, щоб знайти ідеальні місця для розведення своїх котів.</desc>
 	</FelineScientist25>
 	<Scavenger26>
-		<title>Scavenger</title>
-		<titleShort>Scavenger</titleShort>
+		<title>Падальник</title>
+		<titleShort>Падальник</titleShort>
 		<desc>NAME grew up in one of the few remaining cities on a world ravaged by nuclear war.
 
 HECAP learned to survive on HIS own in this post-apocalyptic wasteland by scavenging for technology and supplies.</desc>
 	</Scavenger26>
 	<SpaceMarine90>
-		<title>Space marine</title>
-		<titleShort>Marine</titleShort>
+		<title>Космодесантник</title>
+		<titleShort>Десантник</titleShort>
 		<desc>NAME was recruited into the security forces of an off-planet corporation.
 
 HECAP defended their ships against pirates and engaged in private space warfare contracts.</desc>
@@ -1171,8 +1171,8 @@ NAME barely escaped his homeworld as it fell into chaos.</desc>
 		<desc>NAME flew with a band of brigands HE called friends. HE even had a ship of HIS own - The Dung Mucker 2000.</desc>
 	</Brigand23>
 	<StarforceCadet91>
-		<title>Starforce cadet</title>
-		<titleShort>Cadet</titleShort>
+		<title>Космічний кадет</title>
+		<titleShort>Кадет</titleShort>
 		<desc>Raised on Amen-Ti, glitterworld capital of the Star Empire, Sam Wissa had an easy childhood.
 
 As a youth, Sam decided that joining the Starforce would be his way of giving back to the Empire.</desc>
@@ -1209,8 +1209,8 @@ He was eventually betrayed by his superiors when a target found out about the hi
 		<desc>Staying one step ahead of the law, NAME became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, NAME's good fortune continued while his competition suffered a series of unfortunate and unexplained accidents.</desc>
 	</BusinessGangster83>
 	<DisasterSurvivor58>
-		<title>Disaster survivor</title>
-		<titleShort>Survivor</titleShort>
+		<title>Переживший катастрофу</title>
+		<titleShort>Уцілілий</titleShort>
 		<desc>Steven was uprooted when marauders attacked his family farm, destroying machinery and killing farmhands and beasts alike.
 
 After the death of all he knew, he was left in the ruins to fend for himself.</desc>
