@@ -390,8 +390,8 @@
 		<desc>{PAWN_nameDef} виріс, тягаючи візки та копаючи ями у середньовічному світі. Проста ручна праця є {PAWN_possessive} найдавнішою супутницею — разом з батогом господаря. {PAWN_pronoun} не вмів читати до девʼяти років.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
-		<title>Середньовічний шляхтич</title>
-		<titleShort>Молодий пан</titleShort>
+		<title>Середьновічний молодий лорд</title>
+		<titleShort>Молодий лорд</titleShort>
 		<desc>{PAWN_nameDef} був незначним шляхтичем у старому королівстві в середньовічному світі. {PAWN_pronoun} виріс у камʼяному маєтку, і йому прислуговували, кланяючись, слуги.
 
 Таке життя не вчить ніяким технічним навичкам і прищеплює довічну відразу до ручної праці — але {PAWN_nameDef} рано дізнався про способи соціального маніпулювання.</desc>
@@ -797,53 +797,53 @@ HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tes
 A firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress.</desc>
 	</FerventResearcher44>
 	<WarRefugee81>
-		<title>War refugee</title>
-		<titleShort>Refugee</titleShort>
+		<title>Біженець війни</title>
+		<titleShort>Біженець</titleShort>
 		<desc>A war broke on out NAME's home planet.
 
 Gathering what little food and belongings they could, NAME and his father stole a ship and escaped into space.</desc>
 	</WarRefugee81>
 	<VengefulExplorer48>
-		<title>Vengeful explorer</title>
-		<titleShort>Explorer</titleShort>
+		<title>Мстивий мандрівник</title>
+		<titleShort>Мандрівник</titleShort>
 		<desc>A violent drifter without a home, NAME and his father fought many battles across hundreds of years. HECAP became a grizzled fighter and crack shot.
 
 After his father's death in battle, NAME began exploring the stars alone, seeking his father's killer, on the hunt for revenge.</desc>
 	</VengefulExplorer48>
 	<WorkCampSlave37>
-		<title>Work camp slave</title>
-		<titleShort>Slave</titleShort>
+		<title>Раб трудового табору</title>
+		<titleShort>Раб</titleShort>
 		<desc>NAME grew up as a slave to a particularly nasty noble family on a medieval world. 
 
 While he received no formal education, the harsh labor regimen made his body strong.</desc>
 	</WorkCampSlave37>
 	<BanishedSoldier4>
-		<title>Banished soldier</title>
-		<titleShort>Outlaw</titleShort>
+		<title>Солдат-вигнанець</title>
+		<titleShort>Вигнанець</titleShort>
 		<desc>NAME became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.
 
 Later, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life.</desc>
 	</BanishedSoldier4>
 	<DisciplinedFarmer44>
-		<title>Disciplined farmer</title>
-		<titleShort>Farmer</titleShort>
+		<title>Дисциплінований фермер</title>
+		<titleShort>Фермер</titleShort>
 		<desc>Drew was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. Drew's father was a strict disciplinarian, constantly at his sons to work harder and keep quiet. Drew burnt his hand making breakfast once and swore to cook only when his life was in danger.</desc>
 	</DisciplinedFarmer44>
 	<StalwartFarmer89>
 		<title>Stalwart farmer</title>
-		<titleShort>Farmer</titleShort>
+		<titleShort>Фермер</titleShort>
 		<desc>With the farm under constant threat from brigands, Drew learned to defend himself with his father's hunting rifle. He also mastered how to construct fences to keep livestock in and the local wildlife out. Drew tried to paint a picture of his home and learned he can only draw scribbles and ducks.</desc>
 	</StalwartFarmer89>
 	<VoyagerChild9>
-		<title>Voyager child</title>
-		<titleShort>Voyager</titleShort>
+		<title>Мандрівна дитина</title>
+		<titleShort>Мандрівник</titleShort>
 		<desc>NAME was raised on an R&amp;D starship, and spent most of HIS childhood travelling through the void.
 
 Approaching a mysterious planetoid, the ship was severely damaged. HIS next memory is of the ship heading out of orbit, fully repaired. HE soon developed an unnatural gift for technological research.</desc>
 	</VoyagerChild9>
 	<SpaceResearcher5>
-		<title>Space researcher</title>
-		<titleShort>Researcher</titleShort>
+		<title>Космічний дослідник</title>
+		<titleShort>Дослідник</titleShort>
 		<desc>NAME inherited HIS parents' ship and carried on their research.
 
 HISCAP childhood experiences with diverse cultures allowed HIM to preserve his caring nature despite spending most of HIS life isolated in space.</desc>
