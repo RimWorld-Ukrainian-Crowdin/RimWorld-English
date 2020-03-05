@@ -1161,13 +1161,13 @@ NAME barely escaped his homeworld as it fell into chaos.</desc>
 	<Stableboy75>
 		<title>Конюх</title>
 		<titleShort>Конюх</titleShort>
-		<desc>NAME was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
+		<desc>{PAWN_nameDef} був конюхом на середньовічній планеті, майже щодня прибираючи гній, щоб заробити на життя.
 
-By the time HE was exiting childhood, NAME had saved up enough money to pay a space trader to take HIM offworld.</desc>
+Наприкінці дитинства, {PAWN_nameDef} заощадив достатньо грошей для космічного торговця, щоб той забрав його до інших світів.</desc>
 	</Stableboy75>
 	<Brigand23>
-		<title>Brigand</title>
-		<titleShort>Brigand</titleShort>
+		<title>Розбійник</title>
+		<titleShort>Розбійник</titleShort>
 		<desc>NAME flew with a band of brigands HE called friends. HE even had a ship of HIS own - The Dung Mucker 2000.</desc>
 	</Brigand23>
 	<StarforceCadet91>
@@ -1178,8 +1178,8 @@ By the time HE was exiting childhood, NAME had saved up enough money to pay a sp
 As a youth, Sam decided that joining the Starforce would be his way of giving back to the Empire.</desc>
 	</StarforceCadet91>
 	<AceFighterPilot70>
-		<title>Ace fighter pilot</title>
-		<titleShort>Ace</titleShort>
+		<title>Пілот-Ас винищувача</title>
+		<titleShort>Ас</titleShort>
 		<desc>NAME graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures. 
 
 However, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed.</desc>
@@ -1199,13 +1199,13 @@ He soon became skilled with firearms and knives as well as words.</desc>
 He was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again.</desc>
 	</Assassin16>
 	<Pickpocket6>
-		<title>Pickpocket</title>
-		<titleShort>Pickpocket</titleShort>
+		<title>Кишеньковий злодій</title>
+		<titleShort>Щипач</titleShort>
 		<desc>Orphaned and abandoned on the tumultuous streets of his polluted, teeming homeworld, NAME survived by deft hand and fleet foot. A natural born thief and trickster, HE rose to prominence early, running the notorious and violent urchin gang 'Doomben Rats'.</desc>
 	</Pickpocket6>
 	<BusinessGangster83>
-		<title>Business gangster</title>
-		<titleShort>Gangster</titleShort>
+		<title>Бізнес-гангстер</title>
+		<titleShort>Гангстер</titleShort>
 		<desc>Staying one step ahead of the law, NAME became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, NAME's good fortune continued while his competition suffered a series of unfortunate and unexplained accidents.</desc>
 	</BusinessGangster83>
 	<DisasterSurvivor58>
@@ -1221,8 +1221,8 @@ After the death of all he knew, he was left in the ruins to fend for himself.</d
 		<desc>After scraping by on assorted shady jobs, NAME joined with a large paramilitary group to fight a war on HIS homeworld. HISCAP role was infiltration and intelligence gathering</desc>
 	</ParamilitaryAgent3>
 	<HistoryStudent52>
-		<title>History student</title>
-		<titleShort>Student</titleShort>
+		<title>Студент-історик</title>
+		<titleShort>Студент</titleShort>
 		<desc>As a child, NAME spent learned many artistic forms including music and novel writing. As HE grew older, HE began to study legends from HIS home world - legends of the lizard-like beings at the center of HIS culture's folklore.</desc>
 	</HistoryStudent52>
 	<Storyteller68>
@@ -1240,34 +1240,34 @@ Obsessed with the legends of his people, NAME seeks someone who can help him gro
 HECAP quickly learned secrets that passed between the nobles like cheap wine - of worlds beyond her own, languages, cultures and technologies both new and old.</desc>
 	</NobleWard25>
 	<InformationBroker88>
-		<title>Information broker</title>
-		<titleShort>Broker</titleShort>
+		<title>Інформаційний брокер</title>
+		<titleShort>Брокер</titleShort>
 		<desc>NAME caught a ship to the next star system and began a life of travel and learning, quickly collecting a massive bank of knowledge from people of all shapes and sizes.
 
 HECAP learned to sell this knowledge for great profit, and became a powerful broker of information.</desc>
 	</InformationBroker88>
 	<FeralChild63>
-		<title>Feral child</title>
-		<titleShort>Feral</titleShort>
+		<title>Дике дитя</title>
+		<titleShort>Дикун</titleShort>
 		<desc>Abandoned on an animal planet as a small child with nought but a blanket with a name embroidered on it, Felix made himself one with the wilderness.
 
 When he was 13, he encountered a team of mineral surveyors, who "offered" him passage off of the planet.</desc>
 	</FeralChild63>
 	<VersatileWorker37>
-		<title>Versatile worker</title>
-		<titleShort>Worker</titleShort>
+		<title>Різнороб</title>
+		<titleShort>Робочий</titleShort>
 		<desc>Spending his later teenage years in a colony of settlers, he offered what little skills he had to anyone who would take him.
 
 Being a quick learner, he honed many of his skills and, apart from his crippling inability to understand fire, is now a fully functioning adult.</desc>
 	</VersatileWorker37>
 	<SpoiledChild32>
-		<title>Spoiled child</title>
-		<titleShort>Spoiled</titleShort>
+		<title>Розбещена дитина</title>
+		<titleShort>Розбещений</titleShort>
 		<desc>NAME grew up the child of an industrious colony manager. In this position, most manual and dangerous tasks were forbidden by HIS parents, but on the rim everyone has to dirty their hands.</desc>
 	</SpoiledChild32>
 	<TestSubject1>
-		<title>Test subject</title>
-		<titleShort>Experiment</titleShort>
+		<title>Піддослідний</title>
+		<titleShort>Піддослідний</titleShort>
 		<desc>Kidnapped as a teenager, NAME was an unwilling test subject in experimental gene therapies for six years. Labs and scientists scare HIM.</desc>
 	</TestSubject1>
 	<AmateurEngineer21>
