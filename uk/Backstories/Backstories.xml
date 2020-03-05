@@ -1860,14 +1860,14 @@ HISCAP name has been linked more then once to strategies that overcame overwhelm
 		<desc>ІМ'Я народився на космічній станції та осиротів у ранньому віці. Своє дитинство він провів у сиротинцях, захищаючи слабких дітей від забіяк.</desc>
 	</Orphan62>
 	<BountyHunter14>
-		<title>Авантюрист</title>
+		<title>Мисливець за головами</title>
 		<titleShort>Мисливець</titleShort>
 		<desc>ІМ'Я заробляє собі на життя полюванням за головами. Своє життя він провів відстежуючи космічних піратів та збирая нагороди за їх голови.</desc>
 	</BountyHunter14>
 	<Straggler99>
-		<title>Straggler</title>
-		<titleShort>Straggler</titleShort>
-		<desc>Despite being blessed with parental love, NAME hardly knew his parents.
+		<title>Приблуда</title>
+		<titleShort>Приблуда</titleShort>
+		<desc>Незважаючи на батьківську любов, {PAWN_nameDef} навряд чи знав своїх батьків.
 
 HECAP was frequently left to his own devices which meant more time devoted to exploring his interests…and getting into trouble.</desc>
 	</Straggler99>
