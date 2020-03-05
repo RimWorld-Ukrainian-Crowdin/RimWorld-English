@@ -1216,8 +1216,8 @@ He was eventually betrayed by his superiors when a target found out about the hi
 After the death of all he knew, he was left in the ruins to fend for himself.</desc>
 	</DisasterSurvivor58>
 	<ParamilitaryAgent3>
-		<title>Paramilitary agent</title>
-		<titleShort>Agent</titleShort>
+		<title>Воєнізованний агент</title>
+		<titleShort>Агент</titleShort>
 		<desc>After scraping by on assorted shady jobs, NAME joined with a large paramilitary group to fight a war on HIS homeworld. HISCAP role was infiltration and intelligence gathering</desc>
 	</ParamilitaryAgent3>
 	<HistoryStudent52>
@@ -1226,8 +1226,8 @@ After the death of all he knew, he was left in the ruins to fend for himself.</d
 		<desc>As a child, NAME spent learned many artistic forms including music and novel writing. As HE grew older, HE began to study legends from HIS home world - legends of the lizard-like beings at the center of HIS culture's folklore.</desc>
 	</HistoryStudent52>
 	<Storyteller68>
-		<title>Storyteller</title>
-		<titleShort>Fabulist</titleShort>
+		<title>Оповідач</title>
+		<titleShort>Байкар</titleShort>
 		<desc>NAME traveled his world recounting the legends that he had studied.
 
 Obsessed with the legends of his people, NAME seeks someone who can help him grow scales on his skin, so he too can be as the ancients were.</desc>
@@ -1271,12 +1271,12 @@ Being a quick learner, he honed many of his skills and, apart from his crippling
 		<desc>Kidnapped as a teenager, NAME was an unwilling test subject in experimental gene therapies for six years. Labs and scientists scare HIM.</desc>
 	</TestSubject1>
 	<AmateurEngineer21>
-		<title>Amateur engineer</title>
+		<title>Інженер-аматор</title>
 		<titleShort>Інженер</titleShort>
 		<desc>NAME grew up in a family with a military and engineering background. HECAP wanted to join the army but his father didn't like the idea, so HIS interest turned to great flying machines and works of engineering. HECAP secretly hoped that this would one day lead him to a life of galactic exploration.</desc>
 	</AmateurEngineer21>
 	<AerospaceEngineer58>
-		<title>Aerospace engineer</title>
+		<title>Аерокосмічний інженер</title>
 		<titleShort>Інженер</titleShort>
 		<desc>NAME was an engineer responsible for the production of aircraft and spaceships. HECAP focused on improving production lines, and was known for HIS mastery of technical and research issues.</desc>
 	</AerospaceEngineer58>
