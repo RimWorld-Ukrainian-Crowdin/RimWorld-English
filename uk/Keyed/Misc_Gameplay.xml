@@ -63,12 +63,12 @@
   <NextSpawnedItemIn>Next {0} in</NextSpawnedItemIn>
   <BrokenDown>Broken down</BrokenDown>
   <BondBrackets>(bond)</BondBrackets>
-  <Fuel>Fuel</Fuel>
-  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+  <Fuel>Паливо</Fuel>
+  <FuelLevelGizmoLabel>Паливо</FuelLevelGizmoLabel>
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
   <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
   <ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
-  <Enemies>enemies</Enemies>
+  <Enemies>вороги</Enemies>
   <TimePassed>time passed</TimePassed>
   <CurrentRadius>current radius</CurrentRadius>
   <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
@@ -85,10 +85,10 @@
   <AllCaravanMembersDowned>Stopped because: Everyone is downed.</AllCaravanMembersDowned>
   <AllCaravanMembersMentalBreak>Stopped because: Everyone has a mental break.</AllCaravanMembersMentalBreak>
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
-  <CaravanAnimal>1 animal</CaravanAnimal>
-  <CaravanAnimalsCount>{0} animals</CaravanAnimalsCount>
-  <CaravanPrisoner>1 prisoner</CaravanPrisoner>
-  <CaravanPrisonersCount>{0} prisoners</CaravanPrisonersCount>
+  <CaravanAnimal>1 тварина</CaravanAnimal>
+  <CaravanAnimalsCount>{0} тварин</CaravanAnimalsCount>
+  <CaravanPrisoner>1 в'язень</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} в'язнів</CaravanPrisonersCount>
   <CaravanPawnsInMentalState>{0} in mental state</CaravanPawnsInMentalState>
   <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
   <CaravanTraveling>Traveling.</CaravanTraveling>
@@ -110,7 +110,7 @@
   <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
   <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
   <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
-  <Map>Map</Map>
+  <Map>Мапа</Map>
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
   <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform the caravan and leave this area in {0}.</ForceExitAndRemoveMapCountdownTip>
   <Room>Room</Room>
@@ -124,8 +124,8 @@
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
-  <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <TransportPodNotEnoughFuel>Недостатньо палива</TransportPodNotEnoughFuel>
+  <SettlementTrader>{0} з {1}</SettlementTrader>
   <RoomSurgerySuccessChanceFactor>Surgery success chance multiplier from room</RoomSurgerySuccessChanceFactor>
   <RoomInfectionChanceFactor>Infection chance multiplier from room</RoomInfectionChanceFactor>
   <VentClosed>Closed</VentClosed>
@@ -144,9 +144,9 @@
   <KnownSiteThreatsNone>Threats: Unknown</KnownSiteThreatsNone>
   <SkillRequirements>Skill Requirements</SkillRequirements>
   <Products>Products</Products>
-  <Relationship>{0} of {1}</Relationship>
-  <Prisoner>Prisoner</Prisoner>
-  <Refugee>Refugee</Refugee>
+  <Relationship>{0} з {1}</Relationship>
+  <Prisoner>В'язень</Prisoner>
+  <Refugee>Біженець</Refugee>
   <TileMovementDifficulty>Terrain movement difficulty</TileMovementDifficulty>
   <Impassable>Impassable</Impassable>
   <CaravanMovementSpeedFull>Caravan movement speed</CaravanMovementSpeedFull>
@@ -156,7 +156,7 @@
   <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
   <FinalCaravanPawnsMovementSpeed>Caravan members speed</FinalCaravanPawnsMovementSpeed>
   <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
-  <Winter>Winter</Winter>
+  <Winter>Зима</Winter>
   <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
   <RangeTo>to</RangeTo>
   <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
@@ -170,15 +170,15 @@
   <CreatureTrainability>{0} trainability</CreatureTrainability>
   <ProximitySingleGoodwillChange>{0} with {1}</ProximitySingleGoodwillChange>
   <EnterCooldown>You can't re-enter for another {0} days.</EnterCooldown>
-  <Caravan>Caravan</Caravan>
+  <Caravan>Караван</Caravan>
   <HiddenOrNoSitePartDescription>there may be danger there</HiddenOrNoSitePartDescription>
   <PreciousLumpLabel>lump of {0}</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>no active research project</NoActiveResearchProjectToFinish>
-  <Turret>turret</Turret>
-  <Turrets>turrets</Turrets>
-  <Mortar>mortar</Mortar>
-  <Mortars>mortars</Mortars>
-  <Enemy>enemy</Enemy>
+  <Turret>турель</Turret>
+  <Turrets>турелі</Turrets>
+  <Mortar>міномет</Mortar>
+  <Mortars>міномети</Mortars>
+  <Enemy>ворог</Enemy>
 
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
@@ -297,7 +297,7 @@
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
-  <Faction>Faction</Faction>
+  <Faction>Фракція</Faction>
   <Equipped>Equipped</Equipped>
   <EquippedNothing>nothing</EquippedNothing>
   <Dead>Dead</Dead>
@@ -341,7 +341,7 @@
   <!-- Temperature readout -->
   <Indoors>Всередині</Indoors>
   <IndoorsUnroofed>Без даху</IndoorsUnroofed>
-  <Outdoors>Outdoors</Outdoors>
+  <Outdoors>На відкритому повітрі</Outdoors>
 
   <!-- Rotting -->
   <RotStateFresh>Fresh</RotStateFresh>
@@ -380,7 +380,7 @@
   <DyingBecauseExposedToLight>Dying because exposed to light</DyingBecauseExposedToLight>
 
   <!-- Zones -->
-  <Zone>Zone</Zone>
+  <Zone>Зона</Zone>
   <GrowingZone>Growing zone</GrowingZone>
   <Stockpile>Stockpile zone</Stockpile>
   <DumpingStockpile>Dumping stockpile zone</DumpingStockpile>
@@ -478,7 +478,7 @@
   <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
-  <Quality>Quality</Quality>
+  <Quality>Якість</Quality>
   <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
   <QualityIs>Quality: {0}</QualityIs>
 
@@ -567,10 +567,10 @@
   <ForagedFoodAmount>Foraged food amount</ForagedFoodAmount>
 
   <!-- Outfits -->
-  <OutfitAnything>Anything</OutfitAnything>
-  <OutfitWorker>Worker</OutfitWorker>
-  <OutfitSoldier>Soldier</OutfitSoldier>
-  <OutfitNudist>Nudist</OutfitNudist>
+  <OutfitAnything>Будь-що</OutfitAnything>
+  <OutfitWorker>Робітник</OutfitWorker>
+  <OutfitSoldier>Солдат</OutfitSoldier>
+  <OutfitNudist>Нудист</OutfitNudist>
 
   <!-- Hibernatable -->
   <HibernatableHibernating>Hibernating</HibernatableHibernating>
