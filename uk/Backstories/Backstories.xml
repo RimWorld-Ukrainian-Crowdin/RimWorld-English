@@ -1510,32 +1510,32 @@ The whole time he was there, he never spoke with another human. He spent all his
 Travelling often, HE was home-schooled and saw the world mostly through a computer.</desc>
 	</DiplomatsChild66>
 	<WhiteHatHacker49>
-		<title>White-hat hacker</title>
+		<title>Білий хакер</title>
 		<titleShort>Хакер</titleShort>
 		<desc>From HIS computer, NAME helped rid the online world of bad people.</desc>
 	</WhiteHatHacker49>
 	<Winerunner96>
-		<title>Winerunner</title>
-		<titleShort>Winerunner</titleShort>
+		<title>Винороб</title>
+		<titleShort>Винороб</titleShort>
 		<desc>Abandoned by his parents, NAME was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.
 
 The monks taught him discipline and hard work. In return, HE would go into the city and 'acquire' exotic wines for the monks' nightly tastings.</desc>
 	</Winerunner96>
 	<VinhoKing50>
-		<title>Vinho king</title>
-		<titleShort>Booze king</titleShort>
+		<title>Винний Король</title>
+		<titleShort>Ал-король</titleShort>
 		<desc>After prohibition came to Aracena VI, NAME expanded his underground liquor business until it dominated the market on two continents. They called him the Vinho King.
 
 Though HE mostly controlled his competition by masterful political maneuvering, HE was not above the occasional beat-down or stiletto assassination.</desc>
 	</VinhoKing50>
 	<StreetChild49>
-		<title>Street child</title>
-		<titleShort>Street</titleShort>
+		<title>Дитя вулиць</title>
+		<titleShort>Вуличник</titleShort>
 		<desc>NAME's drug addict mother died, leaving HIM an orphan at a young age. To stay alive, HE resorted to theft, and when necessary, prostitution. When NAME was caught stealing from a church, the priestess saw a wounded but smart child, and took HIM in to give HIM a second chance at life.</desc>
 	</StreetChild49>
 	<SlaveChemist35>
-		<title>Slave chemist</title>
-		<titleShort>Chemist</titleShort>
+		<title>Хімік-раб</title>
+		<titleShort>Хімік</titleShort>
 		<desc>NAME became a gifted pharmaceutical scientist, but was captured by slavers. HECAP was sold to a warlord and forced to create drugs to test on other slaves. This left HIM with deep and troubling questions on the ethics of scientific research and medicine.</desc>
 	</SlaveChemist35>
 	<SlaveFarmer49>
@@ -1544,7 +1544,7 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>Abandoned as a little girl, NAME was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.</desc>
 	</SlaveFarmer49>
 	<RocketEngineer75>
-		<title>Rocket engineer</title>
+		<title>Інженер-ракетник</title>
 		<titleShort>Інженер</titleShort>
 		<desc>NAME won a grant to a top school and earned a degree in rocket engineering. After several years working for a space mining company she left to travel and see the universe.</desc>
 	</RocketEngineer75>
@@ -1554,13 +1554,13 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>Born into slavery, Soren never knew his parents. He eventually escaped from his masters and boarded a military cargo ship, where he was pressed into military service.</desc>
 	</MedievalSlave34>
 	<SpaceMarine27>
-		<title>Space marine</title>
-		<titleShort>Marine</titleShort>
+		<title>Космодесантник</title>
+		<titleShort>Десантник</titleShort>
 		<desc>Soren joined a squad of space marines known for their brutal efficiency at killing. His last name and his lack of emotion during combat inspired his nickname: Grim.</desc>
 	</SpaceMarine27>
 	<FoundryApprentice81>
-		<title>Foundry apprentice</title>
-		<titleShort>Foundryman</titleShort>
+		<title>Ливарник-учень</title>
+		<titleShort>Ливарник</titleShort>
 		<desc>NAME grew up as an apprentice in the foundries of an industrial world. This experience gave HIM metalworking skills and strong muscles, but stunted HIS artistic development.</desc>
 	</FoundryApprentice81>
 	<CombatEngineer42>
@@ -1569,8 +1569,8 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>NAME became a combat engineer. HE built bases, fixed guns, and repaired vehicles for the army - when HE wasn't shooting at people, that is.</desc>
 	</CombatEngineer42>
 	<PrivilegedProdigy5>
-		<title>Privileged prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<title>Привілейований геній</title>
+		<titleShort>Геній</titleShort>
 		<desc>NAME was recognized as gifted early in his glitterworld upbringing. Luckily, HIS family was in a position to cultivate that genius through advanced education. HIS training included science, leadership, and the arts.</desc>
 	</PrivilegedProdigy5>
 	<PlanetaryDiplomat42>
