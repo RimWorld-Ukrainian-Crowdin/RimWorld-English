@@ -2202,8 +2202,8 @@ After regaining his health, Nate arrested the mayor. HECAP left his homeworld an
 		<desc>NAME grew up on a medieval world. He learned the basics of alchemy and medicine in one the few monastic schools on his planet.</desc>
 	</TraineeAlchemist98>
 	<ReligiousHierarch42>
-		<title>Religious hierarch</title>
-		<titleShort>Hierarch</titleShort>
+		<title>Набожний ієрарх</title>
+		<titleShort>Ієрарх</titleShort>
 		<desc>Ordained as a priest in his local community, NAME used intrigue and diplomacy to rise to the higher echelon of the clergy. He held numerous titles and lands.
 
 One day, a merchant landed his spaceship near NAME's home. HECAP decided to accompany the merchant in search for new worlds and challenges.</desc>
@@ -2221,14 +2221,14 @@ One day, a merchant landed his spaceship near NAME's home. HECAP decided to acco
 Although many people died, HE did get better at using knives.</desc>
 	</CriminalSurgeon8>
 	<SpaceCadet12>
-		<title>Space cadet</title>
-		<titleShort>cadet</titleShort>
+		<title>Космічний кадет</title>
+		<titleShort>кадет</titleShort>
 		<desc>Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on his home planet, Jake threw down his hoe and cattle prod to took up arms for the crown.
 
 He served on the interplanetary super-destroyer HMS Thunder-Child.</desc>
 	</SpaceCadet12>
 	<SanitationCaptain28>
-		<title>Sanitation captain</title>
+		<title>Старший по санітарії</title>
 		<titleShort>Прибиральник </titleShort>
 		<desc>After graduating officer training school, Jake was assigned to main battle deck on the Thunder-Child. He served there for a year before his "gallant" actions saw him reassigned to the maintenance corps.
 
