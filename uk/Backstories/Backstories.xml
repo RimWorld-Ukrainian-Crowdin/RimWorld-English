@@ -1025,8 +1025,8 @@ He was found guilty. However, because of his family's influence, he was exiled i
 Unfortunately, they unplugged him during a match of Rugby Rampage 4. The mental backlash merged his real identity and his virtual identity, leaving him with the personality and skills of a rugby player.</desc>
 	</RugbyPlayer15>
 	<Nerd92>
-		<title>Nerd</title>
-		<titleShort>Nerd</titleShort>
+		<title>Ботан</title>
+		<titleShort>Ботан</titleShort>
 		<desc>NAME was curious about everything. While other kids played tag in the suburbs of their industrial city, NAME read every book he could find about technology, robots, and weapons - whatever looked coolest.
 
 His strong French accent kept him from making real friends.</desc>
@@ -1039,15 +1039,15 @@ His strong French accent kept him from making real friends.</desc>
 While brilliant in his work, he was so enthusiastic in testing his creations that he accidentally wounded some colleagues and was marked as unfit for service.</desc>
 	</StateEngineer74>
 	<RebelSlave42>
-		<title>Rebel slave</title>
-		<titleShort>Rebel</titleShort>
+		<title>Раб-повстанець</title>
+		<titleShort>Повстанець</titleShort>
 		<desc>NAME was born into corporate slavery and raised to perform menial tasks for minimum pay. HECAP was just another cog in the machine. 
 
 NAME found his freedom by joining a rebel organization whose goal was to break free from their corporate masters.</desc>
 	</RebelSlave42>
 	<CombatNegotiator51>
 		<title>Combat negotiator</title>
-		<titleShort>Negotiator</titleShort>
+		<titleShort>Парламентер</titleShort>
 		<desc>After escaping his homeworld, NAME took his skills to the stars.
 
 He chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. His specialty was negotiation in combat situations.</desc>
@@ -1058,12 +1058,12 @@ He chose to operate as a hired gun, working for various rebel organizations, ens
 		<desc>Name жив на планеті, де королі і королеви управляли мало уваги селян під ними. Сім'я HISCAP володіла великою фермою, але король зайняв більшу частину їжі, яку вона випускала. Це спричинило погане членство в "NAME" та неможливо заплатити за освіту за Школу. Замість цього він потрібно для роботи на полях з батьками, і ніколи не мав час для занять творчістю.</desc>
 	</MedievalPlower12>
 	<SpaceStationCook63>
-		<title>Space station cook</title>
-		<titleShort>Cook</titleShort>
+		<title>Кок космічної станції</title>
+		<titleShort>Кок</titleShort>
 		<desc>The space station NAME came from was far from any populated planets, and was in itself understaffed. For this reason, NAME was forced to learn how to cook in order to keep the crew alive. While HE appreciated this learning opportunity, HE didn't appreciate the criticism which came with it, and has had self-esteem issues ever since.</desc>
 	</SpaceStationCook63>
 	<SonOfAHuntress96>
-		<title>Son of a huntress</title>
+		<title>Син жінки-мисливця</title>
 		<titleShort>Мисливець</titleShort>
 		<desc>In the mountains of the planet Ticonderoga, Jon was raised by his tribal mother. She taught him survival skills - trapping, tracking, shooting, skinning, cooking and healing.
 
@@ -1083,14 +1083,14 @@ While he was naturally adept at reading and manipulating people, he found no joy
 	</StudentSocialite73>
 	<PoliticalAssassin87>
 		<title>Політичний вбивця</title>
-		<titleShort>Deathjack</titleShort>
+		<titleShort>Валет Смерті</titleShort>
 		<desc>Matis realized that his true calling was in physical solutions to diplomatic problems. He sought training from the assassins guild on Ceti V.
 
 He was a quick study at the arts of subterfuge and death. He soon earned the guild rank of Deathjack.</desc>
 	</PoliticalAssassin87>
 	<AwkwardNerd12>
-		<title>Awkward nerd</title>
-		<titleShort>Nerd</titleShort>
+		<title>Дивакуватий нерд</title>
+		<titleShort>Ботан</titleShort>
 		<desc>Always fascinated by machines, Dave spent his time studying robotics and holography. He preferred the company of his scientific creations to that of other people.</desc>
 	</AwkwardNerd12>
 	<AIResearcher30>
@@ -1099,8 +1099,8 @@ He was a quick study at the arts of subterfuge and death. He soon earned the gui
 		<desc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</desc>
 	</AIResearcher30>
 	<MidworldGeek88>
-		<title>Північний Гек</title>
-		<titleShort>Geek</titleShort>
+		<title>Ґік середньо-світу</title>
+		<titleShort>Ґік</titleShort>
 		<desc>NAME grew up in a quiet suburban neighborhood. He was never a master of social interaction, but his interest in computers blossomed into a true talent at an early age.</desc>
 	</MidworldGeek88>
 	<ArmyScientist54>
@@ -1135,7 +1135,7 @@ HECAP learned to survive on HIS own in this post-apocalyptic wasteland by scaven
 HECAP defended their ships against pirates and engaged in private space warfare contracts.</desc>
 	</SpaceMarine90>
 	<VatgrownAssassin17>
-		<title>Vatgrown assassin</title>
+		<title>Вбивця з пробірки</title>
 		<titleShort>Клон</titleShort>
 		<desc>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.</desc>
 	</VatgrownAssassin17>
@@ -1185,8 +1185,8 @@ As a youth, Sam decided that joining the Starforce would be his way of giving ba
 However, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed.</desc>
 	</AceFighterPilot70>
 	<ArtfulDodger87>
-		<title>Artful dodger</title>
-		<titleShort>Dodger</titleShort>
+		<title>Спритний хитрун</title>
+		<titleShort>Хитрун</titleShort>
 		<desc>Robin grew up on one of the urbworlds and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.
 
 He soon became skilled with firearms and knives as well as words.</desc>
@@ -1307,15 +1307,15 @@ His body was repaired with an experimental nano-genetic therapy. Now his muscles
 Government rules proved too strict for him, so he went rogue. His current activities are unknown.</desc>
 	</IntelligenceAgent4>
 	<MadScientist38>
-		<title>Mad scientist</title>
-		<titleShort>Scientist</titleShort>
+		<title>Божевільний учений</title>
+		<titleShort>Вчений</titleShort>
 		<desc>NAME grew up miserable on the plains of a neolithic planet. He found the strength to fight under the teachings of an old, broken scientist.
 
 He quickly learned to play with people's fears, and was nicknamed 'mad scientist'.</desc>
 	</MadScientist38>
 	<WarChief54>
-		<title>War chief</title>
-		<titleShort>Chief</titleShort>
+		<title>Воєвода</title>
+		<titleShort>Вождь</titleShort>
 		<desc>NAME was a tribal gang leader on a neolithic planet. For him, the battlefield is a game, and there is nothing more fun than the fires of war.</desc>
 	</WarChief54>
 	<YouthDelinquent81>
@@ -1348,7 +1348,7 @@ Later, she was spotted clad in pygmy wombat furs, discussing the importance of h
 		<desc>Abandoned among the filthy concrete spires, NAME never knew HIS parents. HECAP never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes HE lied, cheated, and stole to survive.</desc>
 	</UrbworldUrchin35>
 	<VoidRaider31>
-		<title>Void raider</title>
+		<title>Пустотний рейдер</title>
 		<titleShort>Розбійник</titleShort>
 		<desc>Craving adventure and glory, NAME set out across the void with a raider band, swearing his loyalty to his band and brothers, and spreading their glory through the stars with his blade and pistol in hand.</desc>
 	</VoidRaider31>
@@ -1377,8 +1377,8 @@ In the end, NAME was the leader of a large group of trained and dangerous pirate
 		<desc>After Alyssa had completed all of her surgeries, she found that she had a lot of time and energy to dedicate to her passion: trinket crafting. She spent years perfecting her art as a jeweler, then left her home world to sell her wares across the galaxy.</desc>
 	</CoreWorldJeweler59>
 	<MedievalSquire61>
-		<title>Medieval squire</title>
-		<titleShort>Squire</titleShort>
+		<title>Середньовічний сквайр</title>
+		<titleShort>Сквайр</titleShort>
 		<desc>William grew up on a medieval planet as a knight in training. He trained directly under the king's war adviser for most of his youth, and learned to fight with a sword and shield.</desc>
 	</MedievalSquire61>
 	<MedievalKnight71>
@@ -1387,8 +1387,8 @@ In the end, NAME was the leader of a large group of trained and dangerous pirate
 		<desc>William fought for king and country on the battlefield, where he further honed his skill as a swordsman. His greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point.</desc>
 	</MedievalKnight71>
 	<StarSquire93>
-		<title>Star squire</title>
-		<titleShort>Squire</titleShort>
+		<title>Зоряний сквайр</title>
+		<titleShort>Сквайр</titleShort>
 		<desc>Born on a medieval world, NAME's first memory is of gazing up into the night's sky. 
 
 Ever since, HE dreamed of squiring for a knight amidst the star-filled heavens. HISCAP focus on that vision left HIM somewhat single-minded.</desc>
@@ -1401,19 +1401,19 @@ Ever since, HE dreamed of squiring for a knight amidst the star-filled heavens. 
 For a moment, as he drifted in the escape pod, his childhood dream of becoming a knight among the stars felt so real. Then he crash-landed.</desc>
 	</StarKnight78>
 	<DrugMule2>
-		<title>Drug mule</title>
-		<titleShort>Mule</titleShort>
+		<title>Наркокур'єр</title>
+		<titleShort>Кур'єр</titleShort>
 		<desc>Raised in an orphanage, NAME turned towards the gang life at age ten.
 
 He was exploited by the local gang as a drug mule to traffic "substance F" across rival gang territory. He took a bullet or two.</desc>
 	</DrugMule2>
 	<TestSubject82>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
+		<title>Піддослідний</title>
+		<titleShort>Суб'єкт</titleShort>
 		<desc>NAME enrolled in a scientific study that promised it could make HIM smarter. Unfortunately, the side effects were very different than he expected.HE went insane and killed a number of people before escaping his homeworld.</desc>
 	</TestSubject82>
 	<ArtisanFarmer56>
-		<title>Artisan farmer</title>
+		<title>Фермер-ремісник</title>
 		<titleShort>Фермер</titleShort>
 		<desc>NAME grew up on a HIS family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology.</desc>
 	</ArtisanFarmer56>
@@ -1425,8 +1425,8 @@ He was exploited by the local gang as a drug mule to traffic "substance F" acros
 A horrifying lab accident left him with a mortal fear of rodents.</desc>
 	</GeneticEngineer63>
 	<Pampered62>
-		<title>Pampered</title>
-		<titleShort>Pampered</titleShort>
+		<title>Балуваний</title>
+		<titleShort>Балуваний</titleShort>
 		<desc>Born on a decadent glitterworld, NAME was given every expensive toy.
 
 This pampered lifestyle caused HIM to miss many basic life lessons. HECAP developed a special aversion to cooking, and always ordered the staff to do the kitchen work.</desc>
@@ -1439,8 +1439,8 @@ This pampered lifestyle caused HIM to miss many basic life lessons. HECAP develo
 A nasty incident with a potted plant and an assassination gone wrong left HIM with an aversion to plant life.</desc>
 	</NinjaAssassin4>
 	<MilitaryChild84>
-		<title>Military child</title>
-		<titleShort>Military</titleShort>
+		<title>Дитя військових</title>
+		<titleShort>Військовий</titleShort>
 		<desc>NAME grew up in a family with a rich military background. HISCAP teenage years were spent traveling system to system wherever HIS parents were deployed.
 
 Following the tradition of HIS family, HE enlisted at the earliest possible age.</desc>
@@ -1467,15 +1467,15 @@ NAME would have stayed in those streets, had HE not been injured in a shootout a
 When HE learned that they planned on disposing of HIM, NAME turned on his masters, killing several and fleeing the planet.</desc>
 	</MindwipedAssassin80>
 	<TestSubject90>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
+		<title>Піддослідний</title>
+		<titleShort>Суб'єкт</titleShort>
 		<desc>Test subject #11,529,914 of experiment #56,048 spent her childhood in white rooms performing mental and physical tests.
 
 Her only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment.</desc>
 	</TestSubject90>
 	<TestSubject6>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
+		<title>Піддослідний</title>
+		<titleShort>Суб'єкт</titleShort>
 		<desc>NAME's tests went from geometry to quantum physics, and she could run the grand gauntlet without a scratch.
 
 One day, Mother said that her final test lay beyond the red door, and that even if she couldn't hear her voice, Mother would always be there.</desc>
