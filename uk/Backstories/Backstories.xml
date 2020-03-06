@@ -2067,7 +2067,7 @@ She was placed In charge of running her home planet from an early age, and learn
 	<AspergersRebel96>
 		<title>Повстанець з Аспергером</title>
 		<titleShort>Повстанець</titleShort>
-		<desc>NAME grew up as a rebel on an formerly-advanced rimworld devastated by war.
+		<desc>{PAWN_nameDef} виріс повстанцем на колись передовій планеті краю, розореного війною.
 
 HISCAP Aspergers syndrome meant he struggled with social situations and was incapable of caring, but HE learned hard skills like research and shooting very quickly.</desc>
 	</AspergersRebel96>
