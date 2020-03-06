@@ -30,7 +30,7 @@
   <CanTendNow>Може доглянути зараз</CanTendNow>
   <TreatmentExpiresIn>Догляд спливе через {0}</TreatmentExpiresIn>
   <NextTendIn>Можна буде доглянути через {0}</NextTendIn>
-  <TendQuality>Якість догдяду</TendQuality>
+  <TendQuality>Якість догляду</TendQuality>
   <MissingMedicalBillIngredient>немає {0}</MissingMedicalBillIngredient>
   <Immunity>Імунітет</Immunity>
   <Race>Раса</Race>
@@ -157,7 +157,7 @@
   <FinalCaravanPawnsMovementSpeed>Caravan members speed</FinalCaravanPawnsMovementSpeed>
   <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
   <Winter>Зима</Winter>
-  <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} взимку</MovementDifficultyOffsetInWinter>
   <RangeTo>to</RangeTo>
   <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
   <ExpiresIn>Expires in</ExpiresIn>
@@ -165,10 +165,10 @@
   <Reason>Reason</Reason>
   <RelationsWith>Relations with {0}</RelationsWith>
   <capturedBy>captured by {0}</capturedBy>
-  <yourCaravan>your caravan</yourCaravan>
+  <yourCaravan>ваш караван</yourCaravan>
   <CreatureWildness>{0} wildness</CreatureWildness>
   <CreatureTrainability>{0} trainability</CreatureTrainability>
-  <ProximitySingleGoodwillChange>{0} with {1}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} з {1}</ProximitySingleGoodwillChange>
   <EnterCooldown>You can't re-enter for another {0} days.</EnterCooldown>
   <Caravan>Караван</Caravan>
   <HiddenOrNoSitePartDescription>there may be danger there</HiddenOrNoSitePartDescription>
@@ -267,18 +267,18 @@
   <!-- Shooting report -->
   <WeaponMissRadius>Weapon miss radius</WeaponMissRadius>
   <ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
-  <ShootReportWeapon>Weapon</ShootReportWeapon>
-  <Darkness>Darkness</Darkness>
+  <ShootReportWeapon>Зброя</ShootReportWeapon>
+  <Darkness>Темрява</Darkness>
   <TargetProne>Target lying down</TargetProne>
   <TargetSize>Target size</TargetSize>
-  <Weather>Weather</Weather>
-  <ShootingCover>Cover</ShootingCover>
-  <CoverThingBlocksPercentOfShots>{COVER_label} stops {1}</CoverThingBlocksPercentOfShots>
-  <NoCoverLower>no cover</NoCoverLower>
+  <Weather>Погода</Weather>
+  <ShootingCover>Укриття</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{COVER_label} зупиняє {1}</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>без укриття</NoCoverLower>
   <Execution>Execution</Execution>
 
   <!-- Generated recipes -->
-  <RecipeMake>make {0}</RecipeMake>
+  <RecipeMake>робить {0}</RecipeMake>
   <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
   <RecipeAdminister>administer {0}</RecipeAdminister>
   <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
@@ -299,7 +299,7 @@
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>Фракція</Faction>
   <Equipped>Equipped</Equipped>
-  <EquippedNothing>nothing</EquippedNothing>
+  <EquippedNothing>нічого</EquippedNothing>
   <Dead>Dead</Dead>
   <Unconscious>Unconscious</Unconscious>
   <PainShock>In shock due to pain</PainShock>
