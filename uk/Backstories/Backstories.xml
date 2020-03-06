@@ -2065,15 +2065,15 @@ She was placed In charge of running her home planet from an early age, and learn
 		<desc>NAME served several tours as a doctor on one of the few warships defending HIS homeworld. HECAP learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds.</desc>
 	</SpaceNavyDoctor40>
 	<AspergersRebel96>
-		<title>Aspergers rebel</title>
-		<titleShort>Rebel</titleShort>
+		<title>Повстанець з Аспергером</title>
+		<titleShort>Повстанець</titleShort>
 		<desc>NAME grew up as a rebel on an formerly-advanced rimworld devastated by war.
 
 HISCAP Aspergers syndrome meant he struggled with social situations and was incapable of caring, but HE learned hard skills like research and shooting very quickly.</desc>
 	</AspergersRebel96>
 	<GovernmentAgent80>
-		<title>Government agent  </title>
-		<titleShort>Agent</titleShort>
+		<title>Урядовий агент  </title>
+		<titleShort>Агент</titleShort>
 		<desc>NAME worked for the government against rebel groups and excelled in this capacity. During HIS training HE was taught firearms, melee combat and medical skills.
 
 Having grown up in a war-ravaged city, dirt, blood and dead bodies don’t bother HIM and HE sees no reason to clean them up.</desc>
@@ -2081,7 +2081,7 @@ Having grown up in a war-ravaged city, dirt, blood and dead bodies don’t bothe
 	<ShootingComa31>
 		<title>Стрільбокома</title>
 		<titleShort>Коматозне дитя</titleShort>
-		<desc>Nebulys fell into a coma at a young age and spent years dreaming about shooting. When he awoke, he was useless at most tasks - but he could aim pretty well.</desc>
+		<desc>У дитинстві {PAWN_nameDef} впав у кому, де роками він снив стрілянину. Коли {PAWN_pronoun} прокинувся, то був некорисним в усьому - окрім влучної стрільби.</desc>
 	</ShootingComa31>
 	<SelflessHunter57>
 		<title>Самовідданий мисливець</title>
