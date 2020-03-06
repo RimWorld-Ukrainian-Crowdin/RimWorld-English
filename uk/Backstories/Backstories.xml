@@ -1841,15 +1841,15 @@ When not working, HE would make mechanical figurines, read old books, or occasio
 		<desc>NAME managed to secure an important position in the government of a minor glitterworld. HECAP got used to the opulence, while attempting to keep HIS citizens content. HECAP had ample time for pleasure and indulgence – though HE never forgot how to do hard work.</desc>
 	</Minister38>
 	<ChessMaster23>
-		<title>Chess master</title>
+		<title>Майстер шахів</title>
 		<titleShort>Chesshead</titleShort>
 		<desc>NAME loved to play chess. HECAP even earned the nickname Bishop for some of HIS craftier moves. 
 
 HECAP never got into trouble - mostly because he was good at not getting caught.</desc>
 	</ChessMaster23>
 	<Pirate65>
-		<title>Pirate</title>
-		<titleShort>Pirate</titleShort>
+		<title>Пірат</title>
+		<titleShort>Пірат</titleShort>
 		<desc>As a pirate leader, Bishop was well-known for his cunning plans and chess-like traps. HECAP was never afraid to sacrifice a few pawns to capture an important target.
 
 HISCAP name has been linked more then once to strategies that overcame overwhelming odds.</desc>
@@ -1943,13 +1943,13 @@ HECAP took several jobs, but never achieved more than a basic education.</desc>
 In that time HE learnt a few safe culinary and medicinal uses for the otherwise deadly plants.</desc>
 	</PoisonGardener85>
 	<PowerMadScholar58>
-		<title>Power-mad scholar</title>
-		<titleShort>Scholar</titleShort>
+		<title>Божевільний вчений</title>
+		<titleShort>Вчений</titleShort>
 		<desc>"Knowledge is power." These words sparked something within NAME, and came to form his core drive. When not entombed within libraries, HE would take things apart to see first-hand how they worked, with little regard for the border between mechanical and organic.</desc>
 	</PowerMadScholar58>
 	<ArtificerRampant50>
-		<title>Artificer rampant</title>
-		<titleShort>Artificer</titleShort>
+		<title>Нестримний винахідник</title>
+		<titleShort>Винахідник</titleShort>
 		<desc>Fuelled by the thrill of discovery and his own megalomania, NAME set out to invent new devices and improve existing ones, breaking laws and customs as necessary.
 
 HECAP formed a crew to gather materials for HIS work - and to deal with outsiders who might interfere.</desc>
@@ -2040,8 +2040,8 @@ HECAP left the military and his homeworld and began researching medicine and hel
 She was placed In charge of running her home planet from an early age, and learned important political and cultural skills in that role.</desc>
 	</HighBaroness49>
 	<ExiledResearcher36>
-		<title>Exiled researcher</title>
-		<titleShort>Exile</titleShort>
+		<title>Дослідник-вигнанець</title>
+		<titleShort>Вигнанець</titleShort>
 		<desc>NAME's love of robotics was not appreciated in her technophobic empire. The High Cardinal of the system excommunicated her, and she was never allowed to return.</desc>
 	</ExiledResearcher36>
 	<WorldSlider50>
