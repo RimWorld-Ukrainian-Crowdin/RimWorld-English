@@ -1584,7 +1584,7 @@ Though HE mostly controlled his competition by masterful political maneuvering, 
 		<desc>After graduating college at age twelve, Jered devoted his life to becoming immortal.  However his research crossed the line when he tried to modify his body using gene therapy and mechanical augmentation.  He was arrested and condemned to a prison planet.</desc>
 	</ChildProdigy22>
 	<RenegadeEngineer33>
-		<title>Renegade engineer</title>
+		<title>Інженер-ренегат</title>
 		<titleShort>Інженер</titleShort>
 		<desc>After a daring escape from the prison planet with a small crew of fellow inmates, Jered set his gaze on his homeworld.
 
@@ -1592,62 +1592,62 @@ He travelled there, recruited more followers, hijacked a space cruiser, and laun
 	</RenegadeEngineer33>
 	<BoneCollector51>
 		<title>Збирач кісток</title>
-		<titleShort>Pupil</titleShort>
+		<titleShort>Учень</titleShort>
 		<desc>Born to a family of fortune hunters, NAME always had a passion for ancient history.
 
 Though never a tough or social boy, HE loved to dig through history books as well as dirt piles.</desc>
 	</BoneCollector51>
 	<Osteologist68>
-		<title>Osteologist</title>
-		<titleShort>Scholar</titleShort>
+		<title>Остеолог</title>
+		<titleShort>Вчений</titleShort>
 		<desc>After graduating university at the top of his class, NAME quickly became a well-known and athletic college professor.
 
 With his new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students.</desc>
 	</Osteologist68>
 	<GNomeSculptor81>
-		<title>G-nome sculptor</title>
+		<title>Скульптор Ге-ному</title>
 		<titleShort>Скульптор</titleShort>
 		<desc>NAME was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.
 
 The G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories.</desc>
 	</GNomeSculptor81>
 	<Gnomebiologist56>
-		<title>Gnomebiologist</title>
+		<title>Гномобіолог</title>
 		<titleShort>Біолог</titleShort>
 		<desc>Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.
 
 However, he never stopped sculpting yard gnomes, and considers this to be his true profession.</desc>
 	</Gnomebiologist56>
 	<CircusPerformer69>
-		<title>Circus performer</title>
-		<titleShort>Performer</titleShort>
+		<title>Виконавець у цирку</title>
+		<titleShort>Циркач</titleShort>
 		<desc>Growing up in the circus, NAME learned a lot of interesting things. More interesting then the balls he juggled were the pockets he picked between shows.
 
 A mistake with some firesticks made him develop a deathly fear of fire.</desc>
 	</CircusPerformer69>
 	<CriminalKingpin63>
-		<title>Criminal kingpin</title>
-		<titleShort>Kingpin</titleShort>
+		<title>Кримінальний шворінь</title>
+		<titleShort>Шворінь</titleShort>
 		<desc>NAME discovered his gift - people did what he said, when he said it. Taking advantage of this, he set off for the rimworlds planets to make a name for himself in the criminal underworld.
 
 Having people do things for him taught him to avoid manual labor at all costs.</desc>
 	</CriminalKingpin63>
 	<VatgrownSlavegirl4>
-		<title>Vatgrown slavegirl</title>
-		<titleShort>Slave girl</titleShort>
+		<title>Рабиня з пробірки</title>
+		<titleShort>Рабиня</titleShort>
 		<desc>Emmie was vat-grown as a slave in an illegal urbworld laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.</desc>
 	</VatgrownSlavegirl4>
 	<UrbworldSexSlave3>
-		<title>Urbworld sex slave</title>
-		<titleShort>Sex slave</titleShort>
+		<title>Урб-планетний секс-рабиня</title>
+		<titleShort>Секс-рабиня</titleShort>
 		<desc>Emmie was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against her masters, she was passed between dozens of owners and knew nothing of freedom.</desc>
 	</UrbworldSexSlave3>
 	<GunKid57>
 		<title>Дитя-стрілець</title>
 		<titleShort>Дитя-стрілець</titleShort>
-		<desc>Зростаючи на урб-планеті, {PAWN_nameDef} не знав легкого життя. Every day was a struggle and pollution, hunger, and gangs of older kids.
+		<desc>Зростаючи на урб-планеті, {PAWN_nameDef} не знав легкого життя. Щодня - боротьба із забруденням, голодом і бандами старших дітей.
 
-In the little space he had to himself, he studied his passion - guns, combat tactics, and war history.</desc>
+У маленькому, відведенному для себе просторі, {PAWN_pronoun} вивчав свої пристрасті: зброю, бойові тактики та історію війни.</desc>
 	</GunKid57>
 	<UrbworldSergeant87>
 		<title>Урб-планетний сержант</title>
