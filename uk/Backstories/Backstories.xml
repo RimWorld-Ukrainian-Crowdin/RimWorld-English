@@ -2050,18 +2050,18 @@ She was placed In charge of running her home planet from an early age, and learn
 		<desc>NAME was raised by a world-hopping band of criminals. HECAP learned not to leave evidence of his presence in case the group had to leave in a hurry. HECAP also learned about medicine and hand-to-hand combat from his fellow criminals.</desc>
 	</WorldSlider50>
 	<Villain66>
-		<title>Villain</title>
-		<titleShort>Villain</titleShort>
+		<title>Лиходій</title>
+		<titleShort>Лиходій</titleShort>
 		<desc>After rising to the top of his criminal band, NAME was taught the arts of villainy, from handling firearms to developing new weapons technologies. He excelled at bending others to his will.</desc>
 	</Villain66>
 	<MedicalStudent71>
-		<title>Medical student</title>
-		<titleShort>Student</titleShort>
+		<title>Студент-медик</title>
+		<titleShort>Студент</titleShort>
 		<desc>Born into a long line of doctors, NAME was tutored in all fields of medicine, from herbal ointments to the modern synthetic drugs. HECAP also picked up a healthy disdain for lower class work.</desc>
 	</MedicalStudent71>
 	<SpaceNavyDoctor40>
-		<title>Space navy doctor</title>
-		<titleShort>Doctor</titleShort>
+		<title>Лікар космічного флоту</title>
+		<titleShort>Лікар</titleShort>
 		<desc>NAME served several tours as a doctor on one of the few warships defending HIS homeworld. HECAP learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds.</desc>
 	</SpaceNavyDoctor40>
 	<AspergersRebel96>
@@ -2069,7 +2069,7 @@ She was placed In charge of running her home planet from an early age, and learn
 		<titleShort>Повстанець</titleShort>
 		<desc>{PAWN_nameDef} виріс повстанцем на колись передовій планеті краю, розореного війною.
 
-HISCAP Aspergers syndrome meant he struggled with social situations and was incapable of caring, but HE learned hard skills like research and shooting very quickly.</desc>
+Синдром Аспергера означав трудності в соціальних ситуаціях і {PAWN_pronoun} був нездатний на догляд. Утім, {PAWN_pronoun} засвоїв складні навички, як-от дослідження і швидка стрільба.</desc>
 	</AspergersRebel96>
 	<GovernmentAgent80>
 		<title>Урядовий агент  </title>
