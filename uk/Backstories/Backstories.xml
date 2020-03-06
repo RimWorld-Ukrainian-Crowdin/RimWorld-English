@@ -1481,30 +1481,30 @@ Her only companion was a voice that called itself Mother. Mother rewarded succes
 One day, Mother said that her final test lay beyond the red door, and that even if she couldn't hear her voice, Mother would always be there.</desc>
 	</TestSubject6>
 	<FireScarredChild32>
-		<title>Fire-scarred child</title>
-		<titleShort>Scarred</titleShort>
+		<title>Рубцьоване вогнем дитя</title>
+		<titleShort>Рубцьований</titleShort>
 		<desc>Duster was an active child who lived an uneventful childhood until he fell into a fire and suffered horrific burns to his hands and arms. Although the scars have faded, he can't bear to be in close proximity to fire.</desc>
 	</FireScarredChild32>
 	<SpaceshipSalesman6>
-		<title>Spaceship salesman</title>
-		<titleShort>Salesman</titleShort>
+		<title>Космічний продавець</title>
+		<titleShort>Продавець</titleShort>
 		<desc>Duster tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, he found his true calling as a spacecraft salesman. Specializing in recreational spacecraft, his smooth talk and charming nature served him well.</desc>
 	</SpaceshipSalesman6>
 	<TechEnthusiast65>
-		<title>Tech enthusiast</title>
-		<titleShort>Tech nerd</titleShort>
+		<title>Технік-ентузіаст</title>
+		<titleShort>Тех-нерд</titleShort>
 		<desc>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.</desc>
 	</TechEnthusiast65>
 	<AIProgrammer5>
-		<title>AI programmer</title>
-		<titleShort>Programmer</titleShort>
+		<title>Програміст ШІ</title>
+		<titleShort>Програміст</titleShort>
 		<desc>Michael enlisted in the military's robotics division, developing smarter combat AI.
 
 The whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing.</desc>
 	</AIProgrammer5>
 	<DiplomatsChild66>
-		<title>Diplomat's child</title>
-		<titleShort>Diplomat</titleShort>
+		<title>Дитина дипломата</title>
+		<titleShort>Дипломат</titleShort>
 		<desc>NAME was born in diplomatic family.
 
 Travelling often, HE was home-schooled and saw the world mostly through a computer.</desc>
@@ -1512,7 +1512,7 @@ Travelling often, HE was home-schooled and saw the world mostly through a comput
 	<WhiteHatHacker49>
 		<title>Білий хакер</title>
 		<titleShort>Хакер</titleShort>
-		<desc>From HIS computer, NAME helped rid the online world of bad people.</desc>
+		<desc>Зі свого комп'ютера, {PAWN_nameDef} допомагав позбавити онлайн світ від поганих людей.</desc>
 	</WhiteHatHacker49>
 	<Winerunner96>
 		<title>Винороб</title>
