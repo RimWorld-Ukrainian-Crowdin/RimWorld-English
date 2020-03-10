@@ -16,11 +16,11 @@
   <MealLavish.label>розкішна страва</MealLavish.label>
   <MealLavish.description>Шедевр кулінарного мистецтва, ця страва живить тіло, розум і душу.</MealLavish.description>
 
-  <Kibble.label>пеммікан</Kibble.label>
-  <Kibble.description>Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Kibble.label>корм</Kibble.label>
+  <Kibble.description>Їжа для тварин, виготовлена зі змішанних м'ясних та рослинних компонентів. Люди можуть його їсти, але їм це дуже-дуже не подобається.</Kibble.description>
 
-  <Pemmican.label>pemmican</Pemmican.label>
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
+  <Pemmican.label>пеммікан</Pemmican.label>
+  <Pemmican.description>Консервована суміш з потовченого жиру та рослинної їжі. Має прісний, але не бридкий смак. Довго зберігається без охолодження. Чудово підходить для подорожей.</Pemmican.description>
 
 
 </LanguageData>
