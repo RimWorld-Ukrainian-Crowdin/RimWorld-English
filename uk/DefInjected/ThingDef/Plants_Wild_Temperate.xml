@@ -16,12 +16,12 @@
   <!-- Bushes -->
 
   <Plant_Berry.label>ягідний кущ</Plant_Berry.label>
-  <Plant_Berry.description>A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw.</Plant_Berry.description>
+  <Plant_Berry.description>Кущиста дика рослина, що плодоносить смачні ягоди. Ягоди можна готувати, але їх також можна їсти навіть у сирому вигляді.</Plant_Berry.description>
 
 
   <!-- Trees -->
 
-  <Plant_TreeOak.label>oak tree</Plant_TreeOak.label>
+  <Plant_TreeOak.label>дуб</Plant_TreeOak.label>
   <Plant_TreeOak.description>A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures.</Plant_TreeOak.description>
 
   <Plant_TreePoplar.label>poplar tree</Plant_TreePoplar.label>
