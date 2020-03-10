@@ -243,9 +243,9 @@
   <ReportHaulingTo>hauling {THING_label} to {DESTINATION}.</ReportHaulingTo>
   <ReportHauling>hauling {1_label}.</ReportHauling>
   <ReportHaulingUnknown>hauling.</ReportHaulingUnknown>
-  <ReportSleeping>sleeping.</ReportSleeping>
-  <ReportResting>resting.</ReportResting>
-  <WatchingSunrise>watching the sunrise.</WatchingSunrise>
+  <ReportSleeping>спить.</ReportSleeping>
+  <ReportResting>відпочиває.</ReportResting>
+  <WatchingSunrise>спостерігає схід сонця.</WatchingSunrise>
   <CloudWatching>cloudwatching.</CloudWatching>
   <WatchingSunset>watching the sunset.</WatchingSunset>
   <Stargazing>stargazing.</Stargazing>
@@ -480,7 +480,7 @@
   <!-- Quality -->
   <Quality>Якість</Quality>
   <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-  <QualityIs>Quality: {0}</QualityIs>
+  <QualityIs>Якість: {0}</QualityIs>
 
   <!-- Mood descriptions -->
   <Mood_MentalState>mental state</Mood_MentalState>
@@ -523,9 +523,9 @@
 
   <!-- Colonist bar -->
   <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
-  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
-  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
+  <ActivityIconSleeping>Спить</ActivityIconSleeping>
+  <ActivityIconFleeing>Тікає</ActivityIconFleeing>
+  <ActivityIconAttacking>Б'ється</ActivityIconAttacking>
   <ActivityIconIdle>Idle</ActivityIconIdle>
   <ActivityIconBurning>Burning</ActivityIconBurning>
   <ActivityIconFormingCaravan>Forming a caravan</ActivityIconFormingCaravan>
