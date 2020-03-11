@@ -2,9 +2,9 @@
 <LanguageData>
 
   <CaravanFormed.label>караван готовий</CaravanFormed.label>
-  <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] departing for adventure</CaravanFormed.rulePack.rulesStrings.0>
-  <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] forming a caravan</CaravanFormed.rulePack.rulesStrings.1>
-  <CaravanFormed.rulePack.rulesStrings.2>image->[PAWN_nameFull] striding forward purposefully [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
+  <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] вирушає у пригоди</CaravanFormed.rulePack.rulesStrings.0>
+  <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] збирає караван</CaravanFormed.rulePack.rulesStrings.1>
+  <CaravanFormed.rulePack.rulesStrings.2>image->[PAWN_nameFull] цілеспрямовано прямує до [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
   <CaravanFormed.rulePack.rulesStrings.3>image->[PAWN_nameFull] looking towards the horizon [circumstance_group]</CaravanFormed.rulePack.rulesStrings.3>
   <CaravanFormed.rulePack.rulesStrings.4>image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
   <CaravanFormed.rulePack.rulesStrings.5>image->[PAWN_nameFull] planning a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.5>
