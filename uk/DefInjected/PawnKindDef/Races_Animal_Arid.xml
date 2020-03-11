@@ -80,26 +80,26 @@
   <Dromedary.labelPlural>верблюди</Dromedary.labelPlural>
   <Dromedary.lifeStages.0.label>верблюжатко</Dromedary.lifeStages.0.label>
   <Dromedary.lifeStages.0.labelPlural>верблюжата</Dromedary.lifeStages.0.labelPlural>
-  <Dromedary.lifeStages.0.labelMale>male dromedary calf</Dromedary.lifeStages.0.labelMale>
-  <Dromedary.lifeStages.0.labelMalePlural>male dromedary calves</Dromedary.lifeStages.0.labelMalePlural>
-  <Dromedary.lifeStages.0.labelFemale>female dromedary calf</Dromedary.lifeStages.0.labelFemale>
-  <Dromedary.lifeStages.0.labelFemalePlural>female dromedary calves</Dromedary.lifeStages.0.labelFemalePlural>
-  <Dromedary.lifeStages.1.label>верблюд</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.1.labelPlural>верблюди</Dromedary.lifeStages.1.labelPlural>
-  <Dromedary.lifeStages.1.labelMale>самець верблюда</Dromedary.lifeStages.1.labelMale>
-  <Dromedary.lifeStages.1.labelMalePlural>самці верблюдів</Dromedary.lifeStages.1.labelMalePlural>
-  <Dromedary.lifeStages.1.labelFemale>самка верблюда</Dromedary.lifeStages.1.labelFemale>
-  <Dromedary.lifeStages.1.labelFemalePlural>самки верблюдів</Dromedary.lifeStages.1.labelFemalePlural>
-  <Dromedary.lifeStages.2.label>верблюд</Dromedary.lifeStages.2.label>
-  <Dromedary.lifeStages.2.labelPlural>верблюди</Dromedary.lifeStages.2.labelPlural>
-  <Dromedary.lifeStages.2.labelMale>самець верблюда</Dromedary.lifeStages.2.labelMale>
-  <Dromedary.lifeStages.2.labelMalePlural>самці верблюдів</Dromedary.lifeStages.2.labelMalePlural>
-  <Dromedary.lifeStages.2.labelFemale>самка верблюда</Dromedary.lifeStages.2.labelFemale>
-  <Dromedary.lifeStages.2.labelFemalePlural>самки верблюдів</Dromedary.lifeStages.2.labelFemalePlural>
-  <Dromedary.labelMale>самець верблюда</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>самці верблюдів</Dromedary.labelMalePlural>
-  <Dromedary.labelFemale>самка верблюда</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>самки верблюдів</Dromedary.labelFemalePlural>
+  <Dromedary.lifeStages.0.labelMale>теля-самець дромедара</Dromedary.lifeStages.0.labelMale>
+  <Dromedary.lifeStages.0.labelMalePlural>молоді самці дромедари</Dromedary.lifeStages.0.labelMalePlural>
+  <Dromedary.lifeStages.0.labelFemale>молода самка дромедар</Dromedary.lifeStages.0.labelFemale>
+  <Dromedary.lifeStages.0.labelFemalePlural>молоді самки дромедари</Dromedary.lifeStages.0.labelFemalePlural>
+  <Dromedary.lifeStages.1.label>дромедар</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.1.labelPlural>дромедари</Dromedary.lifeStages.1.labelPlural>
+  <Dromedary.lifeStages.1.labelMale>самець дромедара</Dromedary.lifeStages.1.labelMale>
+  <Dromedary.lifeStages.1.labelMalePlural>самці дромедарів</Dromedary.lifeStages.1.labelMalePlural>
+  <Dromedary.lifeStages.1.labelFemale>самка дромедара</Dromedary.lifeStages.1.labelFemale>
+  <Dromedary.lifeStages.1.labelFemalePlural>самки дромедарів</Dromedary.lifeStages.1.labelFemalePlural>
+  <Dromedary.lifeStages.2.label>дромедар</Dromedary.lifeStages.2.label>
+  <Dromedary.lifeStages.2.labelPlural>дромедари</Dromedary.lifeStages.2.labelPlural>
+  <Dromedary.lifeStages.2.labelMale>самець дромедара</Dromedary.lifeStages.2.labelMale>
+  <Dromedary.lifeStages.2.labelMalePlural>самці дромедарів</Dromedary.lifeStages.2.labelMalePlural>
+  <Dromedary.lifeStages.2.labelFemale>самка дромедара</Dromedary.lifeStages.2.labelFemale>
+  <Dromedary.lifeStages.2.labelFemalePlural>самки дромедарів</Dromedary.lifeStages.2.labelFemalePlural>
+  <Dromedary.labelMale>самець дромедара</Dromedary.labelMale>
+  <Dromedary.labelMalePlural>самці дромедарів</Dromedary.labelMalePlural>
+  <Dromedary.labelFemale>самка дромедара</Dromedary.labelFemale>
+  <Dromedary.labelFemalePlural>самки дромедарів</Dromedary.labelFemalePlural>
 
 
 </LanguageData>
