@@ -17,10 +17,10 @@
   <MeleeWeapon_CooldownMultiplier.description>Множник на затримку атаки для зброї зробленої з цього матеріалу.</MeleeWeapon_CooldownMultiplier.description>
 
   <SharpDamageMultiplier.label>гострі ушкодження</SharpDamageMultiplier.label>
-  <SharpDamageMultiplier.description>A multiplier on damage from sharp-type attacks for weapons made of this material.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.description>Множник пошкодження від гострих атак для виробів з цього матеріалу.</SharpDamageMultiplier.description>
 
   <BluntDamageMultiplier.label>тупі пошкодження</BluntDamageMultiplier.label>
-  <BluntDamageMultiplier.description>A multiplier on damage from blunt-type attacks for weapons made of this material.</BluntDamageMultiplier.description>
+  <BluntDamageMultiplier.description>Множник пошкодження від тупих атак для виробів з цього матеріалу.</BluntDamageMultiplier.description>
 
 
 </LanguageData>
