@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PowerConduit.label>силовий кабель</PowerConduit.label>
+  <PowerConduit.label>електропровід</PowerConduit.label>
   <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
   <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
