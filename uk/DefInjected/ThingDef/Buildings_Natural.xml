@@ -27,7 +27,7 @@
   <MineableJade.label>нефрит</MineableJade.label>
   <MineableJade.description>Гірська порода з нефритом.</MineableJade.description>
 
-  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.label>залежі деталей</MineableComponentsIndustrial.label>
   <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
 
   <SteamGeyser.label>паровий гейзер</SteamGeyser.label>
