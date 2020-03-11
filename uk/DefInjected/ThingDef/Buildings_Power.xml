@@ -2,26 +2,26 @@
 <LanguageData>
 
   <PowerConduit.label>електропровід</PowerConduit.label>
-  <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
-  <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
+  <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit.description>
+  <PowerConduit_Blueprint.label>електропровід (проект)</PowerConduit_Blueprint.label>
+  <PowerConduit_Frame.label>електропровід (будується)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit_Frame.description>
 
-  <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
-  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
-  <WaterproofConduit_Blueprint.label>waterproof conduit (blueprint)</WaterproofConduit_Blueprint.label>
-  <WaterproofConduit_Frame.label>waterproof conduit (building)</WaterproofConduit_Frame.label>
-  <WaterproofConduit_Frame.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit_Frame.description>
+  <WaterproofConduit.label>водонепроникний провід</WaterproofConduit.label>
+  <WaterproofConduit.description>Ізольовані електричні кабелі для передачі енергії через мілководдя.</WaterproofConduit.description>
+  <WaterproofConduit_Blueprint.label>водонепроникний провід (проект)</WaterproofConduit_Blueprint.label>
+  <WaterproofConduit_Frame.label>водонепроникний провід (будується)</WaterproofConduit_Frame.label>
+  <WaterproofConduit_Frame.description>Ізольовані електричні кабелі для передачі енергії через мілководдя.</WaterproofConduit_Frame.description>
 
-  <PowerSwitch.label>силовий вимикач</PowerSwitch.label>
+  <PowerSwitch.label>вимикач живлення</PowerSwitch.label>
   <PowerSwitch.description>Вмикає/вимикає живлення.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
+  <PowerSwitch_Blueprint.label>вимикач живлення (проект)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>вимикач живлення( будується)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Вмикає/вимикає живлення.</PowerSwitch_Frame.description>
 
-  <WoodFiredGenerator.label>тверодопаливний генератор</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator.description>
-  <WoodFiredGenerator_Blueprint.label>wood-fired generator (blueprint)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator.label>генератор на дровах</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Виробляє енергію, спалюючи деревину. Періодично потрібно вручну підкидати деревне паливо.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>генератор на дровах (проект)</WoodFiredGenerator_Blueprint.label>
   <WoodFiredGenerator_Frame.label>wood-fired generator (building)</WoodFiredGenerator_Frame.label>
   <WoodFiredGenerator_Frame.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator_Frame.description>
 
