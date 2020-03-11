@@ -61,10 +61,10 @@
   <OperationsPerformed.description>Скільки раз я проводив операції.</OperationsPerformed.description>
 
   <TimesTendedTo.label>догляду отримано</TimesTendedTo.label>
-  <TimesTendedTo.description>How many times I have had my medical conditions tended.</TimesTendedTo.description>
+  <TimesTendedTo.description>Скільки разів моє здоров'я було доглянуто.</TimesTendedTo.description>
 
   <TimesTendedOther.label>догляду надано</TimesTendedOther.label>
-  <TimesTendedOther.description>How many times I have tended to others' medical conditions.</TimesTendedOther.description>
+  <TimesTendedOther.description>Скільки разів я доглядав за здоров'ям інших.</TimesTendedOther.description>
 
   <PeopleCaptured.label>людей захоплено</PeopleCaptured.label>
   <PeopleCaptured.description>Кількість людей, яких я полонив.</PeopleCaptured.description>
