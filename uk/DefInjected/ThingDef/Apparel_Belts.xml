@@ -5,7 +5,7 @@
   <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
 
   <Apparel_SmokepopBelt.label>димовий пояс</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Автоматична захистна димова завіса одноразового використання. Якщо у носія влучив снаряд, пристрій випустить клуби диму, приховуючи від пострілів та запобігаючи наведенню турелей.</Apparel_SmokepopBelt.description>
 
 
 </LanguageData>
