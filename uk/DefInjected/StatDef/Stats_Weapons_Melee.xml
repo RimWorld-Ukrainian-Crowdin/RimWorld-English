@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_AverageDPS.label>рукопашний урон за секунду</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.label>пошкодження ближнього бою в секунду</MeleeWeapon_AverageDPS.label>
   <MeleeWeapon_AverageDPS.description>Середнє пошкодження що наноситься в секунду в ближньому бою, якщо всі атаки попадуть.</MeleeWeapon_AverageDPS.description>
 
   <MeleeWeapon_AverageArmorPenetration.label>пробиття броні в ближньому бою</MeleeWeapon_AverageArmorPenetration.label>
