@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Apparel_ShieldBelt.label>пояс-щит</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>A projectile-repulsion device. Він намагатиметься блокувати снаряди та шрапнель, але непридатний проти ближнього бою чи нагрівання. Не дає носію здійснювати постріли, і миттєво вимикається, якщо уражений ЕМІ.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>Снарядо-відштувхувальний пристрій. Він блокуватиме снаряди та шрапнель, але непридатний проти ближнього бою чи нагрівання. Не дає носію здійснювати постріли, і миттєво вимикається, якщо уражений ЕМІ.</Apparel_ShieldBelt.description>
 
   <Apparel_SmokepopBelt.label>димовий пояс</Apparel_SmokepopBelt.label>
   <Apparel_SmokepopBelt.description>Автоматична захистна димова завіса одноразового використання. Якщо у носія влучив снаряд, пристрій випустить клуби диму, приховуючи від пострілів та запобігаючи наведенню турелей.</Apparel_SmokepopBelt.description>
