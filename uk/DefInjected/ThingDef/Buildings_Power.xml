@@ -5,25 +5,25 @@
   <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими спорудами.</PowerConduit.description>
   <PowerConduit_Blueprint.label>електропровід (проект)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>електропровід (прокладається)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit_Frame.description>
+  <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими спорудами.</PowerConduit_Frame.description>
 
   <WaterproofConduit.label>водонепроникний провід</WaterproofConduit.label>
   <WaterproofConduit.description>Ізольовані електричні кабелі для передачі енергії через мілководдя.</WaterproofConduit.description>
   <WaterproofConduit_Blueprint.label>водонепроникний провід (проект)</WaterproofConduit_Blueprint.label>
-  <WaterproofConduit_Frame.label>водонепроникний провід (будується)</WaterproofConduit_Frame.label>
+  <WaterproofConduit_Frame.label>водонепроникний провід (прокладається)</WaterproofConduit_Frame.label>
   <WaterproofConduit_Frame.description>Ізольовані електричні кабелі для передачі енергії через мілководдя.</WaterproofConduit_Frame.description>
 
-  <PowerSwitch.label>вимикач живлення</PowerSwitch.label>
-  <PowerSwitch.description>Вмикає/вимикає живлення.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>вимикач живлення (проект)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>вимикач живлення( будується)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Вмикає/вимикає живлення.</PowerSwitch_Frame.description>
+  <PowerSwitch.label>вимикач струму</PowerSwitch.label>
+  <PowerSwitch.description>Вмикає чи вимикає струм.</PowerSwitch.description>
+  <PowerSwitch_Blueprint.label>вимикач струму (проект)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>вимикач струму (будується)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Вмикає/вимикає струм.</PowerSwitch_Frame.description>
 
-  <WoodFiredGenerator.label>генератор на дровах</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Виробляє енергію, спалюючи деревину. Періодично потрібно вручну підкидати деревне паливо.</WoodFiredGenerator.description>
-  <WoodFiredGenerator_Blueprint.label>генератор на дровах (проект)</WoodFiredGenerator_Blueprint.label>
-  <WoodFiredGenerator_Frame.label>генератор на дровах (будується)</WoodFiredGenerator_Frame.label>
-  <WoodFiredGenerator_Frame.description>Виробляє енергію, спалюючи деревину. Періодично потрібно вручну підкидати деревне паливо.</WoodFiredGenerator_Frame.description>
+  <WoodFiredGenerator.label>тверодопаливний генератор</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Виробляє енергію, спалюючи деревину. Паливо потрібно регулярно підкидати вручну.</WoodFiredGenerator.description>
+  <WoodFiredGenerator_Blueprint.label>твердопаливний генератор (проект)</WoodFiredGenerator_Blueprint.label>
+  <WoodFiredGenerator_Frame.label>твердопаливний генератор (будується)</WoodFiredGenerator_Frame.label>
+  <WoodFiredGenerator_Frame.description>Виробляє енергію, спалюючи деревину. Паливо потрібно регулярно підкидати вручну.</WoodFiredGenerator_Frame.description>
 
   <ChemfuelPoweredGenerator.label>генератор на хімпаливі</ChemfuelPoweredGenerator.label>
   <ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну підзаправляти.</ChemfuelPoweredGenerator.description>
