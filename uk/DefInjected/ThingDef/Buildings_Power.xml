@@ -2,7 +2,7 @@
 <LanguageData>
 
   <PowerConduit.label>електропровід</PowerConduit.label>
-  <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit.description>
+  <PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими спорудами.</PowerConduit.description>
   <PowerConduit_Blueprint.label>електропровід (проект)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>електропровід (будується)</PowerConduit_Frame.label>
   <PowerConduit_Frame.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими будівлями.</PowerConduit_Frame.description>
