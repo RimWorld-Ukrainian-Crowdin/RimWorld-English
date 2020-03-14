@@ -9,19 +9,19 @@
 
   <!-- Resource rocks -->
 
-  <MineableSteel.label>залежі сталі</MineableSteel.label>
-  <MineableSteel.description>Залишки якоїсь зруйнованої будівлі. Багата на сталь.</MineableSteel.description>
+  <MineableSteel.label>поклади сталі</MineableSteel.label>
+  <MineableSteel.description>Залишки якоїсь зруйнованої структури. Багаті на сталь.</MineableSteel.description>
 
   <MineableSilver.label>срібна руда</MineableSilver.label>
   <MineableSilver.description>Гірська порода зі срібними самородками.</MineableSilver.description>
 
   <MineableGold.label>золота руда</MineableGold.label>
-  <MineableGold.description>Гірська порода з золотими самородками.</MineableGold.description>
+  <MineableGold.description>Гірська порода зі золотими самородками.</MineableGold.description>
 
   <MineableUranium.label>уранова руда</MineableUranium.label>
   <MineableUranium.description>Гірська порода, що містить уран.</MineableUranium.description>
 
-  <MineablePlasteel.label>залежі пласталі</MineablePlasteel.label>
+  <MineablePlasteel.label>поклади пласталі</MineablePlasteel.label>
   <MineablePlasteel.description>Стародавні руїни, багаті на пласталь.</MineablePlasteel.description>
 
   <MineableJade.label>нефрит</MineableJade.label>
