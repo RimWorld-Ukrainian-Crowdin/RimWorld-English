@@ -23,10 +23,10 @@
   <!-- Helmets -->
 
   <Apparel_SimpleHelmet.label>простий шолом</Apparel_SimpleHelmet.label>
-  <Apparel_SimpleHelmet.description>Простий шолом, що дає помірний захист проти колючо-рубаючих атак. Не ефективний проти ударно-дроблячої зброї.</Apparel_SimpleHelmet.description>
+  <Apparel_SimpleHelmet.description>Простий шолом, що дає помірний захист проти колючо-рубальних атак. Не ефективний проти негострої зброї.</Apparel_SimpleHelmet.description>
 
   <Apparel_AdvancedHelmet.label>передовий шолом</Apparel_AdvancedHelmet.label>
-  <Apparel_AdvancedHelmet.description>Легкий бойовий шолом складної конструкції, зміцнений пластсталлю. Не ефективний проти ударно-дроблячої зброї.</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.description>Легкий бойовий шолом складної конструкції, зміцнений пластсталлю. Не ефективний проти негострої зброї.</Apparel_AdvancedHelmet.description>
 
   <Apparel_PowerArmorHelmet.label>десантний шолом</Apparel_PowerArmorHelmet.label>
   <Apparel_PowerArmorHelmet.description>Броньований шолом десантника, з вбудованим комп'ютером та покритий нарашуванням з пласталевого волокна.\n\n Така броня часто використовується імперськими яничарами та штурмовими космодесантниками.</Apparel_PowerArmorHelmet.description>
