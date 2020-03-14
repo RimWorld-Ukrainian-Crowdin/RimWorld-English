@@ -56,11 +56,11 @@
   <GeothermalGenerator_Frame.label>геотермальний генератор (будується)</GeothermalGenerator_Frame.label>
   <GeothermalGenerator_Frame.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</GeothermalGenerator_Frame.description>
 
-  <WatermillGenerator.label>водяний млин-генератор</WatermillGenerator.label>
-  <WatermillGenerator.description>Виробляє електроенергію з річки. Потрібно розмістити його колесо у водяному потоці. Якщо водяні млини розміщені занадто близько один до одного, турбулентність, яку вони створюють, буде заважати та зменшувати виробництво електроенергії.</WatermillGenerator.description>
-  <WatermillGenerator_Blueprint.label>водяний млин-генератор (проект)</WatermillGenerator_Blueprint.label>
-  <WatermillGenerator_Frame.label>водяний млин-генератор (будується)</WatermillGenerator_Frame.label>
-  <WatermillGenerator_Frame.description>Виробляє електроенергію з річки. Потрібно розмістити його колесо у водяному потоці. Якщо водяні млини розміщені занадто близько один до одного, турбулентність, яку вони створюють, буде заважати та зменшувати виробництво електроенергії.</WatermillGenerator_Frame.description>
+  <WatermillGenerator.label>гідрогенератор</WatermillGenerator.label>
+  <WatermillGenerator.description>Виробляє електроенергію з річки. Потрібно розмістити його колесо у водяному потоці. Якщо гідрогенератори розмістити занадто близько один до одного, турбулентність, яку вони створять, буде заважати та зменшувати виробництво електроенергії.</WatermillGenerator.description>
+  <WatermillGenerator_Blueprint.label>гідрогенератор (проект)</WatermillGenerator_Blueprint.label>
+  <WatermillGenerator_Frame.label>гідрогенератор (будується)</WatermillGenerator_Frame.label>
+  <WatermillGenerator_Frame.description>Виробляє електроенергію з річки. Потрібно розмістити його колесо у водяному потоці. Якщо гідрогенератори розмістити занадто близько один до одного, турбулентність, яку вони створюють, буде заважати та зменшувати виробництво електроенергії.</WatermillGenerator_Frame.description>
 
 
 </LanguageData>
