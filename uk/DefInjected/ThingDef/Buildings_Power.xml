@@ -26,16 +26,16 @@
   <WoodFiredGenerator_Frame.description>Виробляє енергію, спалюючи деревину. Паливо потрібно регулярно підкидати вручну.</WoodFiredGenerator_Frame.description>
 
   <ChemfuelPoweredGenerator.label>генератор на хімпаливі</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну підзаправляти.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну заправляти.</ChemfuelPoweredGenerator.description>
   <ChemfuelPoweredGenerator_Blueprint.label>генератор на хімпаливі (проект)</ChemfuelPoweredGenerator_Blueprint.label>
   <ChemfuelPoweredGenerator_Frame.label>генератор на хімпаливі (будується)</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну підзаправляти.</ChemfuelPoweredGenerator_Frame.description>
+  <ChemfuelPoweredGenerator_Frame.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну заправляти.</ChemfuelPoweredGenerator_Frame.description>
 
   <WindTurbine.label>вітрова турбіна</WindTurbine.label>
-  <WindTurbine.description>Вітряний електричний генератор. Потребує великого простору спереду і ззаду для оптимального потоку повітря.</WindTurbine.description>
+  <WindTurbine.description>Вітровий електричний генератор. Потребує великого простору спереду і ззаду для оптимального потоку повітря.</WindTurbine.description>
   <WindTurbine_Blueprint.label>вітрова турбіна (проект)</WindTurbine_Blueprint.label>
-  <WindTurbine_Frame.label>вітряна турбіна (будується)</WindTurbine_Frame.label>
-  <WindTurbine_Frame.description>Вітряний електричний генератор. Потребує великого простору спереду і ззаду для оптимального потоку повітря.</WindTurbine_Frame.description>
+  <WindTurbine_Frame.label>вітрова турбіна (будується)</WindTurbine_Frame.label>
+  <WindTurbine_Frame.description>Вітровий електричний генератор. Потребує великого простору спереду і ззаду для оптимального потоку повітря.</WindTurbine_Frame.description>
 
   <Battery.label>акумулятор</Battery.label>
   <Battery.description>Зберігає електроенергію для подальшого використання. Заряджені акумулятори вибухають під дощем чи від вогню.</Battery.description>
