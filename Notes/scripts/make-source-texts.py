@@ -15,6 +15,8 @@ def main(args):
     translations_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 
     for dirpath, dirnames, filenames in os.walk(translations_root):
+        if '/.' in dirpath:
+            continue  # skip hidden directories
         for file_name in filenames:
             if not file_name.endswith(".xml"):
                 continue
@@ -23,6 +25,7 @@ def main(args):
 
 
 def transform_file(file_path):
+    print('Transforming file ', file_path)
     with open(file_path, "rb") as inf:
         doc = etree.parse(inf)
 
@@ -37,7 +40,8 @@ def transform_file(file_path):
             last_comment = None
 
     with open(file_path, "wb") as outf:
-        outf.write(etree.tostring(doc, encoding="UTF-8", xml_declaration=True))
+        outf.write(b'\xEF\xBB\xBF<?xml version="1.0" encoding="UTF-8"?>\n')
+        outf.write(etree.tostring(doc, encoding="UTF-8"))
 
 
 if __name__ == "__main__":
