@@ -6,7 +6,7 @@
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Колонія людей, що нещодавно прибули з інших світів.</PlayerColony.description>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>colonist</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>колоніст</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>колоністи</PlayerColony.pawnsPlural>
   
@@ -15,7 +15,7 @@
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Мале плем'я.</PlayerTribe.description>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>tribesman</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>член племені</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>члени племені</PlayerTribe.pawnsPlural>
   
