@@ -35,9 +35,9 @@
   <Menu.description>Change options, save, load, or quit the game.</Menu.description>
   
   <!-- EN: quests -->
-  <Quests.label>TODO</Quests.label>
+  <Quests.label>quests</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>TODO</Quests.description>
+  <Quests.description>View available, active, and historical quests.</Quests.description>
   
   <!-- EN: research -->
   <Research.label>research</Research.label>

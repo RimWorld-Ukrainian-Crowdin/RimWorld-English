@@ -4,7 +4,7 @@
   <!-- EN: psychic animal pulser -->
   <PsychicAnimalPulser.label>psychic animal pulser</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected.</PsychicAnimalPulser.description>
   <!-- EN: Activate -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>Activate</PsychicAnimalPulser.comps.CompUsable.useLabel>
   

@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>ancients</Ancients.label>
+  <Ancients.label>neutral ancients</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>Ancients</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>ancients</AncientsHostile.label>
+  <AncientsHostile.label>hostile ancients</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>insects</Insect.label>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>insects</Insect.fixedName>
+  <Insect.fixedName>Sorne Geneline</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>insect</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>insects</Insect.pawnsPlural>
   
@@ -32,7 +32,7 @@
   <Mechanoid.label>mechanoid hive</Mechanoid.label>
   <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
   

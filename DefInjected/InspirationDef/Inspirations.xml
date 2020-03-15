@@ -6,7 +6,7 @@
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Inspired: Go frenzy</Frenzy_Go.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
   <Frenzy_Go.endMessage>{0} is no longer inspired (go frenzy).</Frenzy_Go.endMessage>
   
@@ -15,7 +15,7 @@
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>Inspired: Shoot frenzy</Frenzy_Shoot.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days.</Frenzy_Shoot.beginLetter>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
   <Frenzy_Shoot.endMessage>{0} is no longer inspired (shoot frenzy).</Frenzy_Shoot.endMessage>
   
@@ -24,7 +24,7 @@
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>Inspired: Work frenzy</Frenzy_Work.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days.</Frenzy_Work.beginLetter>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
   <Frenzy_Work.endMessage>{0} is no longer inspired (work frenzy).</Frenzy_Work.endMessage>
   
@@ -33,7 +33,7 @@
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>Inspired: Inspired creativity</Inspired_Creativity.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed.</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
   <Inspired_Creativity.endMessage>{0} is no longer inspired (inspired creativity).</Inspired_Creativity.endMessage>
   
@@ -42,7 +42,7 @@
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Inspired: Inspired recruitment</Inspired_Recruitment.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0} is no longer inspired (inspired recruitment).</Inspired_Recruitment.endMessage>
   
@@ -51,25 +51,25 @@
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Inspired: Inspired surgery</Inspired_Surgery.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed.</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} is no longer inspired (inspired surgery).</Inspired_Surgery.endMessage>
   
   <!-- EN: inspired taming -->
-  <Inspired_Taming.label>TODO</Inspired_Taming.label>
+  <Inspired_Taming.label>inspired taming</Inspired_Taming.label>
   <!-- EN: Inspired: Inspired taming -->
-  <Inspired_Taming.baseInspectLine>TODO</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.baseInspectLine>Inspired: Inspired taming</Inspired_Taming.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
-  <Inspired_Taming.beginLetter>TODO</Inspired_Taming.beginLetter>
+  <Inspired_Taming.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed.</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
-  <Inspired_Taming.endMessage>TODO</Inspired_Taming.endMessage>
+  <Inspired_Taming.endMessage>{0} is no longer inspired (inspired taming).</Inspired_Taming.endMessage>
   
   <!-- EN: inspired trade -->
   <Inspired_Trade.label>inspired trade</Inspired_Trade.label>
   <!-- EN: Inspired: Inspired trade -->
   <Inspired_Trade.baseInspectLine>Inspired: Inspired trade</Inspired_Trade.baseInspectLine>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
-  <Inspired_Trade.beginLetter>[PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done.</Inspired_Trade.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
   <Inspired_Trade.endMessage>{0} is no longer inspired (inspired trade).</Inspired_Trade.endMessage>
   

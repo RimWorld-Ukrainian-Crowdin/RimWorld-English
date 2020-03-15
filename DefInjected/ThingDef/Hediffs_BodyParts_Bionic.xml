@@ -37,11 +37,11 @@
   <BionicStomach.description>An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way.</BionicStomach.description>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others.</DeathAcidifier.description>
   
   <!-- EN: Mote -->
-  <Mote_AcidCloud.label>TODO</Mote_AcidCloud.label>
+  <Mote_AcidCloud.label>Mote</Mote_AcidCloud.label>
   
 </LanguageData>

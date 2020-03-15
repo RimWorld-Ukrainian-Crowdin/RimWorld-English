@@ -51,10 +51,10 @@
   <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>TODO</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>TODO</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
   
 </LanguageData>

@@ -23,10 +23,10 @@
   <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
   
   <!-- EN: install wooden hand -->
-  <InstallWoodenHand.label>TODO</InstallWoodenHand.label>
+  <InstallWoodenHand.label>install wooden hand</InstallWoodenHand.label>
   <!-- EN: Install a wooden hand. -->
-  <InstallWoodenHand.description>TODO</InstallWoodenHand.description>
+  <InstallWoodenHand.description>Install a wooden hand.</InstallWoodenHand.description>
   <!-- EN: Installing wooden hand. -->
-  <InstallWoodenHand.jobString>TODO</InstallWoodenHand.jobString>
+  <InstallWoodenHand.jobString>Installing wooden hand.</InstallWoodenHand.jobString>
   
 </LanguageData>

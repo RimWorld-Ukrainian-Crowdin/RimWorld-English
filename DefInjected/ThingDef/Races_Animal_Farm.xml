@@ -13,15 +13,15 @@
   <Alpaca.tools.head.label>head</Alpaca.tools.head.label>
   
   <!-- EN: bison -->
-  <Bison.label>TODO</Bison.label>
+  <Bison.label>bison</Bison.label>
   <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
-  <Bison.description>TODO</Bison.description>
+  <Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description>
   <!-- EN: head -->
-  <Bison.tools.head.label>TODO</Bison.tools.head.label>
+  <Bison.tools.head.label>head</Bison.tools.head.label>
   <!-- EN: left hoof -->
-  <Bison.tools.left_hoof.label>TODO</Bison.tools.left_hoof.label>
+  <Bison.tools.left_hoof.label>left hoof</Bison.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Bison.tools.right_hoof.label>TODO</Bison.tools.right_hoof.label>
+  <Bison.tools.right_hoof.label>right hoof</Bison.tools.right_hoof.label>
   
   <!-- EN: chicken -->
   <Chicken.label>chicken</Chicken.label>
@@ -39,7 +39,7 @@
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
   <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
   <!-- EN: beef -->
-  <Cow.race.meatLabel>TODO</Cow.race.meatLabel>
+  <Cow.race.meatLabel>beef</Cow.race.meatLabel>
   <!-- EN: head -->
   <Cow.tools.head.label>head</Cow.tools.head.label>
   <!-- EN: left hoof -->
@@ -48,100 +48,100 @@
   <Cow.tools.right_hoof.label>right hoof</Cow.tools.right_hoof.label>
   
   <!-- EN: donkey -->
-  <Donkey.label>TODO</Donkey.label>
+  <Donkey.label>donkey</Donkey.label>
   <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing. -->
-  <Donkey.description>TODO</Donkey.description>
+  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.</Donkey.description>
   <!-- EN: head -->
-  <Donkey.tools.head.label>TODO</Donkey.tools.head.label>
+  <Donkey.tools.head.label>head</Donkey.tools.head.label>
   <!-- EN: left hoof -->
-  <Donkey.tools.left_hoof.label>TODO</Donkey.tools.left_hoof.label>
+  <Donkey.tools.left_hoof.label>left hoof</Donkey.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Donkey.tools.right_hoof.label>TODO</Donkey.tools.right_hoof.label>
+  <Donkey.tools.right_hoof.label>right hoof</Donkey.tools.right_hoof.label>
   
   <!-- EN: duck -->
-  <Duck.label>TODO</Duck.label>
+  <Duck.label>duck</Duck.label>
   <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily. -->
-  <Duck.description>TODO</Duck.description>
+  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily.</Duck.description>
   <!-- EN: claws -->
-  <Duck.tools.claws.label>TODO</Duck.tools.claws.label>
+  <Duck.tools.claws.label>claws</Duck.tools.claws.label>
   <!-- EN: beak -->
-  <Duck.tools.beak.label>TODO</Duck.tools.beak.label>
+  <Duck.tools.beak.label>beak</Duck.tools.beak.label>
   <!-- EN: head -->
-  <Duck.tools.head.label>TODO</Duck.tools.head.label>
+  <Duck.tools.head.label>head</Duck.tools.head.label>
   
   <!-- EN: goat -->
-  <Goat.label>TODO</Goat.label>
+  <Goat.label>goat</Goat.label>
   <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
-  <Goat.description>TODO</Goat.description>
+  <Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description>
   <!-- EN: head -->
-  <Goat.tools.head.label>TODO</Goat.tools.head.label>
+  <Goat.tools.head.label>head</Goat.tools.head.label>
   
   <!-- EN: goose -->
-  <Goose.label>TODO</Goose.label>
+  <Goose.label>goose</Goose.label>
   <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
-  <Goose.description>TODO</Goose.description>
+  <Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description>
   <!-- EN: claws -->
-  <Goose.tools.claws.label>TODO</Goose.tools.claws.label>
+  <Goose.tools.claws.label>claws</Goose.tools.claws.label>
   <!-- EN: beak -->
-  <Goose.tools.beak.label>TODO</Goose.tools.beak.label>
+  <Goose.tools.beak.label>beak</Goose.tools.beak.label>
   <!-- EN: head -->
-  <Goose.tools.head.label>TODO</Goose.tools.head.label>
+  <Goose.tools.head.label>head</Goose.tools.head.label>
   
   <!-- EN: guinea pig -->
-  <GuineaPig.label>TODO</GuineaPig.label>
+  <GuineaPig.label>guinea pig</GuineaPig.label>
   <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
-  <GuineaPig.description>TODO</GuineaPig.description>
+  <GuineaPig.description>Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner.</GuineaPig.description>
   <!-- EN: left claw -->
-  <GuineaPig.tools.left_claw.label>TODO</GuineaPig.tools.left_claw.label>
+  <GuineaPig.tools.left_claw.label>left claw</GuineaPig.tools.left_claw.label>
   <!-- EN: right claw -->
-  <GuineaPig.tools.right_claw.label>TODO</GuineaPig.tools.right_claw.label>
+  <GuineaPig.tools.right_claw.label>right claw</GuineaPig.tools.right_claw.label>
   <!-- EN: head -->
-  <GuineaPig.tools.head.label>TODO</GuineaPig.tools.head.label>
+  <GuineaPig.tools.head.label>head</GuineaPig.tools.head.label>
   
   <!-- EN: horse -->
-  <Horse.label>TODO</Horse.label>
+  <Horse.label>horse</Horse.label>
   <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
-  <Horse.description>TODO</Horse.description>
+  <Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.</Horse.description>
   <!-- EN: horse meat -->
-  <Horse.race.meatLabel>TODO</Horse.race.meatLabel>
+  <Horse.race.meatLabel>horse meat</Horse.race.meatLabel>
   <!-- EN: head -->
-  <Horse.tools.head.label>TODO</Horse.tools.head.label>
+  <Horse.tools.head.label>head</Horse.tools.head.label>
   <!-- EN: left hoof -->
-  <Horse.tools.left_hoof.label>TODO</Horse.tools.left_hoof.label>
+  <Horse.tools.left_hoof.label>left hoof</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Horse.tools.right_hoof.label>TODO</Horse.tools.right_hoof.label>
+  <Horse.tools.right_hoof.label>right hoof</Horse.tools.right_hoof.label>
   
   <!-- EN: pig -->
   <Pig.label>pig</Pig.label>
   <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
   <Pig.description>The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks.</Pig.description>
   <!-- EN: pork -->
-  <Pig.race.meatLabel>TODO</Pig.race.meatLabel>
+  <Pig.race.meatLabel>pork</Pig.race.meatLabel>
   <!-- EN: head -->
   <Pig.tools.head.label>head</Pig.tools.head.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>TODO</Sheep.label>
+  <Sheep.label>sheep</Sheep.label>
   <!-- EN: Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
-  <Sheep.description>TODO</Sheep.description>
+  <Sheep.description>Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns.</Sheep.description>
   <!-- EN: head -->
-  <Sheep.tools.head.label>TODO</Sheep.tools.head.label>
+  <Sheep.tools.head.label>head</Sheep.tools.head.label>
   <!-- EN: left hoof -->
-  <Sheep.tools.left_hoof.label>TODO</Sheep.tools.left_hoof.label>
+  <Sheep.tools.left_hoof.label>left hoof</Sheep.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Sheep.tools.right_hoof.label>TODO</Sheep.tools.right_hoof.label>
+  <Sheep.tools.right_hoof.label>right hoof</Sheep.tools.right_hoof.label>
   
   <!-- EN: yak -->
-  <Yak.label>TODO</Yak.label>
+  <Yak.label>yak</Yak.label>
   <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
-  <Yak.description>TODO</Yak.description>
+  <Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description>
   <!-- EN: yak beef -->
-  <Yak.race.meatLabel>TODO</Yak.race.meatLabel>
+  <Yak.race.meatLabel>yak beef</Yak.race.meatLabel>
   <!-- EN: head -->
-  <Yak.tools.head.label>TODO</Yak.tools.head.label>
+  <Yak.tools.head.label>head</Yak.tools.head.label>
   <!-- EN: left hoof -->
-  <Yak.tools.left_hoof.label>TODO</Yak.tools.left_hoof.label>
+  <Yak.tools.left_hoof.label>left hoof</Yak.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Yak.tools.right_hoof.label>TODO</Yak.tools.right_hoof.label>
+  <Yak.tools.right_hoof.label>right hoof</Yak.tools.right_hoof.label>
   
 </LanguageData>

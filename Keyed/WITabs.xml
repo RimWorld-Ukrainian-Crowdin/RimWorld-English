@@ -47,7 +47,7 @@
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Prisoners</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Equippable items</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>None capable</NoneCapable>
   <!-- EN: Caravan not moving -->

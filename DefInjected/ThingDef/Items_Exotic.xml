@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: persona core -->
-  <AIPersonaCore.label>AI persona core</AIPersonaCore.label>
+  <AIPersonaCore.label>persona core</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power.</AIPersonaCore.description>
+  <AIPersonaCore.description>A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>elephant tusk</ElephantTusk.label>

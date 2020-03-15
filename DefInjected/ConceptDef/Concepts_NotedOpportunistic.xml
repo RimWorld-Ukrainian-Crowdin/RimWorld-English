@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>Animals don't attack doors</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Animals will attack doors</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Bills tab</BillsTab.label>

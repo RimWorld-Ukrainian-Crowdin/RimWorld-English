@@ -6,7 +6,7 @@
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>colonist</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
   
@@ -15,7 +15,7 @@
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>A small tribe.</PlayerTribe.description>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>tribesman</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
   

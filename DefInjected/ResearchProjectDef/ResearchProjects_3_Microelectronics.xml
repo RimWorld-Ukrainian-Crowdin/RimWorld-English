@@ -9,7 +9,7 @@
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>autocannon turret</HeavyTurrets.label>
   <!-- EN: Produce the heavy autocannon turret. -->
-  <HeavyTurrets.description>Produce the heavy, long-ranged autocannon turret.</HeavyTurrets.description>
+  <HeavyTurrets.description>Produce the heavy autocannon turret.</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>hospital bed</HospitalBed.label>
@@ -49,7 +49,7 @@
   <!-- EN: shield belt -->
   <ShieldBelt.label>shield belt</ShieldBelt.label>
   <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
-  <ShieldBelt.description>Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
+  <ShieldBelt.description>Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>transport pod</TransportPod.label>

@@ -4,23 +4,23 @@
   <!-- EN: Call {0} -->
   <CallOnRadio>Call {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
+  <CannotUseReason>Cannot use: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Cannot use: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+  <CannotUseNoPower>Cannot use: No power</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+  <CannotUseNoPath>Cannot use: No path</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
+  <CannotUseReserved>Cannot use: Reserved</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
+  <CannotUseFull>Cannot use: full</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>leader {1_labelShort} is unavailable</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>TODO</NotAllowed>
+  <NotAllowed>Not allowed</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Fire at {1_label}</FireAt>
@@ -30,7 +30,7 @@
   <!-- EN: too close -->
   <TooClose>too close</TooClose>
   <!-- EN: Cannot hit target -->
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
+  <CannotHitTarget>Cannot hit target</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>{1_labelShort} is incapable of violence</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
@@ -52,7 +52,7 @@
   <!-- EN: no path -->
   <NoPath>no path</NoPath>
   <!-- EN: burying -->
-  <Burying>TODO</Burying>
+  <Burying>burying</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>forbidden</ForbiddenLower>
@@ -85,7 +85,7 @@
   <!-- EN: no food -->
   <NoFood>no food</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>below requirements of {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
@@ -95,7 +95,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>TODO</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>{0} skill too low</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>need components</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -127,28 +127,28 @@
   <!-- EN: angers faction -->
   <AngersFaction>angers faction</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>no body part</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>not a colonist</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>TODO</UpgradeImplant>
+  <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consume {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here: no path -->
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
+  <CannotGoNoPath>Cannot go here: no path</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Go here</GoHere>
   
   <!-- EN: Arrest {0} -->
   <Arrest>Arrest {0}</Arrest>
   <!-- EN: Try to arrest {1_label} ({2} chance) -->
-  <TryToArrest>Try to arrest {1_label}</TryToArrest>
+  <TryToArrest>Try to arrest {1_label} ({2} chance)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Cannot arrest</CannotArrest>
 
@@ -168,12 +168,12 @@
   <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>TODO</CarryToShuttle>
+  <CarryToShuttle>Carry {0_label} to shuttle</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>Temporary faction members not allowed.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -227,17 +227,17 @@
   <PickUpCount>Pick up {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Cannot give {1_label} to pack animal</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Load {1_label} onto pack animal</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Cannot give {1_label} (all) to pack animal</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Cannot load {1_label} (all) onto pack animal</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Give {1_label} to pack animal</GiveToPackAnimal>
+  <GiveToPackAnimal>Load {1_label} onto pack animal</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Give {1_label} (all) to pack animal</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Load {1_label} (all) onto pack animal</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>Give {1_labelShort} to pack animal...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>Load {1_labelShort} onto pack animal...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Take {1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Load {1_labelShort} x{{0}} onto pack animal</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Cannot load {1_label} into caravan</CannotLoadIntoCaravan>
@@ -266,13 +266,13 @@
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Cannot strip {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>TODO</CannotDrop>
+  <CannotDrop>Cannot drop {1_label}</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>TODO</QuestRelated>
+  <QuestRelated>temporary faction member</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Cannot change outfits on temporary faction members</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>would replace locked apparel</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Self-destruct here</SelfDestructHere>
@@ -314,7 +314,7 @@
   <!-- EN: Offer gifts -->
   <OfferGifts>Offer gifts</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>TODO</TradeWithSettlement>
+  <TradeWithSettlement>Trade with {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -322,7 +322,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>TODO</EnterShuttle>
+  <EnterShuttle>Get in shuttle</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -331,36 +331,36 @@
   <CannotGenericWorkCustom>Cannot {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Cannot prioritize: incapable of {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Already {0} {2_labelShort}</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>Already {0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize: will never do {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>TODO</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>Cannot trade: lacking necessary title</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize: will never {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>will never {0}</WillNever>
 
   <!-- EN: Cannot prioritize: not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize: not assigned to {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>not assigned</NotAssigned>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Cannot prioritize: research is a long-term task</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>Cannot prioritize ({1_label} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Cannot prioritize: {1_label} is forbidden</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: forbidden -->
-  <CannotPrioritizeCellForbidden>Cannot prioritize (forbidden)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Cannot prioritize: forbidden</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Outside allowed area</CannotPrioritizeForbiddenOutsideAllowedArea>
 
@@ -417,7 +417,7 @@
   <OfferHelp>Offer help</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>TODO</ApplyTechprint>
+  <ApplyTechprint>apply {0}</ApplyTechprint>
   
   <!-- UNUSED -->
   <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>

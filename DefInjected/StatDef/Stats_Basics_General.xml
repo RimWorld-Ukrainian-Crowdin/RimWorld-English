@@ -4,7 +4,7 @@
   <!-- EN: beauty -->
   <Beauty.label>beauty</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty.</Beauty.description>
+  <Beauty.description>How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty.</Beauty.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>cleanliness</Cleanliness.label>
@@ -14,12 +14,12 @@
   <!-- EN: comfort -->
   <Comfort.label>comfort</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort.</Comfort.description>
+  <Comfort.description>How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort.</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
   
@@ -33,12 +33,12 @@
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>The chance this food will cause food poisoning.</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>food poison chance (food stat)</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>market value</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
+  <MarketValue.description>The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
   <!-- EN: ${0} -->
   <MarketValue.formatString>${0}</MarketValue.formatString>
   
@@ -52,7 +52,7 @@
   <!-- EN: max hit points -->
   <MaxHitPoints.label>max hit points</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <MaxHitPoints.description>The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed.</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>nutrition</Nutrition.label>
@@ -60,9 +60,9 @@
   <Nutrition.description>How nutritious this food is.</Nutrition.description>
   
   <!-- EN: royal favor value -->
-  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <RoyalFavorValue.label>royal favor value</RoyalFavorValue.label>
   <!-- EN: The amount of royal favor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  <RoyalFavorValue.description>The amount of royal favor your trader will earn for giving this to a tribute collector.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
@@ -72,9 +72,9 @@
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>shooting accuracy</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>shooting accuracy (turrets)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>work to make</WorkToMake.label>

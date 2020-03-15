@@ -34,8 +34,8 @@
   <!-- EN: mining -->
   <WorkTagMining>mining</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>hunting</WorkTagHunting>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>commoner work</WorkTagCommoner>
 
 </LanguageData>

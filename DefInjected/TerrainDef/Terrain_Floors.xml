@@ -29,7 +29,7 @@
   <!-- EN: concrete -->
   <Concrete.label>concrete</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly.</Concrete.description>
+  <Concrete.description>Rough concrete. It is cheap and quick to build, but is also quite ugly.</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>gold tile</GoldTile.label>
@@ -37,14 +37,14 @@
   <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>metal tile</MetalTile.label>
+  <MetalTile.label>steel tile</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
+  <MetalTile.description>Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>paved tile</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.description>Concrete tiles. Cheap, but neutral in terms of looks and slow to build.</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>silver tile</SilverTile.label>

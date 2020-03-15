@@ -8,13 +8,13 @@
   <Apparel.label>apparel</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>armor</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>noble apparel</ApparelNoble.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>headgear</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>artifacts</Artifacts.label>
@@ -23,25 +23,25 @@
   <BodyParts.label>body parts</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
   
   <!-- UNUSED -->
   <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>prosthetic</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>simple parts</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>buildings</Buildings.label>
@@ -116,7 +116,7 @@
   <Headgear.label>headgear</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>headgear</HeadgearNoble.label>
   
   <!-- EN: items -->
   <Items.label>items</Items.label>
@@ -137,10 +137,10 @@
   <MortarShells.label>mortar shells</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
@@ -161,7 +161,7 @@
   <StoneChunks.label>stone chunks</StoneChunks.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>techprints</Techprints.label>
   
   <!-- EN: textiles -->
   <Textiles.label>textiles</Textiles.label>
@@ -176,7 +176,7 @@
   <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
   
   <!-- EN: bladelink weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>bladelink weapons</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>

@@ -52,7 +52,7 @@
   <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>hard worker vs lazy</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
   
   <!-- EN: holding me prisoner -->
-  <HoldingMePrisoner.stages.holding_me_prisoner.label>TODO</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>holding me prisoner</HoldingMePrisoner.stages.holding_me_prisoner.label>
   
   <!-- EN: incestuous -->
   <Incestuous.stages.incestuous.label>incestuous</Incestuous.stages.incestuous.label>
@@ -81,9 +81,9 @@
   <OpinionOfMyLover.stages.opinion_of_my.description>Being with my lover makes me feel this way.</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
-  <Pretty.stages.physically_appealing.label>pretty</Pretty.stages.physically_appealing.label>
+  <Pretty.stages.physically_appealing.label>physically appealing</Pretty.stages.physically_appealing.label>
   <!-- EN: physically stunning -->
-  <Pretty.stages.physically_stunning.label>beautiful</Pretty.stages.physically_stunning.label>
+  <Pretty.stages.physically_stunning.label>physically stunning</Pretty.stages.physically_stunning.label>
   
   <!-- EN: sold prisoner to slavery -->
   <SoldPrisoner.stages.sold_prisoner_to_slavery.label>sold prisoner to slavery</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
@@ -106,9 +106,9 @@
   <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>transhumanist appreciation</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
-  <Ugly.stages.physically_unsightly.label>ugly</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_unsightly.label>physically unsightly</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
-  <Ugly.stages.physically_hideous.label>staggeringly ugly</Ugly.stages.physically_hideous.label>
+  <Ugly.stages.physically_hideous.label>physically hideous</Ugly.stages.physically_hideous.label>
   
   <!-- EN: want to sleep with {0} -->
   <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>want to sleep with {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>

@@ -56,102 +56,102 @@
   <Combat_FailIncludes.rulePack.rulesStrings.13>tried->attempted</Combat_FailIncludes.rulePack.rulesStrings.13>
   
   <!-- EN: result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist] -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
   <!-- EN: result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence] -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>
   <!-- EN: result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv] -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_situation]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>
   <!-- EN: strikeAdv->painfully -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>strikeAdv->painfully</Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>
   <!-- EN: strikeAdv->horribly -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>adverb_flavortext->painfully</Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>strikeAdv->horribly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>
   <!-- EN: strikeAdv->savagely -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>adverb_flavortext->brutally</Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>strikeAdv->savagely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>
   <!-- EN: strikeAdv->viciously -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>adverb_flavortext->horribly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>strikeAdv->viciously</Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>
   <!-- EN: flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>adverb_flavortext->agonizingly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>
   <!-- EN: flavortext_consequence->leaving a horrific wound -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>adverb_flavortext->fiercely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>flavortext_consequence->leaving a horrific wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>
   <!-- EN: flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent] -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>adverb_flavortext->ruthlessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>
   <!-- EN: flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>adverb_flavortext->savagely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>
   
   <!-- EN: r_logentry->[action], [result]. -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.0>r_logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.1>r_logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.1>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.1>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
   <!-- EN: implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[INITIATOR_possessive] [adjective_bodypart] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
   <!-- EN: targetlist(recipient_part_count==1)->[recipient_part0_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.9>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
   <!-- EN: targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.10>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
   <!-- EN: targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.11>adjective_bodypart->hard</Combat_MeleeIncludes.rulePack.rulesStrings.11>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.11>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.11>
   <!-- EN: targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.12>adjective_bodypart->strong</Combat_MeleeIncludes.rulePack.rulesStrings.12>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.12>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.12>
   <!-- EN: damaged_present(deflected!=True)->wounding -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.13>adjective_bodypart->powerful</Combat_MeleeIncludes.rulePack.rulesStrings.13>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.13>damaged_present(deflected!=True)->wounding</Combat_MeleeIncludes.rulePack.rulesStrings.13>
   <!-- EN: damaged_present(deflected!=True)->injuring -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.14>adjective_bodypart->forceful</Combat_MeleeIncludes.rulePack.rulesStrings.14>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.14>damaged_present(deflected!=True)->injuring</Combat_MeleeIncludes.rulePack.rulesStrings.14>
   <!-- EN: destroyed(p=0.5)->destroyed -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.15>adjective_bodypart->mighty</Combat_MeleeIncludes.rulePack.rulesStrings.15>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.15>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.15>
   <!-- EN: destroyed(p=0.5)->demolished -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.16>adjective_bodypart->rugged</Combat_MeleeIncludes.rulePack.rulesStrings.16>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.16>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.16>
   <!-- EN: destroyed(p=0.5)->ruined -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.17>adjective_bodypart->stout</Combat_MeleeIncludes.rulePack.rulesStrings.17>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.17>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.17>
   <!-- EN: destroyed(p=0.5)->wrecked -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.18>adjective_bodypart->sturdy</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.18>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.18>
   <!-- EN: wince(recipient_flesh==Normal)->wince -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.19>adjective_bodypart->solid</Combat_MeleeIncludes.rulePack.rulesStrings.19>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.19>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.19>
   <!-- EN: wince(recipient_flesh==Normal)->grimace -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.20>adjective_bodypart->tough</Combat_MeleeIncludes.rulePack.rulesStrings.20>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.20>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.20>
   <!-- EN: wince(recipient_flesh==Normal)->cringe -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.21>adjective_bodypart(initiator_flesh==True)->calloused</Combat_MeleeIncludes.rulePack.rulesStrings.21>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.21>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.21>
   <!-- EN: wince(recipient_flesh==Normal)->groan -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.22>adjective_bodypart->firm</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.22>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.22>
   <!-- EN: wince(recipient_flesh!=Mechanoid)->scream -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.23>wince(recipient_flesh!=Mechanoid)->scream</Combat_MeleeIncludes.rulePack.rulesStrings.23>
   <!-- EN: wince(recipient_flesh!=Mechanoid)->shout -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.24>wince(recipient_flesh!=Mechanoid)->shout</Combat_MeleeIncludes.rulePack.rulesStrings.24>
   <!-- EN: wince->recoil -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.25>wince->recoil</Combat_MeleeIncludes.rulePack.rulesStrings.25>
   <!-- EN: wince->stumble -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.26>wince->stumble</Combat_MeleeIncludes.rulePack.rulesStrings.26>
   <!-- EN: painstate->in -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present(deflected!=True)->wounding</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.27>painstate->in</Combat_MeleeIncludes.rulePack.rulesStrings.27>
   <!-- EN: painstate->with -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present(deflected!=True)->injuring</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.28>painstate->with</Combat_MeleeIncludes.rulePack.rulesStrings.28>
   <!-- EN: painstate->from the -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.29>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.29>painstate->from the</Combat_MeleeIncludes.rulePack.rulesStrings.29>
   <!-- EN: painevent(recipient_flesh!=Mechanoid)->[painstate] pain -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.30>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.30>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</Combat_MeleeIncludes.rulePack.rulesStrings.30>
   <!-- EN: painevent(recipient_flesh!=Mechanoid)->[painstate] agony -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.31>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.31>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</Combat_MeleeIncludes.rulePack.rulesStrings.31>
   <!-- EN: painevent(recipient_flesh==Normal)->with misery -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.32>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.32>painevent(recipient_flesh==Normal)->with misery</Combat_MeleeIncludes.rulePack.rulesStrings.32>
   <!-- EN: painevent->from the injury -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.33>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.33>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.33>painevent->from the injury</Combat_MeleeIncludes.rulePack.rulesStrings.33>
   <!-- EN: painevent->from the wound -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.34>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.34>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.34>painevent->from the wound</Combat_MeleeIncludes.rulePack.rulesStrings.34>
   <!-- EN: to->to -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.35>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.35>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.35>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.35>
   <!-- EN: to->into -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.36>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.36>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.36>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.36>
   
   <!-- EN:
     <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>Ability</Ability.label>
   
   <!-- EN: Apparel -->
   <Apparel.label>Apparel</Apparel.label>
@@ -11,31 +11,31 @@
   <Basics.label>Basics</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>TODO</BasicsImportant.label>
+  <BasicsImportant.label>Basics</BasicsImportant.label>
   
   <!-- EN: Basics -->
   <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>Basics</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
   <BasicsPawn.label>Basics</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>Basics</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
   <Building.label>Building</Building.label>
   
   <!-- EN: capacity effects -->
-  <CapacityEffects.label>TODO</CapacityEffects.label>
+  <CapacityEffects.label>capacity effects</CapacityEffects.label>
   
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>Implant</Implant.label>
   
   <!-- EN: Combat -->
   <PawnCombat.label>Combat</PawnCombat.label>

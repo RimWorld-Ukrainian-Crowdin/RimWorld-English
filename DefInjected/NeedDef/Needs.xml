@@ -12,9 +12,9 @@
   <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>TODO</DrugDesire.label>
+  <DrugDesire.label>chemical</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>TODO</DrugDesire.description>
+  <DrugDesire.description>Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood.</DrugDesire.description>
   
   <!-- EN: food -->
   <Food.label>food</Food.label>
@@ -29,7 +29,7 @@
   <!-- EN: mood -->
   <Mood.label>mood</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
-  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
+  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>outdoors</Outdoors.label>

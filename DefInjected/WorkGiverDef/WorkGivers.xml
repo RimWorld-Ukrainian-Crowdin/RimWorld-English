@@ -212,7 +212,7 @@
   <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
-  <DoBillsSculpt.label>make sculptures</DoBillsSculpt.label>
+  <DoBillsSculpt.label>make things at art bench</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>sculpting at</DoBillsSculpt.gerund>
   <!-- EN: sculpt -->
@@ -289,11 +289,11 @@
   <DoctorTendToSelf.verb>tend to</DoctorTendToSelf.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelfEmergency.label>TODO</DoctorTendToSelfEmergency.label>
+  <DoctorTendToSelfEmergency.label>tend to self</DoctorTendToSelfEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelfEmergency.gerund>TODO</DoctorTendToSelfEmergency.gerund>
+  <DoctorTendToSelfEmergency.gerund>tending to</DoctorTendToSelfEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelfEmergency.verb>TODO</DoctorTendToSelfEmergency.verb>
+  <DoctorTendToSelfEmergency.verb>tend to</DoctorTendToSelfEmergency.verb>
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>execute prisoners</DoExecution.label>
@@ -345,11 +345,11 @@
   <Flick.verb>flick switch on</Flick.verb>
   
   <!-- EN: operate ground penetrating scanner -->
-  <GroundPenetratingScan.label>TODO</GroundPenetratingScan.label>
+  <GroundPenetratingScan.label>operate ground penetrating scanner</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
-  <GroundPenetratingScan.gerund>TODO</GroundPenetratingScan.gerund>
+  <GroundPenetratingScan.gerund>scanning at</GroundPenetratingScan.gerund>
   <!-- EN: scan -->
-  <GroundPenetratingScan.verb>TODO</GroundPenetratingScan.verb>
+  <GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
@@ -415,11 +415,11 @@
   <LoadTransporters.verb>load</LoadTransporters.verb>
   
   <!-- EN: operate long range scanner -->
-  <LongRangeScan.label>TODO</LongRangeScan.label>
+  <LongRangeScan.label>operate long range scanner</LongRangeScan.label>
   <!-- EN: scanning at -->
-  <LongRangeScan.gerund>TODO</LongRangeScan.gerund>
+  <LongRangeScan.gerund>scanning at</LongRangeScan.gerund>
   <!-- EN: scan -->
-  <LongRangeScan.verb>TODO</LongRangeScan.verb>
+  <LongRangeScan.verb>scan</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
   <Milk.label>milk animals</Milk.label>

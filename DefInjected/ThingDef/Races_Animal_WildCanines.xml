@@ -22,7 +22,7 @@
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
   <Fox_Fennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat.</Fox_Fennec.description>
   <!-- EN: fox meat -->
-  <Fox_Fennec.race.meatLabel>TODO</Fox_Fennec.race.meatLabel>
+  <Fox_Fennec.race.meatLabel>fox meat</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
   <Fox_Fennec.tools.left_claw.label>left claw</Fox_Fennec.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -85,7 +85,7 @@
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
   <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</Wolf_Timber.description>
   <!-- EN: wolf meat -->
-  <Wolf_Timber.race.meatLabel>TODO</Wolf_Timber.race.meatLabel>
+  <Wolf_Timber.race.meatLabel>wolf meat</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
   <Wolf_Timber.tools.left_claw.label>left claw</Wolf_Timber.tools.left_claw.label>
   <!-- EN: right claw -->

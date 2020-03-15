@@ -6,7 +6,7 @@
   <!-- EN: A group of turrets. -->
   <Turrets.description>A group of turrets.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>TODO</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>There are enemy turrets in this area.</Turrets.arrivedLetter>
   
   <!-- UNUSED -->
   <Turrets.descriptionDialogue>{0} defend the site</Turrets.descriptionDialogue>

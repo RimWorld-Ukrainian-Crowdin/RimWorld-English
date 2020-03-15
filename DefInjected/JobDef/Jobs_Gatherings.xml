@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: talking. -->
-  <GiveSpeech.reportString>TODO</GiveSpeech.reportString>
+  <GiveSpeech.reportString>talking.</GiveSpeech.reportString>
   
   <!-- EN: marrying TargetA. -->
   <MarryAdjacentPawn.reportString>marrying TargetA.</MarryAdjacentPawn.reportString>

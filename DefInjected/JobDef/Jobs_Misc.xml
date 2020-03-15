@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: applying techprint TargetB. -->
-  <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>applying techprint TargetB.</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
@@ -14,7 +14,7 @@
   <BeatFire.reportString>beating fire out.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>TODO</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
@@ -59,7 +59,7 @@
   <Goto.reportString>moving.</Goto.reportString>
   
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>moving.</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>

@@ -54,539 +54,539 @@
   <!-- EN: make advanced helmet -->
   <Make_Apparel_AdvancedHelmet.label>make advanced helmet</Make_Apparel_AdvancedHelmet.label>
   <!-- EN: Make a advanced helmet. -->
-  <Make_Apparel_AdvancedHelmet.description>Make advanced helmet.</Make_Apparel_AdvancedHelmet.description>
+  <Make_Apparel_AdvancedHelmet.description>Make a advanced helmet.</Make_Apparel_AdvancedHelmet.description>
   <!-- EN: Making advanced helmet. -->
   <Make_Apparel_AdvancedHelmet.jobString>Making advanced helmet.</Make_Apparel_AdvancedHelmet.jobString>
   
   <!-- EN: make T-shirt -->
   <Make_Apparel_BasicShirt.label>make T-shirt</Make_Apparel_BasicShirt.label>
   <!-- EN: Make a T-shirt. -->
-  <Make_Apparel_BasicShirt.description>Make T-shirt.</Make_Apparel_BasicShirt.description>
+  <Make_Apparel_BasicShirt.description>Make a T-shirt.</Make_Apparel_BasicShirt.description>
   <!-- EN: Making T-shirt. -->
   <Make_Apparel_BasicShirt.jobString>Making T-shirt.</Make_Apparel_BasicShirt.jobString>
   
   <!-- EN: make bowler hat -->
   <Make_Apparel_BowlerHat.label>make bowler hat</Make_Apparel_BowlerHat.label>
   <!-- EN: Make a bowler hat. -->
-  <Make_Apparel_BowlerHat.description>Make bowler hat.</Make_Apparel_BowlerHat.description>
+  <Make_Apparel_BowlerHat.description>Make a bowler hat.</Make_Apparel_BowlerHat.description>
   <!-- EN: Making bowler hat. -->
   <Make_Apparel_BowlerHat.jobString>Making bowler hat.</Make_Apparel_BowlerHat.jobString>
   
   <!-- EN: make button-down shirt -->
   <Make_Apparel_CollarShirt.label>make button-down shirt</Make_Apparel_CollarShirt.label>
   <!-- EN: Make a button-down shirt. -->
-  <Make_Apparel_CollarShirt.description>Make button-down shirt.</Make_Apparel_CollarShirt.description>
+  <Make_Apparel_CollarShirt.description>Make a button-down shirt.</Make_Apparel_CollarShirt.description>
   <!-- EN: Making button-down shirt. -->
   <Make_Apparel_CollarShirt.jobString>Making button-down shirt.</Make_Apparel_CollarShirt.jobString>
   
   <!-- EN: make cowboy hat -->
   <Make_Apparel_CowboyHat.label>make cowboy hat</Make_Apparel_CowboyHat.label>
   <!-- EN: Make a cowboy hat. -->
-  <Make_Apparel_CowboyHat.description>Make cowboy hat.</Make_Apparel_CowboyHat.description>
+  <Make_Apparel_CowboyHat.description>Make a cowboy hat.</Make_Apparel_CowboyHat.description>
   <!-- EN: Making cowboy hat. -->
   <Make_Apparel_CowboyHat.jobString>Making cowboy hat.</Make_Apparel_CowboyHat.jobString>
   
   <!-- EN: make duster -->
   <Make_Apparel_Duster.label>make duster</Make_Apparel_Duster.label>
   <!-- EN: Make a duster. -->
-  <Make_Apparel_Duster.description>Make duster.</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.description>Make a duster.</Make_Apparel_Duster.description>
   <!-- EN: Making duster. -->
   <Make_Apparel_Duster.jobString>Making duster.</Make_Apparel_Duster.jobString>
   
   <!-- EN: make flak jacket -->
   <Make_Apparel_FlakJacket.label>make flak jacket</Make_Apparel_FlakJacket.label>
   <!-- EN: Make a flak jacket. -->
-  <Make_Apparel_FlakJacket.description>Make flak jacket.</Make_Apparel_FlakJacket.description>
+  <Make_Apparel_FlakJacket.description>Make a flak jacket.</Make_Apparel_FlakJacket.description>
   <!-- EN: Making flak jacket. -->
   <Make_Apparel_FlakJacket.jobString>Making flak jacket.</Make_Apparel_FlakJacket.jobString>
   
   <!-- EN: make flak pants -->
   <Make_Apparel_FlakPants.label>make flak pants</Make_Apparel_FlakPants.label>
   <!-- EN: Make a flak pants. -->
-  <Make_Apparel_FlakPants.description>Make flak pants.</Make_Apparel_FlakPants.description>
+  <Make_Apparel_FlakPants.description>Make a flak pants.</Make_Apparel_FlakPants.description>
   <!-- EN: Making flak pants. -->
   <Make_Apparel_FlakPants.jobString>Making flak pants.</Make_Apparel_FlakPants.jobString>
   
   <!-- EN: make flak vest -->
   <Make_Apparel_FlakVest.label>make flak vest</Make_Apparel_FlakVest.label>
   <!-- EN: Make a flak vest. -->
-  <Make_Apparel_FlakVest.description>Make flak vest.</Make_Apparel_FlakVest.description>
+  <Make_Apparel_FlakVest.description>Make a flak vest.</Make_Apparel_FlakVest.description>
   <!-- EN: Making flak vest. -->
   <Make_Apparel_FlakVest.jobString>Making flak vest.</Make_Apparel_FlakVest.jobString>
   
   <!-- EN: make jacket -->
   <Make_Apparel_Jacket.label>make jacket</Make_Apparel_Jacket.label>
   <!-- EN: Make a jacket. -->
-  <Make_Apparel_Jacket.description>Make jacket.</Make_Apparel_Jacket.description>
+  <Make_Apparel_Jacket.description>Make a jacket.</Make_Apparel_Jacket.description>
   <!-- EN: Making jacket. -->
   <Make_Apparel_Jacket.jobString>Making jacket.</Make_Apparel_Jacket.jobString>
   
   <!-- EN: make pants -->
   <Make_Apparel_Pants.label>make pants</Make_Apparel_Pants.label>
   <!-- EN: Make a pants. -->
-  <Make_Apparel_Pants.description>Make pants.</Make_Apparel_Pants.description>
+  <Make_Apparel_Pants.description>Make a pants.</Make_Apparel_Pants.description>
   <!-- EN: Making pants. -->
   <Make_Apparel_Pants.jobString>Making pants.</Make_Apparel_Pants.jobString>
   
   <!-- EN: make parka -->
   <Make_Apparel_Parka.label>make parka</Make_Apparel_Parka.label>
   <!-- EN: Make a parka. -->
-  <Make_Apparel_Parka.description>Make parka.</Make_Apparel_Parka.description>
+  <Make_Apparel_Parka.description>Make a parka.</Make_Apparel_Parka.description>
   <!-- EN: Making parka. -->
   <Make_Apparel_Parka.jobString>Making parka.</Make_Apparel_Parka.jobString>
   
   <!-- EN: make plate armor -->
   <Make_Apparel_PlateArmor.label>make plate armor</Make_Apparel_PlateArmor.label>
   <!-- EN: Make a plate armor. -->
-  <Make_Apparel_PlateArmor.description>Make plate armor.</Make_Apparel_PlateArmor.description>
+  <Make_Apparel_PlateArmor.description>Make a plate armor.</Make_Apparel_PlateArmor.description>
   <!-- EN: Making plate armor. -->
   <Make_Apparel_PlateArmor.jobString>Making plate armor.</Make_Apparel_PlateArmor.jobString>
   
   <!-- EN: make marine armor -->
   <Make_Apparel_PowerArmor.label>make marine armor</Make_Apparel_PowerArmor.label>
   <!-- EN: Make a marine armor. -->
-  <Make_Apparel_PowerArmor.description>Make marine armor.</Make_Apparel_PowerArmor.description>
+  <Make_Apparel_PowerArmor.description>Make a marine armor.</Make_Apparel_PowerArmor.description>
   <!-- EN: Making marine armor. -->
   <Make_Apparel_PowerArmor.jobString>Making marine armor.</Make_Apparel_PowerArmor.jobString>
   
   <!-- EN: make marine helmet -->
   <Make_Apparel_PowerArmorHelmet.label>make marine helmet</Make_Apparel_PowerArmorHelmet.label>
   <!-- EN: Make a marine helmet. -->
-  <Make_Apparel_PowerArmorHelmet.description>Make marine helmet.</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.description>Make a marine helmet.</Make_Apparel_PowerArmorHelmet.description>
   <!-- EN: Making marine helmet. -->
   <Make_Apparel_PowerArmorHelmet.jobString>Making marine helmet.</Make_Apparel_PowerArmorHelmet.jobString>
   
   <!-- EN: make shield belt -->
   <Make_Apparel_ShieldBelt.label>make shield belt</Make_Apparel_ShieldBelt.label>
   <!-- EN: Make a shield belt. -->
-  <Make_Apparel_ShieldBelt.description>Make shield belt.</Make_Apparel_ShieldBelt.description>
+  <Make_Apparel_ShieldBelt.description>Make a shield belt.</Make_Apparel_ShieldBelt.description>
   <!-- EN: Making shield belt. -->
   <Make_Apparel_ShieldBelt.jobString>Making shield belt.</Make_Apparel_ShieldBelt.jobString>
   
   <!-- EN: make simple helmet -->
   <Make_Apparel_SimpleHelmet.label>make simple helmet</Make_Apparel_SimpleHelmet.label>
   <!-- EN: Make a simple helmet. -->
-  <Make_Apparel_SimpleHelmet.description>Make simple helmet.</Make_Apparel_SimpleHelmet.description>
+  <Make_Apparel_SimpleHelmet.description>Make a simple helmet.</Make_Apparel_SimpleHelmet.description>
   <!-- EN: Making simple helmet. -->
   <Make_Apparel_SimpleHelmet.jobString>Making simple helmet.</Make_Apparel_SimpleHelmet.jobString>
   
   <!-- EN: make smokepop belt -->
   <Make_Apparel_SmokepopBelt.label>make smokepop belt</Make_Apparel_SmokepopBelt.label>
   <!-- EN: Make a smokepop belt. -->
-  <Make_Apparel_SmokepopBelt.description>Make smokepop belt.</Make_Apparel_SmokepopBelt.description>
+  <Make_Apparel_SmokepopBelt.description>Make a smokepop belt.</Make_Apparel_SmokepopBelt.description>
   <!-- EN: Making smokepop belt. -->
   <Make_Apparel_SmokepopBelt.jobString>Making smokepop belt.</Make_Apparel_SmokepopBelt.jobString>
   
   <!-- EN: make tribalwear -->
   <Make_Apparel_TribalA.label>make tribalwear</Make_Apparel_TribalA.label>
   <!-- EN: Make a tribalwear. -->
-  <Make_Apparel_TribalA.description>Make tribalwear.</Make_Apparel_TribalA.description>
+  <Make_Apparel_TribalA.description>Make a tribalwear.</Make_Apparel_TribalA.description>
   <!-- EN: Making tribalwear. -->
   <Make_Apparel_TribalA.jobString>Making tribalwear.</Make_Apparel_TribalA.jobString>
   
   <!-- EN: make tribal headdress -->
   <Make_Apparel_TribalHeaddress.label>make tribal headdress</Make_Apparel_TribalHeaddress.label>
   <!-- EN: Make a tribal headdress. -->
-  <Make_Apparel_TribalHeaddress.description>Make tribal headdress.</Make_Apparel_TribalHeaddress.description>
+  <Make_Apparel_TribalHeaddress.description>Make a tribal headdress.</Make_Apparel_TribalHeaddress.description>
   <!-- EN: Making tribal headdress. -->
   <Make_Apparel_TribalHeaddress.jobString>Making tribal headdress.</Make_Apparel_TribalHeaddress.jobString>
   
   <!-- EN: make tuque -->
   <Make_Apparel_Tuque.label>make tuque</Make_Apparel_Tuque.label>
   <!-- EN: Make a tuque. -->
-  <Make_Apparel_Tuque.description>Make tuque.</Make_Apparel_Tuque.description>
+  <Make_Apparel_Tuque.description>Make a tuque.</Make_Apparel_Tuque.description>
   <!-- EN: Making tuque. -->
   <Make_Apparel_Tuque.jobString>Making tuque.</Make_Apparel_Tuque.jobString>
   
   <!-- EN: make war mask -->
   <Make_Apparel_WarMask.label>make war mask</Make_Apparel_WarMask.label>
   <!-- EN: Make a war mask. -->
-  <Make_Apparel_WarMask.description>Make war mask.</Make_Apparel_WarMask.description>
+  <Make_Apparel_WarMask.description>Make a war mask.</Make_Apparel_WarMask.description>
   <!-- EN: Making war mask. -->
   <Make_Apparel_WarMask.jobString>Making war mask.</Make_Apparel_WarMask.jobString>
   
   <!-- EN: make war veil -->
   <Make_Apparel_WarVeil.label>make war veil</Make_Apparel_WarVeil.label>
   <!-- EN: Make a war veil. -->
-  <Make_Apparel_WarVeil.description>Make war veil.</Make_Apparel_WarVeil.description>
+  <Make_Apparel_WarVeil.description>Make a war veil.</Make_Apparel_WarVeil.description>
   <!-- EN: Making war veil. -->
   <Make_Apparel_WarVeil.jobString>Making war veil.</Make_Apparel_WarVeil.jobString>
   
   <!-- EN: make bionic arm -->
   <Make_BionicArm.label>make bionic arm</Make_BionicArm.label>
   <!-- EN: Make a bionic arm. -->
-  <Make_BionicArm.description>Make bionic arm.</Make_BionicArm.description>
+  <Make_BionicArm.description>Make a bionic arm.</Make_BionicArm.description>
   <!-- EN: Making bionic arm. -->
   <Make_BionicArm.jobString>Making bionic arm.</Make_BionicArm.jobString>
   
   <!-- EN: make bionic ear -->
   <Make_BionicEar.label>make bionic ear</Make_BionicEar.label>
   <!-- EN: Make a bionic ear. -->
-  <Make_BionicEar.description>Make bionic ear.</Make_BionicEar.description>
+  <Make_BionicEar.description>Make a bionic ear.</Make_BionicEar.description>
   <!-- EN: Making bionic ear. -->
   <Make_BionicEar.jobString>Making bionic ear.</Make_BionicEar.jobString>
   
   <!-- EN: make bionic eye -->
   <Make_BionicEye.label>make bionic eye</Make_BionicEye.label>
   <!-- EN: Make a bionic eye. -->
-  <Make_BionicEye.description>Make bionic eye.</Make_BionicEye.description>
+  <Make_BionicEye.description>Make a bionic eye.</Make_BionicEye.description>
   <!-- EN: Making bionic eye. -->
   <Make_BionicEye.jobString>Making bionic eye.</Make_BionicEye.jobString>
   
   <!-- EN: make bionic heart -->
   <Make_BionicHeart.label>make bionic heart</Make_BionicHeart.label>
   <!-- EN: Make a bionic heart. -->
-  <Make_BionicHeart.description>Make bionic heart.</Make_BionicHeart.description>
+  <Make_BionicHeart.description>Make a bionic heart.</Make_BionicHeart.description>
   <!-- EN: Making bionic heart. -->
   <Make_BionicHeart.jobString>Making bionic heart.</Make_BionicHeart.jobString>
   
   <!-- EN: make bionic leg -->
   <Make_BionicLeg.label>make bionic leg</Make_BionicLeg.label>
   <!-- EN: Make a bionic leg. -->
-  <Make_BionicLeg.description>Make bionic leg.</Make_BionicLeg.description>
+  <Make_BionicLeg.description>Make a bionic leg.</Make_BionicLeg.description>
   <!-- EN: Making bionic leg. -->
   <Make_BionicLeg.jobString>Making bionic leg.</Make_BionicLeg.jobString>
   
   <!-- EN: make bionic spine -->
   <Make_BionicSpine.label>make bionic spine</Make_BionicSpine.label>
   <!-- EN: Make a bionic spine. -->
-  <Make_BionicSpine.description>Make bionic spine.</Make_BionicSpine.description>
+  <Make_BionicSpine.description>Make a bionic spine.</Make_BionicSpine.description>
   <!-- EN: Making bionic spine. -->
   <Make_BionicSpine.jobString>Making bionic spine.</Make_BionicSpine.jobString>
   
   <!-- EN: make bionic stomach -->
   <Make_BionicStomach.label>make bionic stomach</Make_BionicStomach.label>
   <!-- EN: Make a bionic stomach. -->
-  <Make_BionicStomach.description>Make bionic stomach.</Make_BionicStomach.description>
+  <Make_BionicStomach.description>Make a bionic stomach.</Make_BionicStomach.description>
   <!-- EN: Making bionic stomach. -->
   <Make_BionicStomach.jobString>Making bionic stomach.</Make_BionicStomach.jobString>
   
   <!-- EN: make greatbow -->
   <Make_Bow_Great.label>make greatbow</Make_Bow_Great.label>
   <!-- EN: Make a greatbow. -->
-  <Make_Bow_Great.description>Make greatbow.</Make_Bow_Great.description>
+  <Make_Bow_Great.description>Make a greatbow.</Make_Bow_Great.description>
   <!-- EN: Making greatbow. -->
   <Make_Bow_Great.jobString>Making greatbow.</Make_Bow_Great.jobString>
   
   <!-- EN: make recurve bow -->
   <Make_Bow_Recurve.label>make recurve bow</Make_Bow_Recurve.label>
   <!-- EN: Make a recurve bow. -->
-  <Make_Bow_Recurve.description>Make recurve bow.</Make_Bow_Recurve.description>
+  <Make_Bow_Recurve.description>Make a recurve bow.</Make_Bow_Recurve.description>
   <!-- EN: Making recurve bow. -->
   <Make_Bow_Recurve.jobString>Making recurve bow.</Make_Bow_Recurve.jobString>
   
   <!-- EN: make short bow -->
   <Make_Bow_Short.label>make short bow</Make_Bow_Short.label>
   <!-- EN: Make a short bow. -->
-  <Make_Bow_Short.description>Make short bow.</Make_Bow_Short.description>
+  <Make_Bow_Short.description>Make a short bow.</Make_Bow_Short.description>
   <!-- EN: Making short bow. -->
   <Make_Bow_Short.jobString>Making short bow.</Make_Bow_Short.jobString>
   
   <!-- EN: make cochlear implant -->
   <Make_CochlearImplant.label>make cochlear implant</Make_CochlearImplant.label>
   <!-- EN: Make a cochlear implant. -->
-  <Make_CochlearImplant.description>Make cochlear implant.</Make_CochlearImplant.description>
+  <Make_CochlearImplant.description>Make a cochlear implant.</Make_CochlearImplant.description>
   <!-- EN: Making cochlear implant. -->
   <Make_CochlearImplant.jobString>Making cochlear implant.</Make_CochlearImplant.jobString>
   
   <!-- EN: make flake -->
   <Make_Flake.label>make flake</Make_Flake.label>
   <!-- EN: Make a flake. -->
-  <Make_Flake.description>Make flake.</Make_Flake.description>
+  <Make_Flake.description>Make a flake.</Make_Flake.description>
   <!-- EN: Making flake. -->
   <Make_Flake.jobString>Making flake.</Make_Flake.jobString>
   
   <!-- EN: make go-juice -->
   <Make_GoJuice.label>make go-juice</Make_GoJuice.label>
   <!-- EN: Make a go-juice. -->
-  <Make_GoJuice.description>Make go-juice.</Make_GoJuice.description>
+  <Make_GoJuice.description>Make a go-juice.</Make_GoJuice.description>
   <!-- EN: Making go-juice. -->
   <Make_GoJuice.jobString>Making go-juice.</Make_GoJuice.jobString>
   
   <!-- EN: make assault rifle -->
   <Make_Gun_AssaultRifle.label>make assault rifle</Make_Gun_AssaultRifle.label>
   <!-- EN: Make a assault rifle. -->
-  <Make_Gun_AssaultRifle.description>Make assault rifle.</Make_Gun_AssaultRifle.description>
+  <Make_Gun_AssaultRifle.description>Make a assault rifle.</Make_Gun_AssaultRifle.description>
   <!-- EN: Making assault rifle. -->
   <Make_Gun_AssaultRifle.jobString>Making assault rifle.</Make_Gun_AssaultRifle.jobString>
   
   <!-- EN: make autopistol -->
   <Make_Gun_Autopistol.label>make autopistol</Make_Gun_Autopistol.label>
   <!-- EN: Make a autopistol. -->
-  <Make_Gun_Autopistol.description>Make autopistol.</Make_Gun_Autopistol.description>
+  <Make_Gun_Autopistol.description>Make a autopistol.</Make_Gun_Autopistol.description>
   <!-- EN: Making autopistol. -->
   <Make_Gun_Autopistol.jobString>Making autopistol.</Make_Gun_Autopistol.jobString>
   
   <!-- EN: make bolt-action rifle -->
   <Make_Gun_BoltActionRifle.label>make bolt-action rifle</Make_Gun_BoltActionRifle.label>
   <!-- EN: Make a bolt-action rifle. -->
-  <Make_Gun_BoltActionRifle.description>Make bolt-action rifle.</Make_Gun_BoltActionRifle.description>
+  <Make_Gun_BoltActionRifle.description>Make a bolt-action rifle.</Make_Gun_BoltActionRifle.description>
   <!-- EN: Making bolt-action rifle. -->
   <Make_Gun_BoltActionRifle.jobString>Making bolt-action rifle.</Make_Gun_BoltActionRifle.jobString>
   
   <!-- EN: make chain shotgun -->
   <Make_Gun_ChainShotgun.label>make chain shotgun</Make_Gun_ChainShotgun.label>
   <!-- EN: Make a chain shotgun. -->
-  <Make_Gun_ChainShotgun.description>Make chain shotgun.</Make_Gun_ChainShotgun.description>
+  <Make_Gun_ChainShotgun.description>Make a chain shotgun.</Make_Gun_ChainShotgun.description>
   <!-- EN: Making chain shotgun. -->
   <Make_Gun_ChainShotgun.jobString>Making chain shotgun.</Make_Gun_ChainShotgun.jobString>
   
   <!-- EN: make charge lance -->
   <Make_Gun_ChargeLance.label>make charge lance</Make_Gun_ChargeLance.label>
   <!-- EN: Make a charge lance. -->
-  <Make_Gun_ChargeLance.description>Make charge lance.</Make_Gun_ChargeLance.description>
+  <Make_Gun_ChargeLance.description>Make a charge lance.</Make_Gun_ChargeLance.description>
   <!-- EN: Making charge lance. -->
   <Make_Gun_ChargeLance.jobString>Making charge lance.</Make_Gun_ChargeLance.jobString>
   
   <!-- EN: make charge rifle -->
   <Make_Gun_ChargeRifle.label>make charge rifle</Make_Gun_ChargeRifle.label>
   <!-- EN: Make a charge rifle. -->
-  <Make_Gun_ChargeRifle.description>Make charge rifle.</Make_Gun_ChargeRifle.description>
+  <Make_Gun_ChargeRifle.description>Make a charge rifle.</Make_Gun_ChargeRifle.description>
   <!-- EN: Making charge rifle. -->
   <Make_Gun_ChargeRifle.jobString>Making charge rifle.</Make_Gun_ChargeRifle.jobString>
   
   <!-- EN: make heavy SMG -->
   <Make_Gun_HeavySMG.label>make heavy SMG</Make_Gun_HeavySMG.label>
   <!-- EN: Make a heavy SMG. -->
-  <Make_Gun_HeavySMG.description>Make heavy SMG.</Make_Gun_HeavySMG.description>
+  <Make_Gun_HeavySMG.description>Make a heavy SMG.</Make_Gun_HeavySMG.description>
   <!-- EN: Making heavy SMG. -->
   <Make_Gun_HeavySMG.jobString>Making heavy SMG.</Make_Gun_HeavySMG.jobString>
   
   <!-- EN: make incendiary launcher -->
   <Make_Gun_IncendiaryLauncher.label>make incendiary launcher</Make_Gun_IncendiaryLauncher.label>
   <!-- EN: Make a incendiary launcher. -->
-  <Make_Gun_IncendiaryLauncher.description>Make incendiary launcher.</Make_Gun_IncendiaryLauncher.description>
+  <Make_Gun_IncendiaryLauncher.description>Make a incendiary launcher.</Make_Gun_IncendiaryLauncher.description>
   <!-- EN: Making incendiary launcher. -->
   <Make_Gun_IncendiaryLauncher.jobString>Making incendiary launcher.</Make_Gun_IncendiaryLauncher.jobString>
   
   <!-- EN: make LMG -->
   <Make_Gun_LMG.label>make LMG</Make_Gun_LMG.label>
   <!-- EN: Make a LMG. -->
-  <Make_Gun_LMG.description>Make LMG.</Make_Gun_LMG.description>
+  <Make_Gun_LMG.description>Make a LMG.</Make_Gun_LMG.description>
   <!-- EN: Making LMG. -->
   <Make_Gun_LMG.jobString>Making LMG.</Make_Gun_LMG.jobString>
   
   <!-- EN: make machine pistol -->
   <Make_Gun_MachinePistol.label>make machine pistol</Make_Gun_MachinePistol.label>
   <!-- EN: Make a machine pistol. -->
-  <Make_Gun_MachinePistol.description>Make machine pistol.</Make_Gun_MachinePistol.description>
+  <Make_Gun_MachinePistol.description>Make a machine pistol.</Make_Gun_MachinePistol.description>
   <!-- EN: Making machine pistol. -->
   <Make_Gun_MachinePistol.jobString>Making machine pistol.</Make_Gun_MachinePistol.jobString>
   
   <!-- EN: make minigun -->
   <Make_Gun_Minigun.label>make minigun</Make_Gun_Minigun.label>
   <!-- EN: Make a minigun. -->
-  <Make_Gun_Minigun.description>Make minigun.</Make_Gun_Minigun.description>
+  <Make_Gun_Minigun.description>Make a minigun.</Make_Gun_Minigun.description>
   <!-- EN: Making minigun. -->
   <Make_Gun_Minigun.jobString>Making minigun.</Make_Gun_Minigun.jobString>
   
   <!-- EN: make pump shotgun -->
   <Make_Gun_PumpShotgun.label>make pump shotgun</Make_Gun_PumpShotgun.label>
   <!-- EN: Make a pump shotgun. -->
-  <Make_Gun_PumpShotgun.description>Make pump shotgun.</Make_Gun_PumpShotgun.description>
+  <Make_Gun_PumpShotgun.description>Make a pump shotgun.</Make_Gun_PumpShotgun.description>
   <!-- EN: Making pump shotgun. -->
   <Make_Gun_PumpShotgun.jobString>Making pump shotgun.</Make_Gun_PumpShotgun.jobString>
   
   <!-- EN: make revolver -->
   <Make_Gun_Revolver.label>make revolver</Make_Gun_Revolver.label>
   <!-- EN: Make a revolver. -->
-  <Make_Gun_Revolver.description>Make revolver.</Make_Gun_Revolver.description>
+  <Make_Gun_Revolver.description>Make a revolver.</Make_Gun_Revolver.description>
   <!-- EN: Making revolver. -->
   <Make_Gun_Revolver.jobString>Making revolver.</Make_Gun_Revolver.jobString>
   
   <!-- EN: make sniper rifle -->
   <Make_Gun_SniperRifle.label>make sniper rifle</Make_Gun_SniperRifle.label>
   <!-- EN: Make a sniper rifle. -->
-  <Make_Gun_SniperRifle.description>Make sniper rifle.</Make_Gun_SniperRifle.description>
+  <Make_Gun_SniperRifle.description>Make a sniper rifle.</Make_Gun_SniperRifle.description>
   <!-- EN: Making sniper rifle. -->
   <Make_Gun_SniperRifle.jobString>Making sniper rifle.</Make_Gun_SniperRifle.jobString>
   
   <!-- EN: make medicine -->
   <Make_MedicineIndustrial.label>make medicine</Make_MedicineIndustrial.label>
   <!-- EN: Make a medicine. -->
-  <Make_MedicineIndustrial.description>Make medicine.</Make_MedicineIndustrial.description>
+  <Make_MedicineIndustrial.description>Make a medicine.</Make_MedicineIndustrial.description>
   <!-- EN: Making medicine. -->
   <Make_MedicineIndustrial.jobString>Making medicine.</Make_MedicineIndustrial.jobString>
   
   <!-- EN: make club -->
   <Make_MeleeWeapon_Club.label>make club</Make_MeleeWeapon_Club.label>
   <!-- EN: Make a club. -->
-  <Make_MeleeWeapon_Club.description>Make club.</Make_MeleeWeapon_Club.description>
+  <Make_MeleeWeapon_Club.description>Make a club.</Make_MeleeWeapon_Club.description>
   <!-- EN: Making club. -->
   <Make_MeleeWeapon_Club.jobString>Making club.</Make_MeleeWeapon_Club.jobString>
   
   <!-- EN: make gladius -->
   <Make_MeleeWeapon_Gladius.label>make gladius</Make_MeleeWeapon_Gladius.label>
   <!-- EN: Make a gladius. -->
-  <Make_MeleeWeapon_Gladius.description>Make gladius.</Make_MeleeWeapon_Gladius.description>
+  <Make_MeleeWeapon_Gladius.description>Make a gladius.</Make_MeleeWeapon_Gladius.description>
   <!-- EN: Making gladius. -->
   <Make_MeleeWeapon_Gladius.jobString>Making gladius.</Make_MeleeWeapon_Gladius.jobString>
   
   <!-- EN: make ikwa -->
   <Make_MeleeWeapon_Ikwa.label>make ikwa</Make_MeleeWeapon_Ikwa.label>
   <!-- EN: Make a ikwa. -->
-  <Make_MeleeWeapon_Ikwa.description>Make ikwa.</Make_MeleeWeapon_Ikwa.description>
+  <Make_MeleeWeapon_Ikwa.description>Make a ikwa.</Make_MeleeWeapon_Ikwa.description>
   <!-- EN: Making ikwa. -->
   <Make_MeleeWeapon_Ikwa.jobString>Making ikwa.</Make_MeleeWeapon_Ikwa.jobString>
   
   <!-- EN: make knife -->
   <Make_MeleeWeapon_Knife.label>make knife</Make_MeleeWeapon_Knife.label>
   <!-- EN: Make a knife. -->
-  <Make_MeleeWeapon_Knife.description>Make knife.</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.description>Make a knife.</Make_MeleeWeapon_Knife.description>
   <!-- EN: Making knife. -->
   <Make_MeleeWeapon_Knife.jobString>Making knife.</Make_MeleeWeapon_Knife.jobString>
   
   <!-- EN: make longsword -->
   <Make_MeleeWeapon_LongSword.label>make longsword</Make_MeleeWeapon_LongSword.label>
   <!-- EN: Make a longsword. -->
-  <Make_MeleeWeapon_LongSword.description>Make longsword.</Make_MeleeWeapon_LongSword.description>
+  <Make_MeleeWeapon_LongSword.description>Make a longsword.</Make_MeleeWeapon_LongSword.description>
   <!-- EN: Making longsword. -->
   <Make_MeleeWeapon_LongSword.jobString>Making longsword.</Make_MeleeWeapon_LongSword.jobString>
   
   <!-- EN: make mace -->
   <Make_MeleeWeapon_Mace.label>make mace</Make_MeleeWeapon_Mace.label>
   <!-- EN: Make a mace. -->
-  <Make_MeleeWeapon_Mace.description>Make mace.</Make_MeleeWeapon_Mace.description>
+  <Make_MeleeWeapon_Mace.description>Make a mace.</Make_MeleeWeapon_Mace.description>
   <!-- EN: Making mace. -->
   <Make_MeleeWeapon_Mace.jobString>Making mace.</Make_MeleeWeapon_Mace.jobString>
   
   <!-- EN: make spear -->
   <Make_MeleeWeapon_Spear.label>make spear</Make_MeleeWeapon_Spear.label>
   <!-- EN: Make a spear. -->
-  <Make_MeleeWeapon_Spear.description>Make spear.</Make_MeleeWeapon_Spear.description>
+  <Make_MeleeWeapon_Spear.description>Make a spear.</Make_MeleeWeapon_Spear.description>
   <!-- EN: Making spear. -->
   <Make_MeleeWeapon_Spear.jobString>Making spear.</Make_MeleeWeapon_Spear.jobString>
   
   <!-- EN: make penoxycyline -->
   <Make_Penoxycyline.label>make penoxycyline</Make_Penoxycyline.label>
   <!-- EN: Make a penoxycyline. -->
-  <Make_Penoxycyline.description>Make penoxycyline.</Make_Penoxycyline.description>
+  <Make_Penoxycyline.description>Make a penoxycyline.</Make_Penoxycyline.description>
   <!-- EN: Making penoxycyline. -->
   <Make_Penoxycyline.jobString>Making penoxycyline.</Make_Penoxycyline.jobString>
   
   <!-- EN: make pila -->
   <Make_Pila.label>make pila</Make_Pila.label>
   <!-- EN: Make a pila. -->
-  <Make_Pila.description>Make pila.</Make_Pila.description>
+  <Make_Pila.description>Make a pila.</Make_Pila.description>
   <!-- EN: Making pila. -->
   <Make_Pila.jobString>Making pila.</Make_Pila.jobString>
   
   <!-- EN: make psychite tea -->
   <Make_PsychiteTea.label>make psychite tea</Make_PsychiteTea.label>
   <!-- EN: Make a psychite tea. -->
-  <Make_PsychiteTea.description>Make psychite tea.</Make_PsychiteTea.description>
+  <Make_PsychiteTea.description>Make a psychite tea.</Make_PsychiteTea.description>
   <!-- EN: Making psychite tea. -->
   <Make_PsychiteTea.jobString>Making psychite tea.</Make_PsychiteTea.jobString>
   
   <!-- EN: make grand sculpture -->
   <Make_SculptureGrand.label>make grand sculpture</Make_SculptureGrand.label>
   <!-- EN: Make a grand sculpture. -->
-  <Make_SculptureGrand.description>Make grand sculpture.</Make_SculptureGrand.description>
+  <Make_SculptureGrand.description>Make a grand sculpture.</Make_SculptureGrand.description>
   <!-- EN: Making grand sculpture. -->
   <Make_SculptureGrand.jobString>Making grand sculpture.</Make_SculptureGrand.jobString>
   
   <!-- EN: make large sculpture -->
   <Make_SculptureLarge.label>make large sculpture</Make_SculptureLarge.label>
   <!-- EN: Make a large sculpture. -->
-  <Make_SculptureLarge.description>Make large sculpture.</Make_SculptureLarge.description>
+  <Make_SculptureLarge.description>Make a large sculpture.</Make_SculptureLarge.description>
   <!-- EN: Making large sculpture. -->
   <Make_SculptureLarge.jobString>Making large sculpture.</Make_SculptureLarge.jobString>
   
   <!-- EN: make small sculpture -->
   <Make_SculptureSmall.label>make small sculpture</Make_SculptureSmall.label>
   <!-- EN: Make a small sculpture. -->
-  <Make_SculptureSmall.description>Make small sculpture.</Make_SculptureSmall.description>
+  <Make_SculptureSmall.description>Make a small sculpture.</Make_SculptureSmall.description>
   <!-- EN: Making small sculpture. -->
   <Make_SculptureSmall.jobString>Making small sculpture.</Make_SculptureSmall.jobString>
   
   <!-- EN: make EMP shell -->
   <Make_Shell_EMP.label>make EMP shell</Make_Shell_EMP.label>
   <!-- EN: Make a EMP shell. -->
-  <Make_Shell_EMP.description>Make EMP shell.</Make_Shell_EMP.description>
+  <Make_Shell_EMP.description>Make a EMP shell.</Make_Shell_EMP.description>
   <!-- EN: Making EMP shell. -->
   <Make_Shell_EMP.jobString>Making EMP shell.</Make_Shell_EMP.jobString>
   
   <!-- EN: make firefoam shell -->
   <Make_Shell_Firefoam.label>make firefoam shell</Make_Shell_Firefoam.label>
   <!-- EN: Make a firefoam shell. -->
-  <Make_Shell_Firefoam.description>Make firefoam shell.</Make_Shell_Firefoam.description>
+  <Make_Shell_Firefoam.description>Make a firefoam shell.</Make_Shell_Firefoam.description>
   <!-- EN: Making firefoam shell. -->
   <Make_Shell_Firefoam.jobString>Making firefoam shell.</Make_Shell_Firefoam.jobString>
   
   <!-- EN: make high-explosive shell -->
   <Make_Shell_HighExplosive.label>make high-explosive shell</Make_Shell_HighExplosive.label>
   <!-- EN: Make a high-explosive shell. -->
-  <Make_Shell_HighExplosive.description>Make high-explosive shell.</Make_Shell_HighExplosive.description>
+  <Make_Shell_HighExplosive.description>Make a high-explosive shell.</Make_Shell_HighExplosive.description>
   <!-- EN: Making high-explosive shell. -->
   <Make_Shell_HighExplosive.jobString>Making high-explosive shell.</Make_Shell_HighExplosive.jobString>
   
   <!-- EN: make incendiary shell -->
   <Make_Shell_Incendiary.label>make incendiary shell</Make_Shell_Incendiary.label>
   <!-- EN: Make a incendiary shell. -->
-  <Make_Shell_Incendiary.description>Make incendiary shell.</Make_Shell_Incendiary.description>
+  <Make_Shell_Incendiary.description>Make a incendiary shell.</Make_Shell_Incendiary.description>
   <!-- EN: Making incendiary shell. -->
   <Make_Shell_Incendiary.jobString>Making incendiary shell.</Make_Shell_Incendiary.jobString>
   
   <!-- EN: make prosthetic arm -->
   <Make_SimpleProstheticArm.label>make prosthetic arm</Make_SimpleProstheticArm.label>
   <!-- EN: Make a prosthetic arm. -->
-  <Make_SimpleProstheticArm.description>Make prosthetic arm.</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.description>Make a prosthetic arm.</Make_SimpleProstheticArm.description>
   <!-- EN: Making prosthetic arm. -->
   <Make_SimpleProstheticArm.jobString>Making prosthetic arm.</Make_SimpleProstheticArm.jobString>
   
   <!-- EN: make prosthetic heart -->
   <Make_SimpleProstheticHeart.label>make prosthetic heart</Make_SimpleProstheticHeart.label>
   <!-- EN: Make a prosthetic heart. -->
-  <Make_SimpleProstheticHeart.description>Make prosthetic heart.</Make_SimpleProstheticHeart.description>
+  <Make_SimpleProstheticHeart.description>Make a prosthetic heart.</Make_SimpleProstheticHeart.description>
   <!-- EN: Making prosthetic heart. -->
   <Make_SimpleProstheticHeart.jobString>Making prosthetic heart.</Make_SimpleProstheticHeart.jobString>
   
   <!-- EN: make prosthetic leg -->
   <Make_SimpleProstheticLeg.label>make prosthetic leg</Make_SimpleProstheticLeg.label>
   <!-- EN: Make a prosthetic leg. -->
-  <Make_SimpleProstheticLeg.description>Make prosthetic leg.</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.description>Make a prosthetic leg.</Make_SimpleProstheticLeg.description>
   <!-- EN: Making prosthetic leg. -->
   <Make_SimpleProstheticLeg.jobString>Making prosthetic leg.</Make_SimpleProstheticLeg.jobString>
   
   <!-- EN: make smokeleaf joint -->
   <Make_SmokeleafJoint.label>make smokeleaf joint</Make_SmokeleafJoint.label>
   <!-- EN: Make a smokeleaf joint. -->
-  <Make_SmokeleafJoint.description>Make smokeleaf joint.</Make_SmokeleafJoint.description>
+  <Make_SmokeleafJoint.description>Make a smokeleaf joint.</Make_SmokeleafJoint.description>
   <!-- EN: Making smokeleaf joint. -->
   <Make_SmokeleafJoint.jobString>Making smokeleaf joint.</Make_SmokeleafJoint.jobString>
   
   <!-- EN: make wake-up -->
   <Make_WakeUp.label>make wake-up</Make_WakeUp.label>
   <!-- EN: Make a wake-up. -->
-  <Make_WakeUp.description>Make wake-up.</Make_WakeUp.description>
+  <Make_WakeUp.description>Make a wake-up.</Make_WakeUp.description>
   <!-- EN: Making wake-up. -->
   <Make_WakeUp.jobString>Making wake-up.</Make_WakeUp.jobString>
   
   <!-- EN: make EMP grenades -->
   <Make_Weapon_GrenadeEMP.label>make EMP grenades</Make_Weapon_GrenadeEMP.label>
   <!-- EN: Make a EMP grenades. -->
-  <Make_Weapon_GrenadeEMP.description>Make EMP grenades.</Make_Weapon_GrenadeEMP.description>
+  <Make_Weapon_GrenadeEMP.description>Make a EMP grenades.</Make_Weapon_GrenadeEMP.description>
   <!-- EN: Making EMP grenades. -->
   <Make_Weapon_GrenadeEMP.jobString>Making EMP grenades.</Make_Weapon_GrenadeEMP.jobString>
   
   <!-- EN: make frag grenades -->
   <Make_Weapon_GrenadeFrag.label>make frag grenades</Make_Weapon_GrenadeFrag.label>
   <!-- EN: Make a frag grenades. -->
-  <Make_Weapon_GrenadeFrag.description>Make frag grenades.</Make_Weapon_GrenadeFrag.description>
+  <Make_Weapon_GrenadeFrag.description>Make a frag grenades.</Make_Weapon_GrenadeFrag.description>
   <!-- EN: Making frag grenades. -->
   <Make_Weapon_GrenadeFrag.jobString>Making frag grenades.</Make_Weapon_GrenadeFrag.jobString>
   
   <!-- EN: make molotov cocktails -->
   <Make_Weapon_GrenadeMolotov.label>make molotov cocktails</Make_Weapon_GrenadeMolotov.label>
   <!-- EN: Make a molotov cocktails. -->
-  <Make_Weapon_GrenadeMolotov.description>Make molotov cocktails.</Make_Weapon_GrenadeMolotov.description>
+  <Make_Weapon_GrenadeMolotov.description>Make a molotov cocktails.</Make_Weapon_GrenadeMolotov.description>
   <!-- EN: Making molotov cocktails. -->
   <Make_Weapon_GrenadeMolotov.jobString>Making molotov cocktails.</Make_Weapon_GrenadeMolotov.jobString>
   
   <!-- EN: make yayo -->
   <Make_Yayo.label>make yayo</Make_Yayo.label>
   <!-- EN: Make a yayo. -->
-  <Make_Yayo.description>Make yayo.</Make_Yayo.description>
+  <Make_Yayo.description>Make a yayo.</Make_Yayo.description>
   <!-- EN: Making yayo. -->
   <Make_Yayo.jobString>Making yayo.</Make_Yayo.jobString>
   

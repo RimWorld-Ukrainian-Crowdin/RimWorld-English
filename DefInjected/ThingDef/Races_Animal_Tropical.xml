@@ -17,7 +17,7 @@
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
   <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
   <!-- EN: cobra meat -->
-  <Cobra.race.meatLabel>TODO</Cobra.race.meatLabel>
+  <Cobra.race.meatLabel>cobra meat</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
   <Cobra.tools.venomfangs.label>venom-fangs</Cobra.tools.venomfangs.label>
   <!-- EN: head -->

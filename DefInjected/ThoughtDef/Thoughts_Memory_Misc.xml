@@ -45,9 +45,9 @@
   <FailedToRescueRelative.stages.failed_to_rescue.description>We had a chance to rescue my relative, and failed. I could have helped!</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
-  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <FreedFromSlavery.stages.freed_from_slavery.label>freed from slavery</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>I have been freed from slavery. I'm so thankful!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>killed someone</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -75,7 +75,7 @@
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
   <!-- EN: prisoner sold -->
-  <KnowPrisonerSold.stages.prisoner_sold.label>a prisoner was sold</KnowPrisonerSold.stages.prisoner_sold.label>
+  <KnowPrisonerSold.stages.prisoner_sold.label>prisoner sold</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
   <KnowPrisonerSold.stages.prisoner_sold.description>This colony sold a prisoner into slavery. That's a worrying thought.</KnowPrisonerSold.stages.prisoner_sold.description>
   
@@ -115,9 +115,9 @@
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>We banished a prisoner in such a way that there's almost no way they'll survive.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: prisoner released -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.label>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>prisoner released</ReleasedHealthyPrisoner.stages.prisoner_released.label>
   <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
-  <ReleasedHealthyPrisoner.stages.prisoner_released.description>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>We released a healthy prisoner. It feels good to know we even treat prisoners well.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>rescued</Rescued.stages.rescued.label>
