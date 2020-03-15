@@ -8,7 +8,7 @@
   <!-- EN: prime councilor -->
   <OutlanderCivil.leaderTitle>перший радник</OutlanderCivil.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderCivil.pawnSingular>outlander</OutlanderCivil.pawnSingular>
+  <OutlanderCivil.pawnSingular>чужинець</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
   <OutlanderCivil.pawnsPlural>чужинці</OutlanderCivil.pawnsPlural>
   
@@ -19,7 +19,7 @@
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>перший радник</OutlanderRough.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderRough.pawnSingular>outlander</OutlanderRough.pawnSingular>
+  <OutlanderRough.pawnSingular>чужинець</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
   <OutlanderRough.pawnsPlural>чужинці</OutlanderRough.pawnsPlural>
   
@@ -41,28 +41,28 @@
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>вождь</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>tribesman</TribeCivil.pawnSingular>
+  <TribeCivil.pawnSingular>член племені</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
   <TribeCivil.pawnsPlural>члени племені</TribeCivil.pawnsPlural>
   
   <!-- EN: fierce tribe -->
-  <TribeRough.label>fierce tribe</TribeRough.label>
+  <TribeRough.label>люте плем'я</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
   <TribeRough.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. Можливо, це нащадки вцілілих у катаклізмі, який зруйнував колись могутню цивілізацію… У будь-якому випадку, це плем'я переважно кочове, яке ніде не затримується надовго та використовує примітивні інструменти та зброю. \n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями через свою майстерність ведення низькотехнологічної війни, завдяки своїй чисельності та пристосованості. \n\nЦе плем'я веде постійні війни з усіма; доволі складно знайти з ними загальну мову.</TribeRough.description>
   <!-- EN: chief -->
   <TribeRough.leaderTitle>вождь</TribeRough.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>tribesman</TribeRough.pawnSingular>
+  <TribeRough.pawnSingular>член племені</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
   <TribeRough.pawnsPlural>члени племені</TribeRough.pawnsPlural>
   
   <!-- EN: savage tribe -->
-  <TribeSavage.label>savage tribe</TribeSavage.label>
+  <TribeSavage.label>дике плем'я</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
-  <TribeSavage.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them!</TribeSavage.description>
+  <TribeSavage.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. Можливо, це нащадки вцілілих у катаклізмі, який зруйнував колись могутню цивілізацію… У будь-якому випадку, це плем'я переважно кочове, яке ніде не затримується надовго та використовує примітивні інструменти та зброю. \n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями через свою майстерність ведення низькотехнологічної війни, завдяки своїй чисельності та пристосованості. \n\nЦе плем'я шанує кров та честь; стати їхніми союзниками - неможливо!</TribeSavage.description>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>tribesman</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>член племені</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>tribespeople</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>члени племені</TribeSavage.pawnsPlural>
   
 </LanguageData>
