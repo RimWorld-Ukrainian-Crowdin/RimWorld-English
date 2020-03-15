@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
-import argparse
 import os
 import os.path
-import tempfile
-import urllib.request
-import xml.sax
-import zipfile
 
 from lxml import etree
 
