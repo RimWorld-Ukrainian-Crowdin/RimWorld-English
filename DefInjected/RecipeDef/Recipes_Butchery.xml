@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>butcher creature</ButcherCorpseFlesh.label>
+  <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
   <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
+  <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
-
+  
+  <!-- EN: disassemble mechanoid -->
   <ButcherCorpseMechanoid.label>disassemble mechanoid</ButcherCorpseMechanoid.label>
+  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
   <ButcherCorpseMechanoid.description>Disassemble a dead mechanoid into its component parts.</ButcherCorpseMechanoid.description>
+  <!-- EN: Disassembling mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Disassembling mechanoid.</ButcherCorpseMechanoid.jobString>
-
-
+  
 </LanguageData>

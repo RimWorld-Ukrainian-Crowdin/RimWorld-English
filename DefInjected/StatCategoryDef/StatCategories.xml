@@ -1,35 +1,67 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <Basics.label>Basics</Basics.label>
-  <BasicsPawn.label>Basics</BasicsPawn.label>
-  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
-
-
-  <!-- Non-pawn -->
-
+  
+  <!-- EN: Ability -->
+  <Ability.label>TODO</Ability.label>
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Apparel</Apparel.label>
-  <Weapon.label>Weapon</Weapon.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Basics</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>TODO</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Basics</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
   <Building.label>Building</Building.label>
-
-
-  <!-- Virtual categories -->
-
+  
+  <!-- EN: capacity effects -->
+  <CapacityEffects.label>TODO</CapacityEffects.label>
+  
+  <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
-  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Surgical</Surgery.label>
-
-
-  <!-- Pawn -->
-
+  
+  <!-- EN: Implant -->
+  <Implant.label>TODO</Implant.label>
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Combat</PawnCombat.label>
-  <PawnSocial.label>Social</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Misc</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Social</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Work</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Surgical</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Weapon</Weapon.label>
+  
 </LanguageData>

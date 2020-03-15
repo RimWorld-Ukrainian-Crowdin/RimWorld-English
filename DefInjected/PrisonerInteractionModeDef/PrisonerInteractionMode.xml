@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <NoInteraction.label>no interaction</NoInteraction.label>
+  
+  <!-- EN: recruit -->
   <AttemptRecruit.label>recruit</AttemptRecruit.label>
-  <ReduceResistance.label>reduce resistance</ReduceResistance.label>
-  <Release.label>release</Release.label>
+  
+  <!-- EN: execute -->
   <Execution.label>execute</Execution.label>
-
-
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>no interaction</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>reduce resistance</ReduceResistance.label>
+  
+  <!-- EN: release -->
+  <Release.label>release</Release.label>
+  
 </LanguageData>

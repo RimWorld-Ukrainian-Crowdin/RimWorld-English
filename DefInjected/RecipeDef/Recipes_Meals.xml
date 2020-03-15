@@ -1,21 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
-  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
-
+  
+  <!-- EN: cook fine meal -->
   <CookMealFine.label>cook fine meal</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
   <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
-
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
+  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook lavish meal -->
   <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
   <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
-
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
-
-
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  
 </LanguageData>

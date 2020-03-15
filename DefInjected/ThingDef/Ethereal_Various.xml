@@ -1,12 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RectTrigger.label>rect trigger</RectTrigger.label>
-  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
-  <Explosion.label>explosion</Explosion.label>
+  
+  <!-- EN: blight -->
   <Blight.label>blight</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>explosion</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>rect trigger</RectTrigger.label>
+  
+  <!-- EN: tornado -->
   <Tornado.label>tornado</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
-
-
+  
 </LanguageData>
