@@ -40,8 +40,13 @@ def transform_file(file_path):
             last_comment = None
 
     with open(file_path, "wb") as outf:
-        outf.write(b'\xEF\xBB\xBF<?xml version="1.0" encoding="UTF-8"?>\n')
-        outf.write(etree.tostring(doc, encoding="UTF-8"))
+        doc_content = b'\xEF\xBB\xBF<?xml version="1.0" encoding="UTF-8"?>\n'
+        doc_content += etree.tostring(doc, encoding="UTF-8")
+        # ">" is technically a reserved character and should be escaped when
+        # included into XML text. We are undoing LXML's escaping in order to
+        # keep the original text appearance.
+        doc_content = doc_content.replace(b'&gt;', b'>')
+        outf.write(doc_content)
 
 
 if __name__ == "__main__":
