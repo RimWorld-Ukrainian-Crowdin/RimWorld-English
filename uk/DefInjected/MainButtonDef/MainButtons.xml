@@ -35,9 +35,9 @@
   <Menu.description>Змінити налаштування: зберегти, завантажити або вийти з гри.</Menu.description>
   
   <!-- EN: quests -->
-  <Quests.label>quests</Quests.label>
+  <Quests.label>доручення</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>View available, active, and historical quests.</Quests.description>
+  <Quests.description>Перегляд доступних, прийнятих та колишніх доручень.</Quests.description>
   
   <!-- EN: research -->
   <Research.label>дослідження</Research.label>
