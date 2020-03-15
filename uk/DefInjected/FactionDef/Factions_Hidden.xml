@@ -1,21 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Ancients.label>стародавні</Ancients.label>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>neutral ancients</Ancients.label>
+  <!-- EN: Ancients -->
   <Ancients.fixedName>Стародавні</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
+  <!-- EN: ancients -->
   <Ancients.pawnsPlural>стародавні</Ancients.pawnsPlural>
-
-  <AncientsHostile.label>стародавні</AncientsHostile.label>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>hostile ancients</AncientsHostile.label>
+  <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Стародавні</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>стародавні</AncientsHostile.pawnsPlural>
-
+  
+  <!-- EN: insects -->
+  <Insect.label>комахи</Insect.label>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>Sorne Geneline</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>insect</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>комахи</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
   <Mechanoid.label>рій механоїдів</Mechanoid.label>
   <Mechanoid.fixedName>рою механоїдів</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>механоїди</Mechanoid.pawnsPlural>
-
-  <Insect.label>комахи</Insect.label>
-  <Insect.fixedName>комахи</Insect.fixedName>
-  <Insect.pawnsPlural>комахи</Insect.pawnsPlural>
-
-
+  
 </LanguageData>
