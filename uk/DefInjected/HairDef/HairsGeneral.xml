@@ -1,30 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: afro -->
   <Afro.label>афро</Afro.label>
+  
+  <!-- EN: bob -->
   <Bob.label>пучок</Bob.label>
-  <Burgundy.label>бургундія</Burgundy.label>
-  <Flowy.label>плавні</Flowy.label>
-  <Long.label>довге</Long.label>
-  <Mohawk.label>ірокез</Mohawk.label>
-  <Mop.label>патли</Mop.label>
-  <Pigtails.label>косички</Pigtails.label>
-  <Shaved.label>лисина</Shaved.label>
-  <Spikes.label>шипи</Spikes.label>
-  <Tuft.label>чуб</Tuft.label>
-  <Wavy.label>хвилясте</Wavy.label>
+  
+  <!-- EN: bowlcut -->
+  <Bowlcut.label>bowlcut</Bowlcut.label>
+  
+  <!-- EN: braided knot -->
   <BraidedKnot.label>вузлики</BraidedKnot.label>
-  <Topdog.label>бос</Topdog.label>
-  <Senorita.label>сеньйорита</Senorita.label>
-  <ScorpionTail.label>хвіст скорпіона</ScorpionTail.label>
+  
+  <!-- EN: bravo -->
+  <Bravo.label>bravo</Bravo.label>
+  
+  <!-- EN: brief ponytail -->
   <BriefPonytail.label>короткий хвостик</BriefPonytail.label>
-  <Troubadour.label>менестрель</Troubadour.label>
-  <Messy.label>безладне</Messy.label>
-  <Princess.label>принцеса</Princess.label>
-  <Firestarter.label>підпалювач</Firestarter.label>
-  <GreasySwoop.label>жирні пасма</GreasySwoop.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>бургундія</Burgundy.label>
+  
+  <!-- EN: cleopatra -->
+  <Cleopatra.label>cleopatra</Cleopatra.label>
+  
+  <!-- EN: curly -->
   <Curly.label>кучері</Curly.label>
+  
+  <!-- EN: cute -->
+  <Cute.label>cute</Cute.label>
+  
+  <!-- EN: decent -->
+  <Decent.label>decent</Decent.label>
+  
+  <!-- EN: elder -->
+  <Elder.label>elder</Elder.label>
+  
+  <!-- EN: fancy bun -->
+  <FancyBun.label>fancy bun</FancyBun.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>підпалювач</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>плавні</Flowy.label>
+  
+  <!-- EN: fringe -->
+  <Fringe.label>fringe</Fringe.label>
+  
+  <!-- EN: frozen -->
+  <Frozen.label>frozen</Frozen.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>жирні пасма</GreasySwoop.label>
+  
+  <!-- EN: junkie -->
+  <Junkie.label>junkie</Junkie.label>
+  
+  <!-- EN: keeper -->
+  <Keeper.label>keeper</Keeper.label>
+  
+  <!-- EN: lackland -->
+  <Lackland.label>lackland</Lackland.label>
+  
+  <!-- EN: locks -->
+  <Locks.label>locks</Locks.label>
+  
+  <!-- EN: long -->
+  <Long.label>довге</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>безладне</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>ірокез</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>патли</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>косички</Pigtails.label>
+  
+  <!-- EN: ponytails -->
+  <Ponytails.label>ponytails</Ponytails.label>
+  
+  <!-- EN: primal -->
+  <Primal.label>primal</Primal.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>принцеса</Princess.label>
+  
+  <!-- EN: randy -->
+  <Randy.label>randy</Randy.label>
+  
+  <!-- EN: recruit -->
+  <Recruit.label>recruit</Recruit.label>
+  
+  <!-- EN: revolt -->
+  <Revolt.label>revolt</Revolt.label>
+  
+  <!-- EN: rockstar -->
+  <Rockstar.label>rockstar</Rockstar.label>
+  
+  <!-- EN: rookie -->
+  <Rookie.label>rookie</Rookie.label>
+  
+  <!-- EN: savage -->
+  <Savage.label>savage</Savage.label>
+  
+  <!-- EN: scatman -->
   <Scatman.label>скетмен</Scatman.label>
-
-
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>хвіст скорпіона</ScorpionTail.label>
+  
+  <!-- EN: scrapper -->
+  <Scrapper.label>scrapper</Scrapper.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>сеньйорита</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>лисина</Shaved.label>
+  
+  <!-- EN: shave top braid -->
+  <ShaveTopBraid.label>shave top braid</ShaveTopBraid.label>
+  
+  <!-- EN: snazzy -->
+  <Snazzy.label>snazzy</Snazzy.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>шипи</Spikes.label>
+  
+  <!-- EN: sticky -->
+  <Sticky.label>sticky</Sticky.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>бос</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>менестрель</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>чуб</Tuft.label>
+  
+  <!-- EN: warden -->
+  <Warden.label>warden</Warden.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>хвилясте</Wavy.label>
+  
 </LanguageData>
