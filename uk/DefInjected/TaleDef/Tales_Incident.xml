@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>aurora</Aurora.label>
+  <Aurora.label>полярне сяйво</Aurora.label>
   <!-- EN: tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community] -->
   <Aurora.rulePack.rulesStrings.0>tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]</Aurora.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community] -->
@@ -36,12 +36,12 @@
   <!-- EN: desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky. -->
   <Aurora.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</Aurora.rulePack.rulesStrings.15>
   <!-- EN: desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully. -->
-  <Aurora.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</Aurora.rulePack.rulesStrings.16>
+  <Aurora.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Animal] мирно бродять.</Aurora.rulePack.rulesStrings.16>
   <!-- EN: desc_sentence->There is no [Enemy] in sight. -->
   <Aurora.rulePack.rulesStrings.17>desc_sentence->There is no [Enemy] in sight.</Aurora.rulePack.rulesStrings.17>
   
   <!-- EN: caravan ambushed -->
-  <CaravanAmbushedByHumanlike.label>caravan ambushed</CaravanAmbushedByHumanlike.label>
+  <CaravanAmbushedByHumanlike.label>караван потрапив в засідку</CaravanAmbushedByHumanlike.label>
   <!-- EN: tale_noun->[PAWN_nameDef]'s caravan being ambushed -->
   <CaravanAmbushedByHumanlike.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s caravan being ambushed</CaravanAmbushedByHumanlike.rulePack.rulesStrings.0>
   <!-- EN: image->[PAWN_nameFull] cowering [circumstance_group] -->
@@ -166,7 +166,7 @@
   <CaravanDemand.rulePack.rulesStrings.21>action->taunting [PAWN_nameDef]</CaravanDemand.rulePack.rulesStrings.21>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <CaravanMeeting.label>зустріч каравану</CaravanMeeting.label>
   <!-- EN: tale_noun->[PAWN_nameDef]'s caravan being met by others -->
   <CaravanMeeting.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s caravan being met by others</CaravanMeeting.rulePack.rulesStrings.0>
   <!-- EN: image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group] -->
@@ -215,7 +215,7 @@
   <CaravanMeeting.rulePack.rulesStrings.22>event->talking hesitantly</CaravanMeeting.rulePack.rulesStrings.22>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.label>затемнення</Eclipse.label>
   <!-- EN: tale_noun->an eclipse over [PAWN_nameDef]'s [Community] -->
   <Eclipse.rulePack.rulesStrings.0>tale_noun->an eclipse over [PAWN_nameDef]'s [Community]</Eclipse.rulePack.rulesStrings.0>
   <!-- EN: image->an unnaturally dark sky, [circumstance_phrase] -->
@@ -248,7 +248,7 @@
   <Eclipse.rulePack.rulesStrings.14>desc_sentence->There is no [Enemy] in sight.</Eclipse.rulePack.rulesStrings.14>
   
   <!-- EN: journey offer -->
-  <EndGame_ShipEscape.label>journey offer</EndGame_ShipEscape.label>
+  <EndGame_ShipEscape.label>пропозиції щодо подорожей</EndGame_ShipEscape.label>
   <!-- EN: tale_noun->[PAWN_nameDef] receiving a message from an old friend -->
   <EndGame_ShipEscape.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] receiving a message from an old friend</EndGame_ShipEscape.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community] -->
@@ -302,10 +302,10 @@
   <!-- EN: desc_sentence->A [Community] is visible in the far distance. -->
   <EndGame_ShipEscape.rulePack.rulesStrings.25>desc_sentence->A [Community] is visible in the far distance.</EndGame_ShipEscape.rulePack.rulesStrings.25>
   <!-- EN: desc_sentence->A spaceship is visible in the far distance. -->
-  <EndGame_ShipEscape.rulePack.rulesStrings.26>desc_sentence->A spaceship is visible in the far distance.</EndGame_ShipEscape.rulePack.rulesStrings.26>
+  <EndGame_ShipEscape.rulePack.rulesStrings.26>desc_sentence->Космічний корабель видніється здалеку.</EndGame_ShipEscape.rulePack.rulesStrings.26>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.label>гроза з блискавками</Flashstorm.label>
   <!-- EN: tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community] -->
   <Flashstorm.rulePack.rulesStrings.0>tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]</Flashstorm.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm -->
@@ -348,7 +348,7 @@
   <Flashstorm.rulePack.rulesStrings.19>desc_sentence->All animal life has left the area.</Flashstorm.rulePack.rulesStrings.19>
   
   <!-- EN: infestation -->
-  <Infestation.label>infestation</Infestation.label>
+  <Infestation.label>інсектоїди</Infestation.label>
   <!-- EN: tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects -->
   <Infestation.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects</Infestation.rulePack.rulesStrings.0>
   <!-- EN: image->a swarm of beetles [circumstance_phrase] -->
@@ -391,7 +391,7 @@
   <Infestation.rulePack.rulesStrings.19>desc_sentence->All animal life has left the area.</Infestation.rulePack.rulesStrings.19>
   
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+  <ManhunterPack.label>зграя мисливців на людей</ManhunterPack.label>
   <!-- EN: tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community] -->
   <ManhunterPack.rulePack.rulesStrings.0>tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]</ManhunterPack.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals -->
@@ -444,7 +444,7 @@
   <ManhunterPack.rulePack.rulesStrings.24>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</ManhunterPack.rulePack.rulesStrings.24>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+  <MeteoriteImpact.label>падіння метеорита</MeteoriteImpact.label>
   <!-- EN: tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community] -->
   <MeteoriteImpact.rulePack.rulesStrings.0>tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community]</MeteoriteImpact.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->a meteorite impacting near [PAWN_nameDef]'s [Community] -->
@@ -493,7 +493,7 @@
   <MeteoriteImpact.rulePack.rulesStrings.22>desc_sentence->The surroundings are muted and dull.</MeteoriteImpact.rulePack.rulesStrings.22>
   
   <!-- EN: raid -->
-  <Raid.label>raid</Raid.label>
+  <Raid.label>напад!</Raid.label>
   <!-- EN: tale_noun->an raid on [PAWN_nameDef]'s [Community] -->
   <Raid.rulePack.rulesStrings.0>tale_noun->an raid on [PAWN_nameDef]'s [Community]</Raid.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->an assault on [PAWN_nameDef]'s [Community] -->
@@ -617,7 +617,7 @@
   <ShipPartCrash.rulePack.rulesStrings.29>defender_circumstance->flexing [PAWN_possessive] muscles</ShipPartCrash.rulePack.rulesStrings.29>
   
   <!-- EN: tornado -->
-  <Tornado.label>tornado</Tornado.label>
+  <Tornado.label>торнадо</Tornado.label>
   <!-- EN: tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community] -->
   <Tornado.rulePack.rulesStrings.0>tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community]</Tornado.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[PAWN_nameDef]'s [Community] being menaced by tornado -->
@@ -660,7 +660,7 @@
   <Tornado.rulePack.rulesStrings.19>desc_sentence->All animal life has left the area.</Tornado.rulePack.rulesStrings.19>
   
   <!-- EN: tornado -->
-  <TornadoFromItem.label>tornado</TornadoFromItem.label>
+  <TornadoFromItem.label>торнадо</TornadoFromItem.label>
   <!-- EN: tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community] -->
   <TornadoFromItem.rulePack.rulesStrings.0>tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]</TornadoFromItem.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado -->
@@ -707,7 +707,7 @@
   <TornadoFromItem.rulePack.rulesStrings.21>desc_sentence->All animal life has left the area.</TornadoFromItem.rulePack.rulesStrings.21>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.label>токсичні випадіння</ToxicFallout.label>
   <!-- EN: tale_noun->fallout settling over [PAWN_nameDef]'s [Community] -->
   <ToxicFallout.rulePack.rulesStrings.0>tale_noun->fallout settling over [PAWN_nameDef]'s [Community]</ToxicFallout.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic -->
@@ -746,7 +746,7 @@
   <ToxicFallout.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</ToxicFallout.rulePack.rulesStrings.17>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
   <!-- EN: tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community] -->
   <VolcanicWinter.rulePack.rulesStrings.0>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</VolcanicWinter.rulePack.rulesStrings.0>
   <!-- EN: image->a dark and cold sky, [circumstance_group] -->
