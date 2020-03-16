@@ -3,9 +3,9 @@
   
   <AbandonedChild23>
     <!-- EN: abandoned child -->
-    <title>abandoned child</title>
+    <title>покинуте дитя</title>
     <!-- EN: abandoned -->
-    <titleShort>abandoned</titleShort>
+    <titleShort>покинутий</titleShort>
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
     <desc>[PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived.</desc>
   </AbandonedChild23>
