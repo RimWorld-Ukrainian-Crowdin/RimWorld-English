@@ -12,7 +12,7 @@
   <Comfort.description>Шкала комфорту вказує наскільки зручні меблі. Вона здобувається при використанні ліжка, сидінні на стільці під час роботи або в інший час. Чим якісніше меблі, тим легчше заповнюється шкала.</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>chemical</DrugDesire.label>
+  <DrugDesire.label>наркотики</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
   <DrugDesire.description>Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood.</DrugDesire.description>
   
