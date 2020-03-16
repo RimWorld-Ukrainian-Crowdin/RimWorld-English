@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>карибу</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>left hoof</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>right hoof</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>head</Caribou.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>олень</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>venison</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>left hoof</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>right hoof</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>teeth</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>head</Deer.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>лось</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>left hoof</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>right hoof</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>head</Elk.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>коза</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>left hoof</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>right hoof</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>head</Ibex.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>черепаха</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>beak</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>head</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>дикий кабан</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>tusk</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>head</WildBoar.tools.head.label>
+  
+  <!-- UNUSED -->
+  <WildBoar_Leather.label>wild boar leather</WildBoar_Leather.label>
+  <WildBoar_Leather.description>wild boar leather</WildBoar_Leather.description>
+  <WildBoar_Leather.stuffProps.stuffAdjective>wild boar leather</WildBoar_Leather.stuffProps.stuffAdjective>
+  
+</LanguageData>
