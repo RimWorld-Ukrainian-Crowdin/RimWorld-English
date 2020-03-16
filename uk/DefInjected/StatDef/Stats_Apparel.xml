@@ -39,7 +39,7 @@
   <!-- EN: The time it takes to equip and unequip this item. -->
   <EquipDelay.description>The time it takes to equip and unequip this item.</EquipDelay.description>
   <!-- EN: {0} s -->
-  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
+  <EquipDelay.formatString>{0} сек</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>Захист - холоду</Insulation_Cold.label>
