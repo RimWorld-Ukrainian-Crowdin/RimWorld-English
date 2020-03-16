@@ -2,8 +2,8 @@
 <LanguageData>
 
   <!-- Forbid -->
-  <CommandForbid>Forbid</CommandForbid>
-  <CommandAllow>Allow</CommandAllow>
+  <CommandForbid>Заборонити</CommandForbid>
+  <CommandAllow>Дозволено</CommandAllow>
   <CommandForbiddenDesc>Forbidden: Your colonists are not allowed to interact with this. Click to allow.</CommandForbiddenDesc>
   <CommandNotForbiddenDesc>Allowed: Your colonists are allowed to interact with this. Click to forbid.</CommandNotForbiddenDesc>
 
@@ -22,7 +22,7 @@
   <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
 
   <!-- Drafting -->
-  <CommandDraftLabel>Draft</CommandDraftLabel>
+  <CommandDraftLabel>Чернетка</CommandDraftLabel>
   <CommandUndraftLabel>Undraft</CommandUndraftLabel>
   <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
   <IsIncapped>{1_labelShort} cannot walk.</IsIncapped>
@@ -33,7 +33,7 @@
   <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
 
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
+  <CommandCancelConstructionLabel>Скасувати</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
 
   <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
@@ -49,7 +49,7 @@
   <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Medical</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalLabel>Лікарняне</CommandBedSetAsMedicalLabel>
   <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
   <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
@@ -58,14 +58,14 @@
   <CommandDetonateLabel>Detonate</CommandDetonateLabel>
   <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>Переназвати</CommandRenameZoneLabel>
   <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
 
   <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
   <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>Видалити</CommandDeleteZoneLabel>
   <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
@@ -109,7 +109,7 @@
   <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Reset</CommandResetTemp>
+  <CommandResetTemp>Скинути</CommandResetTemp>
   <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
   <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
   <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
@@ -138,11 +138,11 @@
   <CommandReleaseAnimalsFail_NoAnimals>No animals available.</CommandReleaseAnimalsFail_NoAnimals>
 
   <!-- Squad attack -->
-  <CommandSquadAttack>Attack</CommandSquadAttack>
+  <CommandSquadAttack>Атакувати</CommandSquadAttack>
   <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
 
   <!-- Melee attack -->
-  <CommandMeleeAttack>Melee attack</CommandMeleeAttack>
+  <CommandMeleeAttack>Атаки ближнього бою</CommandMeleeAttack>
   <CommandMeleeAttackDesc>Order selected colonists to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
@@ -188,7 +188,7 @@
   <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
 
   <!-- Abandon home -->
-  <CommandAbandonHome>Abandon</CommandAbandonHome>
+  <CommandAbandonHome>Покинути</CommandAbandonHome>
   <CommandAbandonHomeDesc>Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
   <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
 
@@ -209,7 +209,7 @@
   <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
 
   <!-- Trade -->
-  <CommandTrade>Trade</CommandTrade>
+  <CommandTrade>Торгівля</CommandTrade>
   <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
 
@@ -267,7 +267,7 @@
 
   <!-- Remove waypoint -->
   <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
-  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>Видалити цю відмітку.</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <CommandPauseCaravan>Rest</CommandPauseCaravan>
@@ -278,7 +278,7 @@
   <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
-  <CommandAttackSettlement>Attack</CommandAttackSettlement>
+  <CommandAttackSettlement>Атакувати</CommandAttackSettlement>
   <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
 
 </LanguageData>
