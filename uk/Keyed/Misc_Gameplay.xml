@@ -45,7 +45,7 @@
   <!-- EN: nothing -->
   <NothingLower>нічого</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>Nothing</Nothing>
+  <Nothing>Нічого</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Пристосувався</Adapted>
   <!-- EN: fresh -->
@@ -301,7 +301,7 @@
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{0} створено {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Skill Requirements</SkillRequirements>
   <!-- EN: Products -->
@@ -321,7 +321,7 @@
   <!-- EN: downed -->
   <DownedLower>збитий</DownedLower>
   <!-- EN: resting -->
-  <Carried>resting</Carried>
+  <Carried>відпочиває</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>Avg. person move speed</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
@@ -381,7 +381,7 @@
   <!-- EN: location -->
   <Location>location</Location>
   <!-- EN: animals -->
-  <AnimalsLower>animals</AnimalsLower>
+  <AnimalsLower>тваринництво</AnimalsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -391,9 +391,9 @@
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
   <GiveGiftViaTransportPodsTradeRequestWarning>Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>prisoner</PrisonerLower>
+  <PrisonerLower>в'язень</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>prisoners</PrisonersLower>
+  <PrisonersLower>полонені</PrisonersLower>
   <!-- EN: Complete -->
   <Complete>Complete</Complete>
   <!-- EN: Click to view this quest in quests tab -->
@@ -649,7 +649,7 @@
   <!-- EN: make {0} -->
   <RecipeMake>робить {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>Make {0}.</RecipeMakeDescription>
+  <RecipeMakeDescription>Робить {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -1215,7 +1215,7 @@
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} створено {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
