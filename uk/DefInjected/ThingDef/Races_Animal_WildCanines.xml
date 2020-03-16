@@ -10,7 +10,7 @@
   <!-- EN: right claw -->
   <Fox_Arctic.tools.right_claw.label>right claw</Fox_Arctic.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Arctic.tools.head.label>head</Fox_Arctic.tools.head.label>
+  <Fox_Arctic.tools.head.label>голова</Fox_Arctic.tools.head.label>
   
   <!-- UNUSED -->
   <Fox_Arctic_Leather.label>arctic fox leather</Fox_Arctic_Leather.label>
@@ -28,7 +28,7 @@
   <!-- EN: right claw -->
   <Fox_Fennec.tools.right_claw.label>right claw</Fox_Fennec.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Fennec.tools.head.label>head</Fox_Fennec.tools.head.label>
+  <Fox_Fennec.tools.head.label>голова</Fox_Fennec.tools.head.label>
   
   <!-- UNUSED -->
   <Fox_Fennec_Leather.label>fennec fox leather</Fox_Fennec_Leather.label>
@@ -44,7 +44,7 @@
   <!-- EN: right claw -->
   <Fox_Red.tools.right_claw.label>right claw</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Red.tools.head.label>head</Fox_Red.tools.head.label>
+  <Fox_Red.tools.head.label>голова</Fox_Red.tools.head.label>
   
   <!-- UNUSED -->
   <Fox_Red_Leather.label>red fox leather</Fox_Red_Leather.label>
@@ -62,7 +62,7 @@
   <!-- EN: razorfangs -->
   <Warg.tools.razorfangs.label>razorfangs</Warg.tools.razorfangs.label>
   <!-- EN: head -->
-  <Warg.tools.head.label>head</Warg.tools.head.label>
+  <Warg.tools.head.label>голова</Warg.tools.head.label>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>арктичний вовк</Wolf_Arctic.label>
@@ -73,7 +73,7 @@
   <!-- EN: right claw -->
   <Wolf_Arctic.tools.right_claw.label>right claw</Wolf_Arctic.tools.right_claw.label>
   <!-- EN: head -->
-  <Wolf_Arctic.tools.head.label>head</Wolf_Arctic.tools.head.label>
+  <Wolf_Arctic.tools.head.label>голова</Wolf_Arctic.tools.head.label>
   
   <!-- UNUSED -->
   <Wolf_Arctic_Leather.label>arctic wolf leather</Wolf_Arctic_Leather.label>
@@ -91,7 +91,7 @@
   <!-- EN: right claw -->
   <Wolf_Timber.tools.right_claw.label>right claw</Wolf_Timber.tools.right_claw.label>
   <!-- EN: head -->
-  <Wolf_Timber.tools.head.label>head</Wolf_Timber.tools.head.label>
+  <Wolf_Timber.tools.head.label>голова</Wolf_Timber.tools.head.label>
   
   <!-- UNUSED -->
   <Wolf_Timber_Leather.label>timber wolf leather</Wolf_Timber_Leather.label>
