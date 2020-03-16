@@ -124,8 +124,8 @@
   <MapSize>Map size</MapSize>
   <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
   <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
+  <MapSizeMedium>Помірний режим</MapSizeMedium>
+  <MapSizeLarge>Великий</MapSizeLarge>
   <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
   <MapStartSeason>Starting season</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
@@ -143,7 +143,7 @@
   <CountingProducts>Counting</CountingProducts>
   <Infinite>Infinite</Infinite>
   <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
-  <IncompatibleLower>incompatible</IncompatibleLower>
+  <IncompatibleLower>несумісний</IncompatibleLower>
   <AnyWorker>Any worker</AnyWorker>
   <Unlimited>Unlimited</Unlimited>
 
@@ -154,7 +154,7 @@
   <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
   <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
   <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
+  <UsableIngredients>інгредієнти</UsableIngredients>
   <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
 
   <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
@@ -176,7 +176,7 @@
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
+  <CooldownTime>Затримка удару</CooldownTime>
   <BurstShotFireRate>Fire rate</BurstShotFireRate>
   <Range>Range</Range>
   <StoppingPower>Stopping power</StoppingPower>
@@ -191,7 +191,7 @@
   <MinGrowthTemperature>Min growth temperature</MinGrowthTemperature>
   <MaxGrowthTemperature>Max growth temperature</MaxGrowthTemperature>
   <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
-  <Days>days</Days>
+  <Days>днів</Days>
   <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
   <FertilityRequirement>Fertility requirement</FertilityRequirement>
   <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
@@ -201,7 +201,7 @@
   <Nutrition>Nutrition</Nutrition>
   <Joy>Recreation</Joy>
   <FoodQuality>Food quality</FoodQuality>
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
+  <WalkSpeedProperty>Швидкість ходьби</WalkSpeedProperty>
   <MinFoodQuality>Min. food quality</MinFoodQuality>
   <Diet>Diet</Diet>
   <LeatherType>Leather type</LeatherType>
@@ -220,8 +220,8 @@
   <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
   <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
   <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+  <TimeRecordsCategory>Час</TimeRecordsCategory>
+  <MiscRecordsCategory>Різне</MiscRecordsCategory>
   <Addictiveness>Addictiveness</Addictiveness>
   <PackAnimal>Pack animal</PackAnimal>
   <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
@@ -253,15 +253,15 @@
   <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
   <TraderCount>How many of this item the trader has to trade.</TraderCount>
   <AcceptButton>Accept</AcceptButton>
-  <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
+  <ResetButton>Скинути</ResetButton>
+  <CancelButton>Скасувати</CancelButton>
   <CloseButton>Закрити</CloseButton>
   <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
   <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
   <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
   <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
   <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
+  <Negotiator>Парламентер</Negotiator>
   <NegotiatorTalkingImpaired>Your negotiator {1_labelShort} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
   <NegotiatorHearingImpaired>Your negotiator {1_labelShort} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
   <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
@@ -288,7 +288,7 @@
   <FormCaravan>Form caravan</FormCaravan>
   <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
   <PawnsTab>People and animals</PawnsTab>
-  <ItemsTab>Items</ItemsTab>
+  <ItemsTab>Предмети</ItemsTab>
   <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
@@ -328,12 +328,12 @@
   <InventoryMass>Inventory mass</InventoryMass>
   <CaravanFormationProcessStarted>Your colonists will now gather the items and leave the area.</CaravanFormationProcessStarted>
   <ReformCaravan>Reform caravan</ReformCaravan>
-  <ColonistsSection>Colonists</ColonistsSection>
-  <PrisonersSection>Prisoners</PrisonersSection>
-  <CaptureSection>Capture</CaptureSection>
-  <AnimalsSection>Animals</AnimalsSection>
+  <ColonistsSection>Колоністи</ColonistsSection>
+  <PrisonersSection>Ув'язнені</PrisonersSection>
+  <CaptureSection>Захопити</CaptureSection>
+  <AnimalsSection>Тварин</AnimalsSection>
   <ChooseRouteButton>Choose route</ChooseRouteButton>
-  <AbandonButton>Abandon</AbandonButton>
+  <AbandonButton>Покинути</AbandonButton>
   <CaravanMovementSpeed>Movement speed</CaravanMovementSpeed>
   <TilesPerDay>tiles/day</TilesPerDay>
   <CaravanMovementSpeedTip>Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty.</CaravanMovementSpeedTip>
@@ -455,7 +455,7 @@
 
   <!-- Abandon pawn -->
   <ConfirmBanishPawnDialog>Do you really want to banish {1_label}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} will most likely die.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}, скоріш за все, помре.</ConfirmBanishPawnDialog_LeftToDie>
   <ConfirmBanishPawnDialog_Items>{1_labelShort} will take the following items with {1_objective}:</ConfirmBanishPawnDialog_Items>
   <ConfirmBanishPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <ConfirmBanishPawnDialog_IndividualThoughts>Banishing {1_labelShort} will cause the following people to get the following thoughts:</ConfirmBanishPawnDialog_IndividualThoughts>
