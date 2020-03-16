@@ -35,7 +35,7 @@
   <!-- EN: No -->
   <No>Ні</No>
   <!-- EN: new -->
-  <New>new</New>
+  <New>новий</New>
   <!-- EN: Gender -->
   <Gender>Gender</Gender>
   <!-- EN: min -->
@@ -128,9 +128,9 @@
   <SmoothStoneTerrainDesc>Рівна, природна {0} поверхня.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra>(blueprint)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(кресленя)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra>(building)</FrameLabelExtra>
+  <FrameLabelExtra>(споруди)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
