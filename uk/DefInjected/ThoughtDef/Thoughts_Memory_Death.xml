@@ -7,7 +7,7 @@
   <BondedAnimalDied.stages.bonded_animal_died.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.bonded_animal_died.description>
   
   <!-- EN: colonist died -->
-  <KnowColonistDied.stages.colonist_died.label>colonist died</KnowColonistDied.stages.colonist_died.label>
+  <KnowColonistDied.stages.colonist_died.label>колоніст помер</KnowColonistDied.stages.colonist_died.label>
   <!-- EN: One of our people died. We should be able to take care of our people. -->
   <KnowColonistDied.stages.colonist_died.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.colonist_died.description>
   
