@@ -82,7 +82,7 @@
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
   <ChooseLandingSite.rejectInputMessage>Будь ласка, оберіть ділянку з помірними лісами та без пагорбів (світло-зелена клітинка з коричневими крапочками).</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Тут ви обираєте ваше початкове розташування.\n\n Клікніть на помірний ліс (світло-зелений) без коричневих пагорбів. Потім натисніть ДАЛІ.\n\n За бажанням, ви можете скористатися вкладкою МІСЦЕВІСТЬ, щоб переглянути інформацію про обрану клітинку.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Оберіть оповідача в налаштуваннях гри, щоб вийти з посібника.</ChooseStoryteller.rejectInputMessage>
