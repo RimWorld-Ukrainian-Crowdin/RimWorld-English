@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>встановити слуховий апарат</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>Встановити слуховий апарат.</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>Встановлює слуховий апарат.</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>встановлення "чипу насолоди"</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>Встановлює "чип насолоди".</InstallJoywire.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>встановлення знеболювального чипу</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>Встановлює знеболювальний чип.</InstallPainstopper.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>встановлення силового крюка</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>Встановлює силовий крюк.</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>встановити протез руки</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Встановити протез руки.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>Встановлює протез руки.</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>встановити штучне серце</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>Встановити штучне серце.</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>Встановлює штучне серце.</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>встановити протез ноги</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>Встановити протез ноги.</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>Встановлює протез ноги.</InstallSimpleProstheticLeg.jobString>
+  
+</LanguageData>
