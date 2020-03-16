@@ -60,7 +60,7 @@
   <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[ANIMAL_nameDef] is responding positively.</BondedWithAnimal.rulePack.rulesStrings.10>
   
   <!-- EN: breakup -->
-  <Breakup.label>breakup</Breakup.label>
+  <Breakup.label>розставання</Breakup.label>
   <!-- EN: tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef] -->
   <Breakup.rulePack.rulesStrings.0>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</Breakup.rulePack.rulesStrings.0>
   <!-- EN: image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group] -->
