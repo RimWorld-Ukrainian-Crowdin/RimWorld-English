@@ -14,7 +14,7 @@
   <ApparelNoble.label>noble apparel</ApparelNoble.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>headgear</ArmorHeadgear.label>
+  <ArmorHeadgear.label>головні убори</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>артефакти</Artifacts.label>
@@ -116,7 +116,7 @@
   <Headgear.label>головні убори</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>headgear</HeadgearNoble.label>
+  <HeadgearNoble.label>головні убори</HeadgearNoble.label>
   
   <!-- EN: items -->
   <Items.label>предмети</Items.label>
