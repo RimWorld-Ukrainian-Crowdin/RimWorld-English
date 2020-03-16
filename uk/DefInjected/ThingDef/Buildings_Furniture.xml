@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>лежанка для тварин</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>М'яка лежанка, яка може вмістити будь-яку тварину.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>спальна коробка для тварин</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Маленька спальна коробка, яка може вмістити малих тварин, таких як кури, коти чи маленькі собачки.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>спальне місце для тварин</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Відмічає місце на землі, де повинні спати тварини.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>крісло</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>ліжко</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Зручний матрас з простирадлом на міцному каркасі для доброго відпочинку.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>спальний мішок</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>спальний мішок на двох</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>стілець</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>двоспальне ліжко</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Просте ліжко з удвоєною шириною для двох осіб.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>комод</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>тумбочка</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>лікарняне ліжко</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>горщик для рослин</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Посадіть сюди квіти, щоб покращити настрій людей поблизу.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>розкішне ліжко</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>стелаж</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>місце для сну</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Відмічає місце на землі, де люди повинні спати. Занодто по-спартанськи.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>електрична лампочка</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>електрична лампочка (синя)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>A standing lamp that lights an area in blue.</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>електрична лампочка (зелена)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>A standing lamp that lights an area in green.</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>електрична лампочка (червона)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>A standing lamp that lights an area in red.</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>табурет</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>лампа денного світла</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Вимкнена на час відпочинку рослин</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>стіл (1х2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>стіл (2х2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>стіл (2х4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>стіл (3х3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>факел</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Дерев'яний факел вкопаний в землю для освітлення всього навкруги. Люди працюють в повну силу тільки при доброму освітленні. Щоб не прогорів треба підкладати деревину. Також виробляє трохи тепла.</TorchLamp.description>
+  
+</LanguageData>
