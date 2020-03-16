@@ -65,13 +65,13 @@
   <MechanicalNeck.label>шия</MechanicalNeck.label>
   
   <!-- EN: shoulder -->
-  <MechanicalShoulder.label>плече</MechanicalShoulder.label>
+  <MechanicalShoulder.label>плечі</MechanicalShoulder.label>
   
   <!-- EN: thorax -->
   <MechanicalThorax.label>грудна клітка</MechanicalThorax.label>
   
   <!-- EN: thorax -->
-  <MechanicalThoraxCanManipulate.label>thorax</MechanicalThoraxCanManipulate.label>
+  <MechanicalThoraxCanManipulate.label>грудна клітина</MechanicalThoraxCanManipulate.label>
   
   <!-- EN: reactor -->
   <Reactor.label>реактор</Reactor.label>
