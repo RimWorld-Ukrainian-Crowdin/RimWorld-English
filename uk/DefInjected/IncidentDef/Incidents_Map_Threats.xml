@@ -19,7 +19,7 @@
   <!-- EN: Defoliator ship -->
   <DefoliatorShipPartCrash.letterLabel>Defoliator ship</DefoliatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <DefoliatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</DefoliatorShipPartCrash.letterText>
+  <DefoliatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. Але бережіться — ймовірно, він буде захищатися.</DefoliatorShipPartCrash.letterText>
   
   <!-- EN: infestation -->
   <Infestation.label>інсектоїди</Infestation.label>
