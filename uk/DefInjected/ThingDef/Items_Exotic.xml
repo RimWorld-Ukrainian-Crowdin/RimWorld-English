@@ -33,7 +33,7 @@
 
   <ThrumboHorn.label>ріг трамбо</ThrumboHorn.label>
   <ThrumboHorn.description>A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.</ThrumboHorn.description>
-  <ThrumboHorn.tools.0.label>point</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.0.label>вістря</ThrumboHorn.tools.0.label>
   <ThrumboHorn.tools.1.label>base</ThrumboHorn.tools.1.label>
 
 
@@ -41,7 +41,7 @@
 
   <ElephantTusk.label>слоновий бивень</ElephantTusk.label>
   <ElephantTusk.description>An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly.</ElephantTusk.description>
-  <ElephantTusk.tools.0.label>point</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.0.label>вістря</ElephantTusk.tools.0.label>
   <ElephantTusk.tools.1.label>base</ElephantTusk.tools.1.label>
 
 
