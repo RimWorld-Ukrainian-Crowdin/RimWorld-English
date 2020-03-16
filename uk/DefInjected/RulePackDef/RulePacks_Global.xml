@@ -147,17 +147,17 @@
   <!-- EN: TalkTopicLight->[TreeType] trees -->
   <TalkTopicsUtility.rulePack.rulesStrings.24>TalkTopicLight->[TreeType] дерева</TalkTopicsUtility.rulePack.rulesStrings.24>
   <!-- EN: TalkTopicLight->[PersonJob]s -->
-  <TalkTopicsUtility.rulePack.rulesStrings.25>TalkTopicLight->[PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.25>
+  <TalkTopicsUtility.rulePack.rulesStrings.25>TalkTopicLight->[PersonJob]</TalkTopicsUtility.rulePack.rulesStrings.25>
   <!-- EN: TalkTopicLight->friendly [PersonJob]s -->
   <TalkTopicsUtility.rulePack.rulesStrings.26>TalkTopicLight->friendly [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.26>
   <!-- EN: TalkTopicLight->hostile [PersonJob]s -->
   <TalkTopicsUtility.rulePack.rulesStrings.27>TalkTopicLight->hostile [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.27>
   <!-- EN: TalkTopicLight->[Enemy]s -->
-  <TalkTopicsUtility.rulePack.rulesStrings.28>TalkTopicLight->[Enemy]s</TalkTopicsUtility.rulePack.rulesStrings.28>
+  <TalkTopicsUtility.rulePack.rulesStrings.28>TalkTopicLight->[Enemy]</TalkTopicsUtility.rulePack.rulesStrings.28>
   <!-- EN: TalkTopicLight->fighting [Enemy]s -->
   <TalkTopicsUtility.rulePack.rulesStrings.29>TalkTopicLight->fighting [Enemy]s</TalkTopicsUtility.rulePack.rulesStrings.29>
   <!-- EN: TalkTopicLight->[Apparel]s -->
-  <TalkTopicsUtility.rulePack.rulesStrings.30>TalkTopicLight->[Apparel]s</TalkTopicsUtility.rulePack.rulesStrings.30>
+  <TalkTopicsUtility.rulePack.rulesStrings.30>TalkTopicLight->[Apparel]</TalkTopicsUtility.rulePack.rulesStrings.30>
   <!-- EN: TalkTopicLight->wearing [Apparel]s -->
   <TalkTopicsUtility.rulePack.rulesStrings.31>TalkTopicLight->wearing [Apparel]s</TalkTopicsUtility.rulePack.rulesStrings.31>
   <!-- EN: TalkTopicLight->making [Apparel]s -->
