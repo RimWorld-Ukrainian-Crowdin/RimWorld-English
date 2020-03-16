@@ -34,16 +34,16 @@
   <DoctorTendToSelf.gerund>tending to</DoctorTendToSelf.gerund>
 
   <DoctorFeedHumanlikes.label>feed patients</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.verb>feed</DoctorFeedHumanlikes.verb>
-  <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.verb>годувати</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>годівля</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
   <DoBillsMedicalHumanOperation.verb>operate on</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
 
   <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
-  <DoctorRescue.verb>rescue</DoctorRescue.verb>
-  <DoctorRescue.gerund>rescuing</DoctorRescue.gerund>
+  <DoctorRescue.verb>врятувати</DoctorRescue.verb>
+  <DoctorRescue.gerund>порятунок</DoctorRescue.gerund>
 
   <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
   <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
@@ -62,7 +62,7 @@
   <TakeToBedToOperate.gerund>taking to operate</TakeToBedToOperate.gerund>
 
   <VisitSickPawn.label>visit sick people</VisitSickPawn.label>
-  <VisitSickPawn.verb>visit</VisitSickPawn.verb>
+  <VisitSickPawn.verb>відвідати</VisitSickPawn.verb>
   <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
 
 
@@ -80,7 +80,7 @@
   <Flick.gerund>flicking switch on</Flick.gerund>
 
   <BasicReleasePrisoner.label>release prisoners</BasicReleasePrisoner.label>
-  <BasicReleasePrisoner.verb>release</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.verb>відпустити з повідка</BasicReleasePrisoner.verb>
   <BasicReleasePrisoner.gerund>releasing</BasicReleasePrisoner.gerund>
 
   <Open.label>відкрити контейнери</Open.label>
@@ -95,7 +95,7 @@
   <DoExecution.gerund>doing execution on</DoExecution.gerund>
 
   <ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
-  <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
+  <ReleasePrisoner.verb>відпустити з повідка</ReleasePrisoner.verb>
   <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
 
   <TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
@@ -103,8 +103,8 @@
   <TakePrisonerToBed.gerund>taking to bed</TakePrisonerToBed.gerund>
 
   <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
-  <FeedPrisoner.verb>feed</FeedPrisoner.verb>
-  <FeedPrisoner.gerund>feeding</FeedPrisoner.gerund>
+  <FeedPrisoner.verb>годувати</FeedPrisoner.verb>
+  <FeedPrisoner.gerund>годівля</FeedPrisoner.gerund>
 
   <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
   <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
@@ -117,12 +117,12 @@
 
   <!-- Handling -->
 
-  <HandlingFeedPatientAnimals.label>feed animals</HandlingFeedPatientAnimals.label>
-  <HandlingFeedPatientAnimals.verb>feed</HandlingFeedPatientAnimals.verb>
-  <HandlingFeedPatientAnimals.gerund>feeding</HandlingFeedPatientAnimals.gerund>
+  <HandlingFeedPatientAnimals.label>годівля тварин</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.verb>годувати</HandlingFeedPatientAnimals.verb>
+  <HandlingFeedPatientAnimals.gerund>годівля</HandlingFeedPatientAnimals.gerund>
 
   <Slaughter.label>slaughter animals</Slaughter.label>
-  <Slaughter.verb>slaughter</Slaughter.verb>
+  <Slaughter.verb>м'ясник</Slaughter.verb>
   <Slaughter.gerund>slaughtering</Slaughter.gerund>
 
   <Milk.label>milk animals</Milk.label>
@@ -134,7 +134,7 @@
   <Shear.gerund>shearing</Shear.gerund>
 
   <Tame.label>tame animals</Tame.label>
-  <Tame.verb>tame</Tame.verb>
+  <Tame.verb>приручити</Tame.verb>
   <Tame.gerund>taming</Tame.gerund>
 
   <Train.label>train animals</Train.label>
@@ -145,15 +145,15 @@
   <!-- Cooking -->
 
   <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
-  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  <DoBillsCook.verb>кок</DoBillsCook.verb>
   <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
 
   <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
-  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.verb>кок</DoBillsCookCampfire.verb>
   <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
 
   <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
-  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>м'ясник</DoBillsButcherFlesh.verb>
   <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
 
   <CookFillHopper.label>fill food hoppers</CookFillHopper.label>
@@ -161,7 +161,7 @@
   <CookFillHopper.gerund>filling</CookFillHopper.gerund>
 
   <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
-  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  <DoBillsBrew.verb>брю</DoBillsBrew.verb>
   <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
 
 
@@ -179,20 +179,20 @@
   <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
 
   <Uninstall.label>uninstall structures</Uninstall.label>
-  <Uninstall.verb>uninstall</Uninstall.verb>
+  <Uninstall.verb>деінсталювати</Uninstall.verb>
   <Uninstall.gerund>uninstalling</Uninstall.gerund>
 
   <BuildRoofs.label>build roofs</BuildRoofs.label>
   <BuildRoofs.verb>build roof</BuildRoofs.verb>
-  <BuildRoofs.gerund>building roof</BuildRoofs.gerund>
+  <BuildRoofs.gerund>будує дах</BuildRoofs.gerund>
 
   <RemoveRoofs.label>remove roofs</RemoveRoofs.label>
   <RemoveRoofs.verb>remove roof</RemoveRoofs.verb>
-  <RemoveRoofs.gerund>removing roof</RemoveRoofs.gerund>
+  <RemoveRoofs.gerund>розбирає дах</RemoveRoofs.gerund>
 
   <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
-  <ConstructFinishFrames.verb>construct</ConstructFinishFrames.verb>
-  <ConstructFinishFrames.gerund>constructing</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.verb>споруджувати</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.gerund>будівництво</ConstructFinishFrames.gerund>
 
   <ConstructDeliverResourcesToFrames.label>deliver resources to frames</ConstructDeliverResourcesToFrames.label>
   <ConstructDeliverResourcesToFrames.verb>work on</ConstructDeliverResourcesToFrames.verb>
@@ -203,7 +203,7 @@
   <ConstructDeliverResourcesToBlueprints.gerund>working on</ConstructDeliverResourcesToBlueprints.gerund>
 
   <Deconstruct.label>deconstruct structures</Deconstruct.label>
-  <Deconstruct.verb>deconstruct</Deconstruct.verb>
+  <Deconstruct.verb>зруйнувати</Deconstruct.verb>
   <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
 
   <Repair.label>repair damaged things</Repair.label>
@@ -211,34 +211,34 @@
   <Repair.gerund>repairing</Repair.gerund>
 
   <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
-  <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.verb>розібрати підлогу</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.gerund>знімає підлогу</ConstructRemoveFloors.gerund>
 
   <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.verb>smooth</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>рівна</ConstructSmoothFloors.verb>
   <ConstructSmoothFloors.gerund>smoothing</ConstructSmoothFloors.gerund>
 
   <ConstructSmoothWalls.label>smooth walls</ConstructSmoothWalls.label>
-  <ConstructSmoothWalls.verb>smooth</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>рівна</ConstructSmoothWalls.verb>
   <ConstructSmoothWalls.gerund>smoothing</ConstructSmoothWalls.gerund>
 
 
   <!-- Growing -->
 
   <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
-  <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
+  <GrowerHarvest.verb>зібрати</GrowerHarvest.verb>
   <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
 
   <GrowerSow.label>sow crops</GrowerSow.label>
-  <GrowerSow.verb>sow</GrowerSow.verb>
+  <GrowerSow.verb>матка</GrowerSow.verb>
   <GrowerSow.gerund>sowing</GrowerSow.gerund>
 
 
   <!-- Mining -->
 
-  <Mine.label>mine</Mine.label>
-  <Mine.verb>mine</Mine.verb>
-  <Mine.gerund>mining</Mine.gerund>
+  <Mine.label>видобувати</Mine.label>
+  <Mine.verb>видобувати</Mine.verb>
+  <Mine.gerund>шахтарство</Mine.gerund>
 
   <Drill.label>drill at deep drill</Drill.label>
   <Drill.verb>drill</Drill.verb>
@@ -247,19 +247,19 @@
 
   <!-- PlantCutting -->
 
-  <PlantsCut.label>cut plants</PlantsCut.label>
-  <PlantsCut.verb>cut</PlantsCut.verb>
-  <PlantsCut.gerund>cutting</PlantsCut.gerund>
+  <PlantsCut.label>вирізати рослини</PlantsCut.label>
+  <PlantsCut.verb>поріз</PlantsCut.verb>
+  <PlantsCut.gerund>різання</PlantsCut.gerund>
 
 
   <!-- Smithing -->
 
   <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
-  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.verb>ковальство</DoBillsMakeWeapons.verb>
   <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
 
   <DoBillsMachiningTable.label>make things at machining table</DoBillsMachiningTable.label>
-  <DoBillsMachiningTable.verb>work</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.verb>робота</DoBillsMachiningTable.verb>
   <DoBillsMachiningTable.gerund>working at</DoBillsMachiningTable.gerund>
 
   <DoBillsFabricationBench.label>fabricate things</DoBillsFabricationBench.label>
@@ -270,7 +270,7 @@
   <!-- Tailoring -->
 
   <DoBillsMakeApparel.label>make apparel</DoBillsMakeApparel.label>
-  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.verb>кравець</DoBillsMakeApparel.verb>
   <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
 
 
@@ -298,7 +298,7 @@
   </WorkGiverDef> -->
 
   <DoBillsUseCraftingSpot.label>make things at crafting spot</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>ремесло</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
 
   <DoBillsRefinery.label>work at refinery</DoBillsRefinery.label>
@@ -329,20 +329,20 @@
   <UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
 
   <LoadTransporters.label>load transporters</LoadTransporters.label>
-  <LoadTransporters.verb>load</LoadTransporters.verb>
-  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+  <LoadTransporters.verb>завантажити</LoadTransporters.verb>
+  <LoadTransporters.gerund>завантаження</LoadTransporters.gerund>
 
   <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
-  <HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
-  <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
+  <HelpGatheringItemsForCaravan.verb>завантажити</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>завантаження</HelpGatheringItemsForCaravan.gerund>
 
   <Strip.label>strip corpses</Strip.label>
   <Strip.verb>роздягнути</Strip.verb>
   <Strip.gerund>роздягає</Strip.gerund>
 
   <HaulCorpses.label>haul corpses</HaulCorpses.label>
-  <HaulCorpses.verb>haul</HaulCorpses.verb>
-  <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+  <HaulCorpses.verb>переносити</HaulCorpses.verb>
+  <HaulCorpses.gerund>перетяжка</HaulCorpses.gerund>
 
   <Refuel.label>refuel fuelable buildings</Refuel.label>
   <Refuel.verb>refuel</Refuel.verb>
@@ -365,8 +365,8 @@
   <FillFermentingBarrel.gerund>filling</FillFermentingBarrel.gerund>
 
   <HaulGeneral.label>haul general things</HaulGeneral.label>
-  <HaulGeneral.verb>haul</HaulGeneral.verb>
-  <HaulGeneral.gerund>hauling</HaulGeneral.gerund>
+  <HaulGeneral.verb>переносити</HaulGeneral.verb>
+  <HaulGeneral.gerund>перетяжка</HaulGeneral.gerund>
 
   <DeliverResourcesToFrames.label>deliver resources to frames</DeliverResourcesToFrames.label>
   <DeliverResourcesToFrames.verb>deliver to</DeliverResourcesToFrames.verb>
@@ -388,14 +388,14 @@
   <CleanClearSnow.gerund>прибирання снігу</CleanClearSnow.gerund>
 
   <CleanFilth.label>clean filth</CleanFilth.label>
-  <CleanFilth.verb>clean</CleanFilth.verb>
-  <CleanFilth.gerund>cleaning</CleanFilth.gerund>
+  <CleanFilth.verb>чисто</CleanFilth.verb>
+  <CleanFilth.gerund>чищення</CleanFilth.gerund>
 
 
   <!-- Research -->
 
   <Research.label>do research</Research.label>
-  <Research.verb>research</Research.verb>
+  <Research.verb>дослідження</Research.verb>
   <Research.gerund>researching at</Research.gerund>
 
   <Scan.label>operate scanner</Scan.label>
