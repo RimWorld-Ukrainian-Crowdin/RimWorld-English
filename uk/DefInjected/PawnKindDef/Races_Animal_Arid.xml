@@ -10,13 +10,13 @@
   <!-- EN: dromedaries -->
   <Dromedary.labelPlural>верблюди</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>dromedary calf</Dromedary.lifeStages.dromedary_calf.label>
-  <Dromedary.lifeStages.dromedary_calf.labelFemale>female dromedary calf</Dromedary.lifeStages.dromedary_calf.labelFemale>
-  <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>female dromedary calves</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
-  <Dromedary.lifeStages.dromedary_calf.labelMale>male dromedary calf</Dromedary.lifeStages.dromedary_calf.labelMale>
-  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>male dromedary calves</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
+  <Dromedary.lifeStages.dromedary_calf.label>верблюжатко</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.labelFemale>молода самка дромедар</Dromedary.lifeStages.dromedary_calf.labelFemale>
+  <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>молоді самки дромедари</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
+  <Dromedary.lifeStages.dromedary_calf.labelMale>теля-самець дромедара</Dromedary.lifeStages.dromedary_calf.labelMale>
+  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>молоді самці дромедари</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedary calves</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>верблюжата</Dromedary.lifeStages.dromedary_calf.labelPlural>
   <Dromedary.lifeStages.1.label>дромедар</Dromedary.lifeStages.1.label>
   <Dromedary.lifeStages.1.labelFemale>самка дромедара</Dromedary.lifeStages.1.labelFemale>
   <Dromedary.lifeStages.1.labelFemalePlural>самки дромедарів</Dromedary.lifeStages.1.labelFemalePlural>
@@ -90,13 +90,13 @@
   <Muffalo.labelMalePlural>самці муффало</Muffalo.labelMalePlural>
   <Muffalo.labelPlural>муффали</Muffalo.labelPlural>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>muffalo calf</Muffalo.lifeStages.muffalo_calf.label>
-  <Muffalo.lifeStages.muffalo_calf.labelFemale>female muffalo calf</Muffalo.lifeStages.muffalo_calf.labelFemale>
-  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>female muffalo calves</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
-  <Muffalo.lifeStages.muffalo_calf.labelMale>male muffalo calf</Muffalo.lifeStages.muffalo_calf.labelMale>
-  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>male muffalo calves</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <Muffalo.lifeStages.muffalo_calf.label>теля муффало</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>телиця муффало</Muffalo.lifeStages.muffalo_calf.labelFemale>
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>телиці муффало</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
+  <Muffalo.lifeStages.muffalo_calf.labelMale>теля-самець муффало</Muffalo.lifeStages.muffalo_calf.labelMale>
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>телята-самці муффало</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffalo calves</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>муффаляти</Muffalo.lifeStages.muffalo_calf.labelPlural>
   <Muffalo.lifeStages.1.label>муффало</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.1.labelFemale>самка муффало</Muffalo.lifeStages.1.labelFemale>
   <Muffalo.lifeStages.1.labelFemalePlural>самки муффало</Muffalo.lifeStages.1.labelFemalePlural>
