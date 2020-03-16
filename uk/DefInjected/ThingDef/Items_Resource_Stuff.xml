@@ -69,7 +69,7 @@
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>дерев'яний</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>log</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>колода</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>alpaca wool</WoolAlpaca.label>
