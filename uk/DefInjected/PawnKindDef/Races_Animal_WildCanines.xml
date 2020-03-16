@@ -2,176 +2,176 @@
 <LanguageData>
   
   <!-- EN: arctic fox -->
-  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
-  <Fox_Arctic.labelFemale>female arctic fox</Fox_Arctic.labelFemale>
-  <Fox_Arctic.labelFemalePlural>female arctic foxes</Fox_Arctic.labelFemalePlural>
-  <Fox_Arctic.labelMale>male arctic fox</Fox_Arctic.labelMale>
-  <Fox_Arctic.labelMalePlural>male arctic foxes</Fox_Arctic.labelMalePlural>
+  <Fox_Arctic.label>песець</Fox_Arctic.label>
+  <Fox_Arctic.labelFemale>песець самка</Fox_Arctic.labelFemale>
+  <Fox_Arctic.labelFemalePlural>песці самки</Fox_Arctic.labelFemalePlural>
+  <Fox_Arctic.labelMale>песець самець</Fox_Arctic.labelMale>
+  <Fox_Arctic.labelMalePlural>песці самці</Fox_Arctic.labelMalePlural>
   <!-- EN: arctic foxes -->
-  <Fox_Arctic.labelPlural>arctic foxes</Fox_Arctic.labelPlural>
+  <Fox_Arctic.labelPlural>песці</Fox_Arctic.labelPlural>
   <!-- EN: arctic fox puppy -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>arctic fox puppy</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>female arctic fox puppy</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>female arctic fox puppies</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>male arctic fox puppy</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>male arctic fox puppies</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>дитинча песця</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>дитинча песця самка</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>дитинчата песця самки</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>дитинча песця самець</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>дитинчата песця самці</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>arctic fox puppies</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
-  <Fox_Arctic.lifeStages.1.label>arctic fox</Fox_Arctic.lifeStages.1.label>
-  <Fox_Arctic.lifeStages.1.labelFemale>female arctic fox</Fox_Arctic.lifeStages.1.labelFemale>
-  <Fox_Arctic.lifeStages.1.labelFemalePlural>female arctic foxs</Fox_Arctic.lifeStages.1.labelFemalePlural>
-  <Fox_Arctic.lifeStages.1.labelMale>male arctic fox</Fox_Arctic.lifeStages.1.labelMale>
-  <Fox_Arctic.lifeStages.1.labelMalePlural>male arctic foxs</Fox_Arctic.lifeStages.1.labelMalePlural>
-  <Fox_Arctic.lifeStages.1.labelPlural>arctic foxes</Fox_Arctic.lifeStages.1.labelPlural>
-  <Fox_Arctic.lifeStages.2.label>arctic fox</Fox_Arctic.lifeStages.2.label>
-  <Fox_Arctic.lifeStages.2.labelFemale>female arctic fox</Fox_Arctic.lifeStages.2.labelFemale>
-  <Fox_Arctic.lifeStages.2.labelFemalePlural>female arctic foxs</Fox_Arctic.lifeStages.2.labelFemalePlural>
-  <Fox_Arctic.lifeStages.2.labelMale>male arctic fox</Fox_Arctic.lifeStages.2.labelMale>
-  <Fox_Arctic.lifeStages.2.labelMalePlural>male arctic foxs</Fox_Arctic.lifeStages.2.labelMalePlural>
-  <Fox_Arctic.lifeStages.2.labelPlural>arctic foxes</Fox_Arctic.lifeStages.2.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>дитинчата песця</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.1.label>песець</Fox_Arctic.lifeStages.1.label>
+  <Fox_Arctic.lifeStages.1.labelFemale>песець самка</Fox_Arctic.lifeStages.1.labelFemale>
+  <Fox_Arctic.lifeStages.1.labelFemalePlural>песці самки</Fox_Arctic.lifeStages.1.labelFemalePlural>
+  <Fox_Arctic.lifeStages.1.labelMale>песець самець</Fox_Arctic.lifeStages.1.labelMale>
+  <Fox_Arctic.lifeStages.1.labelMalePlural>песці самці</Fox_Arctic.lifeStages.1.labelMalePlural>
+  <Fox_Arctic.lifeStages.1.labelPlural>песці</Fox_Arctic.lifeStages.1.labelPlural>
+  <Fox_Arctic.lifeStages.2.label>песець</Fox_Arctic.lifeStages.2.label>
+  <Fox_Arctic.lifeStages.2.labelFemale>песець самка</Fox_Arctic.lifeStages.2.labelFemale>
+  <Fox_Arctic.lifeStages.2.labelFemalePlural>песці самки</Fox_Arctic.lifeStages.2.labelFemalePlural>
+  <Fox_Arctic.lifeStages.2.labelMale>песець самець</Fox_Arctic.lifeStages.2.labelMale>
+  <Fox_Arctic.lifeStages.2.labelMalePlural>песці самці</Fox_Arctic.lifeStages.2.labelMalePlural>
+  <Fox_Arctic.lifeStages.2.labelPlural>песці</Fox_Arctic.lifeStages.2.labelPlural>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
-  <Fox_Fennec.labelFemale>female fennec fox</Fox_Fennec.labelFemale>
-  <Fox_Fennec.labelFemalePlural>female fennec foxes</Fox_Fennec.labelFemalePlural>
-  <Fox_Fennec.labelMale>male fennec fox</Fox_Fennec.labelMale>
-  <Fox_Fennec.labelMalePlural>male fennec foxes</Fox_Fennec.labelMalePlural>
+  <Fox_Fennec.label>фенек</Fox_Fennec.label>
+  <Fox_Fennec.labelFemale>фенек самка</Fox_Fennec.labelFemale>
+  <Fox_Fennec.labelFemalePlural>фенеки самки</Fox_Fennec.labelFemalePlural>
+  <Fox_Fennec.labelMale>фенек самець</Fox_Fennec.labelMale>
+  <Fox_Fennec.labelMalePlural>фенеки самці</Fox_Fennec.labelMalePlural>
   <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>fennec foxes</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelPlural>фенеки</Fox_Fennec.labelPlural>
   <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>fennec fox puppy</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>female fennec fox puppy</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>female fennec fox puppies</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>male fennec fox puppy</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>male fennec fox puppies</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>фенек цуценя</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>фенек цуценя самка</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>фенеки цуценята самки</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>фенек цуценя самець</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>фенеки цуценята самці</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>
   <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>fennec fox puppies</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
-  <Fox_Fennec.lifeStages.1.label>fennec fox</Fox_Fennec.lifeStages.1.label>
-  <Fox_Fennec.lifeStages.1.labelFemale>female fennec fox</Fox_Fennec.lifeStages.1.labelFemale>
-  <Fox_Fennec.lifeStages.1.labelFemalePlural>female fennec foxs</Fox_Fennec.lifeStages.1.labelFemalePlural>
-  <Fox_Fennec.lifeStages.1.labelMale>male fennec fox</Fox_Fennec.lifeStages.1.labelMale>
-  <Fox_Fennec.lifeStages.1.labelMalePlural>male fennec foxs</Fox_Fennec.lifeStages.1.labelMalePlural>
-  <Fox_Fennec.lifeStages.1.labelPlural>fennec foxes</Fox_Fennec.lifeStages.1.labelPlural>
-  <Fox_Fennec.lifeStages.2.label>fennec fox</Fox_Fennec.lifeStages.2.label>
-  <Fox_Fennec.lifeStages.2.labelFemale>female fennec fox</Fox_Fennec.lifeStages.2.labelFemale>
-  <Fox_Fennec.lifeStages.2.labelFemalePlural>female fennec foxs</Fox_Fennec.lifeStages.2.labelFemalePlural>
-  <Fox_Fennec.lifeStages.2.labelMale>male fennec fox</Fox_Fennec.lifeStages.2.labelMale>
-  <Fox_Fennec.lifeStages.2.labelMalePlural>male fennec foxs</Fox_Fennec.lifeStages.2.labelMalePlural>
-  <Fox_Fennec.lifeStages.2.labelPlural>fennec foxes</Fox_Fennec.lifeStages.2.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>фенеки цуценята</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.1.label>фенек</Fox_Fennec.lifeStages.1.label>
+  <Fox_Fennec.lifeStages.1.labelFemale>фенек самка</Fox_Fennec.lifeStages.1.labelFemale>
+  <Fox_Fennec.lifeStages.1.labelFemalePlural>фенеки самки</Fox_Fennec.lifeStages.1.labelFemalePlural>
+  <Fox_Fennec.lifeStages.1.labelMale>фенек самець</Fox_Fennec.lifeStages.1.labelMale>
+  <Fox_Fennec.lifeStages.1.labelMalePlural>фенеки самці</Fox_Fennec.lifeStages.1.labelMalePlural>
+  <Fox_Fennec.lifeStages.1.labelPlural>фенеки</Fox_Fennec.lifeStages.1.labelPlural>
+  <Fox_Fennec.lifeStages.2.label>фенек</Fox_Fennec.lifeStages.2.label>
+  <Fox_Fennec.lifeStages.2.labelFemale>фенек самка</Fox_Fennec.lifeStages.2.labelFemale>
+  <Fox_Fennec.lifeStages.2.labelFemalePlural>фенеки самки</Fox_Fennec.lifeStages.2.labelFemalePlural>
+  <Fox_Fennec.lifeStages.2.labelMale>фенек самець</Fox_Fennec.lifeStages.2.labelMale>
+  <Fox_Fennec.lifeStages.2.labelMalePlural>фенеки самці</Fox_Fennec.lifeStages.2.labelMalePlural>
+  <Fox_Fennec.lifeStages.2.labelPlural>фенеки</Fox_Fennec.lifeStages.2.labelPlural>
   
   <!-- EN: red fox -->
-  <Fox_Red.label>red fox</Fox_Red.label>
-  <Fox_Red.labelFemale>female red fox</Fox_Red.labelFemale>
-  <Fox_Red.labelFemalePlural>female red foxes</Fox_Red.labelFemalePlural>
-  <Fox_Red.labelMale>male red fox</Fox_Red.labelMale>
-  <Fox_Red.labelMalePlural>male red foxes</Fox_Red.labelMalePlural>
+  <Fox_Red.label>лисиця</Fox_Red.label>
+  <Fox_Red.labelFemale>лисиця самка</Fox_Red.labelFemale>
+  <Fox_Red.labelFemalePlural>лисиці самки</Fox_Red.labelFemalePlural>
+  <Fox_Red.labelMale>лисиця самець</Fox_Red.labelMale>
+  <Fox_Red.labelMalePlural>лисиці самці</Fox_Red.labelMalePlural>
   <!-- EN: red foxes -->
-  <Fox_Red.labelPlural>red foxes</Fox_Red.labelPlural>
+  <Fox_Red.labelPlural>лисиці</Fox_Red.labelPlural>
   <!-- EN: red fox puppy -->
-  <Fox_Red.lifeStages.red_fox_puppy.label>red fox puppy</Fox_Red.lifeStages.red_fox_puppy.label>
-  <Fox_Red.lifeStages.red_fox_puppy.labelFemale>female red fox puppy</Fox_Red.lifeStages.red_fox_puppy.labelFemale>
-  <Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>female red fox puppies</Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>
-  <Fox_Red.lifeStages.red_fox_puppy.labelMale>male red fox puppy</Fox_Red.lifeStages.red_fox_puppy.labelMale>
-  <Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>male red fox puppies</Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>
+  <Fox_Red.lifeStages.red_fox_puppy.label>лисеня</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.labelFemale>лисеня самка</Fox_Red.lifeStages.red_fox_puppy.labelFemale>
+  <Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>лисенята самки</Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelMale>лисеня самець</Fox_Red.lifeStages.red_fox_puppy.labelMale>
+  <Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>лисенята самці</Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>
   <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>red fox puppies</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
-  <Fox_Red.lifeStages.1.label>red fox</Fox_Red.lifeStages.1.label>
-  <Fox_Red.lifeStages.1.labelFemale>female red fox</Fox_Red.lifeStages.1.labelFemale>
-  <Fox_Red.lifeStages.1.labelFemalePlural>female red foxs</Fox_Red.lifeStages.1.labelFemalePlural>
-  <Fox_Red.lifeStages.1.labelMale>male red fox</Fox_Red.lifeStages.1.labelMale>
-  <Fox_Red.lifeStages.1.labelMalePlural>male red foxs</Fox_Red.lifeStages.1.labelMalePlural>
-  <Fox_Red.lifeStages.1.labelPlural>red foxes</Fox_Red.lifeStages.1.labelPlural>
-  <Fox_Red.lifeStages.2.label>red fox</Fox_Red.lifeStages.2.label>
-  <Fox_Red.lifeStages.2.labelFemale>female red fox</Fox_Red.lifeStages.2.labelFemale>
-  <Fox_Red.lifeStages.2.labelFemalePlural>female red foxs</Fox_Red.lifeStages.2.labelFemalePlural>
-  <Fox_Red.lifeStages.2.labelMale>male red fox</Fox_Red.lifeStages.2.labelMale>
-  <Fox_Red.lifeStages.2.labelMalePlural>male red foxs</Fox_Red.lifeStages.2.labelMalePlural>
-  <Fox_Red.lifeStages.2.labelPlural>red foxes</Fox_Red.lifeStages.2.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>лисенята</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.1.label>лисиця</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.1.labelFemale>лисиця самка</Fox_Red.lifeStages.1.labelFemale>
+  <Fox_Red.lifeStages.1.labelFemalePlural>лисиці самки</Fox_Red.lifeStages.1.labelFemalePlural>
+  <Fox_Red.lifeStages.1.labelMale>лисиця самець</Fox_Red.lifeStages.1.labelMale>
+  <Fox_Red.lifeStages.1.labelMalePlural>лисиці самці</Fox_Red.lifeStages.1.labelMalePlural>
+  <Fox_Red.lifeStages.1.labelPlural>лисиці</Fox_Red.lifeStages.1.labelPlural>
+  <Fox_Red.lifeStages.2.label>лисиця</Fox_Red.lifeStages.2.label>
+  <Fox_Red.lifeStages.2.labelFemale>лисиця самка</Fox_Red.lifeStages.2.labelFemale>
+  <Fox_Red.lifeStages.2.labelFemalePlural>лисиці самки</Fox_Red.lifeStages.2.labelFemalePlural>
+  <Fox_Red.lifeStages.2.labelMale>лисиця самець</Fox_Red.lifeStages.2.labelMale>
+  <Fox_Red.lifeStages.2.labelMalePlural>лисиці самці</Fox_Red.lifeStages.2.labelMalePlural>
+  <Fox_Red.lifeStages.2.labelPlural>лисиці</Fox_Red.lifeStages.2.labelPlural>
   
   <!-- EN: warg -->
   <Warg.label>варг</Warg.label>
-  <Warg.labelFemale>female warg</Warg.labelFemale>
-  <Warg.labelFemalePlural>female wargs</Warg.labelFemalePlural>
-  <Warg.labelMale>male warg</Warg.labelMale>
-  <Warg.labelMalePlural>male wargs</Warg.labelMalePlural>
-  <Warg.labelPlural>wargs</Warg.labelPlural>
+  <Warg.labelFemale>варг самка</Warg.labelFemale>
+  <Warg.labelFemalePlural>варги самки</Warg.labelFemalePlural>
+  <Warg.labelMale>варг самець</Warg.labelMale>
+  <Warg.labelMalePlural>варги самці</Warg.labelMalePlural>
+  <Warg.labelPlural>варги</Warg.labelPlural>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>warg puppy</Warg.lifeStages.warg_puppy.label>
-  <Warg.lifeStages.warg_puppy.labelFemale>female warg puppy</Warg.lifeStages.warg_puppy.labelFemale>
-  <Warg.lifeStages.warg_puppy.labelFemalePlural>female warg puppies</Warg.lifeStages.warg_puppy.labelFemalePlural>
-  <Warg.lifeStages.warg_puppy.labelMale>male warg puppy</Warg.lifeStages.warg_puppy.labelMale>
-  <Warg.lifeStages.warg_puppy.labelMalePlural>male warg puppies</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <Warg.lifeStages.warg_puppy.label>варг цуценя</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelFemale>варг цуценя самка</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>варги цуценята самки</Warg.lifeStages.warg_puppy.labelFemalePlural>
+  <Warg.lifeStages.warg_puppy.labelMale>варг цуценя самець</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMalePlural>варги цуценята самці</Warg.lifeStages.warg_puppy.labelMalePlural>
   <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>warg puppies</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>варги цуценята</Warg.lifeStages.warg_puppy.labelPlural>
   <Warg.lifeStages.1.label>варг</Warg.lifeStages.1.label>
-  <Warg.lifeStages.1.labelFemale>female warg</Warg.lifeStages.1.labelFemale>
-  <Warg.lifeStages.1.labelFemalePlural>female wargs</Warg.lifeStages.1.labelFemalePlural>
-  <Warg.lifeStages.1.labelMale>male warg</Warg.lifeStages.1.labelMale>
-  <Warg.lifeStages.1.labelMalePlural>male wargs</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelFemale>варг самка</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>варги самки</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.1.labelMale>варг самець</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>варги самці</Warg.lifeStages.1.labelMalePlural>
   <Warg.lifeStages.1.labelPlural>варги</Warg.lifeStages.1.labelPlural>
-  <Warg.lifeStages.2.label>warg</Warg.lifeStages.2.label>
-  <Warg.lifeStages.2.labelFemale>female warg</Warg.lifeStages.2.labelFemale>
-  <Warg.lifeStages.2.labelFemalePlural>female wargs</Warg.lifeStages.2.labelFemalePlural>
-  <Warg.lifeStages.2.labelMale>male warg</Warg.lifeStages.2.labelMale>
-  <Warg.lifeStages.2.labelMalePlural>male wargs</Warg.lifeStages.2.labelMalePlural>
-  <Warg.lifeStages.2.labelPlural>warg</Warg.lifeStages.2.labelPlural>
+  <Warg.lifeStages.2.label>варг</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelFemale>варг самка</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>варги самки</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.lifeStages.2.labelMale>варг самець</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>варги самці</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelPlural>варги</Warg.lifeStages.2.labelPlural>
   
   <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
-  <Wolf_Arctic.labelFemale>female arctic wolf</Wolf_Arctic.labelFemale>
-  <Wolf_Arctic.labelFemalePlural>female arctic wolves</Wolf_Arctic.labelFemalePlural>
-  <Wolf_Arctic.labelMale>male arctic wolf</Wolf_Arctic.labelMale>
-  <Wolf_Arctic.labelMalePlural>male arctic wolves</Wolf_Arctic.labelMalePlural>
+  <Wolf_Arctic.label>арктичний вовк</Wolf_Arctic.label>
+  <Wolf_Arctic.labelFemale>арктичний вовк самка</Wolf_Arctic.labelFemale>
+  <Wolf_Arctic.labelFemalePlural>арктичні вовки самки</Wolf_Arctic.labelFemalePlural>
+  <Wolf_Arctic.labelMale>арктичний вовк самець</Wolf_Arctic.labelMale>
+  <Wolf_Arctic.labelMalePlural>арктичні вовки самці</Wolf_Arctic.labelMalePlural>
   <!-- EN: arctic wolves -->
-  <Wolf_Arctic.labelPlural>arctic wolves</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.labelPlural>арктичні вовки</Wolf_Arctic.labelPlural>
   <!-- EN: arctic wolf puppy -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>arctic wolf puppy</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>female arctic wolf puppy</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>female arctic wolf puppies</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>male arctic wolf puppy</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>male arctic wolf puppies</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>арктичне вовченя</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>арктичне вовченя самка</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>арктичні вовченята самки</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>арктичне вовченя самець</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>арктичні вовченята самці</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
   <!-- EN: arctic wolf puppies -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>arctic wolf puppies</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
-  <Wolf_Arctic.lifeStages.1.label>arctic wolf</Wolf_Arctic.lifeStages.1.label>
-  <Wolf_Arctic.lifeStages.1.labelFemale>female arctic wolf</Wolf_Arctic.lifeStages.1.labelFemale>
-  <Wolf_Arctic.lifeStages.1.labelFemalePlural>female arctic wolfs</Wolf_Arctic.lifeStages.1.labelFemalePlural>
-  <Wolf_Arctic.lifeStages.1.labelMale>male arctic wolf</Wolf_Arctic.lifeStages.1.labelMale>
-  <Wolf_Arctic.lifeStages.1.labelMalePlural>male arctic wolfs</Wolf_Arctic.lifeStages.1.labelMalePlural>
-  <Wolf_Arctic.lifeStages.1.labelPlural>arctic wolves</Wolf_Arctic.lifeStages.1.labelPlural>
-  <Wolf_Arctic.lifeStages.2.label>arctic wolf</Wolf_Arctic.lifeStages.2.label>
-  <Wolf_Arctic.lifeStages.2.labelFemale>female arctic wolf</Wolf_Arctic.lifeStages.2.labelFemale>
-  <Wolf_Arctic.lifeStages.2.labelFemalePlural>female arctic wolfs</Wolf_Arctic.lifeStages.2.labelFemalePlural>
-  <Wolf_Arctic.lifeStages.2.labelMale>male arctic wolf</Wolf_Arctic.lifeStages.2.labelMale>
-  <Wolf_Arctic.lifeStages.2.labelMalePlural>male arctic wolfs</Wolf_Arctic.lifeStages.2.labelMalePlural>
-  <Wolf_Arctic.lifeStages.2.labelPlural>arctic wolves</Wolf_Arctic.lifeStages.2.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>арктичні вовченята</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.1.label>арктичний вовк</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.1.labelFemale>арктичний вовк самка</Wolf_Arctic.lifeStages.1.labelFemale>
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>арктичні вовки самки</Wolf_Arctic.lifeStages.1.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.1.labelMale>арктичний вовк самець</Wolf_Arctic.lifeStages.1.labelMale>
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>арктичні вовки самці</Wolf_Arctic.lifeStages.1.labelMalePlural>
+  <Wolf_Arctic.lifeStages.1.labelPlural>арктичні вовки</Wolf_Arctic.lifeStages.1.labelPlural>
+  <Wolf_Arctic.lifeStages.2.label>арктичний вовк</Wolf_Arctic.lifeStages.2.label>
+  <Wolf_Arctic.lifeStages.2.labelFemale>арктичний вовк самка</Wolf_Arctic.lifeStages.2.labelFemale>
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>арктичні вовки самки</Wolf_Arctic.lifeStages.2.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.2.labelMale>арктичний вовк самець</Wolf_Arctic.lifeStages.2.labelMale>
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>арктичні вовки самці</Wolf_Arctic.lifeStages.2.labelMalePlural>
+  <Wolf_Arctic.lifeStages.2.labelPlural>арктичні вовки</Wolf_Arctic.lifeStages.2.labelPlural>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
-  <Wolf_Timber.labelFemale>female timber wolf</Wolf_Timber.labelFemale>
-  <Wolf_Timber.labelFemalePlural>female timber wolves</Wolf_Timber.labelFemalePlural>
-  <Wolf_Timber.labelMale>male timber wolf</Wolf_Timber.labelMale>
-  <Wolf_Timber.labelMalePlural>male timber wolves</Wolf_Timber.labelMalePlural>
+  <Wolf_Timber.label>вовк</Wolf_Timber.label>
+  <Wolf_Timber.labelFemale>вовк самка</Wolf_Timber.labelFemale>
+  <Wolf_Timber.labelFemalePlural>вовки самки</Wolf_Timber.labelFemalePlural>
+  <Wolf_Timber.labelMale>вовк самець</Wolf_Timber.labelMale>
+  <Wolf_Timber.labelMalePlural>вовки самці</Wolf_Timber.labelMalePlural>
   <!-- EN: timber wolves -->
-  <Wolf_Timber.labelPlural>timber wolves</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelPlural>вовки</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>timber wolf puppy</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>female timber wolf puppy</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>female timber wolf puppies</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>male timber wolf puppy</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>male timber wolf puppies</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>вовченя</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>вовченя самка</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>вовченята самки</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>вовченя самець</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>вовченята самці</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>timber wolf puppies</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
-  <Wolf_Timber.lifeStages.1.label>timber wolf</Wolf_Timber.lifeStages.1.label>
-  <Wolf_Timber.lifeStages.1.labelFemale>female timber wolf</Wolf_Timber.lifeStages.1.labelFemale>
-  <Wolf_Timber.lifeStages.1.labelFemalePlural>female timber wolfs</Wolf_Timber.lifeStages.1.labelFemalePlural>
-  <Wolf_Timber.lifeStages.1.labelMale>male timber wolf</Wolf_Timber.lifeStages.1.labelMale>
-  <Wolf_Timber.lifeStages.1.labelMalePlural>male timber wolfs</Wolf_Timber.lifeStages.1.labelMalePlural>
-  <Wolf_Timber.lifeStages.1.labelPlural>timber wolves</Wolf_Timber.lifeStages.1.labelPlural>
-  <Wolf_Timber.lifeStages.2.label>timber wolf</Wolf_Timber.lifeStages.2.label>
-  <Wolf_Timber.lifeStages.2.labelFemale>female timber wolf</Wolf_Timber.lifeStages.2.labelFemale>
-  <Wolf_Timber.lifeStages.2.labelFemalePlural>female timber wolfs</Wolf_Timber.lifeStages.2.labelFemalePlural>
-  <Wolf_Timber.lifeStages.2.labelMale>male timber wolf</Wolf_Timber.lifeStages.2.labelMale>
-  <Wolf_Timber.lifeStages.2.labelMalePlural>male timber wolfs</Wolf_Timber.lifeStages.2.labelMalePlural>
-  <Wolf_Timber.lifeStages.2.labelPlural>timber wolves</Wolf_Timber.lifeStages.2.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>вовченята</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.1.label>вовк</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.1.labelFemale>вовк самка</Wolf_Timber.lifeStages.1.labelFemale>
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>вовки самки</Wolf_Timber.lifeStages.1.labelFemalePlural>
+  <Wolf_Timber.lifeStages.1.labelMale>вовк самець</Wolf_Timber.lifeStages.1.labelMale>
+  <Wolf_Timber.lifeStages.1.labelMalePlural>вовки самці</Wolf_Timber.lifeStages.1.labelMalePlural>
+  <Wolf_Timber.lifeStages.1.labelPlural>вовки</Wolf_Timber.lifeStages.1.labelPlural>
+  <Wolf_Timber.lifeStages.2.label>вовк</Wolf_Timber.lifeStages.2.label>
+  <Wolf_Timber.lifeStages.2.labelFemale>вовк самка</Wolf_Timber.lifeStages.2.labelFemale>
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>вовки самки</Wolf_Timber.lifeStages.2.labelFemalePlural>
+  <Wolf_Timber.lifeStages.2.labelMale>вовк самець</Wolf_Timber.lifeStages.2.labelMale>
+  <Wolf_Timber.lifeStages.2.labelMalePlural>вовки самці</Wolf_Timber.lifeStages.2.labelMalePlural>
+  <Wolf_Timber.lifeStages.2.labelPlural>вовки</Wolf_Timber.lifeStages.2.labelPlural>
   
 </LanguageData>
