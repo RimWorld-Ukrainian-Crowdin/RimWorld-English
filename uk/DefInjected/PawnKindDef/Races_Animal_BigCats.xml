@@ -30,29 +30,29 @@
   <!-- EN: lynx -->
   <Lynx.label>рись</Lynx.label>
   <Lynx.labelFemale>самка рисі</Lynx.labelFemale>
-  <Lynx.labelFemalePlural>female lynx</Lynx.labelFemalePlural>
+  <Lynx.labelFemalePlural>самка рисі</Lynx.labelFemalePlural>
   <Lynx.labelMale>самець рисі</Lynx.labelMale>
-  <Lynx.labelMalePlural>male lynx</Lynx.labelMalePlural>
+  <Lynx.labelMalePlural>самець рисі</Lynx.labelMalePlural>
   <!-- EN: lynx -->
   <Lynx.labelPlural>рисі</Lynx.labelPlural>
   <!-- EN: lynx kitten -->
-  <Lynx.lifeStages.lynx_kitten.label>lynx kitten</Lynx.lifeStages.lynx_kitten.label>
-  <Lynx.lifeStages.lynx_kitten.labelFemale>female lynx kitten</Lynx.lifeStages.lynx_kitten.labelFemale>
-  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>female lynx kittens</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
-  <Lynx.lifeStages.lynx_kitten.labelMale>male lynx kitten</Lynx.lifeStages.lynx_kitten.labelMale>
-  <Lynx.lifeStages.lynx_kitten.labelMalePlural>male lynx kittens</Lynx.lifeStages.lynx_kitten.labelMalePlural>
-  <Lynx.lifeStages.lynx_kitten.labelPlural>lynx kittens</Lynx.lifeStages.lynx_kitten.labelPlural>
+  <Lynx.lifeStages.lynx_kitten.label>кошеня рисі</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.labelFemale>кошеня рисі, самка</Lynx.lifeStages.lynx_kitten.labelFemale>
+  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>кошенята рисі, самки</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelMale>кошеня рисі, самець</Lynx.lifeStages.lynx_kitten.labelMale>
+  <Lynx.lifeStages.lynx_kitten.labelMalePlural>кошенята рисі, самці</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>кошенята рисі</Lynx.lifeStages.lynx_kitten.labelPlural>
   <Lynx.lifeStages.1.label>рись</Lynx.lifeStages.1.label>
   <Lynx.lifeStages.1.labelFemale>самка рисі</Lynx.lifeStages.1.labelFemale>
-  <Lynx.lifeStages.1.labelFemalePlural>female lynxs</Lynx.lifeStages.1.labelFemalePlural>
+  <Lynx.lifeStages.1.labelFemalePlural>самки рисі</Lynx.lifeStages.1.labelFemalePlural>
   <Lynx.lifeStages.1.labelMale>самець рисі</Lynx.lifeStages.1.labelMale>
-  <Lynx.lifeStages.1.labelMalePlural>male lynxs</Lynx.lifeStages.1.labelMalePlural>
+  <Lynx.lifeStages.1.labelMalePlural>самці рисі</Lynx.lifeStages.1.labelMalePlural>
   <Lynx.lifeStages.1.labelPlural>рисі</Lynx.lifeStages.1.labelPlural>
   <Lynx.lifeStages.2.label>рись</Lynx.lifeStages.2.label>
   <Lynx.lifeStages.2.labelFemale>самка рисі</Lynx.lifeStages.2.labelFemale>
-  <Lynx.lifeStages.2.labelFemalePlural>female lynxs</Lynx.lifeStages.2.labelFemalePlural>
+  <Lynx.lifeStages.2.labelFemalePlural>самки рисі</Lynx.lifeStages.2.labelFemalePlural>
   <Lynx.lifeStages.2.labelMale>самець рисі</Lynx.lifeStages.2.labelMale>
-  <Lynx.lifeStages.2.labelMalePlural>male lynxs</Lynx.lifeStages.2.labelMalePlural>
+  <Lynx.lifeStages.2.labelMalePlural>самці рисі</Lynx.lifeStages.2.labelMalePlural>
   <Lynx.lifeStages.2.labelPlural>рисі</Lynx.lifeStages.2.labelPlural>
   
   <!-- EN: panther -->
