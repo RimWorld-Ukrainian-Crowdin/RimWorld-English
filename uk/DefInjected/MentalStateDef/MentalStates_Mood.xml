@@ -165,15 +165,15 @@
   <Wander_Psychotic.recoveryMessage>{0} прийшов(ла) до тями.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>wandering in psychosis</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>блукає в психозі</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>Mental state: Psychotic wandering</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Психічний стан: Бродіння навколо</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>{0} is wandering around in a psychotic state.</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>{0} блукає навколо в психозі.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>daze</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>марить</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>{0} прийшов(ла) до тями.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
   <Wander_Sad.label>меланхолія</Wander_Sad.label>
