@@ -6,44 +6,44 @@
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
   <Heatstroke.description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death.</Heatstroke.description>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-0.label>initial</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-0.label>незначне</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-1.label>initial</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.initial-1.label>незначне</Heatstroke.stages.initial-1.label>
   <!-- EN: minor -->
-  <Heatstroke.stages.minor.label>minor</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.minor.label>мала</Heatstroke.stages.minor.label>
   <!-- EN: serious -->
-  <Heatstroke.stages.serious.label>serious</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.serious.label>значне</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
-  <Heatstroke.stages.extreme.label>extreme</Heatstroke.stages.extreme.label>
+  <Heatstroke.stages.extreme.label>сильна</Heatstroke.stages.extreme.label>
   
   <!-- EN: hypothermia -->
   <Hypothermia.label>обмороження</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
   <Hypothermia.description>Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments.</Hypothermia.description>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-0.label>shivering</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-0.label>незначне</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-1.label>shivering</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.shivering-1.label>незначне</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
-  <Hypothermia.stages.minor.label>minor</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.minor.label>мала</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
-  <Hypothermia.stages.serious.label>serious</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.serious.label>значне</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
-  <Hypothermia.stages.extreme.label>extreme</Hypothermia.stages.extreme.label>
+  <Hypothermia.stages.extreme.label>сильна</Hypothermia.stages.extreme.label>
   
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>гіпотермічне уповільнення</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
   <HypothermicSlowdown.description>A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation.</HypothermicSlowdown.description>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-0.label>minor</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-0.label>мала</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-1.label>minor</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.minor-1.label>мала</HypothermicSlowdown.stages.minor-1.label>
   <!-- EN: moderate -->
-  <HypothermicSlowdown.stages.moderate.label>moderate</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.moderate.label>середні</HypothermicSlowdown.stages.moderate.label>
   <!-- EN: serious -->
-  <HypothermicSlowdown.stages.serious.label>serious</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.serious.label>значне</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
-  <HypothermicSlowdown.stages.extreme.label>extreme</HypothermicSlowdown.stages.extreme.label>
+  <HypothermicSlowdown.stages.extreme.label>сильна</HypothermicSlowdown.stages.extreme.label>
   
 </LanguageData>
