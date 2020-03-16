@@ -29,7 +29,7 @@
   <Flammability.description>How easily an object catches fire and how quickly a fire will grow as it burns.</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>food poison chance</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>шанс харчового отруєння</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>The chance this food will cause food poisoning.</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
@@ -70,7 +70,7 @@
   <SellPriceFactor.description>Множник на ціну, за якою ви можете продавати товари.</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyTurret.label>shooting accuracy</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.label>точність стрільби</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
