@@ -17,7 +17,7 @@
   <!-- EN: limb -->
   <Bow_Great.tools.limb.label>limb</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
-  <Bow_Great.verbs.Verb_Shoot.label>greatbow</Bow_Great.verbs.Verb_Shoot.label>
+  <Bow_Great.verbs.Verb_Shoot.label>довгі луки</Bow_Great.verbs.Verb_Shoot.label>
   
   <!-- EN: recurve bow -->
   <Bow_Recurve.label>композиційний лук</Bow_Recurve.label>
@@ -26,7 +26,7 @@
   <!-- EN: limb -->
   <Bow_Recurve.tools.limb.label>limb</Bow_Recurve.tools.limb.label>
   <!-- EN: recurve bow -->
-  <Bow_Recurve.verbs.Verb_Shoot.label>recurve bow</Bow_Recurve.verbs.Verb_Shoot.label>
+  <Bow_Recurve.verbs.Verb_Shoot.label>композиційний лук</Bow_Recurve.verbs.Verb_Shoot.label>
   
   <!-- EN: short bow -->
   <Bow_Short.label>short bow</Bow_Short.label>
@@ -42,9 +42,9 @@
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
   <Pila.description>Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum.</Pila.description>
   <!-- EN: shaft -->
-  <Pila.tools.shaft.label>shaft</Pila.tools.shaft.label>
+  <Pila.tools.shaft.label>вал</Pila.tools.shaft.label>
   <!-- EN: point -->
-  <Pila.tools.point.label>point</Pila.tools.point.label>
+  <Pila.tools.point.label>вістря</Pila.tools.point.label>
   <!-- EN: pila -->
   <Pila.verbs.Verb_Shoot.label>pila</Pila.verbs.Verb_Shoot.label>
   
