@@ -7,7 +7,7 @@
   <Ship_Beam.description>A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport.</Ship_Beam.description>
   
   <!-- EN: ship computer core -->
-  <Ship_ComputerCore.label>ship computer core</Ship_ComputerCore.label>
+  <Ship_ComputerCore.label>корабельний комп'ютер</Ship_ComputerCore.label>
   <!-- EN: A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight. -->
   <Ship_ComputerCore.description>A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight.</Ship_ComputerCore.description>
   
