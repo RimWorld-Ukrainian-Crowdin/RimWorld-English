@@ -12,7 +12,7 @@
 
   <!-- Bushes -->
 
-  <Plant_Bush.label>bush</Plant_Bush.label>
+  <Plant_Bush.label>кущ</Plant_Bush.label>
   <Plant_Bush.description>A short shrub. Does not typically talk.</Plant_Bush.description>
 
   <Plant_Brambles.label>brambles</Plant_Brambles.label>
