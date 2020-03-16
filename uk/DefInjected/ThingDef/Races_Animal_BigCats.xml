@@ -10,7 +10,7 @@
   <!-- EN: right claw -->
   <Cougar.tools.right_claw.label>right claw</Cougar.tools.right_claw.label>
   <!-- EN: head -->
-  <Cougar.tools.head.label>head</Cougar.tools.head.label>
+  <Cougar.tools.head.label>голова</Cougar.tools.head.label>
   
   <!-- EN: lynx -->
   <Lynx.label>рись</Lynx.label>
@@ -21,7 +21,7 @@
   <!-- EN: right claw -->
   <Lynx.tools.right_claw.label>right claw</Lynx.tools.right_claw.label>
   <!-- EN: head -->
-  <Lynx.tools.head.label>head</Lynx.tools.head.label>
+  <Lynx.tools.head.label>голова</Lynx.tools.head.label>
   
   <!-- EN: panther -->
   <Panther.label>пантери</Panther.label>
@@ -32,6 +32,6 @@
   <!-- EN: right claw -->
   <Panther.tools.right_claw.label>right claw</Panther.tools.right_claw.label>
   <!-- EN: head -->
-  <Panther.tools.head.label>head</Panther.tools.head.label>
+  <Panther.tools.head.label>голова</Panther.tools.head.label>
   
 </LanguageData>
