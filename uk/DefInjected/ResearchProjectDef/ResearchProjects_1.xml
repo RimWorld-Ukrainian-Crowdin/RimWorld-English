@@ -27,7 +27,7 @@
   <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>devilstrand</Devilstrand.label>
+  <Devilstrand.label>диявольська струна</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
   <Devilstrand.description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</Devilstrand.description>
   
@@ -37,7 +37,7 @@
   <DrugProduction.description>Побудуйте хімічну лабораторію для синтезу основних хімічних речовин. Необхідні подальші дослідження для створення спеціалізованих речовин.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
+  <GoJuiceProduction.label>виробництво енергетика</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain.</GoJuiceProduction.description>
   
@@ -59,10 +59,10 @@
   <!-- EN: pemmican -->
   <Pemmican.label>пеммікан</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
+  <Pemmican.description>Пеммікан приготовлений з суміші м'яса та рослин, він не псується протягом тривалого часу. Чудово підходить для подорожей.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>синтез пеноксициліна</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start.</PenoxycylineProduction.description>
   
@@ -72,17 +72,17 @@
   <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
   
   <!-- EN: psychite refining -->
-  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
+  <PsychiteRefining.label>переробка психіну</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
   <PsychiteRefining.description>Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug.</PsychiteRefining.description>
   
   <!-- EN: psychoid brewing -->
-  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
+  <PsychoidBrewing.label>психоїдний чай</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
   <PsychoidBrewing.description>Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove.</PsychoidBrewing.description>
   
   <!-- EN: recurve bow -->
-  <RecurveBow.label>recurve bow</RecurveBow.label>
+  <RecurveBow.label>композиційний лук</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
   <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
   
@@ -102,7 +102,7 @@
   <TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
+  <WakeUpProduction.label>виробництво бадьорину</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep.</WakeUpProduction.description>
   
