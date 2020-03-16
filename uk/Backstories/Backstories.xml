@@ -52,16 +52,16 @@
     <!-- EN: student -->
     <titleShort>студент</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
-    <desc>Як і будь-який вправний космо-кадет, [PAWN_nameDef] ходив до школи. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams.</desc>
+    <desc>Як і будь-який вправний космо-кадет, [PAWN_nameDef] ходив до школи. [PAWN_pronoun] був дуже високим і видомим через [PAWN_possessive] гарний вигляд.\n\nХоча [PAWN_pronoun] більше хвилювався за [PAWN_possessive] зачіску, ніж за [PAWN_possessive] оцінки, [PAWN_pronoun] якось вдалося скласти випускні іспити.</desc>
   </AcademyStudent58>
   
   <AccursedChild88>
     <!-- EN: accursed child -->
-    <title>accursed child</title>
+    <title>окаянне дитя</title>
     <!-- EN: cursed -->
-    <titleShort>cursed</titleShort>
+    <titleShort>проклятий</titleShort>
     <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-    <desc>[PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling.</desc>
+    <desc>[PAWN_nameDef] народився в пік місячного затемнення. Старійшини оголосили [PAWN_objective] дитям темряви та взяли [PAWN_objective] під свою опіку.\n\nВсе дитинство [PAWN_possessive] провів у вивченні знань та ритуалів [PAWN_possessive] народу - доки не настав день покликання.</desc>
   </AccursedChild88>
   
   <AceFighterPilot54>
