@@ -62,7 +62,7 @@
   <DormantHiveNotReproducing>Dormant: Not reproducing.</DormantHiveNotReproducing>
   <NextSpawnedItemIn>Next {0} in</NextSpawnedItemIn>
   <BrokenDown>Broken down</BrokenDown>
-  <BondBrackets>(bond)</BondBrackets>
+  <BondBrackets>(бонд)</BondBrackets>
   <Fuel>Паливо</Fuel>
   <FuelLevelGizmoLabel>Паливо</FuelLevelGizmoLabel>
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
@@ -73,7 +73,7 @@
   <CurrentRadius>current radius</CurrentRadius>
   <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
   <Permanent>permanent</Permanent>
-  <CaravanResting>Resting</CaravanResting>
+  <CaravanResting>Відпочиває</CaravanResting>
   <UsingBedroll>using 1 bedroll</UsingBedroll>
   <UsingBedrolls>using {0} bedrolls</UsingBedrolls>
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
@@ -103,12 +103,12 @@
   <DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
   <CaravanVisiting>Visiting {0}.</CaravanVisiting>
   <CaravanEntering>Entering {0}.</CaravanEntering>
-  <CaravanAttacking>Attacking {0}.</CaravanAttacking>
+  <CaravanAttacking>Атакує {0}.</CaravanAttacking>
   <CaravanOfferingGifts>Offering gifts to {0}.</CaravanOfferingGifts>
   <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
-  <WornByCorpseChar>T</WornByCorpseChar>
-  <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
-  <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
+  <WornByCorpseChar>Т</WornByCorpseChar>
+  <DeterioratingUnroofed>без даху</DeterioratingUnroofed>
+  <DeterioratingOutdoors>зовнішнє середовище</DeterioratingOutdoors>
   <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
   <Map>Мапа</Map>
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
@@ -150,7 +150,7 @@
   <TileMovementDifficulty>Terrain movement difficulty</TileMovementDifficulty>
   <Impassable>Impassable</Impassable>
   <CaravanMovementSpeedFull>Caravan movement speed</CaravanMovementSpeedFull>
-  <DownedLower>downed</DownedLower>
+  <DownedLower>збитий</DownedLower>
   <Carried>carried</Carried>
   <AverageCaravanMemberMoveSpeed>Avg. person move speed</AverageCaravanMemberMoveSpeed>
   <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
@@ -158,7 +158,7 @@
   <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
   <Winter>Зима</Winter>
   <MovementDifficultyOffsetInWinter>{0} взимку</MovementDifficultyOffsetInWinter>
-  <RangeTo>to</RangeTo>
+  <RangeTo>то</RangeTo>
   <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
   <ExpiresIn>Expires in</ExpiresIn>
   <CaravanLeaderCaravanName>{1_labelShort}'s caravan</CaravanLeaderCaravanName>
@@ -219,8 +219,8 @@
 
   <!-- Control -->
   <CannotOrderNonControlled>Cannot order characters you do not control.</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{1_labelShort} is incapable of violence.</IsIncapableOfViolence>
-  <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolence>{1_labelShort} не здатний на насильство.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>не здатний(а) на насильство</IsIncapableOfViolenceShort>
   <IsNotDrafted>{1_labelShort} is not drafted.</IsNotDrafted>
 
   <!-- Snow -->
@@ -254,7 +254,7 @@
   <UsingVerb>using {0} on {1}.</UsingVerb>
   <AreaLower>area</AreaLower>
   <ReportCowering>cowering.</ReportCowering>
-  <ReportStanding>standing.</ReportStanding>
+  <ReportStanding>стоїть.</ReportStanding>
   <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>extinguishing fire on {TARGET_label}.</ReportExtinguishingFireOn>
   <ReportDiggingUpCorpse>digging up corpse.</ReportDiggingUpCorpse>
@@ -266,7 +266,7 @@
 
   <!-- Shooting report -->
   <WeaponMissRadius>Weapon miss radius</WeaponMissRadius>
-  <ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
+  <ShootReportShooterAbility>Стрілець</ShootReportShooterAbility>
   <ShootReportWeapon>Зброя</ShootReportWeapon>
   <Darkness>Темрява</Darkness>
   <TargetProne>Target lying down</TargetProne>
@@ -294,9 +294,9 @@
   <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
-  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
-  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescGendered>{PAWN_gender} створено {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0} з {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} створено {0}</PawnMainDescLifestageWrap>
   <Faction>Фракція</Faction>
   <Equipped>Equipped</Equipped>
   <EquippedNothing>нічого</EquippedNothing>
@@ -310,7 +310,7 @@
   <AffectedBy>Affected by:</AffectedBy>
   <Queued>Queued</Queued>
   <State>State</State>
-  <StunLower>stun</StunLower>
+  <StunLower>оглушення</StunLower>
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
@@ -321,7 +321,7 @@
   <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
-  <OfLower>of</OfLower>
+  <OfLower>з</OfLower>
 
   <!-- Power readout -->
   <PowerNotConnected>Not connected to power.</PowerNotConnected>
@@ -335,8 +335,8 @@
   <!-- Temperature control -->
   <TargetTemperature>Target temperature</TargetTemperature>
   <PowerConsumptionMode>Current power use</PowerConsumptionMode>
-  <PowerConsumptionHigh>high</PowerConsumptionHigh>
-  <PowerConsumptionLow>low</PowerConsumptionLow>
+  <PowerConsumptionHigh>високі</PowerConsumptionHigh>
+  <PowerConsumptionLow>низький</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <Indoors>Всередині</Indoors>
@@ -359,7 +359,7 @@
   <ManhunterPerHit>Manhunter chance per hit</ManhunterPerHit>
 
   <!-- Meal -->
-  <Ingredients>Ingredients</Ingredients>
+  <Ingredients>Інгредієнти</Ingredients>
 
   <!-- Plants -->
   <PercentGrowth>Виросло на {0}</PercentGrowth>
@@ -487,9 +487,9 @@
   <Mood_AboutToBreak>about to break</Mood_AboutToBreak>
   <Mood_OnEdge>on edge</Mood_OnEdge>
   <Mood_Stressed>stressed</Mood_Stressed>
-  <Mood_Neutral>neutral</Mood_Neutral>
+  <Mood_Neutral>нейтрально</Mood_Neutral>
   <Mood_Content>content</Mood_Content>
-  <Mood_Happy>happy</Mood_Happy>
+  <Mood_Happy>щасливі</Mood_Happy>
 
   <!-- Game over -->
   <GameOverEveryoneDead>Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place.</GameOverEveryoneDead>
