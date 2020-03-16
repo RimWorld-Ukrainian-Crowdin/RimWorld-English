@@ -376,7 +376,7 @@
   <!-- EN: desc_sentence->[Quantity_adjphrase] further veins are visible in the distance. -->
   <MinedValuable.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</MinedValuable.rulePack.rulesStrings.14>
   <!-- EN: desc_sentence->A [TerrainFeature] is visible in the distance. -->
-  <MinedValuable.rulePack.rulesStrings.15>desc_sentence->A [TerrainFeature] is visible in the distance.</MinedValuable.rulePack.rulesStrings.15>
+  <MinedValuable.rulePack.rulesStrings.15>desc_sentence->Видніється [TerrainFeature].</MinedValuable.rulePack.rulesStrings.15>
   <!-- EN: desc_sentence->[PAWN_nameDef] is sweaty and dirty from work. -->
   <MinedValuable.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</MinedValuable.rulePack.rulesStrings.16>
   
