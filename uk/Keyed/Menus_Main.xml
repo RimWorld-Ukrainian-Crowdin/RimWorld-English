@@ -88,7 +88,7 @@
   <WorkshopUploadSucceeded>Успішно завантажено {0}.</WorkshopUploadSucceeded>
   <Downloading>Завантаження</Downloading>
   <Source>Джерело</Source>
-  <ModTargetVersion>Для версії: {0}</ModTargetVersion>
+  <ModTargetVersion>Для версій: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>Цей мод розроблений не для цієї версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion>
   <ModNotMadeForThisVersion_Newer>Цей мод розроблений для новішої версії RimWorld і, ймовірно, буде правильно працювати.</ModNotMadeForThisVersion_Newer>
   <MessageModNeedsWellFormattedTargetVersion>Цей мод потребує правильно оформленої інформації про версію у About.xml. Такої: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; більше не підтримується. Перевірте журнал для отримання додаткової інформації.</MessageModNeedsWellFormattedTargetVersion>
