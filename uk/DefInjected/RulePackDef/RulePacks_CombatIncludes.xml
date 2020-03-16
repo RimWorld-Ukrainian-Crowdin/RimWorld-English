@@ -51,9 +51,9 @@
   <!-- EN: verb_genericattack->thrashed -->
   <Combat_FailIncludes.rulePack.rulesStrings.11>verb_genericattack->thrashed</Combat_FailIncludes.rulePack.rulesStrings.11>
   <!-- EN: tried->tried -->
-  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->tried</Combat_FailIncludes.rulePack.rulesStrings.12>
+  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->спроба</Combat_FailIncludes.rulePack.rulesStrings.12>
   <!-- EN: tried->attempted -->
-  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->attempted</Combat_FailIncludes.rulePack.rulesStrings.13>
+  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->спроба</Combat_FailIncludes.rulePack.rulesStrings.13>
   
   <!-- EN: result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist] -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
