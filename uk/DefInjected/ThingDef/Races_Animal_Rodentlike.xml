@@ -10,7 +10,7 @@
   <!-- EN: right claw -->
   <Alphabeaver.tools.right_claw.label>right claw</Alphabeaver.tools.right_claw.label>
   <!-- EN: head -->
-  <Alphabeaver.tools.head.label>head</Alphabeaver.tools.head.label>
+  <Alphabeaver.tools.head.label>голова</Alphabeaver.tools.head.label>
   
   <!-- EN: boomrat -->
   <Boomrat.label>вибухощур</Boomrat.label>
@@ -21,7 +21,7 @@
   <!-- EN: right claw -->
   <Boomrat.tools.right_claw.label>right claw</Boomrat.tools.right_claw.label>
   <!-- EN: head -->
-  <Boomrat.tools.head.label>head</Boomrat.tools.head.label>
+  <Boomrat.tools.head.label>голова</Boomrat.tools.head.label>
   
   <!-- EN: capybara -->
   <Capybara.label>капібара</Capybara.label>
@@ -32,7 +32,7 @@
   <!-- EN: right claw -->
   <Capybara.tools.right_claw.label>right claw</Capybara.tools.right_claw.label>
   <!-- EN: head -->
-  <Capybara.tools.head.label>head</Capybara.tools.head.label>
+  <Capybara.tools.head.label>голова</Capybara.tools.head.label>
   
   <!-- EN: chinchilla -->
   <Chinchilla.label>шиншилла</Chinchilla.label>
@@ -43,7 +43,7 @@
   <!-- EN: right claw -->
   <Chinchilla.tools.right_claw.label>right claw</Chinchilla.tools.right_claw.label>
   <!-- EN: head -->
-  <Chinchilla.tools.head.label>head</Chinchilla.tools.head.label>
+  <Chinchilla.tools.head.label>голова</Chinchilla.tools.head.label>
   
   <!-- EN: raccoon -->
   <Raccoon.label>єнот</Raccoon.label>
@@ -54,7 +54,7 @@
   <!-- EN: right claw -->
   <Raccoon.tools.right_claw.label>right claw</Raccoon.tools.right_claw.label>
   <!-- EN: head -->
-  <Raccoon.tools.head.label>head</Raccoon.tools.head.label>
+  <Raccoon.tools.head.label>голова</Raccoon.tools.head.label>
   
   <!-- EN: rat -->
   <Rat.label>щур</Rat.label>
@@ -65,7 +65,7 @@
   <!-- EN: right claw -->
   <Rat.tools.right_claw.label>right claw</Rat.tools.right_claw.label>
   <!-- EN: head -->
-  <Rat.tools.head.label>head</Rat.tools.head.label>
+  <Rat.tools.head.label>голова</Rat.tools.head.label>
   
   <!-- EN: squirrel -->
   <Squirrel.label>білка</Squirrel.label>
@@ -76,6 +76,6 @@
   <!-- EN: right claw -->
   <Squirrel.tools.right_claw.label>right claw</Squirrel.tools.right_claw.label>
   <!-- EN: head -->
-  <Squirrel.tools.head.label>head</Squirrel.tools.head.label>
+  <Squirrel.tools.head.label>голова</Squirrel.tools.head.label>
   
 </LanguageData>
