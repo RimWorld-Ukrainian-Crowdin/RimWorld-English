@@ -126,7 +126,7 @@
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
   <Stat_Stuff_Desc>The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>Weapon</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Зброя</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
   <Stat_Weapon_Desc>The weapon used by this turret.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
@@ -252,7 +252,7 @@
   <!-- EN: Considered -->
   <Stat_Thing_Terrain_Fine_Name>Considered</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>Fine</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Добре</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
   <Stat_Thing_Terrain_Fine_Desc>This floor is considered fine and suitable for royalty.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
