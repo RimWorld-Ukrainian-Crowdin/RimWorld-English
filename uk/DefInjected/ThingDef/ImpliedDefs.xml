@@ -2,40 +2,40 @@
 <LanguageData>
   
   <!-- EN: animal bed (blueprint) -->
-  <Blueprint_AnimalBed.label>animal bed (blueprint)</Blueprint_AnimalBed.label>
+  <Blueprint_AnimalBed.label>лежанка для тварин (проект)</Blueprint_AnimalBed.label>
   
   <!-- EN: animal sleeping box (blueprint) -->
-  <Blueprint_AnimalSleepingBox.label>animal sleeping box (blueprint)</Blueprint_AnimalSleepingBox.label>
+  <Blueprint_AnimalSleepingBox.label>спальна коробка для тварин (проект)</Blueprint_AnimalSleepingBox.label>
   
   <!-- EN: animal sleeping spot (blueprint) -->
-  <Blueprint_AnimalSleepingSpot.label>animal sleeping spot (blueprint)</Blueprint_AnimalSleepingSpot.label>
+  <Blueprint_AnimalSleepingSpot.label>спальне місце для тварин (проект)</Blueprint_AnimalSleepingSpot.label>
   
   <!-- EN: armchair (blueprint) -->
-  <Blueprint_Armchair.label>armchair (blueprint)</Blueprint_Armchair.label>
+  <Blueprint_Armchair.label>крісло (проект)</Blueprint_Armchair.label>
   
   <!-- EN: autodoor (blueprint) -->
-  <Blueprint_Autodoor.label>autodoor (blueprint)</Blueprint_Autodoor.label>
+  <Blueprint_Autodoor.label>автоматичні двері (проект)</Blueprint_Autodoor.label>
   
   <!-- EN: battery (blueprint) -->
-  <Blueprint_Battery.label>battery (blueprint)</Blueprint_Battery.label>
+  <Blueprint_Battery.label>акумулятор (проект)</Blueprint_Battery.label>
   
   <!-- EN: bed (blueprint) -->
-  <Blueprint_Bed.label>bed (blueprint)</Blueprint_Bed.label>
+  <Blueprint_Bed.label>ліжко (проект)</Blueprint_Bed.label>
   
   <!-- EN: bedroll (blueprint) -->
-  <Blueprint_Bedroll.label>bedroll (blueprint)</Blueprint_Bedroll.label>
+  <Blueprint_Bedroll.label>спальний мішок (проект)</Blueprint_Bedroll.label>
   
   <!-- EN: double bedroll (blueprint) -->
-  <Blueprint_BedrollDouble.label>double bedroll (blueprint)</Blueprint_BedrollDouble.label>
+  <Blueprint_BedrollDouble.label>спальний мішок на двох (проект)</Blueprint_BedrollDouble.label>
   
   <!-- EN: billiards table (blueprint) -->
-  <Blueprint_BilliardsTable.label>billiards table (blueprint)</Blueprint_BilliardsTable.label>
+  <Blueprint_BilliardsTable.label>більярдний стіл (проект)</Blueprint_BilliardsTable.label>
   
   <!-- EN: biofuel refinery (blueprint) -->
   <Blueprint_BiofuelRefinery.label>biofuel refinery (blueprint)</Blueprint_BiofuelRefinery.label>
   
   <!-- EN: brewery (blueprint) -->
-  <Blueprint_Brewery.label>brewery (blueprint)</Blueprint_Brewery.label>
+  <Blueprint_Brewery.label>пивоварня (проект)</Blueprint_Brewery.label>
   
   <!-- EN: bridge (blueprint) -->
   <Blueprint_Bridge.label>bridge (blueprint)</Blueprint_Bridge.label>
@@ -44,43 +44,43 @@
   <Blueprint_ButcherSpot.label>butcher spot (blueprint)</Blueprint_ButcherSpot.label>
   
   <!-- EN: campfire (blueprint) -->
-  <Blueprint_Campfire.label>campfire (blueprint)</Blueprint_Campfire.label>
+  <Blueprint_Campfire.label>багаття (план)</Blueprint_Campfire.label>
   
   <!-- EN: caravan packing spot (blueprint) -->
   <Blueprint_CaravanPackingSpot.label>caravan packing spot (blueprint)</Blueprint_CaravanPackingSpot.label>
   
   <!-- EN: blue carpet (blueprint) -->
-  <Blueprint_CarpetBlue.label>blue carpet (blueprint)</Blueprint_CarpetBlue.label>
+  <Blueprint_CarpetBlue.label>синій килим (проект)</Blueprint_CarpetBlue.label>
   
   <!-- EN: cream carpet (blueprint) -->
-  <Blueprint_CarpetCream.label>cream carpet (blueprint)</Blueprint_CarpetCream.label>
+  <Blueprint_CarpetCream.label>білий килим (проект)</Blueprint_CarpetCream.label>
   
   <!-- EN: dark carpet (blueprint) -->
-  <Blueprint_CarpetDark.label>dark carpet (blueprint)</Blueprint_CarpetDark.label>
+  <Blueprint_CarpetDark.label>чорний килим (проект)</Blueprint_CarpetDark.label>
   
   <!-- EN: green carpet (blueprint) -->
-  <Blueprint_CarpetGreen.label>green carpet (blueprint)</Blueprint_CarpetGreen.label>
+  <Blueprint_CarpetGreen.label>зелений килим (проект)</Blueprint_CarpetGreen.label>
   
   <!-- EN: red carpet (blueprint) -->
-  <Blueprint_CarpetRed.label>red carpet (blueprint)</Blueprint_CarpetRed.label>
+  <Blueprint_CarpetRed.label>червоний килим (проект)</Blueprint_CarpetRed.label>
   
   <!-- EN: chemfuel powered generator (blueprint) -->
-  <Blueprint_ChemfuelPoweredGenerator.label>chemfuel powered generator (blueprint)</Blueprint_ChemfuelPoweredGenerator.label>
+  <Blueprint_ChemfuelPoweredGenerator.label>генератор на хімпаливі (проект)</Blueprint_ChemfuelPoweredGenerator.label>
   
   <!-- EN: chess table (blueprint) -->
-  <Blueprint_ChessTable.label>chess table (blueprint)</Blueprint_ChessTable.label>
+  <Blueprint_ChessTable.label>стіл для шахів (проект)</Blueprint_ChessTable.label>
   
   <!-- EN: comms console (blueprint) -->
-  <Blueprint_CommsConsole.label>comms console (blueprint)</Blueprint_CommsConsole.label>
+  <Blueprint_CommsConsole.label>термінал зв'язку (проект)</Blueprint_CommsConsole.label>
   
   <!-- EN: concrete (blueprint) -->
-  <Blueprint_Concrete.label>concrete (blueprint)</Blueprint_Concrete.label>
+  <Blueprint_Concrete.label>бетон (проект)</Blueprint_Concrete.label>
   
   <!-- EN: cooler (blueprint) -->
-  <Blueprint_Cooler.label>cooler (blueprint)</Blueprint_Cooler.label>
+  <Blueprint_Cooler.label>охолоджувач (план)</Blueprint_Cooler.label>
   
   <!-- EN: crafting spot (blueprint) -->
-  <Blueprint_CraftingSpot.label>crafting spot (blueprint)</Blueprint_CraftingSpot.label>
+  <Blueprint_CraftingSpot.label>місце для виготовлення (проект)</Blueprint_CraftingSpot.label>
   
   <!-- EN: cryptosleep casket (blueprint) -->
   <Blueprint_CryptosleepCasket.label>cryptosleep casket (blueprint)</Blueprint_CryptosleepCasket.label>
@@ -89,40 +89,40 @@
   <Blueprint_DeepDrill.label>deep drill (blueprint)</Blueprint_DeepDrill.label>
   
   <!-- EN: dining chair (blueprint) -->
-  <Blueprint_DiningChair.label>dining chair (blueprint)</Blueprint_DiningChair.label>
+  <Blueprint_DiningChair.label>стілець (проект)</Blueprint_DiningChair.label>
   
   <!-- EN: door (blueprint) -->
-  <Blueprint_Door.label>door (blueprint)</Blueprint_Door.label>
+  <Blueprint_Door.label>двері (проект)</Blueprint_Door.label>
   
   <!-- EN: double bed (blueprint) -->
-  <Blueprint_DoubleBed.label>double bed (blueprint)</Blueprint_DoubleBed.label>
+  <Blueprint_DoubleBed.label>двоспальне ліжко (проект)</Blueprint_DoubleBed.label>
   
   <!-- EN: double sleeping spot (blueprint) -->
   <Blueprint_DoubleSleepingSpot.label>double sleeping spot (blueprint)</Blueprint_DoubleSleepingSpot.label>
   
   <!-- EN: dresser (blueprint) -->
-  <Blueprint_Dresser.label>dresser (blueprint)</Blueprint_Dresser.label>
+  <Blueprint_Dresser.label>комод (проект)</Blueprint_Dresser.label>
   
   <!-- EN: drug lab (blueprint) -->
-  <Blueprint_DrugLab.label>drug lab (blueprint)</Blueprint_DrugLab.label>
+  <Blueprint_DrugLab.label>наркотична лабораторія (проект)</Blueprint_DrugLab.label>
   
   <!-- EN: electric crematorium (blueprint) -->
   <Blueprint_ElectricCrematorium.label>electric crematorium (blueprint)</Blueprint_ElectricCrematorium.label>
   
   <!-- EN: electric smelter (blueprint) -->
-  <Blueprint_ElectricSmelter.label>electric smelter (blueprint)</Blueprint_ElectricSmelter.label>
+  <Blueprint_ElectricSmelter.label>електрична плавильня (проект)</Blueprint_ElectricSmelter.label>
   
   <!-- EN: electric smithy (blueprint) -->
-  <Blueprint_ElectricSmithy.label>electric smithy (blueprint)</Blueprint_ElectricSmithy.label>
+  <Blueprint_ElectricSmithy.label>електрична кузня (проект)</Blueprint_ElectricSmithy.label>
   
   <!-- EN: electric stove (blueprint) -->
-  <Blueprint_ElectricStove.label>electric stove (blueprint)</Blueprint_ElectricStove.label>
+  <Blueprint_ElectricStove.label>електрична плита (проект)</Blueprint_ElectricStove.label>
   
   <!-- EN: electric tailor bench (blueprint) -->
-  <Blueprint_ElectricTailoringBench.label>electric tailor bench (blueprint)</Blueprint_ElectricTailoringBench.label>
+  <Blueprint_ElectricTailoringBench.label>електричний стіл кравця (проект)</Blueprint_ElectricTailoringBench.label>
   
   <!-- EN: end table (blueprint) -->
-  <Blueprint_EndTable.label>end table (blueprint)</Blueprint_EndTable.label>
+  <Blueprint_EndTable.label>тумбочка (проект)</Blueprint_EndTable.label>
   
   <!-- EN: fabrication bench (blueprint) -->
   <Blueprint_FabricationBench.label>fabrication bench (blueprint)</Blueprint_FabricationBench.label>
@@ -131,250 +131,250 @@
   <Blueprint_FermentingBarrel.label>fermenting barrel (blueprint)</Blueprint_FermentingBarrel.label>
   
   <!-- EN: firefoam popper (blueprint) -->
-  <Blueprint_FirefoamPopper.label>firefoam popper (blueprint)</Blueprint_FirefoamPopper.label>
+  <Blueprint_FirefoamPopper.label>вогнегасник (проект)</Blueprint_FirefoamPopper.label>
   
   <!-- EN: granite flagstone (blueprint) -->
-  <Blueprint_FlagstoneGranite.label>granite flagstone (blueprint)</Blueprint_FlagstoneGranite.label>
+  <Blueprint_FlagstoneGranite.label>гранітні плити (проект)</Blueprint_FlagstoneGranite.label>
   
   <!-- EN: limestone flagstone (blueprint) -->
-  <Blueprint_FlagstoneLimestone.label>limestone flagstone (blueprint)</Blueprint_FlagstoneLimestone.label>
+  <Blueprint_FlagstoneLimestone.label>вапнякові плити (проект)</Blueprint_FlagstoneLimestone.label>
   
   <!-- EN: marble flagstone (blueprint) -->
-  <Blueprint_FlagstoneMarble.label>marble flagstone (blueprint)</Blueprint_FlagstoneMarble.label>
+  <Blueprint_FlagstoneMarble.label>мармурові плити (проект)</Blueprint_FlagstoneMarble.label>
   
   <!-- EN: sandstone flagstone (blueprint) -->
-  <Blueprint_FlagstoneSandstone.label>sandstone flagstone (blueprint)</Blueprint_FlagstoneSandstone.label>
+  <Blueprint_FlagstoneSandstone.label>плити з піщаника (проект)</Blueprint_FlagstoneSandstone.label>
   
   <!-- EN: slate flagstone (blueprint) -->
-  <Blueprint_FlagstoneSlate.label>slate flagstone (blueprint)</Blueprint_FlagstoneSlate.label>
+  <Blueprint_FlagstoneSlate.label>cланцеві плити (проект)</Blueprint_FlagstoneSlate.label>
   
   <!-- EN: flatscreen television (blueprint) -->
-  <Blueprint_FlatscreenTelevision.label>flatscreen television (blueprint)</Blueprint_FlatscreenTelevision.label>
+  <Blueprint_FlatscreenTelevision.label>телевізор з пласким екраном (проект)</Blueprint_FlatscreenTelevision.label>
   
   <!-- EN: fueled smithy (blueprint) -->
-  <Blueprint_FueledSmithy.label>fueled smithy (blueprint)</Blueprint_FueledSmithy.label>
+  <Blueprint_FueledSmithy.label>кузня (проект)</Blueprint_FueledSmithy.label>
   
   <!-- EN: fueled stove (blueprint) -->
-  <Blueprint_FueledStove.label>fueled stove (blueprint)</Blueprint_FueledStove.label>
+  <Blueprint_FueledStove.label>плита (проект)</Blueprint_FueledStove.label>
   
   <!-- EN: game-of-Ur board (blueprint) -->
   <Blueprint_GameOfUrBoard.label>game-of-Ur board (blueprint)</Blueprint_GameOfUrBoard.label>
   
   <!-- EN: geothermal generator (blueprint) -->
-  <Blueprint_GeothermalGenerator.label>geothermal generator (blueprint)</Blueprint_GeothermalGenerator.label>
+  <Blueprint_GeothermalGenerator.label>геотермальний генератор (проект)</Blueprint_GeothermalGenerator.label>
   
   <!-- EN: gold tile (blueprint) -->
-  <Blueprint_GoldTile.label>gold tile (blueprint)</Blueprint_GoldTile.label>
+  <Blueprint_GoldTile.label>золота плитка (проект)</Blueprint_GoldTile.label>
   
   <!-- EN: grave (blueprint) -->
   <Blueprint_Grave.label>grave (blueprint)</Blueprint_Grave.label>
   
   <!-- EN: ground-penetrating scanner (blueprint) -->
-  <Blueprint_GroundPenetratingScanner.label>ground-penetrating scanner (blueprint)</Blueprint_GroundPenetratingScanner.label>
+  <Blueprint_GroundPenetratingScanner.label>сканер мінералів (проект)</Blueprint_GroundPenetratingScanner.label>
   
   <!-- EN: hand tailor bench (blueprint) -->
-  <Blueprint_HandTailoringBench.label>hand tailor bench (blueprint)</Blueprint_HandTailoringBench.label>
+  <Blueprint_HandTailoringBench.label>стіл кравця (проект)</Blueprint_HandTailoringBench.label>
   
   <!-- EN: heater (blueprint) -->
-  <Blueprint_Heater.label>heater (blueprint)</Blueprint_Heater.label>
+  <Blueprint_Heater.label>обігрівач (план)</Blueprint_Heater.label>
   
   <!-- EN: hi-tech research bench (blueprint) -->
   <Blueprint_HiTechResearchBench.label>hi-tech research bench (blueprint)</Blueprint_HiTechResearchBench.label>
   
   <!-- EN: hoopstone ring (blueprint) -->
-  <Blueprint_HoopstoneRing.label>hoopstone ring (blueprint)</Blueprint_HoopstoneRing.label>
+  <Blueprint_HoopstoneRing.label>кільце для кидання каменів (проект)</Blueprint_HoopstoneRing.label>
   
   <!-- EN: hopper (blueprint) -->
   <Blueprint_Hopper.label>hopper (blueprint)</Blueprint_Hopper.label>
   
   <!-- EN: horseshoes pin (blueprint) -->
-  <Blueprint_HorseshoesPin.label>horseshoes pin (blueprint)</Blueprint_HorseshoesPin.label>
+  <Blueprint_HorseshoesPin.label>стовп для кидання підкови (проект)</Blueprint_HorseshoesPin.label>
   
   <!-- EN: hospital bed (blueprint) -->
-  <Blueprint_HospitalBed.label>hospital bed (blueprint)</Blueprint_HospitalBed.label>
+  <Blueprint_HospitalBed.label>лікарняне ліжко (проект)</Blueprint_HospitalBed.label>
   
   <!-- EN: hydroponics basin (blueprint) -->
   <Blueprint_HydroponicsBasin.label>hydroponics basin (blueprint)</Blueprint_HydroponicsBasin.label>
   
   <!-- EN: animal bed (blueprint) -->
-  <Blueprint_Install_AnimalBed.label>animal bed (blueprint)</Blueprint_Install_AnimalBed.label>
+  <Blueprint_Install_AnimalBed.label>лежанка для тварин (проект)</Blueprint_Install_AnimalBed.label>
   
   <!-- EN: animal sleeping box (blueprint) -->
-  <Blueprint_Install_AnimalSleepingBox.label>animal sleeping box (blueprint)</Blueprint_Install_AnimalSleepingBox.label>
+  <Blueprint_Install_AnimalSleepingBox.label>спальна коробка для тварин (проект)</Blueprint_Install_AnimalSleepingBox.label>
   
   <!-- EN: armchair (blueprint) -->
-  <Blueprint_Install_Armchair.label>armchair (blueprint)</Blueprint_Install_Armchair.label>
+  <Blueprint_Install_Armchair.label>крісло (проект)</Blueprint_Install_Armchair.label>
   
   <!-- EN: battery (blueprint) -->
-  <Blueprint_Install_Battery.label>battery (blueprint)</Blueprint_Install_Battery.label>
+  <Blueprint_Install_Battery.label>акумулятор (проект)</Blueprint_Install_Battery.label>
   
   <!-- EN: bed (blueprint) -->
-  <Blueprint_Install_Bed.label>bed (blueprint)</Blueprint_Install_Bed.label>
+  <Blueprint_Install_Bed.label>ліжко (проект)</Blueprint_Install_Bed.label>
   
   <!-- EN: bedroll (blueprint) -->
-  <Blueprint_Install_Bedroll.label>bedroll (blueprint)</Blueprint_Install_Bedroll.label>
+  <Blueprint_Install_Bedroll.label>спальний мішок (проект)</Blueprint_Install_Bedroll.label>
   
   <!-- EN: double bedroll (blueprint) -->
-  <Blueprint_Install_BedrollDouble.label>double bedroll (blueprint)</Blueprint_Install_BedrollDouble.label>
+  <Blueprint_Install_BedrollDouble.label>спальний мішок на двох (проект)</Blueprint_Install_BedrollDouble.label>
   
   <!-- EN: billiards table (blueprint) -->
-  <Blueprint_Install_BilliardsTable.label>billiards table (blueprint)</Blueprint_Install_BilliardsTable.label>
+  <Blueprint_Install_BilliardsTable.label>більярдний стіл (проект)</Blueprint_Install_BilliardsTable.label>
   
   <!-- EN: brewery (blueprint) -->
-  <Blueprint_Install_Brewery.label>brewery (blueprint)</Blueprint_Install_Brewery.label>
+  <Blueprint_Install_Brewery.label>пивоварня (проект)</Blueprint_Install_Brewery.label>
   
   <!-- EN: chess table (blueprint) -->
-  <Blueprint_Install_ChessTable.label>chess table (blueprint)</Blueprint_Install_ChessTable.label>
+  <Blueprint_Install_ChessTable.label>стіл для шахів (проект)</Blueprint_Install_ChessTable.label>
   
   <!-- EN: deep drill (blueprint) -->
   <Blueprint_Install_DeepDrill.label>deep drill (blueprint)</Blueprint_Install_DeepDrill.label>
   
   <!-- EN: dining chair (blueprint) -->
-  <Blueprint_Install_DiningChair.label>dining chair (blueprint)</Blueprint_Install_DiningChair.label>
+  <Blueprint_Install_DiningChair.label>стілець (проект)</Blueprint_Install_DiningChair.label>
   
   <!-- EN: double bed (blueprint) -->
-  <Blueprint_Install_DoubleBed.label>double bed (blueprint)</Blueprint_Install_DoubleBed.label>
+  <Blueprint_Install_DoubleBed.label>двоспальне ліжко (проект)</Blueprint_Install_DoubleBed.label>
   
   <!-- EN: dresser (blueprint) -->
-  <Blueprint_Install_Dresser.label>dresser (blueprint)</Blueprint_Install_Dresser.label>
+  <Blueprint_Install_Dresser.label>комод (проект)</Blueprint_Install_Dresser.label>
   
   <!-- EN: drug lab (blueprint) -->
-  <Blueprint_Install_DrugLab.label>drug lab (blueprint)</Blueprint_Install_DrugLab.label>
+  <Blueprint_Install_DrugLab.label>наркотична лабораторія (проект)</Blueprint_Install_DrugLab.label>
   
   <!-- EN: electric smelter (blueprint) -->
-  <Blueprint_Install_ElectricSmelter.label>electric smelter (blueprint)</Blueprint_Install_ElectricSmelter.label>
+  <Blueprint_Install_ElectricSmelter.label>електрична плавильня (проект)</Blueprint_Install_ElectricSmelter.label>
   
   <!-- EN: electric smithy (blueprint) -->
-  <Blueprint_Install_ElectricSmithy.label>electric smithy (blueprint)</Blueprint_Install_ElectricSmithy.label>
+  <Blueprint_Install_ElectricSmithy.label>електрична кузня (проект)</Blueprint_Install_ElectricSmithy.label>
   
   <!-- EN: electric stove (blueprint) -->
-  <Blueprint_Install_ElectricStove.label>electric stove (blueprint)</Blueprint_Install_ElectricStove.label>
+  <Blueprint_Install_ElectricStove.label>електрична плита (проект)</Blueprint_Install_ElectricStove.label>
   
   <!-- EN: electric tailor bench (blueprint) -->
-  <Blueprint_Install_ElectricTailoringBench.label>electric tailor bench (blueprint)</Blueprint_Install_ElectricTailoringBench.label>
+  <Blueprint_Install_ElectricTailoringBench.label>електричний стіл кравця (проект)</Blueprint_Install_ElectricTailoringBench.label>
   
   <!-- EN: end table (blueprint) -->
-  <Blueprint_Install_EndTable.label>end table (blueprint)</Blueprint_Install_EndTable.label>
+  <Blueprint_Install_EndTable.label>тумбочка (проект)</Blueprint_Install_EndTable.label>
   
   <!-- EN: fermenting barrel (blueprint) -->
   <Blueprint_Install_FermentingBarrel.label>fermenting barrel (blueprint)</Blueprint_Install_FermentingBarrel.label>
   
   <!-- EN: firefoam popper (blueprint) -->
-  <Blueprint_Install_FirefoamPopper.label>firefoam popper (blueprint)</Blueprint_Install_FirefoamPopper.label>
+  <Blueprint_Install_FirefoamPopper.label>вогнегасник (проект)</Blueprint_Install_FirefoamPopper.label>
   
   <!-- EN: flatscreen television (blueprint) -->
-  <Blueprint_Install_FlatscreenTelevision.label>flatscreen television (blueprint)</Blueprint_Install_FlatscreenTelevision.label>
+  <Blueprint_Install_FlatscreenTelevision.label>телевізор з пласким екраном (проект)</Blueprint_Install_FlatscreenTelevision.label>
   
   <!-- EN: fueled smithy (blueprint) -->
-  <Blueprint_Install_FueledSmithy.label>fueled smithy (blueprint)</Blueprint_Install_FueledSmithy.label>
+  <Blueprint_Install_FueledSmithy.label>кузня (проект)</Blueprint_Install_FueledSmithy.label>
   
   <!-- EN: fueled stove (blueprint) -->
-  <Blueprint_Install_FueledStove.label>fueled stove (blueprint)</Blueprint_Install_FueledStove.label>
+  <Blueprint_Install_FueledStove.label>плита (проект)</Blueprint_Install_FueledStove.label>
   
   <!-- EN: game-of-Ur board (blueprint) -->
   <Blueprint_Install_GameOfUrBoard.label>game-of-Ur board (blueprint)</Blueprint_Install_GameOfUrBoard.label>
   
   <!-- EN: glow pod (blueprint) -->
-  <Blueprint_Install_GlowPod.label>glow pod (blueprint)</Blueprint_Install_GlowPod.label>
+  <Blueprint_Install_GlowPod.label>яскравий кокон (проект)</Blueprint_Install_GlowPod.label>
   
   <!-- EN: hand tailor bench (blueprint) -->
-  <Blueprint_Install_HandTailoringBench.label>hand tailor bench (blueprint)</Blueprint_Install_HandTailoringBench.label>
+  <Blueprint_Install_HandTailoringBench.label>стіл кравця (проект)</Blueprint_Install_HandTailoringBench.label>
   
   <!-- EN: heater (blueprint) -->
-  <Blueprint_Install_Heater.label>heater (blueprint)</Blueprint_Install_Heater.label>
+  <Blueprint_Install_Heater.label>обігрівач (план)</Blueprint_Install_Heater.label>
   
   <!-- EN: hoopstone ring (blueprint) -->
-  <Blueprint_Install_HoopstoneRing.label>hoopstone ring (blueprint)</Blueprint_Install_HoopstoneRing.label>
+  <Blueprint_Install_HoopstoneRing.label>кільце для кидання каменів (проект)</Blueprint_Install_HoopstoneRing.label>
   
   <!-- EN: horseshoes pin (blueprint) -->
-  <Blueprint_Install_HorseshoesPin.label>horseshoes pin (blueprint)</Blueprint_Install_HorseshoesPin.label>
+  <Blueprint_Install_HorseshoesPin.label>стовп для кидання підкови (проект)</Blueprint_Install_HorseshoesPin.label>
   
   <!-- EN: hospital bed (blueprint) -->
-  <Blueprint_Install_HospitalBed.label>hospital bed (blueprint)</Blueprint_Install_HospitalBed.label>
+  <Blueprint_Install_HospitalBed.label>лікарняне ліжко (проект)</Blueprint_Install_HospitalBed.label>
   
   <!-- EN: infinite chemreactor (blueprint) -->
   <Blueprint_Install_InfiniteChemreactor.label>infinite chemreactor (blueprint)</Blueprint_Install_InfiniteChemreactor.label>
   
   <!-- EN: megascreen television (blueprint) -->
-  <Blueprint_Install_MegascreenTelevision.label>megascreen television (blueprint)</Blueprint_Install_MegascreenTelevision.label>
+  <Blueprint_Install_MegascreenTelevision.label>телевізор з магічним екраном (проект)</Blueprint_Install_MegascreenTelevision.label>
   
   <!-- EN: multi-analyzer (blueprint) -->
   <Blueprint_Install_MultiAnalyzer.label>multi-analyzer (blueprint)</Blueprint_Install_MultiAnalyzer.label>
   
   <!-- EN: orbital trade beacon (blueprint) -->
-  <Blueprint_Install_OrbitalTradeBeacon.label>orbital trade beacon (blueprint)</Blueprint_Install_OrbitalTradeBeacon.label>
+  <Blueprint_Install_OrbitalTradeBeacon.label>орбітальний маяк (проект)</Blueprint_Install_OrbitalTradeBeacon.label>
   
   <!-- EN: plant pot (blueprint) -->
-  <Blueprint_Install_PlantPot.label>plant pot (blueprint)</Blueprint_Install_PlantPot.label>
+  <Blueprint_Install_PlantPot.label>горщик для рослин (проект)</Blueprint_Install_PlantPot.label>
   
   <!-- EN: poker table (blueprint) -->
-  <Blueprint_Install_PokerTable.label>poker table (blueprint)</Blueprint_Install_PokerTable.label>
+  <Blueprint_Install_PokerTable.label>покерний стіл (проект)</Blueprint_Install_PokerTable.label>
   
   <!-- EN: psychic emanator (blueprint) -->
   <Blueprint_Install_PsychicEmanator.label>psychic emanator (blueprint)</Blueprint_Install_PsychicEmanator.label>
   
   <!-- EN: royal bed (blueprint) -->
-  <Blueprint_Install_RoyalBed.label>royal bed (blueprint)</Blueprint_Install_RoyalBed.label>
+  <Blueprint_Install_RoyalBed.label>розкішне ліжко (проект)</Blueprint_Install_RoyalBed.label>
   
   <!-- EN: grand sculpture (blueprint) -->
-  <Blueprint_Install_SculptureGrand.label>grand sculpture (blueprint)</Blueprint_Install_SculptureGrand.label>
+  <Blueprint_Install_SculptureGrand.label>велична скульптура (проект)</Blueprint_Install_SculptureGrand.label>
   
   <!-- EN: large sculpture (blueprint) -->
-  <Blueprint_Install_SculptureLarge.label>large sculpture (blueprint)</Blueprint_Install_SculptureLarge.label>
+  <Blueprint_Install_SculptureLarge.label>значна скульптура (проект)</Blueprint_Install_SculptureLarge.label>
   
   <!-- EN: small sculpture (blueprint) -->
-  <Blueprint_Install_SculptureSmall.label>small sculpture (blueprint)</Blueprint_Install_SculptureSmall.label>
+  <Blueprint_Install_SculptureSmall.label>невелика скульптура (проект)</Blueprint_Install_SculptureSmall.label>
   
   <!-- EN: shelf (blueprint) -->
-  <Blueprint_Install_Shelf.label>shelf (blueprint)</Blueprint_Install_Shelf.label>
+  <Blueprint_Install_Shelf.label>стелаж (проект)</Blueprint_Install_Shelf.label>
   
   <!-- EN: simple research bench (blueprint) -->
   <Blueprint_Install_SimpleResearchBench.label>simple research bench (blueprint)</Blueprint_Install_SimpleResearchBench.label>
   
   <!-- EN: standing lamp (blueprint) -->
-  <Blueprint_Install_StandingLamp.label>standing lamp (blueprint)</Blueprint_Install_StandingLamp.label>
+  <Blueprint_Install_StandingLamp.label>електрична лампочка (проект)</Blueprint_Install_StandingLamp.label>
   
   <!-- EN: standing lamp (blue) (blueprint) -->
-  <Blueprint_Install_StandingLamp_Blue.label>standing lamp (blue) (blueprint)</Blueprint_Install_StandingLamp_Blue.label>
+  <Blueprint_Install_StandingLamp_Blue.label>електрична лампочка (синя) (проект)</Blueprint_Install_StandingLamp_Blue.label>
   
   <!-- EN: standing lamp (green) (blueprint) -->
-  <Blueprint_Install_StandingLamp_Green.label>standing lamp (green) (blueprint)</Blueprint_Install_StandingLamp_Green.label>
+  <Blueprint_Install_StandingLamp_Green.label>електрична лампочка (зелена) (проект)</Blueprint_Install_StandingLamp_Green.label>
   
   <!-- EN: standing lamp (red) (blueprint) -->
-  <Blueprint_Install_StandingLamp_Red.label>standing lamp (red) (blueprint)</Blueprint_Install_StandingLamp_Red.label>
+  <Blueprint_Install_StandingLamp_Red.label>електрична лампочка (червона) (проект)</Blueprint_Install_StandingLamp_Red.label>
   
   <!-- EN: stool (blueprint) -->
-  <Blueprint_Install_Stool.label>stool (blueprint)</Blueprint_Install_Stool.label>
+  <Blueprint_Install_Stool.label>табурет (проект)</Blueprint_Install_Stool.label>
   
   <!-- EN: sun lamp (blueprint) -->
-  <Blueprint_Install_SunLamp.label>sun lamp (blueprint)</Blueprint_Install_SunLamp.label>
+  <Blueprint_Install_SunLamp.label>лампа денного світла (проект)</Blueprint_Install_SunLamp.label>
   
   <!-- EN: table (1x2) (blueprint) -->
-  <Blueprint_Install_Table1x2c.label>table (1x2) (blueprint)</Blueprint_Install_Table1x2c.label>
+  <Blueprint_Install_Table1x2c.label>стіл (1х2) (проект)</Blueprint_Install_Table1x2c.label>
   
   <!-- EN: table (2x2) (blueprint) -->
-  <Blueprint_Install_Table2x2c.label>table (2x2) (blueprint)</Blueprint_Install_Table2x2c.label>
+  <Blueprint_Install_Table2x2c.label>стіл (2х2) (проект)</Blueprint_Install_Table2x2c.label>
   
   <!-- EN: table (2x4) (blueprint) -->
-  <Blueprint_Install_Table2x4c.label>table (2x4) (blueprint)</Blueprint_Install_Table2x4c.label>
+  <Blueprint_Install_Table2x4c.label>стіл (2х4) (проект)</Blueprint_Install_Table2x4c.label>
   
   <!-- EN: table (3x3) (blueprint) -->
-  <Blueprint_Install_Table3x3c.label>table (3x3) (blueprint)</Blueprint_Install_Table3x3c.label>
+  <Blueprint_Install_Table3x3c.label>стіл (3х3) (проект)</Blueprint_Install_Table3x3c.label>
   
   <!-- EN: butcher table (blueprint) -->
-  <Blueprint_Install_TableButcher.label>butcher table (blueprint)</Blueprint_Install_TableButcher.label>
+  <Blueprint_Install_TableButcher.label>стіл м'ясника (проект)</Blueprint_Install_TableButcher.label>
   
   <!-- EN: machining table (blueprint) -->
-  <Blueprint_Install_TableMachining.label>machining table (blueprint)</Blueprint_Install_TableMachining.label>
+  <Blueprint_Install_TableMachining.label>верстак (проект)</Blueprint_Install_TableMachining.label>
   
   <!-- EN: sculptor's table (blueprint) -->
-  <Blueprint_Install_TableSculpting.label>sculptor's table (blueprint)</Blueprint_Install_TableSculpting.label>
+  <Blueprint_Install_TableSculpting.label>стіл скульптура (проект)</Blueprint_Install_TableSculpting.label>
   
   <!-- EN: stonecutter's table (blueprint) -->
-  <Blueprint_Install_TableStonecutter.label>stonecutter's table (blueprint)</Blueprint_Install_TableStonecutter.label>
+  <Blueprint_Install_TableStonecutter.label>стіл каменяра (проект)</Blueprint_Install_TableStonecutter.label>
   
   <!-- EN: telescope (blueprint) -->
-  <Blueprint_Install_Telescope.label>telescope (blueprint)</Blueprint_Install_Telescope.label>
+  <Blueprint_Install_Telescope.label>телескоп (проект)</Blueprint_Install_Telescope.label>
   
   <!-- EN: tool cabinet (blueprint) -->
   <Blueprint_Install_ToolCabinet.label>tool cabinet (blueprint)</Blueprint_Install_ToolCabinet.label>
@@ -398,7 +398,7 @@
   <Blueprint_Install_TrapSpike.label>spike trap (blueprint)</Blueprint_Install_TrapSpike.label>
   
   <!-- EN: tube television (blueprint) -->
-  <Blueprint_Install_TubeTelevision.label>tube television (blueprint)</Blueprint_Install_TubeTelevision.label>
+  <Blueprint_Install_TubeTelevision.label>ламповий телевізор (проект)</Blueprint_Install_TubeTelevision.label>
   
   <!-- EN: mini-turret (blueprint) -->
   <Blueprint_Install_Turret_MiniTurret.label>mini-turret (blueprint)</Blueprint_Install_Turret_MiniTurret.label>
@@ -413,16 +413,16 @@
   <Blueprint_Install_VitalsMonitor.label>vitals monitor (blueprint)</Blueprint_Install_VitalsMonitor.label>
   
   <!-- EN: long-range mineral scanner (blueprint) -->
-  <Blueprint_LongRangeMineralScanner.label>long-range mineral scanner (blueprint)</Blueprint_LongRangeMineralScanner.label>
+  <Blueprint_LongRangeMineralScanner.label>сканер мінералів дальньої дії (проект)</Blueprint_LongRangeMineralScanner.label>
   
   <!-- EN: marriage spot (blueprint) -->
   <Blueprint_MarriageSpot.label>marriage spot (blueprint)</Blueprint_MarriageSpot.label>
   
   <!-- EN: metal tile (blueprint) -->
-  <Blueprint_MetalTile.label>metal tile (blueprint)</Blueprint_MetalTile.label>
+  <Blueprint_MetalTile.label>металева підлога (проект)</Blueprint_MetalTile.label>
   
   <!-- EN: moisture pump (blueprint) -->
-  <Blueprint_MoisturePump.label>moisture pump (blueprint)</Blueprint_MoisturePump.label>
+  <Blueprint_MoisturePump.label>водяний насос (проект)</Blueprint_MoisturePump.label>
   
   <!-- EN: multi-analyzer (blueprint) -->
   <Blueprint_MultiAnalyzer.label>multi-analyzer (blueprint)</Blueprint_MultiAnalyzer.label>
@@ -431,34 +431,34 @@
   <Blueprint_NutrientPasteDispenser.label>nutrient paste dispenser (blueprint)</Blueprint_NutrientPasteDispenser.label>
   
   <!-- EN: orbital trade beacon (blueprint) -->
-  <Blueprint_OrbitalTradeBeacon.label>orbital trade beacon (blueprint)</Blueprint_OrbitalTradeBeacon.label>
+  <Blueprint_OrbitalTradeBeacon.label>орбітальний маяк (проект)</Blueprint_OrbitalTradeBeacon.label>
   
   <!-- EN: party spot (blueprint) -->
   <Blueprint_PartySpot.label>party spot (blueprint)</Blueprint_PartySpot.label>
   
   <!-- EN: passive cooler (blueprint) -->
-  <Blueprint_PassiveCooler.label>passive cooler (blueprint)</Blueprint_PassiveCooler.label>
+  <Blueprint_PassiveCooler.label>пасивний кулер (план)</Blueprint_PassiveCooler.label>
   
   <!-- EN: paved tile (blueprint) -->
-  <Blueprint_PavedTile.label>paved tile (blueprint)</Blueprint_PavedTile.label>
+  <Blueprint_PavedTile.label>бетонні плити (проект)</Blueprint_PavedTile.label>
   
   <!-- EN: plant pot (blueprint) -->
-  <Blueprint_PlantPot.label>plant pot (blueprint)</Blueprint_PlantPot.label>
+  <Blueprint_PlantPot.label>горщик для рослин (проект)</Blueprint_PlantPot.label>
   
   <!-- EN: pod launcher (blueprint) -->
   <Blueprint_PodLauncher.label>pod launcher (blueprint)</Blueprint_PodLauncher.label>
   
   <!-- EN: poker table (blueprint) -->
-  <Blueprint_PokerTable.label>poker table (blueprint)</Blueprint_PokerTable.label>
+  <Blueprint_PokerTable.label>покерний стіл (проект)</Blueprint_PokerTable.label>
   
   <!-- EN: power conduit (blueprint) -->
-  <Blueprint_PowerConduit.label>power conduit (blueprint)</Blueprint_PowerConduit.label>
+  <Blueprint_PowerConduit.label>електропровід (проект)</Blueprint_PowerConduit.label>
   
   <!-- EN: power switch (blueprint) -->
-  <Blueprint_PowerSwitch.label>power switch (blueprint)</Blueprint_PowerSwitch.label>
+  <Blueprint_PowerSwitch.label>вимикач струму (проект)</Blueprint_PowerSwitch.label>
   
   <!-- EN: royal bed (blueprint) -->
-  <Blueprint_RoyalBed.label>royal bed (blueprint)</Blueprint_RoyalBed.label>
+  <Blueprint_RoyalBed.label>розкішне ліжко (проект)</Blueprint_RoyalBed.label>
   
   <!-- EN: sandbags (blueprint) -->
   <Blueprint_Sandbags.label>sandbags (blueprint)</Blueprint_Sandbags.label>
@@ -467,7 +467,7 @@
   <Blueprint_Sarcophagus.label>sarcophagus (blueprint)</Blueprint_Sarcophagus.label>
   
   <!-- EN: shelf (blueprint) -->
-  <Blueprint_Shelf.label>shelf (blueprint)</Blueprint_Shelf.label>
+  <Blueprint_Shelf.label>стелаж (проект)</Blueprint_Shelf.label>
   
   <!-- EN: ship structural beam (blueprint) -->
   <Blueprint_Ship_Beam.label>ship structural beam (blueprint)</Blueprint_Ship_Beam.label>
@@ -488,82 +488,82 @@
   <Blueprint_Ship_SensorCluster.label>sensor cluster (blueprint)</Blueprint_Ship_SensorCluster.label>
   
   <!-- EN: silver tile (blueprint) -->
-  <Blueprint_SilverTile.label>silver tile (blueprint)</Blueprint_SilverTile.label>
+  <Blueprint_SilverTile.label>срібряна плитка (проект)</Blueprint_SilverTile.label>
   
   <!-- EN: simple research bench (blueprint) -->
   <Blueprint_SimpleResearchBench.label>simple research bench (blueprint)</Blueprint_SimpleResearchBench.label>
   
   <!-- EN: sleeping spot (blueprint) -->
-  <Blueprint_SleepingSpot.label>sleeping spot (blueprint)</Blueprint_SleepingSpot.label>
+  <Blueprint_SleepingSpot.label>місе для сну (проект)</Blueprint_SleepingSpot.label>
   
   <!-- EN: solar generator (blueprint) -->
-  <Blueprint_SolarGenerator.label>solar generator (blueprint)</Blueprint_SolarGenerator.label>
+  <Blueprint_SolarGenerator.label>сонячна панель (проект)</Blueprint_SolarGenerator.label>
   
   <!-- EN: standing lamp (blueprint) -->
-  <Blueprint_StandingLamp.label>standing lamp (blueprint)</Blueprint_StandingLamp.label>
+  <Blueprint_StandingLamp.label>електрична лампочка (проект)</Blueprint_StandingLamp.label>
   
   <!-- EN: standing lamp (blue) (blueprint) -->
-  <Blueprint_StandingLamp_Blue.label>standing lamp (blue) (blueprint)</Blueprint_StandingLamp_Blue.label>
+  <Blueprint_StandingLamp_Blue.label>електрична лампочка (синя) (проект)</Blueprint_StandingLamp_Blue.label>
   
   <!-- EN: standing lamp (green) (blueprint) -->
-  <Blueprint_StandingLamp_Green.label>standing lamp (green) (blueprint)</Blueprint_StandingLamp_Green.label>
+  <Blueprint_StandingLamp_Green.label>електрична лампочка (зелена) (проект)</Blueprint_StandingLamp_Green.label>
   
   <!-- EN: standing lamp (red) (blueprint) -->
-  <Blueprint_StandingLamp_Red.label>standing lamp (red) (blueprint)</Blueprint_StandingLamp_Red.label>
+  <Blueprint_StandingLamp_Red.label>електрична лампочка (червона) (проект)</Blueprint_StandingLamp_Red.label>
   
   <!-- EN: sterile tile (blueprint) -->
-  <Blueprint_SterileTile.label>sterile tile (blueprint)</Blueprint_SterileTile.label>
+  <Blueprint_SterileTile.label>медична плитка (проект)</Blueprint_SterileTile.label>
   
   <!-- EN: stool (blueprint) -->
-  <Blueprint_Stool.label>stool (blueprint)</Blueprint_Stool.label>
+  <Blueprint_Stool.label>табурет (проект)</Blueprint_Stool.label>
   
   <!-- EN: sun lamp (blueprint) -->
-  <Blueprint_SunLamp.label>sun lamp (blueprint)</Blueprint_SunLamp.label>
+  <Blueprint_SunLamp.label>лампа денного світла (проект)</Blueprint_SunLamp.label>
   
   <!-- EN: table (1x2) (blueprint) -->
-  <Blueprint_Table1x2c.label>table (1x2) (blueprint)</Blueprint_Table1x2c.label>
+  <Blueprint_Table1x2c.label>стіл (1х2) (проект)</Blueprint_Table1x2c.label>
   
   <!-- EN: table (2x2) (blueprint) -->
-  <Blueprint_Table2x2c.label>table (2x2) (blueprint)</Blueprint_Table2x2c.label>
+  <Blueprint_Table2x2c.label>стіл (2х2) (проект)</Blueprint_Table2x2c.label>
   
   <!-- EN: table (2x4) (blueprint) -->
-  <Blueprint_Table2x4c.label>table (2x4) (blueprint)</Blueprint_Table2x4c.label>
+  <Blueprint_Table2x4c.label>стіл (2х4) (проект)</Blueprint_Table2x4c.label>
   
   <!-- EN: table (3x3) (blueprint) -->
-  <Blueprint_Table3x3c.label>table (3x3) (blueprint)</Blueprint_Table3x3c.label>
+  <Blueprint_Table3x3c.label>стіл (3х3) (проект)</Blueprint_Table3x3c.label>
   
   <!-- EN: butcher table (blueprint) -->
-  <Blueprint_TableButcher.label>butcher table (blueprint)</Blueprint_TableButcher.label>
+  <Blueprint_TableButcher.label>стіл м'ясника (проект)</Blueprint_TableButcher.label>
   
   <!-- EN: machining table (blueprint) -->
-  <Blueprint_TableMachining.label>machining table (blueprint)</Blueprint_TableMachining.label>
+  <Blueprint_TableMachining.label>верстак (проект)</Blueprint_TableMachining.label>
   
   <!-- EN: sculptor's table (blueprint) -->
-  <Blueprint_TableSculpting.label>sculptor's table (blueprint)</Blueprint_TableSculpting.label>
+  <Blueprint_TableSculpting.label>стіл скульптура (проект)</Blueprint_TableSculpting.label>
   
   <!-- EN: stonecutter's table (blueprint) -->
-  <Blueprint_TableStonecutter.label>stonecutter's table (blueprint)</Blueprint_TableStonecutter.label>
+  <Blueprint_TableStonecutter.label>стіл каменяра (проект)</Blueprint_TableStonecutter.label>
   
   <!-- EN: granite tile (blueprint) -->
-  <Blueprint_TileGranite.label>granite tile (blueprint)</Blueprint_TileGranite.label>
+  <Blueprint_TileGranite.label>гранітна плитка (проект)</Blueprint_TileGranite.label>
   
   <!-- EN: limestone tile (blueprint) -->
-  <Blueprint_TileLimestone.label>limestone tile (blueprint)</Blueprint_TileLimestone.label>
+  <Blueprint_TileLimestone.label>вапнякова плитка (проект)</Blueprint_TileLimestone.label>
   
   <!-- EN: marble tile (blueprint) -->
-  <Blueprint_TileMarble.label>marble tile (blueprint)</Blueprint_TileMarble.label>
+  <Blueprint_TileMarble.label>мармурова плитка (проект)</Blueprint_TileMarble.label>
   
   <!-- EN: sandstone tile (blueprint) -->
-  <Blueprint_TileSandstone.label>sandstone tile (blueprint)</Blueprint_TileSandstone.label>
+  <Blueprint_TileSandstone.label>плитка з піщаника (проект)</Blueprint_TileSandstone.label>
   
   <!-- EN: slate tile (blueprint) -->
-  <Blueprint_TileSlate.label>slate tile (blueprint)</Blueprint_TileSlate.label>
+  <Blueprint_TileSlate.label>сланцева плитка (проект)</Blueprint_TileSlate.label>
   
   <!-- EN: tool cabinet (blueprint) -->
   <Blueprint_ToolCabinet.label>tool cabinet (blueprint)</Blueprint_ToolCabinet.label>
   
   <!-- EN: torch lamp (blueprint) -->
-  <Blueprint_TorchLamp.label>torch lamp (blueprint)</Blueprint_TorchLamp.label>
+  <Blueprint_TorchLamp.label>факел (проект)</Blueprint_TorchLamp.label>
   
   <!-- EN: transport pod (blueprint) -->
   <Blueprint_TransportPod.label>transport pod (blueprint)</Blueprint_TransportPod.label>
@@ -587,7 +587,7 @@
   <Blueprint_TrapSpike.label>spike trap (blueprint)</Blueprint_TrapSpike.label>
   
   <!-- EN: tube television (blueprint) -->
-  <Blueprint_TubeTelevision.label>tube television (blueprint)</Blueprint_TubeTelevision.label>
+  <Blueprint_TubeTelevision.label>ламповий телевізор (проект)</Blueprint_TubeTelevision.label>
   
   <!-- EN: autocannon turret (blueprint) -->
   <Blueprint_Turret_Autocannon.label>autocannon turret (blueprint)</Blueprint_Turret_Autocannon.label>
@@ -602,28 +602,28 @@
   <Blueprint_Turret_Sniper.label>uranium slug turret (blueprint)</Blueprint_Turret_Sniper.label>
   
   <!-- EN: vent (blueprint) -->
-  <Blueprint_Vent.label>vent (blueprint)</Blueprint_Vent.label>
+  <Blueprint_Vent.label>вентиляція (план)</Blueprint_Vent.label>
   
   <!-- EN: vitals monitor (blueprint) -->
   <Blueprint_VitalsMonitor.label>vitals monitor (blueprint)</Blueprint_VitalsMonitor.label>
   
   <!-- EN: wall (blueprint) -->
-  <Blueprint_Wall.label>wall (blueprint)</Blueprint_Wall.label>
+  <Blueprint_Wall.label>стіна (проект)</Blueprint_Wall.label>
   
   <!-- EN: watermill generator (blueprint) -->
-  <Blueprint_WatermillGenerator.label>watermill generator (blueprint)</Blueprint_WatermillGenerator.label>
+  <Blueprint_WatermillGenerator.label>гідрогенератор (проект)</Blueprint_WatermillGenerator.label>
   
   <!-- EN: waterproof conduit (blueprint) -->
-  <Blueprint_WaterproofConduit.label>waterproof conduit (blueprint)</Blueprint_WaterproofConduit.label>
+  <Blueprint_WaterproofConduit.label>водонепроникний провід (проект)</Blueprint_WaterproofConduit.label>
   
   <!-- EN: wind turbine (blueprint) -->
-  <Blueprint_WindTurbine.label>wind turbine (blueprint)</Blueprint_WindTurbine.label>
+  <Blueprint_WindTurbine.label>вітрова турбіна (проект)</Blueprint_WindTurbine.label>
   
   <!-- EN: wood-fired generator (blueprint) -->
-  <Blueprint_WoodFiredGenerator.label>wood-fired generator (blueprint)</Blueprint_WoodFiredGenerator.label>
+  <Blueprint_WoodFiredGenerator.label>генератор на дровах (проект)</Blueprint_WoodFiredGenerator.label>
   
   <!-- EN: wood floor (blueprint) -->
-  <Blueprint_WoodPlankFloor.label>wood floor (blueprint)</Blueprint_WoodPlankFloor.label>
+  <Blueprint_WoodPlankFloor.label>дерев'яна підлога (проект)</Blueprint_WoodPlankFloor.label>
   
   <!-- EN: alpaca corpse -->
   <Corpse_Alpaca.label>alpaca corpse</Corpse_Alpaca.label>
@@ -751,7 +751,7 @@
   <Corpse_Hare.description>Dead body of a hare.</Corpse_Hare.description>
   
   <!-- EN: human corpse -->
-  <Corpse_Human.label>human corpse</Corpse_Human.label>
+  <Corpse_Human.label>труп людини</Corpse_Human.label>
   <!-- EN: Dead body of a human. -->
   <Corpse_Human.description>Dead body of a human.</Corpse_Human.description>
   
@@ -906,52 +906,52 @@
   <Corpse_YorkshireTerrier.description>Dead body of a yorkshire terrier.</Corpse_YorkshireTerrier.description>
   
   <!-- EN: animal bed (building) -->
-  <Frame_AnimalBed.label>animal bed (building)</Frame_AnimalBed.label>
+  <Frame_AnimalBed.label>лежанка для тварин (будується)</Frame_AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
-  <Frame_AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</Frame_AnimalBed.description>
+  <Frame_AnimalBed.description>М'яка лежанка, яка може вмістити будь-яку тварину.</Frame_AnimalBed.description>
   
   <!-- EN: animal sleeping box (building) -->
-  <Frame_AnimalSleepingBox.label>animal sleeping box (building)</Frame_AnimalSleepingBox.label>
+  <Frame_AnimalSleepingBox.label>спальна коробка для тварин (будується)</Frame_AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <Frame_AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</Frame_AnimalSleepingBox.description>
+  <Frame_AnimalSleepingBox.description>Маленька спальна коробка, яка може вмістити малих тварин, таких як кури, коти чи маленькі собачки.</Frame_AnimalSleepingBox.description>
   
   <!-- EN: animal sleeping spot (building) -->
-  <Frame_AnimalSleepingSpot.label>animal sleeping spot (building)</Frame_AnimalSleepingSpot.label>
+  <Frame_AnimalSleepingSpot.label>спальне місце для тварин (будкється)</Frame_AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <Frame_AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</Frame_AnimalSleepingSpot.description>
+  <Frame_AnimalSleepingSpot.description>Відмічає місце на землі, де повинні спати тварини.</Frame_AnimalSleepingSpot.description>
   
   <!-- EN: armchair (building) -->
-  <Frame_Armchair.label>armchair (building)</Frame_Armchair.label>
+  <Frame_Armchair.label>крісло (будується)</Frame_Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
   <Frame_Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Frame_Armchair.description>
   
   <!-- EN: autodoor (building) -->
-  <Frame_Autodoor.label>autodoor (building)</Frame_Autodoor.label>
+  <Frame_Autodoor.label>автоматичні двері (будуються)</Frame_Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Frame_Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Frame_Autodoor.description>
+  <Frame_Autodoor.description>Розділяє кімнати. Автоматичне відкривання дозволяє людям переміщуватись між кімнатами без перешкод.</Frame_Autodoor.description>
   
   <!-- EN: battery (building) -->
-  <Frame_Battery.label>battery (building)</Frame_Battery.label>
+  <Frame_Battery.label>акумулятор (будується)</Frame_Battery.label>
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
-  <Frame_Battery.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Frame_Battery.description>
+  <Frame_Battery.description>Зберігає електроенергію для подальшого використання. Заряджені акумулятори вибухають під дощем чи від вогню.</Frame_Battery.description>
   
   <!-- EN: bed (building) -->
-  <Frame_Bed.label>bed (building)</Frame_Bed.label>
+  <Frame_Bed.label>ліжко (будується)</Frame_Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Frame_Bed.description>A cozy mattress and sheets on a frame for resting.</Frame_Bed.description>
+  <Frame_Bed.description>Зручний матрас з простирадлом на міцному каркасі для доброго відпочинку.</Frame_Bed.description>
   
   <!-- EN: bedroll (building) -->
-  <Frame_Bedroll.label>bedroll (building)</Frame_Bedroll.label>
+  <Frame_Bedroll.label>спвльний мішок (будується)</Frame_Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <Frame_Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Frame_Bedroll.description>
   
   <!-- EN: double bedroll (building) -->
-  <Frame_BedrollDouble.label>double bedroll (building)</Frame_BedrollDouble.label>
+  <Frame_BedrollDouble.label>спальний мішок на двох (будується)</Frame_BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <Frame_BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Frame_BedrollDouble.description>
   
   <!-- EN: billiards table (building) -->
-  <Frame_BilliardsTable.label>billiards table (building)</Frame_BilliardsTable.label>
+  <Frame_BilliardsTable.label>більярдний стіл (будується)</Frame_BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
   <Frame_BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</Frame_BilliardsTable.description>
   
@@ -961,14 +961,14 @@
   <Frame_BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</Frame_BiofuelRefinery.description>
   
   <!-- EN: brewery (building) -->
-  <Frame_Brewery.label>brewery (building)</Frame_Brewery.label>
+  <Frame_Brewery.label>пивоварня (будівля)</Frame_Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
   <Frame_Brewery.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</Frame_Brewery.description>
   
   <!-- EN: bridge (building) -->
   <Frame_Bridge.label>bridge (building)</Frame_Bridge.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_Bridge.description>Terrain building in progress.</Frame_Bridge.description>
+  <Frame_Bridge.description>Йде вкладання підлоги.</Frame_Bridge.description>
   
   <!-- EN: butcher spot (building) -->
   <Frame_ButcherSpot.label>butcher spot (building)</Frame_ButcherSpot.label>
@@ -976,7 +976,7 @@
   <Frame_ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</Frame_ButcherSpot.description>
   
   <!-- EN: campfire (building) -->
-  <Frame_Campfire.label>campfire (building)</Frame_Campfire.label>
+  <Frame_Campfire.label>багаття (споруджується)</Frame_Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
   <Frame_Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Frame_Campfire.description>
   
@@ -986,52 +986,52 @@
   <Frame_CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</Frame_CaravanPackingSpot.description>
   
   <!-- EN: blue carpet (building) -->
-  <Frame_CarpetBlue.label>blue carpet (building)</Frame_CarpetBlue.label>
+  <Frame_CarpetBlue.label>синій килим (будується)</Frame_CarpetBlue.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetBlue.description>Terrain building in progress.</Frame_CarpetBlue.description>
+  <Frame_CarpetBlue.description>Йде вкладання підлоги.</Frame_CarpetBlue.description>
   
   <!-- EN: cream carpet (building) -->
-  <Frame_CarpetCream.label>cream carpet (building)</Frame_CarpetCream.label>
+  <Frame_CarpetCream.label>білий килим (будується)</Frame_CarpetCream.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetCream.description>Terrain building in progress.</Frame_CarpetCream.description>
+  <Frame_CarpetCream.description>Йде вкладання підлоги.</Frame_CarpetCream.description>
   
   <!-- EN: dark carpet (building) -->
-  <Frame_CarpetDark.label>dark carpet (building)</Frame_CarpetDark.label>
+  <Frame_CarpetDark.label>чорний килим (будується)</Frame_CarpetDark.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetDark.description>Terrain building in progress.</Frame_CarpetDark.description>
+  <Frame_CarpetDark.description>Йде вкладання підлоги.</Frame_CarpetDark.description>
   
   <!-- EN: green carpet (building) -->
-  <Frame_CarpetGreen.label>green carpet (building)</Frame_CarpetGreen.label>
+  <Frame_CarpetGreen.label>зелений килим (будується)</Frame_CarpetGreen.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetGreen.description>Terrain building in progress.</Frame_CarpetGreen.description>
+  <Frame_CarpetGreen.description>Йде вкладання підлоги.</Frame_CarpetGreen.description>
   
   <!-- EN: red carpet (building) -->
-  <Frame_CarpetRed.label>red carpet (building)</Frame_CarpetRed.label>
+  <Frame_CarpetRed.label>червоний килим (будується)</Frame_CarpetRed.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_CarpetRed.description>Terrain building in progress.</Frame_CarpetRed.description>
+  <Frame_CarpetRed.description>Йде вкладання підлоги.</Frame_CarpetRed.description>
   
   <!-- EN: chemfuel powered generator (building) -->
-  <Frame_ChemfuelPoweredGenerator.label>chemfuel powered generator (building)</Frame_ChemfuelPoweredGenerator.label>
+  <Frame_ChemfuelPoweredGenerator.label>генератор на хімпаливі (будується)</Frame_ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <Frame_ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</Frame_ChemfuelPoweredGenerator.description>
+  <Frame_ChemfuelPoweredGenerator.description>Виробляє електроенергію, споживаючи хімпаливо. Періодично треба вручну заправляти.</Frame_ChemfuelPoweredGenerator.description>
   
   <!-- EN: chess table (building) -->
-  <Frame_ChessTable.label>chess table (building)</Frame_ChessTable.label>
+  <Frame_ChessTable.label>стіл для шахів (будується)</Frame_ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
   <Frame_ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.</Frame_ChessTable.description>
   
   <!-- EN: comms console (building) -->
-  <Frame_CommsConsole.label>comms console (building)</Frame_CommsConsole.label>
+  <Frame_CommsConsole.label>термінал зв'язку (будується)</Frame_CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <Frame_CommsConsole.description>Allows radio contact with other factions and orbital traders.</Frame_CommsConsole.description>
   
   <!-- EN: concrete (building) -->
-  <Frame_Concrete.label>concrete (building)</Frame_Concrete.label>
+  <Frame_Concrete.label>бетон (будується)</Frame_Concrete.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_Concrete.description>Terrain building in progress.</Frame_Concrete.description>
+  <Frame_Concrete.description>Йде вкладання підлоги.</Frame_Concrete.description>
   
   <!-- EN: cooler (building) -->
-  <Frame_Cooler.label>cooler (building)</Frame_Cooler.label>
+  <Frame_Cooler.label>охолоджувач (споруджується)</Frame_Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
   <Frame_Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Frame_Cooler.description>
   
