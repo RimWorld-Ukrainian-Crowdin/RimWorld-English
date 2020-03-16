@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>Animals will attack doors</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Тварини атакуватимуть двері</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
   <AnimalsDontAttackDoors.helpText>Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets.</AnimalsDontAttackDoors.helpText>
   
