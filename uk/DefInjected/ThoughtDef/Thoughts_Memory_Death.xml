@@ -24,7 +24,7 @@
   <KnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.0.label>
   <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>
 
-  <KnowColonistDied.stages.0.label>colonist died</KnowColonistDied.stages.0.label>
+  <KnowColonistDied.stages.0.label>колоніст помер</KnowColonistDied.stages.0.label>
   <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
 
 
