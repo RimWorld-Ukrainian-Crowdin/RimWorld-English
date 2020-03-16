@@ -1036,7 +1036,7 @@
   <Frame_Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Frame_Cooler.description>
   
   <!-- EN: crafting spot (building) -->
-  <Frame_CraftingSpot.label>crafting spot (building)</Frame_CraftingSpot.label>
+  <Frame_CraftingSpot.label>місце для виготовлення (будівля)</Frame_CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
   <Frame_CraftingSpot.description>A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools.</Frame_CraftingSpot.description>
   
@@ -1051,19 +1051,19 @@
   <Frame_DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</Frame_DeepDrill.description>
   
   <!-- EN: dining chair (building) -->
-  <Frame_DiningChair.label>dining chair (building)</Frame_DiningChair.label>
+  <Frame_DiningChair.label>стілець (будується)</Frame_DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
   <Frame_DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</Frame_DiningChair.description>
   
   <!-- EN: door (building) -->
-  <Frame_Door.label>door (building)</Frame_Door.label>
+  <Frame_Door.label>двері (будуються)</Frame_Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
   <Frame_Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Frame_Door.description>
   
   <!-- EN: double bed (building) -->
-  <Frame_DoubleBed.label>double bed (building)</Frame_DoubleBed.label>
+  <Frame_DoubleBed.label>двоспальне ліжко (будується)</Frame_DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <Frame_DoubleBed.description>A simple double-wide bed that fits two people.</Frame_DoubleBed.description>
+  <Frame_DoubleBed.description>Просте ліжко з удвоєною шириною для двох осіб.</Frame_DoubleBed.description>
   
   <!-- EN: double sleeping spot (building) -->
   <Frame_DoubleSleepingSpot.label>double sleeping spot (building)</Frame_DoubleSleepingSpot.label>
@@ -1071,12 +1071,12 @@
   <Frame_DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</Frame_DoubleSleepingSpot.description>
   
   <!-- EN: dresser (building) -->
-  <Frame_Dresser.label>dresser (building)</Frame_Dresser.label>
+  <Frame_Dresser.label>комод (будується)</Frame_Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
   <Frame_Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Frame_Dresser.description>
   
   <!-- EN: drug lab (building) -->
-  <Frame_DrugLab.label>drug lab (building)</Frame_DrugLab.label>
+  <Frame_DrugLab.label>наркотична лабораторія (будівля)</Frame_DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
   <Frame_DrugLab.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</Frame_DrugLab.description>
   
@@ -1086,27 +1086,27 @@
   <Frame_ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</Frame_ElectricCrematorium.description>
   
   <!-- EN: electric smelter (building) -->
-  <Frame_ElectricSmelter.label>electric smelter (building)</Frame_ElectricSmelter.label>
+  <Frame_ElectricSmelter.label>електрична плавильня (будівля)</Frame_ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <Frame_ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</Frame_ElectricSmelter.description>
+  <Frame_ElectricSmelter.description>Видобуває метал з шматків шлаку і інших сплавів металу. Споживає багато енергії.</Frame_ElectricSmelter.description>
   
   <!-- EN: electric smithy (building) -->
-  <Frame_ElectricSmithy.label>electric smithy (building)</Frame_ElectricSmithy.label>
+  <Frame_ElectricSmithy.label>електрична кузня (будівля)</Frame_ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
   <Frame_ElectricSmithy.description>An electric-powered station for smithing non-mechanical weapons and tools.</Frame_ElectricSmithy.description>
   
   <!-- EN: electric stove (building) -->
-  <Frame_ElectricStove.label>electric stove (building)</Frame_ElectricStove.label>
+  <Frame_ElectricStove.label>електрична плита (будівля)</Frame_ElectricStove.label>
   <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
-  <Frame_ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</Frame_ElectricStove.description>
+  <Frame_ElectricStove.description>Електрична плита з прикріпленою стільницею для приготування їжі.</Frame_ElectricStove.description>
   
   <!-- EN: electric tailor bench (building) -->
-  <Frame_ElectricTailoringBench.label>electric tailor bench (building)</Frame_ElectricTailoringBench.label>
+  <Frame_ElectricTailoringBench.label>електричний стіл кравця (будівля)</Frame_ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <Frame_ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</Frame_ElectricTailoringBench.description>
+  <Frame_ElectricTailoringBench.description>Верстак з швейною машиною для швидкого пошиття одягу. Може працювати без електрики на 50% від нормальної швидкості.</Frame_ElectricTailoringBench.description>
   
   <!-- EN: end table (building) -->
-  <Frame_EndTable.label>end table (building)</Frame_EndTable.label>
+  <Frame_EndTable.label>тумбочка (будується)</Frame_EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <Frame_EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</Frame_EndTable.description>
   
@@ -1121,34 +1121,34 @@
   <Frame_FermentingBarrel.description>A barrel for fermenting raw wort into beer.</Frame_FermentingBarrel.description>
   
   <!-- EN: firefoam popper (building) -->
-  <Frame_FirefoamPopper.label>firefoam popper (building)</Frame_FirefoamPopper.label>
+  <Frame_FirefoamPopper.label>вогнегасник (будується)</Frame_FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <Frame_FirefoamPopper.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</Frame_FirefoamPopper.description>
   
   <!-- EN: granite flagstone (building) -->
-  <Frame_FlagstoneGranite.label>granite flagstone (building)</Frame_FlagstoneGranite.label>
+  <Frame_FlagstoneGranite.label>гранітні плити (будуються)</Frame_FlagstoneGranite.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneGranite.description>Terrain building in progress.</Frame_FlagstoneGranite.description>
+  <Frame_FlagstoneGranite.description>Йде вкладання підлоги.</Frame_FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone (building) -->
-  <Frame_FlagstoneLimestone.label>limestone flagstone (building)</Frame_FlagstoneLimestone.label>
+  <Frame_FlagstoneLimestone.label>вапнякові плити (будуються)</Frame_FlagstoneLimestone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneLimestone.description>Terrain building in progress.</Frame_FlagstoneLimestone.description>
+  <Frame_FlagstoneLimestone.description>Йде вкладання підлоги.</Frame_FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone (building) -->
-  <Frame_FlagstoneMarble.label>marble flagstone (building)</Frame_FlagstoneMarble.label>
+  <Frame_FlagstoneMarble.label>мармурові плити (будуються)</Frame_FlagstoneMarble.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneMarble.description>Terrain building in progress.</Frame_FlagstoneMarble.description>
+  <Frame_FlagstoneMarble.description>Йде вкладання підлоги.</Frame_FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone (building) -->
-  <Frame_FlagstoneSandstone.label>sandstone flagstone (building)</Frame_FlagstoneSandstone.label>
+  <Frame_FlagstoneSandstone.label>плити з піщаника (будуються)</Frame_FlagstoneSandstone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneSandstone.description>Terrain building in progress.</Frame_FlagstoneSandstone.description>
+  <Frame_FlagstoneSandstone.description>Йде вкладання підлоги.</Frame_FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone (building) -->
-  <Frame_FlagstoneSlate.label>slate flagstone (building)</Frame_FlagstoneSlate.label>
+  <Frame_FlagstoneSlate.label>cланцеві плити (будуються)</Frame_FlagstoneSlate.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneSlate.description>Terrain building in progress.</Frame_FlagstoneSlate.description>
+  <Frame_FlagstoneSlate.description>Йде вкладання підлоги.</Frame_FlagstoneSlate.description>
   
   <!-- EN: flatscreen television (building) -->
   <Frame_FlatscreenTelevision.label>flatscreen television (building)</Frame_FlatscreenTelevision.label>
@@ -1156,12 +1156,12 @@
   <Frame_FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards.</Frame_FlatscreenTelevision.description>
   
   <!-- EN: fueled smithy (building) -->
-  <Frame_FueledSmithy.label>fueled smithy (building)</Frame_FueledSmithy.label>
+  <Frame_FueledSmithy.label>кузня (будівля)</Frame_FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
   <Frame_FueledSmithy.description>A wood-fueled station for smithing non-mechanical weapons and tools.</Frame_FueledSmithy.description>
   
   <!-- EN: fueled stove (building) -->
-  <Frame_FueledStove.label>fueled stove (building)</Frame_FueledStove.label>
+  <Frame_FueledStove.label>плита (будівля)</Frame_FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
   <Frame_FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</Frame_FueledStove.description>
   
@@ -1171,14 +1171,14 @@
   <Frame_GameOfUrBoard.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</Frame_GameOfUrBoard.description>
   
   <!-- EN: geothermal generator (building) -->
-  <Frame_GeothermalGenerator.label>geothermal generator (building)</Frame_GeothermalGenerator.label>
+  <Frame_GeothermalGenerator.label>геотермальний генератор (будується)</Frame_GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
-  <Frame_GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</Frame_GeothermalGenerator.description>
+  <Frame_GeothermalGenerator.description>Виробляє електроенергію з геотермальних парових гейзерів. Треба встановити на гейзері.</Frame_GeothermalGenerator.description>
   
   <!-- EN: gold tile (building) -->
-  <Frame_GoldTile.label>gold tile (building)</Frame_GoldTile.label>
+  <Frame_GoldTile.label>золота плитка (будується)</Frame_GoldTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_GoldTile.description>Terrain building in progress.</Frame_GoldTile.description>
+  <Frame_GoldTile.description>Йде вкладання підлоги.</Frame_GoldTile.description>
   
   <!-- EN: grave (building) -->
   <Frame_Grave.label>grave (building)</Frame_Grave.label>
@@ -1186,17 +1186,17 @@
   <Frame_Grave.description>A decent final resting place. Colonists will visit full graves to gain meditative joy.</Frame_Grave.description>
   
   <!-- EN: ground-penetrating scanner (building) -->
-  <Frame_GroundPenetratingScanner.label>ground-penetrating scanner (building)</Frame_GroundPenetratingScanner.label>
+  <Frame_GroundPenetratingScanner.label>сканер мінералів (будується)</Frame_GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
-  <Frame_GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</Frame_GroundPenetratingScanner.description>
+  <Frame_GroundPenetratingScanner.description>Направлений униз радар, поєднаний з ехолокатором та сканером магнітних полів, дозволяє вам знайти залежі мінералів, які знаходяться глибоко під земною поверхнею (але не визначити їх тип). Потребує високі потужності живлення.</Frame_GroundPenetratingScanner.description>
   
   <!-- EN: hand tailor bench (building) -->
-  <Frame_HandTailoringBench.label>hand tailor bench (building)</Frame_HandTailoringBench.label>
+  <Frame_HandTailoringBench.label>стіл кравця (будівля)</Frame_HandTailoringBench.label>
   <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
-  <Frame_HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</Frame_HandTailoringBench.description>
+  <Frame_HandTailoringBench.description>Верстат для пошиття одягу вручну. Працює на 50% від швидкості електричного столу кравця.</Frame_HandTailoringBench.description>
   
   <!-- EN: heater (building) -->
-  <Frame_Heater.label>heater (building)</Frame_Heater.label>
+  <Frame_Heater.label>обігрівач (споруджується)</Frame_Heater.label>
   <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
   <Frame_Heater.description>A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Frame_Heater.description>
   
@@ -1206,7 +1206,7 @@
   <Frame_HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</Frame_HiTechResearchBench.description>
   
   <!-- EN: hoopstone ring (building) -->
-  <Frame_HoopstoneRing.label>hoopstone ring (building)</Frame_HoopstoneRing.label>
+  <Frame_HoopstoneRing.label>кільце для кидання каменів (будується)</Frame_HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
   <Frame_HoopstoneRing.description>A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</Frame_HoopstoneRing.description>
   
@@ -1216,12 +1216,12 @@
   <Frame_Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Frame_Hopper.description>
   
   <!-- EN: horseshoes pin (building) -->
-  <Frame_HorseshoesPin.label>horseshoes pin (building)</Frame_HorseshoesPin.label>
+  <Frame_HorseshoesPin.label>стовп для кидання підкови (будується)</Frame_HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
   <Frame_HorseshoesPin.description>A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills.</Frame_HorseshoesPin.description>
   
   <!-- EN: hospital bed (building) -->
-  <Frame_HospitalBed.label>hospital bed (building)</Frame_HospitalBed.label>
+  <Frame_HospitalBed.label>лікарняне ліжко (будується)</Frame_HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
   <Frame_HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</Frame_HospitalBed.description>
   
@@ -1231,7 +1231,7 @@
   <Frame_HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</Frame_HydroponicsBasin.description>
   
   <!-- EN: long-range mineral scanner (building) -->
-  <Frame_LongRangeMineralScanner.label>long-range mineral scanner (building)</Frame_LongRangeMineralScanner.label>
+  <Frame_LongRangeMineralScanner.label>сканер мінералів дальньої дії (будується)</Frame_LongRangeMineralScanner.label>
   <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
   <Frame_LongRangeMineralScanner.description>Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill.</Frame_LongRangeMineralScanner.description>
   
@@ -1241,12 +1241,12 @@
   <Frame_MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</Frame_MarriageSpot.description>
   
   <!-- EN: metal tile (building) -->
-  <Frame_MetalTile.label>metal tile (building)</Frame_MetalTile.label>
+  <Frame_MetalTile.label>металева підлога (будується)</Frame_MetalTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_MetalTile.description>Terrain building in progress.</Frame_MetalTile.description>
+  <Frame_MetalTile.description>Йде вкладання підлоги.</Frame_MetalTile.description>
   
   <!-- EN: moisture pump (building) -->
-  <Frame_MoisturePump.label>moisture pump (building)</Frame_MoisturePump.label>
+  <Frame_MoisturePump.label>водяний насос (будується)</Frame_MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
   <Frame_MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</Frame_MoisturePump.description>
   
@@ -1261,7 +1261,7 @@
   <Frame_NutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</Frame_NutrientPasteDispenser.description>
   
   <!-- EN: orbital trade beacon (building) -->
-  <Frame_OrbitalTradeBeacon.label>orbital trade beacon (building)</Frame_OrbitalTradeBeacon.label>
+  <Frame_OrbitalTradeBeacon.label>орбітальний маяк (будується)</Frame_OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
   <Frame_OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</Frame_OrbitalTradeBeacon.description>
   
@@ -1271,19 +1271,19 @@
   <Frame_PartySpot.description>Designates a spot for throwing parties.</Frame_PartySpot.description>
   
   <!-- EN: passive cooler (building) -->
-  <Frame_PassiveCooler.label>passive cooler (building)</Frame_PassiveCooler.label>
+  <Frame_PassiveCooler.label>пасивний кулер (споруджується)</Frame_PassiveCooler.label>
   <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
   <Frame_PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food.</Frame_PassiveCooler.description>
   
   <!-- EN: paved tile (building) -->
-  <Frame_PavedTile.label>paved tile (building)</Frame_PavedTile.label>
+  <Frame_PavedTile.label>бетонні плити (будується)</Frame_PavedTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_PavedTile.description>Terrain building in progress.</Frame_PavedTile.description>
+  <Frame_PavedTile.description>Йде вкладання підлоги.</Frame_PavedTile.description>
   
   <!-- EN: plant pot (building) -->
-  <Frame_PlantPot.label>plant pot (building)</Frame_PlantPot.label>
+  <Frame_PlantPot.label>горщик для рослин (будується)</Frame_PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <Frame_PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</Frame_PlantPot.description>
+  <Frame_PlantPot.description>Посадіть сюди квіти, щоб покращити настрій людей поблизу.</Frame_PlantPot.description>
   
   <!-- EN: pod launcher (building) -->
   <Frame_PodLauncher.label>pod launcher (building)</Frame_PodLauncher.label>
@@ -1291,22 +1291,22 @@
   <Frame_PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</Frame_PodLauncher.description>
   
   <!-- EN: poker table (building) -->
-  <Frame_PokerTable.label>poker table (building)</Frame_PokerTable.label>
+  <Frame_PokerTable.label>покерний стіл (будується)</Frame_PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
   <Frame_PokerTable.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</Frame_PokerTable.description>
   
   <!-- EN: power conduit (building) -->
-  <Frame_PowerConduit.label>power conduit (building)</Frame_PowerConduit.label>
+  <Frame_PowerConduit.label>електропровід (прокладається)</Frame_PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
-  <Frame_PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</Frame_PowerConduit.description>
+  <Frame_PowerConduit.description>Набір проводів для підведення струму до споживачів. Може бути прокладений під стінами та іншими спорудами.</Frame_PowerConduit.description>
   
   <!-- EN: power switch (building) -->
-  <Frame_PowerSwitch.label>power switch (building)</Frame_PowerSwitch.label>
+  <Frame_PowerSwitch.label>вимикач струму (будується)</Frame_PowerSwitch.label>
   <!-- EN: Switches power on/off. -->
-  <Frame_PowerSwitch.description>Switches power on/off.</Frame_PowerSwitch.description>
+  <Frame_PowerSwitch.description>Вмикає/вимикає струм.</Frame_PowerSwitch.description>
   
   <!-- EN: royal bed (building) -->
-  <Frame_RoyalBed.label>royal bed (building)</Frame_RoyalBed.label>
+  <Frame_RoyalBed.label>розкішне ліжко (будується)</Frame_RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
   <Frame_RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</Frame_RoyalBed.description>
   
@@ -1321,7 +1321,7 @@
   <Frame_Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Frame_Sarcophagus.description>
   
   <!-- EN: shelf (building) -->
-  <Frame_Shelf.label>shelf (building)</Frame_Shelf.label>
+  <Frame_Shelf.label>стелаж (будується)</Frame_Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
   <Frame_Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.</Frame_Shelf.description>
   
@@ -1356,9 +1356,9 @@
   <Frame_Ship_SensorCluster.description>A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes.</Frame_Ship_SensorCluster.description>
   
   <!-- EN: silver tile (building) -->
-  <Frame_SilverTile.label>silver tile (building)</Frame_SilverTile.label>
+  <Frame_SilverTile.label>срібряна плитка (будується)</Frame_SilverTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_SilverTile.description>Terrain building in progress.</Frame_SilverTile.description>
+  <Frame_SilverTile.description>Йде вкладання підлоги.</Frame_SilverTile.description>
   
   <!-- EN: simple research bench (building) -->
   <Frame_SimpleResearchBench.label>simple research bench (building)</Frame_SimpleResearchBench.label>
@@ -1366,114 +1366,114 @@
   <Frame_SimpleResearchBench.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</Frame_SimpleResearchBench.description>
   
   <!-- EN: sleeping spot (building) -->
-  <Frame_SleepingSpot.label>sleeping spot (building)</Frame_SleepingSpot.label>
+  <Frame_SleepingSpot.label>місце для сну (будується)</Frame_SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <Frame_SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</Frame_SleepingSpot.description>
+  <Frame_SleepingSpot.description>Відмічає місце на землі, де люди повинні спати. Занодто по-спартанськи.</Frame_SleepingSpot.description>
   
   <!-- EN: solar generator (building) -->
-  <Frame_SolarGenerator.label>solar generator (building)</Frame_SolarGenerator.label>
+  <Frame_SolarGenerator.label>сонячна панель (будується)</Frame_SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
-  <Frame_SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</Frame_SolarGenerator.description>
+  <Frame_SolarGenerator.description>Виробляє електрику від сонячних променів. Не працює в темряві та при штучному освітленні.</Frame_SolarGenerator.description>
   
   <!-- EN: standing lamp (building) -->
-  <Frame_StandingLamp.label>standing lamp (building)</Frame_StandingLamp.label>
+  <Frame_StandingLamp.label>електрична лампочка (будується)</Frame_StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
   <Frame_StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</Frame_StandingLamp.description>
   
   <!-- EN: standing lamp (blue) (building) -->
-  <Frame_StandingLamp_Blue.label>standing lamp (blue) (building)</Frame_StandingLamp_Blue.label>
+  <Frame_StandingLamp_Blue.label>електрична лампочка (синя) (будується)</Frame_StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
   <Frame_StandingLamp_Blue.description>A standing lamp that lights an area in blue.</Frame_StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) (building) -->
-  <Frame_StandingLamp_Green.label>standing lamp (green) (building)</Frame_StandingLamp_Green.label>
+  <Frame_StandingLamp_Green.label>електрична лампочка (зелена) (будується)</Frame_StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
   <Frame_StandingLamp_Green.description>A standing lamp that lights an area in green.</Frame_StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) (building) -->
-  <Frame_StandingLamp_Red.label>standing lamp (red) (building)</Frame_StandingLamp_Red.label>
+  <Frame_StandingLamp_Red.label>електрична лампочка (червона) (будується)</Frame_StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
   <Frame_StandingLamp_Red.description>A standing lamp that lights an area in red.</Frame_StandingLamp_Red.description>
   
   <!-- EN: sterile tile (building) -->
-  <Frame_SterileTile.label>sterile tile (building)</Frame_SterileTile.label>
+  <Frame_SterileTile.label>медична плитка (будується)</Frame_SterileTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_SterileTile.description>Terrain building in progress.</Frame_SterileTile.description>
+  <Frame_SterileTile.description>Йде вкладання підлоги.</Frame_SterileTile.description>
   
   <!-- EN: stool (building) -->
-  <Frame_Stool.label>stool (building)</Frame_Stool.label>
+  <Frame_Stool.label>табурет (будується)</Frame_Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
   <Frame_Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Frame_Stool.description>
   
   <!-- EN: sun lamp (building) -->
-  <Frame_SunLamp.label>sun lamp (building)</Frame_SunLamp.label>
+  <Frame_SunLamp.label>лампа денного світла (будується)</Frame_SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
   <Frame_SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</Frame_SunLamp.description>
   
   <!-- EN: table (1x2) (building) -->
-  <Frame_Table1x2c.label>table (1x2) (building)</Frame_Table1x2c.label>
+  <Frame_Table1x2c.label>стіл (1х2) (будується)</Frame_Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Frame_Table1x2c.description>People eat off tables when chairs are placed facing them.</Frame_Table1x2c.description>
+  <Frame_Table1x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Frame_Table1x2c.description>
   
   <!-- EN: table (2x2) (building) -->
-  <Frame_Table2x2c.label>table (2x2) (building)</Frame_Table2x2c.label>
+  <Frame_Table2x2c.label>стіл (2х2) (будується)</Frame_Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Frame_Table2x2c.description>People eat off tables when chairs are placed facing them.</Frame_Table2x2c.description>
+  <Frame_Table2x2c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Frame_Table2x2c.description>
   
   <!-- EN: table (2x4) (building) -->
-  <Frame_Table2x4c.label>table (2x4) (building)</Frame_Table2x4c.label>
+  <Frame_Table2x4c.label>стіл (2х4) (будується)</Frame_Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Frame_Table2x4c.description>People eat off tables when chairs are placed facing them.</Frame_Table2x4c.description>
+  <Frame_Table2x4c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Frame_Table2x4c.description>
   
   <!-- EN: table (3x3) (building) -->
-  <Frame_Table3x3c.label>table (3x3) (building)</Frame_Table3x3c.label>
+  <Frame_Table3x3c.label>стіл (3х3) (будується)</Frame_Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Frame_Table3x3c.description>People eat off tables when chairs are placed facing them.</Frame_Table3x3c.description>
+  <Frame_Table3x3c.description>Люди їдять за столом, якщо поставити стільці поруч з ними.</Frame_Table3x3c.description>
   
   <!-- EN: butcher table (building) -->
-  <Frame_TableButcher.label>butcher table (building)</Frame_TableButcher.label>
+  <Frame_TableButcher.label>стіл м'ясника (будівля)</Frame_TableButcher.label>
   <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
-  <Frame_TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</Frame_TableButcher.description>
+  <Frame_TableButcher.description>Важкий стіл для оброблення туш мертвих тварин на шматки сирого м'яса.</Frame_TableButcher.description>
   
   <!-- EN: machining table (building) -->
-  <Frame_TableMachining.label>machining table (building)</Frame_TableMachining.label>
+  <Frame_TableMachining.label>верстак (будівля)</Frame_TableMachining.label>
   <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
   <Frame_TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</Frame_TableMachining.description>
   
   <!-- EN: sculptor's table (building) -->
-  <Frame_TableSculpting.label>sculptor's table (building)</Frame_TableSculpting.label>
+  <Frame_TableSculpting.label>стіл скульптура (будівля)</Frame_TableSculpting.label>
   <!-- EN: A workbench equipped for artistic sculpting. -->
-  <Frame_TableSculpting.description>A workbench equipped for artistic sculpting.</Frame_TableSculpting.description>
+  <Frame_TableSculpting.description>Верстат обладнаний для художньої діяльності.</Frame_TableSculpting.description>
   
   <!-- EN: stonecutter's table (building) -->
-  <Frame_TableStonecutter.label>stonecutter's table (building)</Frame_TableStonecutter.label>
+  <Frame_TableStonecutter.label>стіл каменяра (будівля)</Frame_TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
   <Frame_TableStonecutter.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</Frame_TableStonecutter.description>
   
   <!-- EN: granite tile (building) -->
-  <Frame_TileGranite.label>granite tile (building)</Frame_TileGranite.label>
+  <Frame_TileGranite.label>гранітна плитка (будується)</Frame_TileGranite.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileGranite.description>Terrain building in progress.</Frame_TileGranite.description>
+  <Frame_TileGranite.description>Йде вкладання підлоги.</Frame_TileGranite.description>
   
   <!-- EN: limestone tile (building) -->
-  <Frame_TileLimestone.label>limestone tile (building)</Frame_TileLimestone.label>
+  <Frame_TileLimestone.label>вапнякова плитка (будується)</Frame_TileLimestone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileLimestone.description>Terrain building in progress.</Frame_TileLimestone.description>
+  <Frame_TileLimestone.description>Йде вкладання підлоги.</Frame_TileLimestone.description>
   
   <!-- EN: marble tile (building) -->
-  <Frame_TileMarble.label>marble tile (building)</Frame_TileMarble.label>
+  <Frame_TileMarble.label>мармурова плитка (будується)</Frame_TileMarble.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileMarble.description>Terrain building in progress.</Frame_TileMarble.description>
+  <Frame_TileMarble.description>Йде вкладання підлоги.</Frame_TileMarble.description>
   
   <!-- EN: sandstone tile (building) -->
-  <Frame_TileSandstone.label>sandstone tile (building)</Frame_TileSandstone.label>
+  <Frame_TileSandstone.label>плитка з піщаника (будується)</Frame_TileSandstone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileSandstone.description>Terrain building in progress.</Frame_TileSandstone.description>
+  <Frame_TileSandstone.description>Йде вкладання підлоги.</Frame_TileSandstone.description>
   
   <!-- EN: slate tile (building) -->
-  <Frame_TileSlate.label>slate tile (building)</Frame_TileSlate.label>
+  <Frame_TileSlate.label>сланцева плитка (будується)</Frame_TileSlate.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileSlate.description>Terrain building in progress.</Frame_TileSlate.description>
+  <Frame_TileSlate.description>Йде вкладання підлоги.</Frame_TileSlate.description>
   
   <!-- EN: tool cabinet (building) -->
   <Frame_ToolCabinet.label>tool cabinet (building)</Frame_ToolCabinet.label>
@@ -1481,9 +1481,9 @@
   <Frame_ToolCabinet.description>Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets.</Frame_ToolCabinet.description>
   
   <!-- EN: torch lamp (building) -->
-  <Frame_TorchLamp.label>torch lamp (building)</Frame_TorchLamp.label>
+  <Frame_TorchLamp.label>факел (будується)</Frame_TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Frame_TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</Frame_TorchLamp.description>
+  <Frame_TorchLamp.description>Дерев'яний факел вкопаний в землю для освітлення всього навкруги. Люди працюють в повну силу тільки при доброму освітленні. Щоб не прогорів треба підкладати деревину. Також виробляє трохи тепла.</Frame_TorchLamp.description>
   
   <!-- EN: transport pod (building) -->
   <Frame_TransportPod.label>transport pod (building)</Frame_TransportPod.label>
@@ -1521,9 +1521,9 @@
   <Frame_TrapSpike.description>Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forthm and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</Frame_TrapSpike.description>
   
   <!-- EN: tube television (building) -->
-  <Frame_TubeTelevision.label>tube television (building)</Frame_TubeTelevision.label>
+  <Frame_TubeTelevision.label>ламповий телевізор (будується)</Frame_TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <Frame_TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</Frame_TubeTelevision.description>
+  <Frame_TubeTelevision.description>Основна частина телевізора - електронно променева трубка для показу рухомих картинок, тобто фільмів. Навіть у всесвіті Rimworlds працює старий ретранслятор, який часто показує щось цікаве.</Frame_TubeTelevision.description>
   
   <!-- EN: autocannon turret (building) -->
   <Frame_Turret_Autocannon.label>autocannon turret (building)</Frame_Turret_Autocannon.label>
@@ -1546,7 +1546,7 @@
   <Frame_Turret_Sniper.description>A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.</Frame_Turret_Sniper.description>
   
   <!-- EN: vent (building) -->
-  <Frame_Vent.label>vent (building)</Frame_Vent.label>
+  <Frame_Vent.label>вентиляція (споруджується)</Frame_Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
   <Frame_Vent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Frame_Vent.description>
   
@@ -1556,174 +1556,174 @@
   <Frame_VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</Frame_VitalsMonitor.description>
   
   <!-- EN: wall (building) -->
-  <Frame_Wall.label>wall (building)</Frame_Wall.label>
+  <Frame_Wall.label>стіна (будується)</Frame_Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Frame_Wall.description>An impassable wall. Capable of holding up a roof.</Frame_Wall.description>
+  <Frame_Wall.description>Стіна, крізь яку персонажі не можуть проходити. Може тримати на собі дах.</Frame_Wall.description>
   
   <!-- EN: watermill generator (building) -->
-  <Frame_WatermillGenerator.label>watermill generator (building)</Frame_WatermillGenerator.label>
+  <Frame_WatermillGenerator.label>гідрогенератор (будується)</Frame_WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
-  <Frame_WatermillGenerator.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</Frame_WatermillGenerator.description>
+  <Frame_WatermillGenerator.description>Виробляє електроенергію з річки. Потрібно розмістити його колесо у водяному потоці. Якщо гідрогенератори розмістити занадто близько один до одного, турбулентність, яку вони створять, буде заважати та зменшувати виробництво електроенергії.</Frame_WatermillGenerator.description>
   
   <!-- EN: waterproof conduit (building) -->
-  <Frame_WaterproofConduit.label>waterproof conduit (building)</Frame_WaterproofConduit.label>
+  <Frame_WaterproofConduit.label>водонепроникний провід (прокладається)</Frame_WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <Frame_WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</Frame_WaterproofConduit.description>
+  <Frame_WaterproofConduit.description>Ізольовані електричні кабелі для передачі енергії через мілководдя.</Frame_WaterproofConduit.description>
   
   <!-- EN: wind turbine (building) -->
-  <Frame_WindTurbine.label>wind turbine (building)</Frame_WindTurbine.label>
+  <Frame_WindTurbine.label>вітрова турбіна (будується)</Frame_WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <Frame_WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</Frame_WindTurbine.description>
+  <Frame_WindTurbine.description>Вітровий електричний генератор. Потребує великого простору спереду і ззаду для оптимального потоку повітря.</Frame_WindTurbine.description>
   
   <!-- EN: wood-fired generator (building) -->
-  <Frame_WoodFiredGenerator.label>wood-fired generator (building)</Frame_WoodFiredGenerator.label>
+  <Frame_WoodFiredGenerator.label>генератор на дровах (будується)</Frame_WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <Frame_WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</Frame_WoodFiredGenerator.description>
+  <Frame_WoodFiredGenerator.description>Виробляє енергію, спалюючи деревину. Паливо потрібно регулярно підкидати вручну.</Frame_WoodFiredGenerator.description>
   
   <!-- EN: wood floor (building) -->
-  <Frame_WoodPlankFloor.label>wood floor (building)</Frame_WoodPlankFloor.label>
+  <Frame_WoodPlankFloor.label>дерев'яна підлога (будується)</Frame_WoodPlankFloor.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_WoodPlankFloor.description>Terrain building in progress.</Frame_WoodPlankFloor.description>
+  <Frame_WoodPlankFloor.description>Йде вкладання підлоги.</Frame_WoodPlankFloor.description>
   
   <!-- EN: alpaca meat -->
   <Meat_Alpaca.label>alpaca meat</Meat_Alpaca.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Alpaca.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Alpaca.description>
+  <Meat_Alpaca.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Alpaca.description>
   
   <!-- EN: alphabeaver meat -->
   <Meat_Alphabeaver.label>alphabeaver meat</Meat_Alphabeaver.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Alphabeaver.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Alphabeaver.description>
+  <Meat_Alphabeaver.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Alphabeaver.description>
   
   <!-- EN: bear meat -->
   <Meat_Bear_Grizzly.label>bear meat</Meat_Bear_Grizzly.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Bear_Grizzly.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Bear_Grizzly.description>
+  <Meat_Bear_Grizzly.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Bear_Grizzly.description>
   
   <!-- EN: boomalope meat -->
   <Meat_Boomalope.label>boomalope meat</Meat_Boomalope.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Boomalope.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Boomalope.description>
+  <Meat_Boomalope.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Boomalope.description>
   
   <!-- EN: boomrat meat -->
   <Meat_Boomrat.label>boomrat meat</Meat_Boomrat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Boomrat.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Boomrat.description>
+  <Meat_Boomrat.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Boomrat.description>
   
   <!-- EN: capybara meat -->
   <Meat_Capybara.label>capybara meat</Meat_Capybara.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Capybara.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Capybara.description>
+  <Meat_Capybara.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Capybara.description>
   
   <!-- EN: caribou meat -->
   <Meat_Caribou.label>caribou meat</Meat_Caribou.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Caribou.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Caribou.description>
+  <Meat_Caribou.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Caribou.description>
   
   <!-- EN: bird meat -->
   <Meat_Cassowary.label>bird meat</Meat_Cassowary.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Cassowary.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Cassowary.description>
+  <Meat_Cassowary.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Cassowary.description>
   
   <!-- EN: cat meat -->
   <Meat_Cat.label>cat meat</Meat_Cat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Cat.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Cat.description>
+  <Meat_Cat.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Cat.description>
   
   <!-- EN: chicken meat -->
   <Meat_Chicken.label>chicken meat</Meat_Chicken.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Chicken.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Chicken.description>
+  <Meat_Chicken.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Chicken.description>
   
   <!-- EN: chinchilla meat -->
   <Meat_Chinchilla.label>chinchilla meat</Meat_Chinchilla.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Chinchilla.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Chinchilla.description>
+  <Meat_Chinchilla.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Chinchilla.description>
   
   <!-- EN: cobra meat -->
   <Meat_Cobra.label>cobra meat</Meat_Cobra.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Cobra.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Cobra.description>
+  <Meat_Cobra.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Cobra.description>
   
   <!-- EN: cougar meat -->
   <Meat_Cougar.label>cougar meat</Meat_Cougar.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Cougar.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Cougar.description>
+  <Meat_Cougar.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Cougar.description>
   
   <!-- EN: beef -->
   <Meat_Cow.label>beef</Meat_Cow.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Cow.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Cow.description>
+  <Meat_Cow.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Cow.description>
   
   <!-- EN: venison -->
   <Meat_Deer.label>venison</Meat_Deer.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Deer.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Deer.description>
+  <Meat_Deer.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Deer.description>
   
   <!-- EN: dromedary meat -->
   <Meat_Dromedary.label>dromedary meat</Meat_Dromedary.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Dromedary.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Dromedary.description>
+  <Meat_Dromedary.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Dromedary.description>
   
   <!-- EN: elephant meat -->
   <Meat_Elephant.label>elephant meat</Meat_Elephant.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Elephant.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Elephant.description>
+  <Meat_Elephant.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Elephant.description>
   
   <!-- EN: elk meat -->
   <Meat_Elk.label>elk meat</Meat_Elk.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Elk.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Elk.description>
+  <Meat_Elk.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Elk.description>
   
   <!-- EN: fox meat -->
   <Meat_Fox_Fennec.label>fox meat</Meat_Fox_Fennec.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Fox_Fennec.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Fox_Fennec.description>
+  <Meat_Fox_Fennec.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Fox_Fennec.description>
   
   <!-- EN: gazelle meat -->
   <Meat_Gazelle.label>gazelle meat</Meat_Gazelle.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Gazelle.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Gazelle.description>
+  <Meat_Gazelle.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Gazelle.description>
   
   <!-- EN: hare meat -->
   <Meat_Hare.label>hare meat</Meat_Hare.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Hare.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Hare.description>
+  <Meat_Hare.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Hare.description>
   
   <!-- EN: human meat -->
-  <Meat_Human.label>human meat</Meat_Human.label>
+  <Meat_Human.label>людське м'ясо</Meat_Human.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <Meat_Human.description>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</Meat_Human.description>
   
   <!-- EN: husky meat -->
   <Meat_Husky.label>husky meat</Meat_Husky.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Husky.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Husky.description>
+  <Meat_Husky.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Husky.description>
   
   <!-- EN: ibex meat -->
   <Meat_Ibex.label>ibex meat</Meat_Ibex.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Ibex.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Ibex.description>
+  <Meat_Ibex.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Ibex.description>
   
   <!-- EN: iguana meat -->
   <Meat_Iguana.label>iguana meat</Meat_Iguana.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Iguana.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Iguana.description>
+  <Meat_Iguana.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Iguana.description>
   
   <!-- EN: labrador retriever meat -->
   <Meat_LabradorRetriever.label>labrador retriever meat</Meat_LabradorRetriever.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_LabradorRetriever.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_LabradorRetriever.description>
+  <Meat_LabradorRetriever.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_LabradorRetriever.description>
   
   <!-- EN: lynx meat -->
   <Meat_Lynx.label>lynx meat</Meat_Lynx.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Lynx.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Lynx.description>
+  <Meat_Lynx.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Lynx.description>
   
   <!-- EN: megasloth meat -->
   <Meat_Megasloth.label>megasloth meat</Meat_Megasloth.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Megasloth.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Megasloth.description>
+  <Meat_Megasloth.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Megasloth.description>
   
   <!-- EN: insect meat -->
   <Meat_Megaspider.label>insect meat</Meat_Megaspider.label>
@@ -1733,71 +1733,71 @@
   <!-- EN: monkey meat -->
   <Meat_Monkey.label>monkey meat</Meat_Monkey.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Monkey.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Monkey.description>
+  <Meat_Monkey.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Monkey.description>
   
   <!-- EN: muffalo meat -->
   <Meat_Muffalo.label>muffalo meat</Meat_Muffalo.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Muffalo.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Muffalo.description>
+  <Meat_Muffalo.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Muffalo.description>
   
   <!-- EN: panther meat -->
   <Meat_Panther.label>panther meat</Meat_Panther.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Panther.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Panther.description>
+  <Meat_Panther.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Panther.description>
   
   <!-- EN: pork -->
   <Meat_Pig.label>pork</Meat_Pig.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Pig.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Pig.description>
+  <Meat_Pig.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Pig.description>
   
   <!-- EN: raccoon meat -->
   <Meat_Raccoon.label>raccoon meat</Meat_Raccoon.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Raccoon.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Raccoon.description>
+  <Meat_Raccoon.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Raccoon.description>
   
   <!-- EN: rat meat -->
   <Meat_Rat.label>rat meat</Meat_Rat.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Rat.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Rat.description>
+  <Meat_Rat.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Rat.description>
   
   <!-- EN: rhinoceros meat -->
   <Meat_Rhinoceros.label>rhinoceros meat</Meat_Rhinoceros.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Rhinoceros.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Rhinoceros.description>
+  <Meat_Rhinoceros.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Rhinoceros.description>
   
   <!-- EN: squirrel meat -->
   <Meat_Squirrel.label>squirrel meat</Meat_Squirrel.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Squirrel.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Squirrel.description>
+  <Meat_Squirrel.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Squirrel.description>
   
   <!-- EN: thrumbo meat -->
   <Meat_Thrumbo.label>thrumbo meat</Meat_Thrumbo.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Thrumbo.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Thrumbo.description>
+  <Meat_Thrumbo.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Thrumbo.description>
   
   <!-- EN: tortoise meat -->
   <Meat_Tortoise.label>tortoise meat</Meat_Tortoise.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Tortoise.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Tortoise.description>
+  <Meat_Tortoise.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Tortoise.description>
   
   <!-- EN: turkey meat -->
   <Meat_Turkey.label>turkey meat</Meat_Turkey.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Turkey.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Turkey.description>
+  <Meat_Turkey.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Turkey.description>
   
   <!-- EN: warg meat -->
   <Meat_Warg.label>warg meat</Meat_Warg.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Warg.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Warg.description>
+  <Meat_Warg.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Warg.description>
   
   <!-- EN: wolf meat -->
   <Meat_Wolf_Timber.label>wolf meat</Meat_Wolf_Timber.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_Wolf_Timber.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_Wolf_Timber.description>
+  <Meat_Wolf_Timber.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_Wolf_Timber.description>
   
   <!-- EN: yorkshire terrier meat -->
   <Meat_YorkshireTerrier.label>yorkshire terrier meat</Meat_YorkshireTerrier.label>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <Meat_YorkshireTerrier.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</Meat_YorkshireTerrier.description>
+  <Meat_YorkshireTerrier.description>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</Meat_YorkshireTerrier.description>
   
 </LanguageData>
