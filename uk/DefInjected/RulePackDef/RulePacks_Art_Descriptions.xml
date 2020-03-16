@@ -8,9 +8,9 @@
   <!-- EN: desc_sentence_group->[desc_sentence] [style_group] -->
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
   <!-- EN: context_sentence->This [depiction] refers to [tale_noun] on [DATE]. -->
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->Це [depiction] відноситься до [tale_noun] на [DATE].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
   <!-- EN: context_sentence->This [depiction] relates to [tale_noun] on [DATE]. -->
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->Це [depiction] відноситься до [tale_noun] на [DATE].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
   <!-- EN: context_sentence->This [depiction] tells the story of [tale_noun] on [DATE]. -->
   <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
   
