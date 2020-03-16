@@ -3,7 +3,7 @@
 
   <JumpToLocation>Jump to location</JumpToLocation>
   <PostponeLetter>Postpone</PostponeLetter>
-  <RejectLetter>Reject</RejectLetter>
+  <RejectLetter>Брак</RejectLetter>
 
   <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
@@ -13,7 +13,7 @@
   <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAlly>
   <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
 
-  <goodwill>goodwill</goodwill>
+  <goodwill>доброзичливість</goodwill>
   <Neutral>Neutral</Neutral>
   <Death>Death</Death>
 
@@ -130,7 +130,7 @@
 
   <!-- Party -->
   <LetterLabelNewParty>Вечірка</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</LetterNewParty>
+  <LetterNewParty>{1_labelShort} влаштовує вечірку! Кожний хто завітає може відпочити, соціально відірватись та підвищити свої показники.</LetterNewParty>
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
