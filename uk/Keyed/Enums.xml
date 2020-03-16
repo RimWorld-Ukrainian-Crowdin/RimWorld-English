@@ -143,7 +143,7 @@
   <!-- EN: official content -->
   <ContentSource_OfficialModsFolder>official content</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_ModsFolder>local folder</ContentSource_ModsFolder>
+  <ContentSource_ModsFolder>локальні файли</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
@@ -291,9 +291,9 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>Never</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Ніколи</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>Major threats</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Основні загрози</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
   <AutomaticPauseMode_AnyThreat>Any threat</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
@@ -305,7 +305,7 @@
   <!-- EN: aching -->
   <PainCategory_MediumPain>aching</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>painful</PainCategory_HighPain>
+  <PainCategory_HighPain>болісний</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
