@@ -4,10 +4,10 @@
   <!-- EN: time as a colonist -->
   <TimeAsColonistOrColonyAnimal.label>колоніст</TimeAsColonistOrColonyAnimal.label>
   <!-- EN: Total time spent loyal to your community. -->
-  <TimeAsColonistOrColonyAnimal.description>Total time spent loyal to your community.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.description>Загальний час, проведений і вірності до вашої общини.</TimeAsColonistOrColonyAnimal.description>
   
   <!-- EN: time as a prisoner -->
-  <TimeAsPrisoner.label>в'язень</TimeAsPrisoner.label>
+  <TimeAsPrisoner.label>час в якості в'язня</TimeAsPrisoner.label>
   <!-- EN: Total time spent as a prisoner. -->
   <TimeAsPrisoner.description>Час, який я провів як в'язень.</TimeAsPrisoner.description>
   
@@ -24,7 +24,7 @@
   <!-- EN: time constructing -->
   <TimeConstructing.label>будівництво</TimeConstructing.label>
   <!-- EN: Total time spent constructing and deconstructing buildings. -->
-  <TimeConstructing.description>Total time spent constructing and deconstructing buildings.</TimeConstructing.description>
+  <TimeConstructing.description>Загальний час, витрачений на спорудження та деконструкцію будівель.</TimeConstructing.description>
   
   <!-- EN: time downed -->
   <TimeDowned.label>час, який я був збитий</TimeDowned.label>
@@ -69,17 +69,17 @@
   <!-- EN: time in a bed -->
   <TimeInBed.label>пролежав</TimeInBed.label>
   <!-- EN: Total time spent in bed. -->
-  <TimeInBed.description>Total time spent in bed.</TimeInBed.description>
+  <TimeInBed.description>Загальний час, проведений у ліжку.</TimeInBed.description>
   
   <!-- EN: time in a bed for medical reasons -->
   <TimeInBedForMedicalReasons.label>через лікування</TimeInBedForMedicalReasons.label>
   <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
-  <TimeInBedForMedicalReasons.description>Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.description>Час, проведенний у ліжку з медичних причин: очікування лікування, відновлення від травм або операції.</TimeInBedForMedicalReasons.description>
   
   <!-- EN: time in mental state -->
-  <TimeInMentalState.label>часу у психічних зривах</TimeInMentalState.label>
+  <TimeInMentalState.label>час у психічних зривах</TimeInMentalState.label>
   <!-- EN: Total time spent in an abnormal mental state. -->
-  <TimeInMentalState.description>Total time spent in an abnormal mental state.</TimeInMentalState.description>
+  <TimeInMentalState.description>Час, проведений у ненормальному психічному стані.</TimeInMentalState.description>
   
   <!-- EN: time mining -->
   <TimeMining.label>видобування</TimeMining.label>
