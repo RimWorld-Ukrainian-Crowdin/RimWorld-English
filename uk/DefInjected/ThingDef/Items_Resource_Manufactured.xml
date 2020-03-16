@@ -6,7 +6,7 @@
   <MedicineHerbal.label>herbal medicine</MedicineHerbal.label>
   <MedicineHerbal.description>A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing.</MedicineHerbal.description>
 
-  <MedicineIndustrial.label>medicine</MedicineIndustrial.label>
+  <MedicineIndustrial.label>медицина</MedicineIndustrial.label>
   <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
 
   <MedicineUltratech.label>glitterworld medicine</MedicineUltratech.label>
