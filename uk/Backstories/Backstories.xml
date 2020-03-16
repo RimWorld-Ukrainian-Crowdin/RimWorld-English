@@ -43,16 +43,16 @@
     <!-- EN: abductee -->
     <titleShort>викрадений</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-    <desc>[PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped.</desc>
+    <desc>[PAWN_nameDef] був викрадений ксено-людьми коли [PAWN_pronoun] був ще немовлям. Вони проводили робили досліди над [PAWN_objective], щоб краще зрозуміти [PAWN_possessive] генетичну структуру.\n\nКоли [PAWN_pronoun] виріс, [PAWN_nameDef] став достатньо великим і дужим за [PAWN_possessive] викрадачів та втік.</desc>
   </Abductee7>
   
   <AcademyStudent58>
     <!-- EN: academy student -->
-    <title>academy student</title>
+    <title>студент академії</title>
     <!-- EN: student -->
-    <titleShort>student</titleShort>
+    <titleShort>студент</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
-    <desc>[PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams.</desc>
+    <desc>Як і будь-який вправний космо-кадет, [PAWN_nameDef] ходив до школи. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams.</desc>
   </AcademyStudent58>
   
   <AccursedChild88>
