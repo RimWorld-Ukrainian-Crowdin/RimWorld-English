@@ -31,7 +31,7 @@
   <!-- EN: The speed at which people do research is multiplied by this value. -->
   <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
-  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Room cleanliness</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Чистота кімнати</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- UNUSED -->
   <ResearchSpeedFactor.parts.1.customLabel>Чистота кімнати</ResearchSpeedFactor.parts.1.customLabel>
@@ -41,7 +41,7 @@
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
   <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
-  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Чистота кімнати</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>шкода від пастки</TrapMeleeDamage.label>
@@ -64,7 +64,7 @@
   <WorkTableWorkSpeedFactor.description>Швидкість виконання роботи множиться на це значення.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.label>роботи по будівництву</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
   <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
   
