@@ -70,7 +70,7 @@
   <Beauty.degreeDatas.3.label>гидкий</Beauty.degreeDatas.3.label>
   <Beauty.degreeDatas.3.description>[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.</Beauty.degreeDatas.3.description>
 
-  <Immunity.degreeDatas.0.label>super-immune</Immunity.degreeDatas.0.label>
+  <Immunity.degreeDatas.0.label>супер-імунітет</Immunity.degreeDatas.0.label>
   <Immunity.degreeDatas.0.description>[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.</Immunity.degreeDatas.0.description>
   <Immunity.degreeDatas.1.label>sickly</Immunity.degreeDatas.1.label>
   <Immunity.degreeDatas.1.description>[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.</Immunity.degreeDatas.1.description>
