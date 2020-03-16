@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>зграя мисливців на людей</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>Зграя тварин, що полюють на людей.</Manhunters.description>
+  <!-- EN: There are manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>There are manhunting animals in this area.</Manhunters.arrivedLetter>
+  
+  <!-- UNUSED -->
+  <Manhunters.descriptionDialogue>ця зграя {0}, що полюють на людей {1} блукають поблизу</Manhunters.descriptionDialogue>
+  
+</LanguageData>
