@@ -4,11 +4,11 @@
   <!-- Basic leathers -->
 
   <Leather_Plain.label>plainleather</Leather_Plain.label>
-  <Leather_Plain.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Plain.description>
+  <Leather_Plain.description>Дублена, висушена, оброблена шкіра. Хороший традиційний матеріал для виготовлення одягу та сумок.</Leather_Plain.description>
   <Leather_Plain.stuffProps.stuffAdjective>plainleather</Leather_Plain.stuffProps.stuffAdjective>
 
   <Leather_Dog.label>dog leather</Leather_Dog.label>
-  <Leather_Dog.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Dog.description>
+  <Leather_Dog.description>Дублена, висушена, оброблена шкіра. Хороший традиційний матеріал для виготовлення одягу та сумок.</Leather_Dog.description>
   <Leather_Dog.stuffProps.stuffAdjective>dog leather</Leather_Dog.stuffProps.stuffAdjective>
 
   <Leather_Wolf.label>wolfskin</Leather_Wolf.label>
@@ -34,9 +34,9 @@
 
   <!-- Basic leathers: skin -->
 
-  <Leather_Human.label>human leather</Leather_Human.label>
+  <Leather_Human.label>людська шкіра</Leather_Human.label>
   <Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
-  <Leather_Human.stuffProps.stuffAdjective>human leather</Leather_Human.stuffProps.stuffAdjective>
+  <Leather_Human.stuffProps.stuffAdjective>людська шкіра</Leather_Human.stuffProps.stuffAdjective>
 
   <Leather_Pig.label>pigskin</Leather_Pig.label>
   <Leather_Pig.description>Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_Pig.description>
