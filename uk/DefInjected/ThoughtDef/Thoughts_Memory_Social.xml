@@ -3,17 +3,17 @@
 
   <!-- Random social interactions -->
 
-  <Chitchat.stages.0.label>chitchat</Chitchat.stages.0.label>
-  <DeepTalk.stages.0.label>deep talk</DeepTalk.stages.0.label>
+  <Chitchat.stages.0.label>балаканина</Chitchat.stages.0.label>
+  <DeepTalk.stages.0.label>розмова</DeepTalk.stages.0.label>
   <Slighted.stages.0.label>slighted</Slighted.stages.0.label>
   <Insulted.stages.0.label>insulted</Insulted.stages.0.label>
 
   <InsultedMood.stages.0.label>insulted</InsultedMood.stages.0.label>
   <InsultedMood.stages.0.description>I've been directly insulted! What an awful person!</InsultedMood.stages.0.description>
 
-  <KindWords.stages.0.label>kind words</KindWords.stages.0.label>
+  <KindWords.stages.0.label>теплі слова</KindWords.stages.0.label>
 
-  <KindWordsMood.stages.0.label>kind words</KindWordsMood.stages.0.label>
+  <KindWordsMood.stages.0.label>теплі слова</KindWordsMood.stages.0.label>
   <KindWordsMood.stages.0.description>I've been bestowed with kind words! What a nice person!</KindWordsMood.stages.0.description>
 
 
