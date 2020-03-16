@@ -23,7 +23,7 @@
     <!-- EN: abandoned orphan -->
     <title>abandoned orphan</title>
     <!-- EN: orphan -->
-    <titleShort>orphan</titleShort>
+    <titleShort>сирота</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
     <desc>Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker.</desc>
   </AbandonedOrphan61>
@@ -66,9 +66,9 @@
   
   <AceFighterPilot54>
     <!-- EN: ace fighter pilot -->
-    <title>ace fighter pilot</title>
+    <title>пілот-Ас винищувача</title>
     <!-- EN: ace -->
-    <titleShort>ace</titleShort>
+    <titleShort>ас</titleShort>
     <!-- EN: [PAWN_nameDef] graduated from the Star Academy with honors and distinguished [PAWN_objective]self as an ace fighter pilot in three campaigns against more advanced aggressor cultures. \n\nHowever, after one vicious battle, [PAWN_pronoun] found [PAWN_objective]self stranded and [PAWN_possessive] carrier ship destroyed. With nowhere to go, [PAWN_pronoun] entered [PAWN_possessive] escape pod and prayed. -->
     <desc>[PAWN_nameDef] graduated from the Star Academy with honors and distinguished [PAWN_objective]self as an ace fighter pilot in three campaigns against more advanced aggressor cultures. \n\nHowever, after one vicious battle, [PAWN_pronoun] found [PAWN_objective]self stranded and [PAWN_possessive] carrier ship destroyed. With nowhere to go, [PAWN_pronoun] entered [PAWN_possessive] escape pod and prayed.</desc>
   </AceFighterPilot54>
@@ -84,7 +84,7 @@
   
   <Actor72>
     <!-- EN: actor -->
-    <title>actor</title>
+    <title>актор</title>
     <!-- EN: actor -->
     <titleShort>actor</titleShort>
     <!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
