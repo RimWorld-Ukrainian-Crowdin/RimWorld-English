@@ -122,8 +122,8 @@
 
   <MessageShipChunkDrop>Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.</MessageShipChunkDrop>
 
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessagePartyCalledOff>Вечірка була скасована.</MessagePartyCalledOff>
+  <MessagePartyFinished>Вечірка скінчена.</MessagePartyFinished>
 
   <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
 
