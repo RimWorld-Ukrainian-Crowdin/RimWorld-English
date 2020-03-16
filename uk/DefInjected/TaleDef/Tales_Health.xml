@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: downed -->
-  <Downed.label>downed</Downed.label>
+  <Downed.label>збитий</Downed.label>
   <!-- EN: tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] -->
   <Downed.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</Downed.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label] -->
@@ -75,7 +75,7 @@
   <Downed.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] looks triumphant.</Downed.rulePack.rulesStrings.34>
   
   <!-- EN: exhausted -->
-  <Exhausted.label>exhausted</Exhausted.label>
+  <Exhausted.label>виснаженний</Exhausted.label>
   <!-- EN: tale_noun->[PAWN_nameDef] collapsing from exhaustion -->
   <Exhausted.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] collapsing from exhaustion</Exhausted.rulePack.rulesStrings.0>
   <!-- EN: image->[PAWN_nameFull] collapsing on the ground [circumstance_group] -->
