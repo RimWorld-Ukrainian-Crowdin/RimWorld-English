@@ -3,11 +3,11 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Bills</TabBills>
+  <TabBills>Замовлення</TabBills>
   <!-- EN: Growing -->
   <TabGrowing>Growing</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Bio</TabCharacter>
+  <TabCharacter>Біографія</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>Training</TabTraining>
   <!-- EN: Prisoner -->
@@ -15,11 +15,11 @@
   <!-- EN: Guest -->
   <TabGuest>Guest</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Спорядження</TabGear>
+  <TabGear>Манатки</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>Потреби</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>Storage</TabStorage>
+  <TabStorage>Склад</TabStorage>
   <!-- EN: Shells -->
   <TabShells>Shells</TabShells>
   <!-- EN: Health -->
@@ -35,9 +35,9 @@
   <!-- EN: Art -->
   <TabArt>Дизайн</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Соціальні потреби</TabSocial>
+  <TabSocial>Взаємини</TabSocial>
   <!-- EN: Log -->
-  <TabLog>Log</TabLog>
+  <TabLog>Звіт</TabLog>
   <!-- EN: Caravan -->
   <TabFormingCaravan>Караван</TabFormingCaravan>
   <!-- EN: Contents -->
@@ -47,7 +47,7 @@
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Add bill</AddBill>
+  <AddBill>Додати замовлення</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
@@ -55,29 +55,29 @@
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>SUSPENDED</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Worker: {1_labelShort}</BoundWorkerIs>
+  <BoundWorkerIs>Працівник: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>Plant</PlantVerb>
+  <PlantVerb>Посадити</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
   <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>Move up</ReorderBillUpTip>
+  <ReorderBillUpTip>Перемістити вище</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>Move down</ReorderBillDownTip>
+  <ReorderBillDownTip>Перемістити нижче</ReorderBillDownTip>
   <!-- EN: Delete -->
   <DeleteBillTip>Видалити</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
   <CopyBillTip>Copy to the clipboard</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>Suspend</SuspendBillTip>
+  <SuspendBillTip>Призупинити</SuspendBillTip>
   <!-- EN: Paste -->
   <PasteBillTip>Вставити</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>не можна додати ще</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>Resistance remaining</RecruitmentResistance>
+  <RecruitmentResistance>Опору лишилося</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
@@ -97,9 +97,9 @@
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
   <PrisonBreakMTBDaysDescription>The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer.</PrisonBreakMTBDaysDescription>
   <!-- EN: Slave price -->
-  <SlavePrice>Slave price</SlavePrice>
+  <SlavePrice>Вартість раба</SlavePrice>
   <!-- EN: Gets food -->
-  <GetsFood>Gets food</GetsFood>
+  <GetsFood>Отримую їжу</GetsFood>
   <!-- EN: Doctors care -->
   <DoctorsCare>Doctors care</DoctorsCare>
   <!-- EN: Gets medicine -->
@@ -115,7 +115,7 @@
   <!-- EN: Efficiency -->
   <Efficiency>Efficiency</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Part efficiency</PartEfficiency>
+  <PartEfficiency>Ефективність органу</PartEfficiency>
   <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
   <!-- EN: Gone -->
@@ -125,7 +125,7 @@
   <!-- EN: Shattered -->
   <ShatteredBodyPart>Розбито</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>Removed</RemovedBodyPart>
+  <RemovedBodyPart>Видалено</RemovedBodyPart>
   <!-- EN: Healthy -->
   <Healthy>Healthy</Healthy>
   <!-- EN: In pain -->
@@ -173,7 +173,7 @@
   <!-- EN: Hunger rate -->
   <HungerRate>Hunger rate</HungerRate>
   <!-- EN: Tiredness -->
-  <Tiredness>Tiredness</Tiredness>
+  <Tiredness>Втома</Tiredness>
   <!-- EN: Pain -->
   <PainFactor>Біль</PainFactor>
   <!-- EN: Prevents infection -->
