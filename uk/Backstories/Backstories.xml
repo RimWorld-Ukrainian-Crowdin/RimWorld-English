@@ -7,16 +7,16 @@
     <!-- EN: abandoned -->
     <titleShort>покинутий</titleShort>
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
-    <desc>[PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived.</desc>
+    <desc>[PAWN_nameDef] народився хворобливим. Думаючи, що [PAWN_pronoun] стане тягарем для племені, батьки [PAWN_possessive] кинули [PAWN_objective] на призволяще. Якимось чином, [PAWN_pronoun] вижив(-ла).</desc>
   </AbandonedChild23>
   
   <AbandonedChild30>
     <!-- EN: abandoned child -->
-    <title>abandoned child</title>
+    <title>покинуте дитя</title>
     <!-- EN: abandoned -->
-    <titleShort>abandoned</titleShort>
+    <titleShort>покинутий</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>[PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son.</desc>
+    <desc>[PAWN_nameDef] був дотепною та веселою дитиною. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son.</desc>
   </AbandonedChild30>
   
   <AbandonedOrphan61>
