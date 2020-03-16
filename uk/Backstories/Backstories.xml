@@ -16,32 +16,32 @@
     <!-- EN: abandoned -->
     <titleShort>покинутий</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>[PAWN_nameDef] був дотепною та веселою дитиною. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son.</desc>
+    <desc>[PAWN_nameDef] був дотепною та веселою дитиною. Одного дня, [PAWN_pronoun] загубився подалі від [PAWN_possessive] багатих батьків, і зрештою заблукав до нібито невикористанного складу руди. Завдяки технології клонування, [PAWN_possessive] батьки вирішили, що час, витрачений на пошуки [PAWN_objective], краще виділити на клонування кращого сина.</desc>
   </AbandonedChild30>
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
-    <title>abandoned orphan</title>
+    <title>покинута сирота</title>
     <!-- EN: orphan -->
     <titleShort>сирота</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker.</desc>
+    <desc>Покинутий після народження, [PAWN_nameDef] розпочав [PAWN_possessive] життя у дитячому притулку. \n\nБудучи негідником та поганцем, [PAWN_pronoun] став продуманим баламутом.</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
     <!-- EN: abductee -->
-    <title>abductee</title>
+    <title>викрадений</title>
     <!-- EN: abductee -->
-    <titleShort>abductee</titleShort>
+    <titleShort>викрадений</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>[PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship.</desc>
+    <desc>[PAWN_nameDef] був викрадений у молодому віці та змушений прислужувати на піратському судні.</desc>
   </Abductee43>
   
   <Abductee7>
     <!-- EN: abductee -->
-    <title>abductee</title>
+    <title>викрадений</title>
     <!-- EN: abductee -->
-    <titleShort>abductee</titleShort>
+    <titleShort>викрадений</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
     <desc>[PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped.</desc>
   </Abductee7>
