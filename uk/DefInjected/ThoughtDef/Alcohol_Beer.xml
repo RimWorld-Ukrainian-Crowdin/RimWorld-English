@@ -29,11 +29,11 @@
   <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
   <Inebriated.stages.quite_inebriated.description>I'm a bit wobbly! And this is quite enjoyable.</Inebriated.stages.quite_inebriated.description>
   <!-- EN: drunk -->
-  <Inebriated.stages.drunk.label>drunk</Inebriated.stages.drunk.label>
+  <Inebriated.stages.drunk.label>п’яний</Inebriated.stages.drunk.label>
   <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
   <Inebriated.stages.drunk.description>I feel so uninhibited and unafraid! This is a great time!</Inebriated.stages.drunk.description>
   <!-- EN: hammered -->
-  <Inebriated.stages.hammered.label>hammered</Inebriated.stages.hammered.label>
+  <Inebriated.stages.hammered.label>валиться з ніг</Inebriated.stages.hammered.label>
   <!-- EN: Wooo! What's going on? -->
   <Inebriated.stages.hammered.description>Wooo! What's going on?</Inebriated.stages.hammered.description>
   
