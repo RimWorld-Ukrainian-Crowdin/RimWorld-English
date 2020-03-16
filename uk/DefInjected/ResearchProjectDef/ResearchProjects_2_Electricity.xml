@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>air conditioning</AirConditioning.label>
+  <AirConditioning.label>кондиціювання</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
   <AirConditioning.description>Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods.</AirConditioning.description>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>autodoor</Autodoors.label>
+  <Autodoors.label>автоматичні двері</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
   <Autodoors.description>Build autodoors which automatically open when someone approaches, without slowing anyone down.</Autodoors.description>
   
@@ -22,12 +22,12 @@
   <BiofuelRefining.description>Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs.</BiofuelRefining.description>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>blowback operation</BlowbackOperation.label>
+  <BlowbackOperation.label>віддача</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>Craft low-power blowback-operated guns like autopistols and machine pistols.</BlowbackOperation.description>
   
   <!-- EN: colored lights -->
-  <ColoredLights.label>colored lights</ColoredLights.label>
+  <ColoredLights.label>кольорові лампи</ColoredLights.label>
   <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
   <ColoredLights.description>Construct colored lights for decorative purposes. Cosmetic only.</ColoredLights.description>
   
@@ -37,7 +37,7 @@
   <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>firefoam</Firefoam.label>
+  <Firefoam.label>вогнегасник</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
   <Firefoam.description>Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
   
@@ -47,17 +47,17 @@
   <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
   
   <!-- EN: gas operation -->
-  <GasOperation.label>gas operation</GasOperation.label>
+  <GasOperation.label>відведення порохових газів</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
   <GasOperation.description>Craft high-power guns like chain shotguns, LMGs, and heavy SMGs.</GasOperation.description>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>geothermal power</GeothermalPower.label>
+  <GeothermalPower.label>геотермальна енергія</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
   <GeothermalPower.description>Build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>gunsmithing</Gunsmithing.label>
+  <Gunsmithing.label>створення зброї</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
   <Gunsmithing.description>Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers.</Gunsmithing.description>
   
@@ -72,27 +72,27 @@
   <Hydroponics.description>Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside.</Hydroponics.description>
   
   <!-- EN: IEDs -->
-  <IEDs.label>IEDs</IEDs.label>
+  <IEDs.label>міни</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
   <IEDs.description>Build improvised traps from any kind of mortar shell.</IEDs.description>
   
   <!-- EN: machining -->
-  <Machining.label>machining</Machining.label>
+  <Machining.label>верстак</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
   <Machining.description>Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources.</Machining.description>
   
   <!-- EN: mortars -->
-  <Mortars.label>mortars</Mortars.label>
+  <Mortars.label>міномети</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
   <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+  <NutrientPaste.label>поживна паста</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
   <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all.</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
-  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>приготування консерв</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
   <PackagedSurvivalMeal.description>Produce packaged survival meals which never go bad. Great for traveling.</PackagedSurvivalMeal.description>
   
@@ -102,7 +102,7 @@
   <Prosthetics.description>Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach.</Prosthetics.description>
   
   <!-- EN: smokepop belts -->
-  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <SmokepopBelt.label>димова завіса</SmokepopBelt.label>
   <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
   <SmokepopBelt.description>Build smokepop belts which generate an automatic defensive smokescreen when the user is shot.</SmokepopBelt.description>
   
@@ -117,12 +117,12 @@
   <SterileMaterials.description>Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking.</SterileMaterials.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.label>електронно-променева-трубка</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
   <TubeTelevision.description>Produce tube televisions for recreational watching.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>watermill generator</WatermillGenerator.label>
+  <WatermillGenerator.label>гідрогенератор</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
   <WatermillGenerator.description>Build watermill generators on rivers to generate a steady supply of power.</WatermillGenerator.description>
   
