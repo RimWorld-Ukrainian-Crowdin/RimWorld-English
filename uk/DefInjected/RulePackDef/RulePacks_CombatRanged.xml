@@ -22,7 +22,7 @@
   <!-- EN: r_logentry->[prefix] [injured] [RECIPIENT_definite]. -->
   <Combat_ExplosionImpact.rulePack.rulesStrings.9>r_logentry->[prefix] [injured] [RECIPIENT_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.9>
   <!-- EN: r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets]. -->
-  <Combat_ExplosionImpact.rulePack.rulesStrings.10>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.10>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.10>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite] [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.10>
   <!-- EN: r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv]. -->
   <Combat_ExplosionImpact.rulePack.rulesStrings.11>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</Combat_ExplosionImpact.rulePack.rulesStrings.11>
   <!-- EN: r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets]. -->
