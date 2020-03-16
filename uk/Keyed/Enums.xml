@@ -146,11 +146,11 @@
   <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
   <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
   <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
-  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
-  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Herbivorous_Short>Г</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>Д</DietCategory_Dendrovorous_Short>
   <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
-  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
-  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+  <DietCategory_Omnivorous_Short>О</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>С</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <FoodPoisonCause_IncompetentCook>некомпетентний кухар</FoodPoisonCause_IncompetentCook>
@@ -159,11 +159,11 @@
   <FoodPoisonCause_DangerousFoodType>небезпечна їжа</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
-  <PsychicDroneLevel_None>none</PsychicDroneLevel_None>
-  <PsychicDroneLevel_GoodMedium>medium</PsychicDroneLevel_GoodMedium>
-  <PsychicDroneLevel_BadLow>low</PsychicDroneLevel_BadLow>
-  <PsychicDroneLevel_BadMedium>medium</PsychicDroneLevel_BadMedium>
-  <PsychicDroneLevel_BadHigh>high</PsychicDroneLevel_BadHigh>
-  <PsychicDroneLevel_BadExtreme>extreme</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_None>нічого</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>середній</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>низький</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>середній</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>високі</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>сильна</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>
