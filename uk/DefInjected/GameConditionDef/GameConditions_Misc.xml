@@ -87,7 +87,7 @@
   <!-- EN: The solar flare is ending. -->
   <SolarFlare.endMessage>Сонячний спалах скінчився.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  <SolarFlare.letterText>Відбувся сонячний спалах.\n\nІнтенсивний потік часток вимкне всі електричні пристрої.\n\nСпалах закінчиться через кілька днів.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>токсичні опади</ToxicFallout.label>
@@ -109,6 +109,6 @@
   <!-- EN: Most of the ash has settled. -->
   <VolcanicWinter.endMessage>Most of the ash has settled.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Відбудеться різке зниження температури і ваші рослини перестануть рости через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато років.</VolcanicWinter.letterText>
   
 </LanguageData>
