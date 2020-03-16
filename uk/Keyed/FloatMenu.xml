@@ -314,7 +314,7 @@
   <!-- EN: Offer gifts -->
   <OfferGifts>Offer gifts</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>Trade with {0}</TradeWithSettlement>
+  <TradeWithSettlement>Торгівля з {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -337,7 +337,7 @@
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Вже {0} {2_labelShort}</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>Already {0}</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>Вже {0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Cannot prioritize: will never do {0}</CannotPrioritizeWorkTypeDisabled>
