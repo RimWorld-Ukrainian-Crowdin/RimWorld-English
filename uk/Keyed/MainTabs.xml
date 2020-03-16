@@ -87,7 +87,7 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>Ворог {0}</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>Enemy of:</EnemyOf>
+  <EnemyOf>Ворог:</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>Поточна репутація і статус відносин з цією фракцією.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
@@ -169,15 +169,15 @@
 
   <!-- Research tab -->
   <!-- EN: Research -->
-  <Research>Research</Research>
+  <Research>Дослідження</Research>
   <!-- EN: Researched -->
-  <Researched>Researched</Researched>
+  <Researched>Досліджено</Researched>
   <!-- EN: Unresearched -->
-  <Unresearched>Unresearched</Unresearched>
+  <Unresearched>Недосліджено</Unresearched>
   <!-- EN: Finished -->
-  <Finished>Finished</Finished>
+  <Finished>Завершено</Finished>
   <!-- EN: In Progress -->
-  <InProgress>In Progress</InProgress>
+  <InProgress>В процесі</InProgress>
   <!-- EN: Locked -->
   <Locked>Locked</Locked>
   <!-- EN: Research prerequisites -->
