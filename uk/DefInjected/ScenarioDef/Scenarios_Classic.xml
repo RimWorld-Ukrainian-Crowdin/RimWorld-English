@@ -21,7 +21,7 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Утрачене плем'я</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did.</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>Боги були дуже сердиті. Кроваві машини прийшли вночі. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>П'ятеро утрачених дикунів спробують відновитися. Це складно.</LostTribe.scenario.summary>
   
@@ -34,7 +34,7 @@
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>Гола брутальність</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Це мала бути незначна хірургічна операція. Лише годинка під анестезією. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. Чи можеш ти вижити зовсім без підготовки, припасів та інструментів?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>Голий, сам, та зовсім не підготований. Чи зможеш ти вижити? Надзвичайно важко та нечесно.</NakedBrutality.scenario.summary>
   
@@ -47,19 +47,19 @@
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.scenario.name>Багатий мандрівник</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Нейросимуляції, голо-ігри і оргії не були достатніми для вас. Ви бажали більшого - витримка і наслідки реального життя те, про що говорилися в історичних книгах. Ви хотіли знати, як реальне випробування і наслідки відчуваються.\n\nТепер, після поїздки десятиліття в криптосні, ви приземляєтеся на цю невідому планету. Реальні випробування очікують на вас.</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>Один багатий дослідник вирушив досліджувати всесвіт. Додатково важко.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
-  <Tutorial.label>tutorial</Tutorial.label>
+  <Tutorial.label>посібник</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.description>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.</Tutorial.description>
+  <Tutorial.description>Ви утрьох прокинулися в саркофагах криптосну під звуки сирен і скрегіт металу. Ви ледь добралися до рятувальної ракети до того, як корабель розвалився. Через деякий час ви приземлилися на цій невідомій планеті.</Tutorial.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.scenario.description>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.</Tutorial.scenario.description>
+  <Tutorial.scenario.description>Ви утрьох прокинулися в саркофагах криптосну під звуки сирен і скрегіт металу. Ви ледь добралися до рятувальної ракети до того, як корабель розвалився. Через деякий час ви приземлилися на цій невідомій планеті.</Tutorial.scenario.description>
   <!-- EN: tutorial -->
-  <Tutorial.scenario.name>tutorial</Tutorial.scenario.name>
+  <Tutorial.scenario.name>посібник</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Tutorial.scenario.summary>Three crashlanded survivors - the classic RimWorld experience.</Tutorial.scenario.summary>
+  <Tutorial.scenario.summary>Троє, що пережили аварійну посадку - це класичний досвід RimWorld.</Tutorial.scenario.summary>
   
 </LanguageData>
