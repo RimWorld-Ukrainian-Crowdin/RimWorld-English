@@ -41,11 +41,11 @@
 
   <Synthread.label>синтетична тканина</Synthread.label>
   <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
-  <Synthread.stuffProps.stuffAdjective>synthread</Synthread.stuffProps.stuffAdjective>
+  <Synthread.stuffProps.stuffAdjective>синтетична тканина</Synthread.stuffProps.stuffAdjective>
 
-  <DevilstrandCloth.label>devilstrand</DevilstrandCloth.label>
+  <DevilstrandCloth.label>диявольська струна</DevilstrandCloth.label>
   <DevilstrandCloth.description>Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame.</DevilstrandCloth.description>
-  <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand</DevilstrandCloth.stuffProps.stuffAdjective>
+  <DevilstrandCloth.stuffProps.stuffAdjective>диявольська струна</DevilstrandCloth.stuffProps.stuffAdjective>
 
   <Hyperweave.label>hyperweave</Hyperweave.label>
   <Hyperweave.description>Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
