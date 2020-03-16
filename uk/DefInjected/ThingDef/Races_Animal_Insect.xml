@@ -8,7 +8,7 @@
   <!-- EN: mandibles -->
   <Megascarab.tools.mandibles.label>mandibles</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
-  <Megascarab.tools.head.label>head</Megascarab.tools.head.label>
+  <Megascarab.tools.head.label>голова</Megascarab.tools.head.label>
   
   <!-- EN: megaspider -->
   <Megaspider.label>мега павук</Megaspider.label>
@@ -17,17 +17,17 @@
   <!-- EN: insect meat -->
   <Megaspider.race.meatLabel>insect meat</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>head claw</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>голова-щелепи</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
-  <Megaspider.tools.head.label>head</Megaspider.tools.head.label>
+  <Megaspider.tools.head.label>голова</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
   <Spelopede.label>спелопеда</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
   <Spelopede.description>A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>head claw</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>голова-щелепи</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
-  <Spelopede.tools.head.label>head</Spelopede.tools.head.label>
+  <Spelopede.tools.head.label>голова</Spelopede.tools.head.label>
   
 </LanguageData>
