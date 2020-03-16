@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NeedFood.stages.0.label>hungry</NeedFood.stages.0.label>
+  <NeedFood.stages.0.label>голодний</NeedFood.stages.0.label>
   <NeedFood.stages.0.description>I'm really hungry.</NeedFood.stages.0.description>
   <NeedFood.stages.1.label>ravenously hungry</NeedFood.stages.1.label>
   <NeedFood.stages.1.description>These hunger pangs are hard to ignore.</NeedFood.stages.1.description>
@@ -9,7 +9,7 @@
   <NeedFood.stages.2.description>It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away.</NeedFood.stages.2.description>
   <NeedFood.stages.3.label>badly malnourished</NeedFood.stages.3.label>
   <NeedFood.stages.3.description>I can feel my body wasting away. My stomach hurts like never before.</NeedFood.stages.3.description>
-  <NeedFood.stages.4.label>starving</NeedFood.stages.4.label>
+  <NeedFood.stages.4.label>голодуючий</NeedFood.stages.4.label>
   <NeedFood.stages.4.description>I can barely think about anything but food. My skin is stretching over my bones. Am I going to die?</NeedFood.stages.4.description>
   <NeedFood.stages.5.label>advanced starvation</NeedFood.stages.5.label>
   <NeedFood.stages.5.description>I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out.</NeedFood.stages.5.description>
@@ -18,9 +18,9 @@
 
   <NeedRest.stages.0.label>drowsy</NeedRest.stages.0.label>
   <NeedRest.stages.0.description>I haven't slept in a while. It's hard to keep focus.</NeedRest.stages.0.description>
-  <NeedRest.stages.1.label>tired</NeedRest.stages.1.label>
+  <NeedRest.stages.1.label>втомлений(а)</NeedRest.stages.1.label>
   <NeedRest.stages.1.description>I'm so tired. I just want to lay down and rest for a few minutes...</NeedRest.stages.1.description>
-  <NeedRest.stages.2.label>exhausted</NeedRest.stages.2.label>
+  <NeedRest.stages.2.label>виснаженний</NeedRest.stages.2.label>
   <NeedRest.stages.2.description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</NeedRest.stages.2.description>
 
   <NeedJoy.stages.0.label>recreation-starved</NeedJoy.stages.0.label>
