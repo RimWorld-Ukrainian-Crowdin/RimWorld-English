@@ -8,24 +8,24 @@
   <CannotUseNoPath>Не можливо використати (шлях не знайдено)</CannotUseNoPath>
   <CannotUseReserved>Не можливо використати (захищено)</CannotUseReserved>
   <CannotUseFull>Не можливо використати (повний)</CannotUseFull>
-  <LeaderUnavailable>leader {1_labelShort} is unavailable</LeaderUnavailable>
+  <LeaderUnavailable>лідер {1_labelShort} недоступний</LeaderUnavailable>
   <LeaderUnavailableNoLeader>лідер недоступний</LeaderUnavailableNoLeader>
 
-  <FireAt>Fire at {1_label}</FireAt>
+  <FireAt>Пожежа в {1_label}</FireAt>
 
   <OutOfRange>поза діапазоном</OutOfRange>
   <TooClose>too close</TooClose>
   <CannotHitTarget>не можливо вразити ціль</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{1_labelShort} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{1_labelShort} не здатний на насильство</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>не здатний(а) на насильство</IncapableOfViolenceLower>
   <IsNotDraftedLower>{1_labelShort} is not drafted</IsNotDraftedLower>
   <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
   <CannotAttackSelf>cannot attack self</CannotAttackSelf>
 
-  <OrderManThing>Man {1_labelShort}</OrderManThing>
+  <OrderManThing>Людина {1_labelShort}</OrderManThing>
 
-  <MeleeAttack>Melee attack {1_label}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {1_label} to death</MeleeAttackToDeath>
+  <MeleeAttack>Атаки ближнього бою {1_label}</MeleeAttack>
+  <MeleeAttackToDeath>Атаки ближнього бою {1_label} до смерті</MeleeAttackToDeath>
   <NoPath>шлях не знайдено</NoPath>
 
   <ForbiddenLower>заборонено</ForbiddenLower>
@@ -64,22 +64,22 @@
   <IncapableOfMining>incapable of mining</IncapableOfMining>
   <AngersFaction>angers faction</AngersFaction>
 
-  <ConsumeThing>Consume {1_labelShort}</ConsumeThing>
+  <ConsumeThing>Споживати {1_labelShort}</ConsumeThing>
 
   <CannotGoNoPath>Не можливо прийти (шлях не знайдено)</CannotGoNoPath>
   <GoHere>Іди сюди</GoHere>
 
   <Arrest>Арештувати {0}</Arrest>
-  <TryToArrest>Try to arrest {1_label}</TryToArrest>
+  <TryToArrest>Спробувати заарештувати {1_label}</TryToArrest>
   <CannotArrest>Не можливо заарештувати</CannotArrest>
 
-  <Capture>Capture {1_label}</Capture>
+  <Capture>Захопити {1_label}</Capture>
   <CannotCapture>Не можливо захопити</CannotCapture>
 
-  <Rescue>Rescue {1_label}</Rescue>
+  <Rescue>Порятунок {1_label}</Rescue>
   <CannotRescue>Не можливо врятувати</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {1_label} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Нести {1_label} до капсули криптосну</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Не можливо нести {0} до капсули криптосну</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>Недоступна капсула криптосну.</NoCryptosleepCasket>
@@ -87,7 +87,7 @@
   <NoNonPrisonerBed>В не досяжності, не зарезервоване ліжко, температура безпечна.</NoNonPrisonerBed>
   <NoAnimalBed>В не досяжності, не зарезервоване ліжко для тварини, температура безпечна.</NoAnimalBed>
   <Reserved>Зарезервовано кимось іншим.</Reserved>
-  <ReservedBy>Reserved by {1_labelShort}</ReservedBy>
+  <ReservedBy>Зарезервовано {1_labelShort}</ReservedBy>
   <IsReservedBy>{0} зарезервований {1}.</IsReservedBy>
   <TooHeavy>Занадто важко</TooHeavy>
 
@@ -101,22 +101,22 @@
   <CannotEquip>Не можливо обладнати {0}</CannotEquip>
   <CannotManThing>Cannot man {1_labelShort}</CannotManThing>
 
-  <ForceWear>Force wear {1_labelShort}</ForceWear>
-  <CannotWear>Cannot wear {1_label}</CannotWear>
+  <ForceWear>Змусити одягнути {1_labelShort}</ForceWear>
+  <CannotWear>Не можливо одягнути {1_label}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>відсутні частини тіла</CannotWearBecauseOfMissingBodyParts>
 
-  <CannotPickUp>Cannot pick up {1_label}</CannotPickUp>
-  <CannotPickUpAll>Cannot pick up {1_label} (all)</CannotPickUpAll>
-  <PickUp>Pick up {1_label}</PickUp>
-  <PickUpAll>Pick up {1_label} (all)</PickUpAll>
-  <PickUpSome>Pick up {1_labelShort}...</PickUpSome>
+  <CannotPickUp>Не можливо підібрати {1_label}</CannotPickUp>
+  <CannotPickUpAll>Не можливо підібрати {1_label} (все)</CannotPickUpAll>
+  <PickUp>Підібрати {1_label}</PickUp>
+  <PickUpAll>Підібрати {1_label} (все)</PickUpAll>
+  <PickUpSome>Підібрати {1_labelShort}...</PickUpSome>
   <PickUpCount>Pick up {1_labelShort} x{{0}}</PickUpCount>
 
-  <CannotGiveToPackAnimal>Cannot give {1_label} to pack animal</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Cannot give {1_label} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Give {1_label} to pack animal</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Give {1_label} (all) to pack animal</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Give {1_labelShort} to pack animal...</GiveToPackAnimalSome>
+  <CannotGiveToPackAnimal>Не можливо дати {1_label} для стаї тварин</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Не можливо дати {1_label} (все) для стаї тварин</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Дати {1_label} для стаї тварин</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Дати {1_label} (все) для стаї тварин</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Дати {1_labelShort} для стаї тварин...</GiveToPackAnimalSome>
   <GiveToPackAnimalCount>Take {1_labelShort} x{{0}}</GiveToPackAnimalCount>
 
   <CannotLoadIntoCaravan>Cannot load {1_label} into caravan</CannotLoadIntoCaravan>
@@ -127,20 +127,20 @@
   <LoadIntoCaravanCount>Load {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <OverweightLower>overweight</OverweightLower>
 
-  <CannotCarryToExit>Cannot carry {1_label} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {1_label} and leave the area</CarryToExit>
+  <CannotCarryToExit>Не можливо нести {1_label} і покинути територію</CannotCarryToExit>
+  <CarryToExit>Нести {1_label} і покинути територію</CarryToExit>
   <CarryToExitAndCapture>Capture {1_label} and leave the area</CarryToExitAndCapture>
 
-  <Strip>Strip {1_label}</Strip>
-  <CannotStrip>Cannot strip {1_label}</CannotStrip>
+  <Strip>Роздягнути {1_label}</Strip>
+  <CannotStrip>Не можливо роздягнути {1_label}</CannotStrip>
 
   <SelfDestructHere>Самоліквідуватися тут</SelfDestructHere>
 
-  <Drop>Drop {1_label}</Drop>
+  <Drop>Викинути {1_label}</Drop>
 
   <UseMedicalBed>Відпочивати до зцілення</UseMedicalBed>
-  <NotInjured>not injured</NotInjured>
-  <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
+  <NotInjured>не травмований</NotInjured>
+  <SomeoneElseSleeping>зайнятий {0}</SomeoneElseSleeping>
 
   <TradeWith>Торгівля з {0}</TradeWith>
   <CannotTrade>Торгівля не можлива</CannotTrade>
@@ -163,12 +163,12 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <CannotGenericWork>Не можливо {0} {1}</CannotGenericWork>
-  <CannotGenericWorkCustom>Cannot {0}</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>Не можливо {0}</CannotGenericWorkCustom>
 
   <CannotMissingHealthActivities>Не можливо розставити пріоритети (не в змозі {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <CannotGenericAlreadyAm>Already {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Вже {0} {2_labelShort}</CannotGenericAlreadyAm>
 
   <CannotPrioritizeWorkTypeDisabled>Не можливо розставити пріоритети (ніколи не зробить {0})</CannotPrioritizeWorkTypeDisabled>
 
@@ -180,7 +180,7 @@
 
   <CannotPrioritizeResearch>Не можливо розставити пріоритети (дослідження є довгостроковим завданням)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({1_label} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Не можливо розставити пріоритети ({1_label} заборонено)</CannotPrioritizeForbidden>
   <CannotPrioritizeCellForbidden>Cannot prioritize (forbidden)</CannotPrioritizeCellForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Outside allowed area</CannotPrioritizeForbiddenOutsideAllowedArea>
 
