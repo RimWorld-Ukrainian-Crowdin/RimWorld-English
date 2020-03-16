@@ -6,7 +6,7 @@
   <!-- EN: Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.\n\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die. -->
   <LuciferiumAddiction.description>Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.\n\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die.</LuciferiumAddiction.description>
   <!-- EN: unmet -->
-  <LuciferiumAddiction.stages.unmet.label>unmet</LuciferiumAddiction.stages.unmet.label>
+  <LuciferiumAddiction.stages.unmet.label>незадоволений</LuciferiumAddiction.stages.unmet.label>
   
   <!-- EN: luciferium -->
   <LuciferiumHigh.label>люциферій</LuciferiumHigh.label>
