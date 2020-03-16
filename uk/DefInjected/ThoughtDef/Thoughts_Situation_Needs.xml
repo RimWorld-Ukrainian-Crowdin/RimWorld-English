@@ -92,7 +92,7 @@
   <NeedComfort.stages.luxuriantly_comfortable.description>I am resting on clouds of heaven.</NeedComfort.stages.luxuriantly_comfortable.description>
   
   <!-- EN: hungry -->
-  <NeedFood.stages.hungry.label>hungry</NeedFood.stages.hungry.label>
+  <NeedFood.stages.hungry.label>голодний</NeedFood.stages.hungry.label>
   <!-- EN: I'm really hungry. -->
   <NeedFood.stages.hungry.description>I'm really hungry.</NeedFood.stages.hungry.description>
   <!-- EN: ravenously hungry -->
@@ -108,7 +108,7 @@
   <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
   <NeedFood.stages.badly_malnourished.description>I can feel my body wasting away. My stomach hurts like never before.</NeedFood.stages.badly_malnourished.description>
   <!-- EN: starving -->
-  <NeedFood.stages.starving.label>starving</NeedFood.stages.starving.label>
+  <NeedFood.stages.starving.label>голодуючий</NeedFood.stages.starving.label>
   <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
   <NeedFood.stages.starving.description>I can barely think about anything but food. My skin is stretching over my bones. Am I going to die?</NeedFood.stages.starving.description>
   <!-- EN: advanced starvation -->
@@ -167,11 +167,11 @@
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
   <NeedRest.stages.drowsy.description>I haven't slept in a while. It's hard to keep focus.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
-  <NeedRest.stages.tired.label>tired</NeedRest.stages.tired.label>
+  <NeedRest.stages.tired.label>втомлений(а)</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
   <NeedRest.stages.tired.description>I'm so tired. I just want to lay down and rest for a few minutes...</NeedRest.stages.tired.description>
   <!-- EN: exhausted -->
-  <NeedRest.stages.exhausted.label>exhausted</NeedRest.stages.exhausted.label>
+  <NeedRest.stages.exhausted.label>виснаженний</NeedRest.stages.exhausted.label>
   <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
   <NeedRest.stages.exhausted.description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</NeedRest.stages.exhausted.description>
   
