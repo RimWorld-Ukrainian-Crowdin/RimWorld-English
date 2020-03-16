@@ -101,7 +101,7 @@
   <!-- EN: Sparse -->
   <PlanetPopulation_Low>Sparse</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Звичайна</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
   <PlanetPopulation_High>Crowded</PlanetPopulation_High>
   <!-- EN: Seed -->
@@ -259,7 +259,7 @@
   <!-- EN: Incompatible -->
   <Incompatible>Несумісний</Incompatible>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>Too many (max {0}):</TooMany>
+  <TooMany>Забагато (максимум {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Може бути оновлено у Майстерні, оскільки ви є автором.</CanBeUpdatedOnWorkshop>
   
