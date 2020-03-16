@@ -45,7 +45,7 @@
   <AllowNonDeadmansApparel.description>Дозволити одяг, який ніколи не був зношений трупом. Більшість людей знаходять одяг з трупів, тривожним, і купці не приймають його.</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>allow non-smeltable</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>дозволити не розбірне</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>дозволити не розбірне</AllowNonSmeltableWeapons.label>
@@ -64,6 +64,6 @@
   <AllowSmeltable.label>дозволити розбірне</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>allow smeltable</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>дозволити розбірне</AllowSmeltableApparel.label>
   
 </LanguageData>
