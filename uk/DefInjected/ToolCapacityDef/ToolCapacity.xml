@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>bite</Bite.label>
+  <Bite.label>укус</Bite.label>
   
   <!-- EN: blunt -->
-  <Blunt.label>blunt</Blunt.label>
+  <Blunt.label>удар тупим предметом</Blunt.label>
   
   <!-- EN: cut -->
-  <Cut.label>cut</Cut.label>
+  <Cut.label>поріз</Cut.label>
   
   <!-- EN: kick material in eyes -->
   <KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label>
@@ -17,15 +17,15 @@
   <Poke.label>poke</Poke.label>
   
   <!-- EN: scratch -->
-  <Scratch.label>scratch</Scratch.label>
+  <Scratch.label>подряпина</Scratch.label>
   
   <!-- EN: toxic scratch -->
   <ScratchToxic.label>toxic scratch</ScratchToxic.label>
   
   <!-- EN: stab -->
-  <Stab.label>stab</Stab.label>
+  <Stab.label>колота рана</Stab.label>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.label>отруйний укус</ToxicBite.label>
   
 </LanguageData>
