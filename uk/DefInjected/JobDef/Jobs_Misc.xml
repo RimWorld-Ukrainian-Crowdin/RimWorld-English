@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: applying techprint TargetB. -->
-  <ApplyTechprint.reportString>applying techprint TargetB.</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>застосовує техпринт TargetB.</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>б'є TargetA.</AttackMelee.reportString>
@@ -14,7 +14,7 @@
   <BeatFire.reportString>гасить полум'я.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>Щось робить.</CastAbilityOnThing.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>прибирає сніг.</ClearSnow.reportString>
@@ -59,7 +59,7 @@
   <Goto.reportString>йде.</Goto.reportString>
   
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>moving.</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>йде.</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>шукає приємну температуру.</GotoSafeTemperature.reportString>
