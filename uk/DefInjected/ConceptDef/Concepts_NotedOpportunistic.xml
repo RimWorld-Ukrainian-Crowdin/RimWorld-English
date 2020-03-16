@@ -4,7 +4,7 @@
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>Тварини атакуватимуть двері</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Полюючі на людей тварини атакуватимуть двері, якщо побачать, як хтось з ваших поселенців проходить повз них. Вони також будуть атакувати неактивні турелі.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Вкладка завдань</BillsTab.label>
