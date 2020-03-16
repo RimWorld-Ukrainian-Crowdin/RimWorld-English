@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>бумалопа</Boomalope.label>
+  <Boomalope.labelFemale>бумалопа самка</Boomalope.labelFemale>
+  <Boomalope.labelFemalePlural>бумалопи самки</Boomalope.labelFemalePlural>
+  <Boomalope.labelMale>бумалопа самець</Boomalope.labelMale>
+  <Boomalope.labelMalePlural>бумалопи самці</Boomalope.labelMalePlural>
+  <Boomalope.labelPlural>бумалопи</Boomalope.labelPlural>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>бумалопеня</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.labelFemale>бумалопеня самка</Boomalope.lifeStages.boomalope_calf.labelFemale>
+  <Boomalope.lifeStages.boomalope_calf.labelFemalePlural>бумалопенята самки</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
+  <Boomalope.lifeStages.boomalope_calf.labelMale>бумалопеня самець</Boomalope.lifeStages.boomalope_calf.labelMale>
+  <Boomalope.lifeStages.boomalope_calf.labelMalePlural>бумалопенята самці</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>бумалопенята</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.1.label>бумалопа</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.1.labelFemale>бумалопа самка</Boomalope.lifeStages.1.labelFemale>
+  <Boomalope.lifeStages.1.labelFemalePlural>бумалопи самки</Boomalope.lifeStages.1.labelFemalePlural>
+  <Boomalope.lifeStages.1.labelMale>бумалопа самець</Boomalope.lifeStages.1.labelMale>
+  <Boomalope.lifeStages.1.labelMalePlural>бумалопи самці</Boomalope.lifeStages.1.labelMalePlural>
+  <Boomalope.lifeStages.1.labelPlural>бумалопи</Boomalope.lifeStages.1.labelPlural>
+  <Boomalope.lifeStages.2.label>бумалопа</Boomalope.lifeStages.2.label>
+  <Boomalope.lifeStages.2.labelFemale>бумалопа самка</Boomalope.lifeStages.2.labelFemale>
+  <Boomalope.lifeStages.2.labelFemalePlural>бумалопи самки</Boomalope.lifeStages.2.labelFemalePlural>
+  <Boomalope.lifeStages.2.labelMale>бумалопа самець</Boomalope.lifeStages.2.labelMale>
+  <Boomalope.lifeStages.2.labelMalePlural>бумалопи самці</Boomalope.lifeStages.2.labelMalePlural>
+  <Boomalope.lifeStages.2.labelPlural>бумалопа</Boomalope.lifeStages.2.labelPlural>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>кобра</Cobra.label>
+  <Cobra.labelFemale>кобра самка</Cobra.labelFemale>
+  <Cobra.labelFemalePlural>кобри самки</Cobra.labelFemalePlural>
+  <Cobra.labelMale>кобра самець</Cobra.labelMale>
+  <Cobra.labelMalePlural>кобри самці</Cobra.labelMalePlural>
+  <Cobra.labelPlural>кобри</Cobra.labelPlural>
+  <Cobra.lifeStages.0.label>кобра</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.0.labelFemale>кобра самка</Cobra.lifeStages.0.labelFemale>
+  <Cobra.lifeStages.0.labelFemalePlural>кобри самки</Cobra.lifeStages.0.labelFemalePlural>
+  <Cobra.lifeStages.0.labelMale>кобра самець</Cobra.lifeStages.0.labelMale>
+  <Cobra.lifeStages.0.labelMalePlural>кобри самці</Cobra.lifeStages.0.labelMalePlural>
+  <Cobra.lifeStages.0.labelPlural>кобри</Cobra.lifeStages.0.labelPlural>
+  <Cobra.lifeStages.1.label>кобра</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.1.labelFemale>кобра самка</Cobra.lifeStages.1.labelFemale>
+  <Cobra.lifeStages.1.labelFemalePlural>кобри самки</Cobra.lifeStages.1.labelFemalePlural>
+  <Cobra.lifeStages.1.labelMale>кобра самець</Cobra.lifeStages.1.labelMale>
+  <Cobra.lifeStages.1.labelMalePlural>кобри самці</Cobra.lifeStages.1.labelMalePlural>
+  <Cobra.lifeStages.1.labelPlural>кобри</Cobra.lifeStages.1.labelPlural>
+  <Cobra.lifeStages.2.label>кобра</Cobra.lifeStages.2.label>
+  <Cobra.lifeStages.2.labelFemale>кобра самка</Cobra.lifeStages.2.labelFemale>
+  <Cobra.lifeStages.2.labelFemalePlural>кобри самки</Cobra.lifeStages.2.labelFemalePlural>
+  <Cobra.lifeStages.2.labelMale>кобра самець</Cobra.lifeStages.2.labelMale>
+  <Cobra.lifeStages.2.labelMalePlural>кобри самці</Cobra.lifeStages.2.labelMalePlural>
+  <Cobra.lifeStages.2.labelPlural>кобри</Cobra.lifeStages.2.labelPlural>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>мавпа</Monkey.label>
+  <Monkey.labelFemale>мавпа самка</Monkey.labelFemale>
+  <Monkey.labelFemalePlural>мавпи самки</Monkey.labelFemalePlural>
+  <Monkey.labelMale>мавпа самець</Monkey.labelMale>
+  <Monkey.labelMalePlural>мавпи самці</Monkey.labelMalePlural>
+  <Monkey.labelPlural>мавпи</Monkey.labelPlural>
+  <Monkey.lifeStages.0.label>мавпа</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.0.labelFemale>мавпа самка</Monkey.lifeStages.0.labelFemale>
+  <Monkey.lifeStages.0.labelFemalePlural>мавпи самки</Monkey.lifeStages.0.labelFemalePlural>
+  <Monkey.lifeStages.0.labelMale>мавпа самець</Monkey.lifeStages.0.labelMale>
+  <Monkey.lifeStages.0.labelMalePlural>мавпи самці</Monkey.lifeStages.0.labelMalePlural>
+  <Monkey.lifeStages.0.labelPlural>мавпи</Monkey.lifeStages.0.labelPlural>
+  <Monkey.lifeStages.1.label>мавпа</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.1.labelFemale>мавпа самка</Monkey.lifeStages.1.labelFemale>
+  <Monkey.lifeStages.1.labelFemalePlural>мавпи самки</Monkey.lifeStages.1.labelFemalePlural>
+  <Monkey.lifeStages.1.labelMale>мавпа самець</Monkey.lifeStages.1.labelMale>
+  <Monkey.lifeStages.1.labelMalePlural>мавпи самці</Monkey.lifeStages.1.labelMalePlural>
+  <Monkey.lifeStages.1.labelPlural>мавпи</Monkey.lifeStages.1.labelPlural>
+  <Monkey.lifeStages.2.label>мавпа</Monkey.lifeStages.2.label>
+  <Monkey.lifeStages.2.labelFemale>мавпа самка</Monkey.lifeStages.2.labelFemale>
+  <Monkey.lifeStages.2.labelFemalePlural>мавпи самки</Monkey.lifeStages.2.labelFemalePlural>
+  <Monkey.lifeStages.2.labelMale>мавпа самець</Monkey.lifeStages.2.labelMale>
+  <Monkey.lifeStages.2.labelMalePlural>мавпи самці</Monkey.lifeStages.2.labelMalePlural>
+  <Monkey.lifeStages.2.labelPlural>мавпа</Monkey.lifeStages.2.labelPlural>
+  
+</LanguageData>
