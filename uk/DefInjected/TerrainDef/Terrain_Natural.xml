@@ -4,7 +4,7 @@
   <!-- EN: stony soil -->
   <Gravel.label>кам'янистий грунт</Gravel.label>
   <!-- EN: gravel -->
-  <Gravel.tools.gravel.label>gravel</Gravel.tools.gravel.label>
+  <Gravel.tools.gravel.label>гравій</Gravel.tools.gravel.label>
   
   <!-- EN: Ice -->
   <Ice.label>Лід</Ice.label>
@@ -12,7 +12,7 @@
   <!-- EN: marshy soil -->
   <MarshyTerrain.label>болотистий грунт</MarshyTerrain.label>
   <!-- EN: mud -->
-  <MarshyTerrain.tools.mud.label>mud</MarshyTerrain.tools.mud.label>
+  <MarshyTerrain.tools.mud.label>бруд</MarshyTerrain.tools.mud.label>
   
   <!-- EN: lichen-covered soil -->
   <MossyTerrain.label>покритий лишайником грунт</MossyTerrain.label>
@@ -20,26 +20,26 @@
   <!-- EN: mud -->
   <Mud.label>бруд</Mud.label>
   <!-- EN: mud -->
-  <Mud.tools.mud.label>mud</Mud.tools.mud.label>
+  <Mud.tools.mud.label>бруд</Mud.tools.mud.label>
   
   <!-- EN: sand -->
   <Sand.label>пісок</Sand.label>
   <!-- EN: sand -->
-  <Sand.tools.sand.label>sand</Sand.tools.sand.label>
+  <Sand.tools.sand.label>пісок</Sand.tools.sand.label>
   
   <!-- EN: soft sand -->
   <SoftSand.label>м'який пісок</SoftSand.label>
   <!-- EN: sand -->
-  <SoftSand.tools.sand.label>sand</SoftSand.tools.sand.label>
+  <SoftSand.tools.sand.label>пісок</SoftSand.tools.sand.label>
   
   <!-- EN: soil -->
   <Soil.label>ґрунт</Soil.label>
   <!-- EN: dirt -->
-  <Soil.tools.dirt.label>dirt</Soil.tools.dirt.label>
+  <Soil.tools.dirt.label>бруд</Soil.tools.dirt.label>
   
   <!-- EN: rich soil -->
   <SoilRich.label>багатий ґрунт</SoilRich.label>
   <!-- EN: dirt -->
-  <SoilRich.tools.dirt.label>dirt</SoilRich.tools.dirt.label>
+  <SoilRich.tools.dirt.label>земля</SoilRich.tools.dirt.label>
   
 </LanguageData>
