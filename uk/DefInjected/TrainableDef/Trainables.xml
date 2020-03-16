@@ -12,7 +12,7 @@
   <Obedience.description>The animal can be assigned a master whom it will follow and defend.</Obedience.description>
   
   <!-- EN: attack -->
-  <Release.label>attack</Release.label>
+  <Release.label>атакувати</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
   <Release.description>The animal can be released to attack distant targets instead of just guarding its master.</Release.description>
   
