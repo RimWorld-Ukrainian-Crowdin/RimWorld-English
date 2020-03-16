@@ -11,13 +11,13 @@
   <ImmediateAttack.letterLabelFriendly>Союзники</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>They are attacking immediately.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>Вони нападають без підготовки.</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>Вони прямують до вас, щоб негайно допомогти.</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>Raid</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Напад!</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>Friendlies</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Союзники</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>Вони хочуть обійти ваш захист за допомогою саперів.</ImmediateAttackSappers.arrivalTextEnemy>
