@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: install bionic arm -->
-  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <InstallBionicArm.label>встановити біонічну руку</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.description>Встановити біонічну руку.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
-  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
   <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
@@ -16,11 +16,11 @@
   <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
-  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
+  <InstallBionicEye.label>вживлення біонічного ока</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
   <InstallBionicEye.description>Install a bionic eye.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
-  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  <InstallBionicEye.jobString>Вживлює біонічне око.</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
   <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
@@ -30,11 +30,11 @@
   <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
-  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <InstallBionicLeg.label>встановити біонічну ногу</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.description>Встановити біонічну ногу.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
-  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.jobString>Встановлює біонічну ногу.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
   <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
