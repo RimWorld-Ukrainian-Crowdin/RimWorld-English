@@ -427,7 +427,7 @@
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRefugeeJoins>{PAWN_nameDef} joins</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.</LetterRefugeeJoins>
+  <LetterRefugeeJoins>{PAWN_nameDef} від {PAWN_title} прибув до нашої колонії та приєднався.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
