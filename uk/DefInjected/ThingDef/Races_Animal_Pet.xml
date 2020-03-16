@@ -10,7 +10,7 @@
   <!-- EN: right claw -->
   <Cat.tools.right_claw.label>right claw</Cat.tools.right_claw.label>
   <!-- EN: head -->
-  <Cat.tools.head.label>head</Cat.tools.head.label>
+  <Cat.tools.head.label>голова</Cat.tools.head.label>
   
   <!-- EN: husky -->
   <Husky.label>хаскі</Husky.label>
@@ -21,7 +21,7 @@
   <!-- EN: right claw -->
   <Husky.tools.right_claw.label>right claw</Husky.tools.right_claw.label>
   <!-- EN: head -->
-  <Husky.tools.head.label>head</Husky.tools.head.label>
+  <Husky.tools.head.label>голова</Husky.tools.head.label>
   
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>лабрадор ретривер</LabradorRetriever.label>
@@ -32,7 +32,7 @@
   <!-- EN: right claw -->
   <LabradorRetriever.tools.right_claw.label>right claw</LabradorRetriever.tools.right_claw.label>
   <!-- EN: head -->
-  <LabradorRetriever.tools.head.label>head</LabradorRetriever.tools.head.label>
+  <LabradorRetriever.tools.head.label>голова</LabradorRetriever.tools.head.label>
   
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>йоркширський тер'єр</YorkshireTerrier.label>
@@ -45,6 +45,6 @@
   <!-- EN: cute little teeth -->
   <YorkshireTerrier.tools.cute_little_teeth.label>cute little teeth</YorkshireTerrier.tools.cute_little_teeth.label>
   <!-- EN: head -->
-  <YorkshireTerrier.tools.head.label>head</YorkshireTerrier.tools.head.label>
+  <YorkshireTerrier.tools.head.label>голова</YorkshireTerrier.tools.head.label>
   
 </LanguageData>
