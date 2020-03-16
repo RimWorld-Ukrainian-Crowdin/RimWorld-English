@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: journey offer -->
-  <GiveQuest_EndGame_ShipEscape.label>journey offer</GiveQuest_EndGame_ShipEscape.label>
+  <GiveQuest_EndGame_ShipEscape.label>пропозиція подорожі</GiveQuest_EndGame_ShipEscape.label>
   <!-- EN: Journey offer -->
-  <GiveQuest_EndGame_ShipEscape.letterLabel>Journey offer</GiveQuest_EndGame_ShipEscape.letterLabel>
+  <GiveQuest_EndGame_ShipEscape.letterLabel>Пропозиція подорожі</GiveQuest_EndGame_ShipEscape.letterLabel>
   
   <!-- EN: quest -->
-  <GiveQuest_Random.label>quest</GiveQuest_Random.label>
+  <GiveQuest_Random.label>квест</GiveQuest_Random.label>
   <!-- EN: Quest available -->
-  <GiveQuest_Random.letterLabel>Quest available</GiveQuest_Random.letterLabel>
+  <GiveQuest_Random.letterLabel>Квест в наявності</GiveQuest_Random.letterLabel>
   
   <!-- UNUSED -->
   <Quest_BanditCamp.label>бандитський табір</Quest_BanditCamp.label>
