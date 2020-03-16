@@ -17,7 +17,7 @@
   <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
+  <Cryptosleep.label>капсула криптосну</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
   <Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
   
@@ -36,7 +36,7 @@
   <Fabrication.discoveredLetterTitle>About: Getting advanced components</Fabrication.discoveredLetterTitle>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>сканер мінералів</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
   <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
   
@@ -61,7 +61,7 @@
   <SniperTurret.description>Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range.</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <VitalsMonitor.label>монітор стану здоров'я</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
   <VitalsMonitor.description>Build vitals monitors which improve medical outcomes when placed next to hospital beds.</VitalsMonitor.description>
   
