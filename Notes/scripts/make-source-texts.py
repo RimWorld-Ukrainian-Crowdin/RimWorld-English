@@ -37,10 +37,10 @@ def transform_file(file_path):
     with open(file_path, "wb") as outf:
         doc_content = b'\xEF\xBB\xBF<?xml version="1.0" encoding="UTF-8"?>\n'
         doc_content += etree.tostring(doc, encoding="UTF-8")
-        # ">" is technically a reserved character and should be escaped when
+        # "<" and ">" is technically a reserved character and should be escaped when
         # included into XML text. We are undoing LXML's escaping in order to
         # keep the original text appearance.
-        doc_content = doc_content.replace(b'&gt;', b'>')
+        doc_content = doc_content.replace(b'&gt;', b'>').replace(b'&lt;', b'<')
         outf.write(doc_content)
 
 
