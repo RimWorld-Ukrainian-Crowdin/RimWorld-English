@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>полярне сяйво</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Полярне сяйво</Aurora.letterLabel>
+  <Aurora.letterText>На небі яскраво палає полярне сяйво.\n\nКольорові хвилі підвищать настрій будь-кому, хто побачить їх назовні, та зроблять ніч яскравішою.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>затемнення</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Затемнення</Eclipse.letterLabel>
+  <Eclipse.letterText>Один з супутників цієї планети вийшов на орбіту напроти сонця. Почалось затемнення.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>сонячний спалах</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Сонячний спалах</SolarFlare.letterLabel>
+  <SolarFlare.letterText>Відбувся сонячний спалах.\n\nІнтенсивний потік часток вимкне всі електричні пристрої.\n\nСпалах закінчиться через кілька днів.</SolarFlare.letterText>
+  
+</LanguageData>
