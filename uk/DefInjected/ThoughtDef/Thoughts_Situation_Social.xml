@@ -10,17 +10,17 @@
   <TeetotalerVsChemicalInterest.stages.0.label>teetotaler vs chemical interest</TeetotalerVsChemicalInterest.stages.0.label>
   <TeetotalerVsAddict.stages.0.label>teetotaler vs addict</TeetotalerVsAddict.stages.0.label>
   <ChemicalInterestVsTeetotaler.stages.0.label>chemical interest vs teetotaler</ChemicalInterestVsTeetotaler.stages.0.label>
-  <Drunk.stages.0.label>drunk</Drunk.stages.0.label>
+  <Drunk.stages.0.label>п’яний</Drunk.stages.0.label>
 
-  <Pretty.stages.0.label>pretty</Pretty.stages.0.label>
-  <Pretty.stages.1.label>beautiful</Pretty.stages.1.label>
+  <Pretty.stages.0.label>гарно</Pretty.stages.0.label>
+  <Pretty.stages.1.label>красиво</Pretty.stages.1.label>
 
-  <Ugly.stages.0.label>ugly</Ugly.stages.0.label>
-  <Ugly.stages.1.label>staggeringly ugly</Ugly.stages.1.label>
+  <Ugly.stages.0.label>потворно</Ugly.stages.0.label>
+  <Ugly.stages.1.label>гидкий</Ugly.stages.1.label>
 
-  <AnnoyingVoice.stages.0.label>annoying voice</AnnoyingVoice.stages.0.label>
-  <CreepyBreathing.stages.0.label>creepy breathing</CreepyBreathing.stages.0.label>
-  <Man.stages.0.label>man</Man.stages.0.label>
+  <AnnoyingVoice.stages.0.label>противний голос</AnnoyingVoice.stages.0.label>
+  <CreepyBreathing.stages.0.label>моторошне дихання</CreepyBreathing.stages.0.label>
+  <Man.stages.0.label>людина</Man.stages.0.label>
   <Woman.stages.0.label>woman</Woman.stages.0.label>
 
   <TranshumanistAppreciation.stages.0.label>transhumanist appreciation</TranshumanistAppreciation.stages.0.label>
