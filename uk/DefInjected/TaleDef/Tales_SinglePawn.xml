@@ -109,7 +109,7 @@
   <CraftedArt.rulePack.rulesStrings.24>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</CraftedArt.rulePack.rulesStrings.24>
   
   <!-- EN: drunk -->
-  <Drunk.label>drunk</Drunk.label>
+  <Drunk.label>п’яний</Drunk.label>
   <!-- EN: tale_noun->[PAWN_nameDef]'s extreme drunkenness -->
   <Drunk.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s extreme drunkenness</Drunk.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[PAWN_nameDef] getting extremely drunk -->
@@ -293,7 +293,7 @@
   <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence->A single tear rolls down [PAWN_possessive] face.</MentalStateBerserk.rulePack.rulesStrings.22>
   
   <!-- EN: gave up -->
-  <MentalStateGaveUp.label>gave up</MentalStateGaveUp.label>
+  <MentalStateGaveUp.label>здався(лась)</MentalStateGaveUp.label>
   <!-- EN: tale_noun->[PAWN_nameDef] giving up in despair -->
   <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] giving up in despair</MentalStateGaveUp.rulePack.rulesStrings.0>
   <!-- EN: image->[PAWN_nameFull] finally giving up under stress [circumstance_group] -->
