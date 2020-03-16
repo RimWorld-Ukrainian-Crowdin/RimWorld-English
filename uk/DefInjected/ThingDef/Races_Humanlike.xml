@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Human.label>human</Human.label>
+  <Human.label>людина</Human.label>
   <Human.description>Звичайна людина, в основному не модифікована генною інженерією та не змінена еволюційним тиском не-Земних планет.</Human.description>
   <Human.tools.0.label>лівий кулак</Human.tools.0.label>
   <Human.tools.1.label>правий кулак</Human.tools.1.label>
