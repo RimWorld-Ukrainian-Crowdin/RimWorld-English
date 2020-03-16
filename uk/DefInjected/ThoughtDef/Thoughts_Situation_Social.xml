@@ -5,7 +5,7 @@
   <Affair.stages.affair.label>affair</Affair.stages.affair.label>
   
   <!-- EN: annoying voice -->
-  <AnnoyingVoice.stages.annoying_voice.label>annoying voice</AnnoyingVoice.stages.annoying_voice.label>
+  <AnnoyingVoice.stages.annoying_voice.label>противний голос</AnnoyingVoice.stages.annoying_voice.label>
   
   <!-- EN: ate raw humanlike meat -->
   <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>ate raw humanlike meat</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
@@ -37,13 +37,13 @@
   <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>chemical interest vs teetotaler</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
   
   <!-- EN: creepy breathing -->
-  <CreepyBreathing.stages.creepy_breathing.label>creepy breathing</CreepyBreathing.stages.creepy_breathing.label>
+  <CreepyBreathing.stages.creepy_breathing.label>моторошне дихання</CreepyBreathing.stages.creepy_breathing.label>
   
   <!-- EN: disfigured -->
   <Disfigured.stages.disfigured.label>disfigured</Disfigured.stages.disfigured.label>
   
   <!-- EN: drunk -->
-  <Drunk.stages.drunk.label>drunk</Drunk.stages.drunk.label>
+  <Drunk.stages.drunk.label>п’яний</Drunk.stages.drunk.label>
   
   <!-- EN: executed prisoner -->
   <ExecutedPrisoner.stages.executed_prisoner.label>executed prisoner</ExecutedPrisoner.stages.executed_prisoner.label>
@@ -64,7 +64,7 @@
   <KilledColonyAnimal.stages.killed_colony_animal.label>killed colony animal</KilledColonyAnimal.stages.killed_colony_animal.label>
   
   <!-- EN: man -->
-  <Man.stages.man.label>man</Man.stages.man.label>
+  <Man.stages.man.label>людина</Man.stages.man.label>
   
   <!-- EN: not {0}'s master -->
   <NotBondedAnimalMaster.stages.not_s_master.label>not {0}'s master</NotBondedAnimalMaster.stages.not_s_master.label>
