@@ -116,7 +116,7 @@
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
   <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
   <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>Off for plant resting period</SunLamp.comps.CompSchedule.offMessage>
+  <SunLamp.comps.CompSchedule.offMessage>Вимкнена на час відпочинку рослин</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
   <Table1x2c.label>стіл (1х2)</Table1x2c.label>
