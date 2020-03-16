@@ -6,13 +6,13 @@
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
   <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
   <!-- EN: tusk -->
-  <Elephant.tools.tusk.label>tusk</Elephant.tools.tusk.label>
+  <Elephant.tools.tusk.label>бивень</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
-  <Elephant.tools.left_foot.label>left foot</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.label>ліва ступня</Elephant.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Elephant.tools.right_foot.label>right foot</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.label>права ступня</Elephant.tools.right_foot.label>
   <!-- EN: head -->
-  <Elephant.tools.head.label>head</Elephant.tools.head.label>
+  <Elephant.tools.head.label>голова</Elephant.tools.head.label>
   
   <!-- EN: megasloth -->
   <Megasloth.label>гігантський лінивець</Megasloth.label>
@@ -23,30 +23,30 @@
   <!-- EN: right claw -->
   <Megasloth.tools.right_claw.label>right claw</Megasloth.tools.right_claw.label>
   <!-- EN: head -->
-  <Megasloth.tools.head.label>head</Megasloth.tools.head.label>
+  <Megasloth.tools.head.label>голова</Megasloth.tools.head.label>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>носоріг</Rhinoceros.label>
   <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
   <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-0.label>horn</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-0.label>ріг</Rhinoceros.tools.horn-0.label>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-1.label>horn</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.horn-1.label>ріг</Rhinoceros.tools.horn-1.label>
   <!-- EN: head -->
-  <Rhinoceros.tools.head.label>head</Rhinoceros.tools.head.label>
+  <Rhinoceros.tools.head.label>голова</Rhinoceros.tools.head.label>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>трумбо</Thrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
   <Thrumbo.description>A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
   <!-- EN: horn -->
-  <Thrumbo.tools.horn.label>horn</Thrumbo.tools.horn.label>
+  <Thrumbo.tools.horn.label>ріг</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
-  <Thrumbo.tools.left_foot.label>left foot</Thrumbo.tools.left_foot.label>
+  <Thrumbo.tools.left_foot.label>ліва ступня</Thrumbo.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Thrumbo.tools.right_foot.label>right foot</Thrumbo.tools.right_foot.label>
+  <Thrumbo.tools.right_foot.label>права ступня</Thrumbo.tools.right_foot.label>
   <!-- EN: head -->
-  <Thrumbo.tools.head.label>head</Thrumbo.tools.head.label>
+  <Thrumbo.tools.head.label>голова</Thrumbo.tools.head.label>
   
 </LanguageData>
