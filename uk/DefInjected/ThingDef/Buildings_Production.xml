@@ -54,7 +54,7 @@
   <!-- EN: electric tailor bench -->
   <ElectricTailoringBench.label>електричний стіл кравця</ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>Верстак з швейною машиною для швидкого пошиття одягу. Може працювати без електрики на 50% від нормальної швидкості.</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
   <FabricationBench.label>fabrication bench</FabricationBench.label>
