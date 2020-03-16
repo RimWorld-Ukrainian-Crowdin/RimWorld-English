@@ -6,7 +6,7 @@
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
   <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
   <!-- EN: head -->
-  <Boomalope.tools.head.label>head</Boomalope.tools.head.label>
+  <Boomalope.tools.head.label>голова</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
   <Boomalope.tools.left_hoof.label>left hoof</Boomalope.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -21,17 +21,17 @@
   <!-- EN: venom-fangs -->
   <Cobra.tools.venomfangs.label>venom-fangs</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
-  <Cobra.tools.head.label>head</Cobra.tools.head.label>
+  <Cobra.tools.head.label>голова</Cobra.tools.head.label>
   
   <!-- EN: monkey -->
   <Monkey.label>мавпа</Monkey.label>
   <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
   <Monkey.description>A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks.</Monkey.description>
   <!-- EN: left fist -->
-  <Monkey.tools.left_fist.label>left fist</Monkey.tools.left_fist.label>
+  <Monkey.tools.left_fist.label>лівий кулак</Monkey.tools.left_fist.label>
   <!-- EN: right fist -->
-  <Monkey.tools.right_fist.label>right fist</Monkey.tools.right_fist.label>
+  <Monkey.tools.right_fist.label>правий кулак</Monkey.tools.right_fist.label>
   <!-- EN: head -->
-  <Monkey.tools.head.label>head</Monkey.tools.head.label>
+  <Monkey.tools.head.label>голова</Monkey.tools.head.label>
   
 </LanguageData>
