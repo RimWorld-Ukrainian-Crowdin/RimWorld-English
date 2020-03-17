@@ -3,110 +3,22 @@
   
   <!-- EN: elephant -->
   <Elephant.label>слон</Elephant.label>
-  <Elephant.labelFemale>самка слона</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>самки слонів</Elephant.labelFemalePlural>
-  <Elephant.labelMale>слон самець</Elephant.labelMale>
-  <Elephant.labelMalePlural>слони самці</Elephant.labelMalePlural>
-  <Elephant.labelPlural>слони</Elephant.labelPlural>
   <!-- EN: elephant calf -->
   <Elephant.lifeStages.elephant_calf.label>слоненя</Elephant.lifeStages.elephant_calf.label>
-  <Elephant.lifeStages.elephant_calf.labelFemale>слоненя самка</Elephant.lifeStages.elephant_calf.labelFemale>
-  <Elephant.lifeStages.elephant_calf.labelFemalePlural>слоненята самки</Elephant.lifeStages.elephant_calf.labelFemalePlural>
-  <Elephant.lifeStages.elephant_calf.labelMale>слоненя самець</Elephant.lifeStages.elephant_calf.labelMale>
-  <Elephant.lifeStages.elephant_calf.labelMalePlural>слоненята самці</Elephant.lifeStages.elephant_calf.labelMalePlural>
-  <Elephant.lifeStages.elephant_calf.labelPlural>слоненята</Elephant.lifeStages.elephant_calf.labelPlural>
-  <Elephant.lifeStages.1.label>слон</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.1.labelFemale>самка слона</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>самки слонів</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.1.labelMale>слон самець</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>слони самці</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelPlural>слони</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.2.label>слон</Elephant.lifeStages.2.label>
-  <Elephant.lifeStages.2.labelFemale>самка слона</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>самки слонів</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.lifeStages.2.labelMale>слон самець</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>слони самці</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelPlural>слон</Elephant.lifeStages.2.labelPlural>
   
   <!-- EN: megasloth -->
   <Megasloth.label>гігантський лінивець</Megasloth.label>
-  <Megasloth.labelFemale>дитина гігантського лінивця (дівчинка)</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>гігантські лінивці (самки)</Megasloth.labelFemalePlural>
-  <Megasloth.labelMale>дитина гігантського лінивця (хлопчик)</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>діти гігантського лінивця (хлопці)</Megasloth.labelMalePlural>
-  <Megasloth.labelPlural>гігантські лінивці</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>дитя гігантського лінивця</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelFemale>дитина гігантського лінивця (дівчинка)</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>діти гігантського лінивця (дівчата)</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.0.labelMale>дитина гігантського лінивця (хлопчик)</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>діти гігантського лінивця (хлопці)</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelPlural>діти гігантського лінивця</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.1.label>гігантський лінивець</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelFemale>гігантський лінивець (самка)</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>гігантські лінивці (самки)</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.1.labelMale>гігантський лінивець (самець)</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>гігантські лінивці (самці)</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelPlural>гігантські лінивці</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.2.label>старий гігантський лінивець</Megasloth.lifeStages.2.label>
-  <Megasloth.lifeStages.2.labelFemale>дитина гігантського лінивця (дівчинка)</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>старі гігантські лінивці (самки)</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.lifeStages.2.labelMale>старий гігантський лінивець (самець)</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>діти гігантського лінивця (хлопці)</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelPlural>старі гігантські лінивці</Megasloth.lifeStages.2.labelPlural>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>носоріг</Rhinoceros.label>
-  <Rhinoceros.labelFemale>самка носорога</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>самки носорога</Rhinoceros.labelFemalePlural>
-  <Rhinoceros.labelMale>самець носорога</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>самці носорога</Rhinoceros.labelMalePlural>
   <!-- EN: rhinoceroses -->
   <Rhinoceros.labelPlural>носороги</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>носоріг</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelFemale>самка носорога</Rhinoceros.lifeStages.0.labelFemale>
-  <Rhinoceros.lifeStages.0.labelFemalePlural>самки носорога</Rhinoceros.lifeStages.0.labelFemalePlural>
-  <Rhinoceros.lifeStages.0.labelMale>самець носорога</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>самці носорога</Rhinoceros.lifeStages.0.labelMalePlural>
-  <Rhinoceros.lifeStages.0.labelPlural>носороги</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.1.label>носоріг</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelFemale>самка носорога</Rhinoceros.lifeStages.1.labelFemale>
-  <Rhinoceros.lifeStages.1.labelFemalePlural>самки носорога</Rhinoceros.lifeStages.1.labelFemalePlural>
-  <Rhinoceros.lifeStages.1.labelMale>самець носорога</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>самці носорога</Rhinoceros.lifeStages.1.labelMalePlural>
-  <Rhinoceros.lifeStages.1.labelPlural>носороги</Rhinoceros.lifeStages.1.labelPlural>
-  <Rhinoceros.lifeStages.2.label>носоріг</Rhinoceros.lifeStages.2.label>
-  <Rhinoceros.lifeStages.2.labelFemale>самка носорога</Rhinoceros.lifeStages.2.labelFemale>
-  <Rhinoceros.lifeStages.2.labelFemalePlural>самки носорога</Rhinoceros.lifeStages.2.labelFemalePlural>
-  <Rhinoceros.lifeStages.2.labelMale>самець носорога</Rhinoceros.lifeStages.2.labelMale>
-  <Rhinoceros.lifeStages.2.labelMalePlural>самці носорога</Rhinoceros.lifeStages.2.labelMalePlural>
-  <Rhinoceros.lifeStages.2.labelPlural>носороги</Rhinoceros.lifeStages.2.labelPlural>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>трумбо</Thrumbo.label>
-  <Thrumbo.labelFemale>трумбо-самка</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>самки трумбо</Thrumbo.labelFemalePlural>
-  <Thrumbo.labelMale>трумбо-самець</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>самці трумбо</Thrumbo.labelMalePlural>
-  <Thrumbo.labelPlural>трумби</Thrumbo.labelPlural>
   <!-- EN: thrumbo calf -->
   <Thrumbo.lifeStages.thrumbo_calf.label>трумбеня</Thrumbo.lifeStages.thrumbo_calf.label>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemale>трумбеня-дівчинка</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>трумбенята (дівчата)</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMale>трумбеня-хлопчик</Thrumbo.lifeStages.thrumbo_calf.labelMale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>трумбенята (хлопці)</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
   <!-- EN: thrumbo calves -->
   <Thrumbo.lifeStages.thrumbo_calf.labelPlural>трумбенята</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.1.label>трумбо</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelFemale>самка трумбо</Thrumbo.lifeStages.1.labelFemale>
-  <Thrumbo.lifeStages.1.labelFemalePlural>самки трумби</Thrumbo.lifeStages.1.labelFemalePlural>
-  <Thrumbo.lifeStages.1.labelMale>самець трумбо</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>самці трумби</Thrumbo.lifeStages.1.labelMalePlural>
-  <Thrumbo.lifeStages.1.labelPlural>трумби</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.2.label>старий трумбо</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelFemale>стара самка трумбо</Thrumbo.lifeStages.2.labelFemale>
-  <Thrumbo.lifeStages.2.labelFemalePlural>старі самки трумбо</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.lifeStages.2.labelMale>старий самець трумбо</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>старі самці трумбо</Thrumbo.lifeStages.2.labelMalePlural>
-  <Thrumbo.lifeStages.2.labelPlural>старі трумби</Thrumbo.lifeStages.2.labelPlural>
   
 </LanguageData>
