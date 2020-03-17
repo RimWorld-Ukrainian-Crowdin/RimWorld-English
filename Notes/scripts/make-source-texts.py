@@ -33,12 +33,19 @@ def transform_file(file_path):
         if isinstance(el, etree._Comment) and text.startswith("EN:"):
             text = el.text[len("EN:") + 1 :]
             # Strip whitespace only around single-line texts
-            if not text.startswith('\n'):
+            if not text.startswith("\n"):
                 text = text.strip()
             last_comment = text
         else:
             if last_comment is not None:
                 el.text = last_comment
+                if el.tag in [
+                    "MessageModNeedsWellFormattedTargetVersion",
+                    "MessageModNeedsWellFormattedPackageId",
+                ]:
+                    # These texts contain XML examples that are more readable
+                    # without escaping "<" and ">"
+                    el.text = etree.CDATA(el.text)
                 # If the text contains any tags, we want them to be replaced by
                 # the new text tags, so the element children must be removed.
                 for _el in el.iterdescendants():
@@ -51,8 +58,20 @@ def transform_file(file_path):
         doc_content += etree.tostring(doc, encoding="UTF-8")
         # "<" and ">" is technically a reserved character and should be escaped when
         # included into XML text. We are undoing LXML's escaping in order to
-        # keep the original text appearance.
-        doc_content = doc_content.replace(b"&gt;", b">").replace(b"&lt;", b"<")
+        # keep the original text appearance for better readability.
+        known_tags = [b"li", b"rulesStrings", b"Name"]
+        for tagName in known_tags:
+            doc_content = doc_content.replace(
+                b"&lt;" + tagName + b"&gt;", b"<" + tagName + b">"
+            )
+            doc_content = doc_content.replace(
+                b"&lt;/" + tagName + b"&gt;", b"</" + tagName + b">"
+            )
+        # Rules expressions. "<=" breaks the game's XML parser, so it is not
+        # replaced here.
+        doc_content = doc_content.replace(b"-&gt;", b"->")
+        doc_content = doc_content.replace(b"&gt;=", b">=")
+
         outf.write(doc_content)
 
 
