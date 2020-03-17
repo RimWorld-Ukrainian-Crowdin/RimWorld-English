@@ -3,16 +3,13 @@
   
   <!-- EN: slave -->
   <Slave.label>slave</Slave.label>
-  <Slave.labelPlural>slaves</Slave.labelPlural>
   
   <!-- EN: stranger in black -->
   <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
   <!-- EN: woman in black -->
   <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelFemalePlural>female strangers in black</StrangerInBlack.labelFemalePlural>
   <!-- EN: man in black -->
   <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelMalePlural>male strangers in black</StrangerInBlack.labelMalePlural>
   <!-- EN: strangers in black -->
   <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
   
@@ -22,8 +19,6 @@
   <WildMan.labelFemale>wild woman</WildMan.labelFemale>
   <!-- EN: wild women -->
   <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
-  <WildMan.labelMale>male wild man</WildMan.labelMale>
-  <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>
   <!-- EN: wild men -->
   <WildMan.labelPlural>wild men</WildMan.labelPlural>
   

@@ -131,7 +131,6 @@
   <TargetedInsultingSpree.baseInspectLine>Mental state: Insulting spree against {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
   <TargetedInsultingSpree.beginLetter>{0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults.</TargetedInsultingSpree.beginLetter>
-  <TargetedInsultingSpree.recoveryMessage/>
   
   <!-- EN: tantrum -->
   <TargetedTantrum.label>tantrum</TargetedTantrum.label>

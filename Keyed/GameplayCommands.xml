@@ -516,7 +516,4 @@
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>Open linked quest in the quests tab.</CommandOpenLinkedQuestDesc>
   
-  <!-- UNUSED -->
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-
 </LanguageData>

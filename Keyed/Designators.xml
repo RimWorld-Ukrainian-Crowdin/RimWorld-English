@@ -237,8 +237,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>None of your {0} have this skill.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
-
 </LanguageData>

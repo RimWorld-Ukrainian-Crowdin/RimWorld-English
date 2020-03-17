@@ -8,7 +8,6 @@
   
   <!-- EN: ex-lover -->
   <ExLover.label>ex-lover</ExLover.label>
-  <ExLover.labelFemale>ex-lover</ExLover.labelFemale>
   
   <!-- EN: ex-husband -->
   <ExSpouse.label>ex-husband</ExSpouse.label>
@@ -22,7 +21,6 @@
   
   <!-- EN: lover -->
   <Lover.label>lover</Lover.label>
-  <Lover.labelFemale>lover</Lover.labelFemale>
   
   <!-- EN: father-in-law -->
   <ParentInLaw.label>father-in-law</ParentInLaw.label>

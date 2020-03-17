@@ -8,11 +8,9 @@
   
   <!-- EN: cousin -->
   <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
   
   <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
   
   <!-- EN: grandson -->
   <Grandchild.label>grandson</Grandchild.label>
@@ -51,7 +49,6 @@
   
   <!-- EN: kin -->
   <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>kin</Kin.labelFemale>
   
   <!-- EN: nephew -->
   <NephewOrNiece.label>nephew</NephewOrNiece.label>
@@ -65,7 +62,6 @@
   
   <!-- EN: second cousin -->
   <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
   
   <!-- EN: brother -->
   <Sibling.label>brother</Sibling.label>

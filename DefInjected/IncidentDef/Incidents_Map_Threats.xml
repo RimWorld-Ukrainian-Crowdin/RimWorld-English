@@ -38,11 +38,6 @@
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
   <MechCluster.letterText>A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText>
   
-  <!-- UNUSED -->
-  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
-  <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PoisonShipPartCrash.letterText>
-  <PoisonShipPartCrash.letterLabel>Poison ship</PoisonShipPartCrash.letterLabel>
-  
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->

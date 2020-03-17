@@ -3,11 +3,9 @@
   
   <!-- EN: centipede -->
   <Mech_Centipede.label>centipede</Mech_Centipede.label>
-  <Mech_Centipede.labelPlural>centipedes</Mech_Centipede.labelPlural>
   
   <!-- EN: lancer -->
   <Mech_Lancer.label>lancer</Mech_Lancer.label>
-  <Mech_Lancer.labelPlural>lancers</Mech_Lancer.labelPlural>
   
   <!-- EN: pikeman -->
   <Mech_Pikeman.label>pikeman</Mech_Pikeman.label>
@@ -16,6 +14,5 @@
   
   <!-- EN: scyther -->
   <Mech_Scyther.label>scyther</Mech_Scyther.label>
-  <Mech_Scyther.labelPlural>scythers</Mech_Scyther.labelPlural>
   
 </LanguageData>

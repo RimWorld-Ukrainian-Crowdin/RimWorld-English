@@ -98,6 +98,12 @@
   <RenameAnimal>Rename animal</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Rename colonist</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>Renounce title</RenounceTitle>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>{0} of {1}</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: unknown -->
   <UnknownLower>unknown</UnknownLower>
   <!-- EN: On -->
@@ -438,6 +444,8 @@
   <DormantCompBeacon>Ready to drop mechanoids</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>Expired</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>Initiates in</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->
@@ -1265,13 +1273,4 @@
   <!-- EN: Affected gender -->
   <AffectedGender>Affected gender</AffectedGender>
   
-  <!-- UNUSED -->
-  <ItemStashContents>Contents: {0} ({1})</ItemStashContents>
-  <KnownSiteThreat>Known threat: {0}</KnownSiteThreat>
-  <KnownSiteThreats>Known threats: {0}</KnownSiteThreats>
-  <KnownSiteThreatsNone>Threats: Unknown</KnownSiteThreatsNone>
-  <NeurotrainerUsed>{USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
-  <GameOverShipLaunched>You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunched>
-  <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
-
 </LanguageData>

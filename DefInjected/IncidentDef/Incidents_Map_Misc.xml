@@ -15,7 +15,6 @@
   <ColdSnap.label>cold snap</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
-  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>crop blight</CropBlight.label>
@@ -27,13 +26,11 @@
   <Flashstorm.label>flashstorm</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
-  <Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>heat wave</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>herd migration</HerdMigration.label>
@@ -60,9 +57,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
   
-  <!-- UNUSED -->
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>transport pod crash</RefugeePodCrash.label>
   
@@ -82,13 +76,11 @@
   <ToxicFallout.label>toxic fallout</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
-  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
-  <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>wanderer join</WandererJoin.label>

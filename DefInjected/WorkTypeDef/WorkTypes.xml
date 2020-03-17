@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Art.label>Art</Art.label>
   <!-- EN: Create beautiful works of art from raw materials. -->
   <Art.description>Create beautiful works of art from raw materials.</Art.description>
   <!-- EN: art -->
@@ -13,7 +12,6 @@
   <!-- EN: Do art at -->
   <Art.verb>Do art at</Art.verb>
   
-  <BasicWorker.label>Basic</BasicWorker.label>
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
   <!-- EN: dealing with -->
@@ -25,7 +23,6 @@
   <!-- EN: Deal with -->
   <BasicWorker.verb>Deal with</BasicWorker.verb>
   
-  <Cleaning.label>Clean</Cleaning.label>
   <!-- EN: Clear snow and clean the floor in the home area. -->
   <Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
   <!-- EN: cleaning -->
@@ -37,7 +34,6 @@
   <!-- EN: Clean -->
   <Cleaning.verb>Clean</Cleaning.verb>
   
-  <Construction.label>Construct</Construction.label>
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
   <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
   <!-- EN: constructing -->
@@ -49,7 +45,6 @@
   <!-- EN: Construct -->
   <Construction.verb>Construct</Construction.verb>
   
-  <Cooking.label>Cook</Cooking.label>
   <!-- EN: Prepare meals and butcher meat. -->
   <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
   <!-- EN: cooking -->
@@ -61,7 +56,6 @@
   <!-- EN: Cook -->
   <Cooking.verb>Cook</Cooking.verb>
   
-  <Crafting.label>Craft</Crafting.label>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
   <Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
   <!-- EN: crafting -->
@@ -73,7 +67,6 @@
   <!-- EN: Craft at -->
   <Crafting.verb>Craft at</Crafting.verb>
   
-  <Doctor.label>Doctor</Doctor.label>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
   <Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
   <!-- EN: doctoring -->
@@ -85,7 +78,6 @@
   <!-- EN: Care for -->
   <Doctor.verb>Care for</Doctor.verb>
   
-  <Firefighter.label>Firefight</Firefighter.label>
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Extinguish fires in the colony.</Firefighter.description>
   <!-- EN: firefighting -->
@@ -97,7 +89,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Extinguish</Firefighter.verb>
   
-  <Growing.label>Grow</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Plant seeds, harvest crops, and forage for wild plants.</Growing.description>
   <!-- EN: growing -->
@@ -109,7 +100,6 @@
   <!-- EN: Grow -->
   <Growing.verb>Grow</Growing.verb>
   
-  <Handling.label>Handle</Handling.label>
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
   <Handling.description>Tame, train, harvest resources from and slaughter animals.</Handling.description>
   <!-- EN: handling -->
@@ -121,7 +111,6 @@
   <!-- EN: Handle -->
   <Handling.verb>Handle</Handling.verb>
   
-  <Hauling.label>Haul</Hauling.label>
   <!-- EN: Carry things to where they need to be. -->
   <Hauling.description>Carry things to where they need to be.</Hauling.description>
   <!-- EN: hauling -->
@@ -133,7 +122,6 @@
   <!-- EN: Haul -->
   <Hauling.verb>Haul</Hauling.verb>
   
-  <Hunting.label>Hunt</Hunting.label>
   <!-- EN: Kill animals which are designated to be hunted. -->
   <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
   <!-- EN: hunting -->
@@ -145,7 +133,6 @@
   <!-- EN: Hunt -->
   <Hunting.verb>Hunt</Hunting.verb>
   
-  <Mining.label>Mine</Mining.label>
   <!-- EN: Digging and drilling. -->
   <Mining.description>Digging and drilling.</Mining.description>
   <!-- EN: mining -->
@@ -157,7 +144,6 @@
   <!-- EN: Mine -->
   <Mining.verb>Mine</Mining.verb>
   
-  <Patient.label>Patient</Patient.label>
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
   <Patient.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</Patient.description>
   <!-- EN: patienting -->
@@ -169,7 +155,6 @@
   <!-- EN: Become patient -->
   <Patient.verb>Become patient</Patient.verb>
   
-  <PatientBedRest.label>Bed rest</PatientBedRest.label>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
   <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
   <!-- EN: resting in bed -->
@@ -181,7 +166,6 @@
   <!-- EN: Become patient -->
   <PatientBedRest.verb>Become patient</PatientBedRest.verb>
   
-  <PlantCutting.label>Plant cut</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
   <!-- EN: plant cutting -->
@@ -193,7 +177,6 @@
   <!-- EN: Cut -->
   <PlantCutting.verb>Cut</PlantCutting.verb>
   
-  <Research.label>Research</Research.label>
   <!-- EN: Perform research work. -->
   <Research.description>Perform research work.</Research.description>
   <!-- EN: researching -->
@@ -205,7 +188,6 @@
   <!-- EN: Research at -->
   <Research.verb>Research at</Research.verb>
   
-  <Smithing.label>Smith</Smithing.label>
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
   <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
   <!-- EN: smithing -->
@@ -217,7 +199,6 @@
   <!-- EN: Smith at -->
   <Smithing.verb>Smith at</Smithing.verb>
   
-  <Tailoring.label>Tailor</Tailoring.label>
   <!-- EN: Create apparel from raw materials. -->
   <Tailoring.description>Create apparel from raw materials.</Tailoring.description>
   <!-- EN: tailoring -->
@@ -229,7 +210,6 @@
   <!-- EN: Tailor at -->
   <Tailoring.verb>Tailor at</Tailoring.verb>
   
-  <Warden.label>Warden</Warden.label>
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
   <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
   <!-- EN: wardening -->

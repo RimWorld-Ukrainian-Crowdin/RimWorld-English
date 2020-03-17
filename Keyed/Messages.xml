@@ -601,10 +601,4 @@
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} is currently hidden.</MessageCannotSelectInvisibleStat>
 
-  <!-- UNUSED -->
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
-  <MessageRescueeJoined>{1_labelShort} has joined your group after being rescued!</MessageRescueeJoined>
-  <MessageCraftedMasterwork>{WORKER_labelShort} has created a {CRAFTED_labelShort}.</MessageCraftedMasterwork>
-
 </LanguageData>
