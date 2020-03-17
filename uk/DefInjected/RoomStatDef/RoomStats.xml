@@ -3,16 +3,6 @@
   
   <!-- EN: beauty -->
   <Beauty.label>краса</Beauty.label>
-  <!-- EN: hideous -->
-  <Beauty.scoreStages.hideous.label>відразливо</Beauty.scoreStages.hideous.label>
-  <!-- EN: ugly -->
-  <Beauty.scoreStages.ugly.label>потворно</Beauty.scoreStages.ugly.label>
-  <!-- EN: neutral -->
-  <Beauty.scoreStages.neutral.label>нейтрально</Beauty.scoreStages.neutral.label>
-  <!-- EN: pretty -->
-  <Beauty.scoreStages.pretty.label>гарно</Beauty.scoreStages.pretty.label>
-  <!-- EN: beautiful -->
-  <Beauty.scoreStages.beautiful.label>красиво</Beauty.scoreStages.beautiful.label>
   <!-- EN: very beautiful -->
   <Beauty.scoreStages.very_beautiful.label>дуже красиво</Beauty.scoreStages.very_beautiful.label>
   <!-- EN: extremely beautiful -->
@@ -24,14 +14,8 @@
   <Cleanliness.label>чистота</Cleanliness.label>
   <!-- EN: very dirty -->
   <Cleanliness.scoreStages.very_dirty.label>дуже брудно</Cleanliness.scoreStages.very_dirty.label>
-  <!-- EN: dirty -->
-  <Cleanliness.scoreStages.dirty.label>брудно</Cleanliness.scoreStages.dirty.label>
   <!-- EN: slightly dirty -->
   <Cleanliness.scoreStages.slightly_dirty.label>трохи брудно</Cleanliness.scoreStages.slightly_dirty.label>
-  <!-- EN: clean -->
-  <Cleanliness.scoreStages.clean.label>чисто</Cleanliness.scoreStages.clean.label>
-  <!-- EN: sterile -->
-  <Cleanliness.scoreStages.sterile.label>стерильно</Cleanliness.scoreStages.sterile.label>
   
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>шанс харчового отруєння</FoodPoisonChance.label>
@@ -41,14 +25,6 @@
   
   <!-- EN: impressiveness -->
   <Impressiveness.label>враження</Impressiveness.label>
-  <!-- EN: awful -->
-  <Impressiveness.scoreStages.awful.label>жахливо</Impressiveness.scoreStages.awful.label>
-  <!-- EN: dull -->
-  <Impressiveness.scoreStages.dull.label>тьмяно</Impressiveness.scoreStages.dull.label>
-  <!-- EN: mediocre -->
-  <Impressiveness.scoreStages.mediocre.label>посередньо</Impressiveness.scoreStages.mediocre.label>
-  <!-- EN: decent -->
-  <Impressiveness.scoreStages.decent.label>пристойно</Impressiveness.scoreStages.decent.label>
   <!-- EN: slightly impressive -->
   <Impressiveness.scoreStages.slightly_impressive.label>трохи вражає</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
@@ -70,12 +46,8 @@
   
   <!-- EN: space -->
   <Space.label>простір</Space.label>
-  <!-- EN: cramped -->
-  <Space.scoreStages.cramped.label>дуже тісно</Space.scoreStages.cramped.label>
   <!-- EN: rather tight -->
   <Space.scoreStages.rather_tight.label>трохи тісно</Space.scoreStages.rather_tight.label>
-  <!-- EN: average-sized -->
-  <Space.scoreStages.averagesized.label>середнього розміру</Space.scoreStages.averagesized.label>
   <!-- EN: somewhat spacious -->
   <Space.scoreStages.somewhat_spacious.label>дещо просторо</Space.scoreStages.somewhat_spacious.label>
   <!-- EN: quite spacious -->
@@ -90,18 +62,10 @@
   
   <!-- EN: wealth -->
   <Wealth.label>багатство</Wealth.label>
-  <!-- EN: impoverished -->
-  <Wealth.scoreStages.impoverished.label>дуже бідна</Wealth.scoreStages.impoverished.label>
   <!-- EN: somewhat poor -->
   <Wealth.scoreStages.somewhat_poor.label>бідна</Wealth.scoreStages.somewhat_poor.label>
-  <!-- EN: mediocre -->
-  <Wealth.scoreStages.mediocre.label>посередньо</Wealth.scoreStages.mediocre.label>
   <!-- EN: somewhat rich -->
   <Wealth.scoreStages.somewhat_rich.label>багата</Wealth.scoreStages.somewhat_rich.label>
-  <!-- EN: rich -->
-  <Wealth.scoreStages.rich.label>дуже багата</Wealth.scoreStages.rich.label>
-  <!-- EN: luxurious -->
-  <Wealth.scoreStages.luxurious.label>розкішна</Wealth.scoreStages.luxurious.label>
   <!-- EN: very luxurious -->
   <Wealth.scoreStages.very_luxurious.label>дуже розкішна</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->
