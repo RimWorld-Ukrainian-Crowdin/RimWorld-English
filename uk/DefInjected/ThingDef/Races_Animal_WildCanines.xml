@@ -12,11 +12,6 @@
   <!-- EN: head -->
   <Fox_Arctic.tools.head.label>голова</Fox_Arctic.tools.head.label>
   
-  <!-- UNUSED -->
-  <Fox_Arctic_Leather.label>arctic fox leather</Fox_Arctic_Leather.label>
-  <Fox_Arctic_Leather.description>arctic fox leather</Fox_Arctic_Leather.description>
-  <Fox_Arctic_Leather.stuffProps.stuffAdjective>arctic fox leather</Fox_Arctic_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: fennec fox -->
   <Fox_Fennec.label>фенек</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
@@ -30,11 +25,6 @@
   <!-- EN: head -->
   <Fox_Fennec.tools.head.label>голова</Fox_Fennec.tools.head.label>
   
-  <!-- UNUSED -->
-  <Fox_Fennec_Leather.label>fennec fox leather</Fox_Fennec_Leather.label>
-  <Fox_Fennec_Leather.description>fennec fox leather</Fox_Fennec_Leather.description>
-  <Fox_Fennec_Leather.stuffProps.stuffAdjective>fennec fox leather</Fox_Fennec_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: red fox -->
   <Fox_Red.label>лисиця</Fox_Red.label>
   <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
@@ -45,11 +35,6 @@
   <Fox_Red.tools.right_claw.label>right claw</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Red.tools.head.label>голова</Fox_Red.tools.head.label>
-  
-  <!-- UNUSED -->
-  <Fox_Red_Leather.label>red fox leather</Fox_Red_Leather.label>
-  <Fox_Red_Leather.description>red fox leather</Fox_Red_Leather.description>
-  <Fox_Red_Leather.stuffProps.stuffAdjective>red fox leather</Fox_Red_Leather.stuffProps.stuffAdjective>
   
   <!-- EN: warg -->
   <Warg.label>варг</Warg.label>
@@ -75,11 +60,6 @@
   <!-- EN: head -->
   <Wolf_Arctic.tools.head.label>голова</Wolf_Arctic.tools.head.label>
   
-  <!-- UNUSED -->
-  <Wolf_Arctic_Leather.label>arctic wolf leather</Wolf_Arctic_Leather.label>
-  <Wolf_Arctic_Leather.description>arctic wolf leather</Wolf_Arctic_Leather.description>
-  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>arctic wolf leather</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
-  
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>вовк</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
@@ -92,10 +72,5 @@
   <Wolf_Timber.tools.right_claw.label>right claw</Wolf_Timber.tools.right_claw.label>
   <!-- EN: head -->
   <Wolf_Timber.tools.head.label>голова</Wolf_Timber.tools.head.label>
-  
-  <!-- UNUSED -->
-  <Wolf_Timber_Leather.label>timber wolf leather</Wolf_Timber_Leather.label>
-  <Wolf_Timber_Leather.description>timber wolf leather</Wolf_Timber_Leather.description>
-  <Wolf_Timber_Leather.stuffProps.stuffAdjective>timber wolf leather</Wolf_Timber_Leather.stuffProps.stuffAdjective>
   
 </LanguageData>
