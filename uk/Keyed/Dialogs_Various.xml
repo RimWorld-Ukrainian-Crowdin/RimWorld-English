@@ -300,6 +300,12 @@
   <CooldownTime>Затримка удару</CooldownTime>
   <!-- EN: Disarmed -->
   <DisarmedTime>Disarmed</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>Charging</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>Next recharge (for {1}) in: {0}\nCharge cycle: {2}</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>Shut down</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Fire rate</BurstShotFireRate>
   <!-- EN: Range -->
@@ -915,9 +921,4 @@
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} must target a walkable area.</AbilityUnwalkable>
   
-  <!-- UNUSED -->
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
-  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
-
 </LanguageData>
