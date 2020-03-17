@@ -237,8 +237,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Усі {0} хто не задіяний за {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>Жоден з ваших {0} не має цих навичків.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Усі {0} хто не задіяний за {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
-
 </LanguageData>
