@@ -8,7 +8,4 @@
   <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>There are enemy turrets in this area.</Turrets.arrivedLetter>
   
-  <!-- UNUSED -->
-  <Turrets.descriptionDialogue>{0} захищають місцеперебування</Turrets.descriptionDialogue>
-  
 </LanguageData>
