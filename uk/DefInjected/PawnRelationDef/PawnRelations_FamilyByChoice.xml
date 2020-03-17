@@ -8,7 +8,6 @@
   
   <!-- EN: ex-lover -->
   <ExLover.label>колишній коханець</ExLover.label>
-  <ExLover.labelFemale>колишня коханка</ExLover.labelFemale>
   
   <!-- EN: ex-husband -->
   <ExSpouse.label>колишній чоловік</ExSpouse.label>
@@ -22,7 +21,6 @@
   
   <!-- EN: lover -->
   <Lover.label>коханець</Lover.label>
-  <Lover.labelFemale>коханка</Lover.labelFemale>
   
   <!-- EN: father-in-law -->
   <ParentInLaw.label>тесть</ParentInLaw.label>
