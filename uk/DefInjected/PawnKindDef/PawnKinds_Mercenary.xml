@@ -3,11 +3,9 @@
   
   <!-- EN: grenadier -->
   <Grenadier_Destructive.label>гренадер</Grenadier_Destructive.label>
-  <Grenadier_Destructive.labelPlural>гренадери</Grenadier_Destructive.labelPlural>
   
   <!-- EN: EMP grenadier -->
   <Grenadier_EMP.label>ЕМІ гренадер</Grenadier_EMP.label>
-  <Grenadier_EMP.labelPlural>ЕМІ гренадери</Grenadier_EMP.labelPlural>
   
   <!-- EN: smoke grenadier -->
   <Grenadier_Smoke.label>smoke grenadier</Grenadier_Smoke.label>
@@ -24,7 +22,6 @@
   
   <!-- EN: mercenary gunner -->
   <Mercenary_Gunner.label>стрілець найманець</Mercenary_Gunner.label>
-  <Mercenary_Gunner.labelPlural>стрільці найманці</Mercenary_Gunner.labelPlural>
   
   <!-- EN: mercenary gunner -->
   <Mercenary_Gunner_Acidifier.label>найманий стрілок</Mercenary_Gunner_Acidifier.label>
@@ -36,14 +33,12 @@
   
   <!-- EN: mercenary slasher -->
   <Mercenary_Slasher.label>тітушка</Mercenary_Slasher.label>
-  <Mercenary_Slasher.labelPlural>тітушки</Mercenary_Slasher.labelPlural>
   
   <!-- EN: mercenary slasher -->
   <Mercenary_Slasher_Acidifier.label>тітушка</Mercenary_Slasher_Acidifier.label>
   
   <!-- EN: mercenary sniper -->
   <Mercenary_Sniper.label>снайпер найманець</Mercenary_Sniper.label>
-  <Mercenary_Sniper.labelPlural>наймані снайпери</Mercenary_Sniper.labelPlural>
   
   <!-- EN: mercenary sniper -->
   <Mercenary_Sniper_Acidifier.label>найманий снайпер</Mercenary_Sniper_Acidifier.label>
