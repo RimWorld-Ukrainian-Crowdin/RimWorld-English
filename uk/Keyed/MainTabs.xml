@@ -267,9 +267,4 @@
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>You are currently opting out of receiving {FACTION_royalFavorLabel}.</RoyalFavorOff>
   
-  <!-- UNUSED -->
-  <ProjectTechLevel>технічний рівень проекту</ProjectTechLevel>
-  <YourTechLevel>ваш рівень технологій</YourTechLevel>
-  <ResearchCostMultiplier>множник вартості</ResearchCostMultiplier>
-
 </LanguageData>
