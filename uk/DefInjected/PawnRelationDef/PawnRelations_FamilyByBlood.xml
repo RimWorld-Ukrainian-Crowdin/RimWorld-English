@@ -8,11 +8,9 @@
   
   <!-- EN: cousin -->
   <Cousin.label>двоюрідний брат</Cousin.label>
-  <Cousin.labelFemale>двоюрідна сестра</Cousin.labelFemale>
   
   <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>двоюрідний племінник</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>двоюрідна племінниця</CousinOnceRemoved.labelFemale>
   
   <!-- EN: grandson -->
   <Grandchild.label>онук</Grandchild.label>
@@ -51,7 +49,6 @@
   
   <!-- EN: kin -->
   <Kin.label>родич</Kin.label>
-  <Kin.labelFemale>родичка</Kin.labelFemale>
   
   <!-- EN: nephew -->
   <NephewOrNiece.label>племінник</NephewOrNiece.label>
@@ -65,7 +62,6 @@
   
   <!-- EN: second cousin -->
   <SecondCousin.label>троюрідний брат</SecondCousin.label>
-  <SecondCousin.labelFemale>троюрідна сестра</SecondCousin.labelFemale>
   
   <!-- EN: brother -->
   <Sibling.label>брат</Sibling.label>
