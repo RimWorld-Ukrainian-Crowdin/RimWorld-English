@@ -312,7 +312,4 @@
   <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction>
-  <!-- UNUSED -->
-  <ContentSource_LocalFolder>локальні файли</ContentSource_LocalFolder>
-
 </LanguageData>
