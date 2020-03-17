@@ -131,7 +131,6 @@
   <TargetedInsultingSpree.baseInspectLine>Психічний стан: Бажання лаятись на {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
   <TargetedInsultingSpree.beginLetter>{0} хоче висловити все що думає про {1}.\n\n[PAWN_pronoun] буде ходити за {1} та висловлювати образи.</TargetedInsultingSpree.beginLetter>
-  <TargetedInsultingSpree.recoveryMessage/>
   
   <!-- EN: tantrum -->
   <TargetedTantrum.label>істерика</TargetedTantrum.label>
