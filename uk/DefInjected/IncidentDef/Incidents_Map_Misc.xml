@@ -15,7 +15,6 @@
   <ColdSnap.label>заморозки</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>Заморозки</ColdSnap.letterLabel>
-  <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягніть відповідний одяг і спробуйте зібрати врожай, перш ніж він замерзне та загине.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>хвороба врожаю</CropBlight.label>
@@ -27,13 +26,11 @@
   <Flashstorm.label>гроза з блискавками</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>Гроза з блискавками</Flashstorm.letterLabel>
-  <Flashstorm.letterText>Несподівана гроза вражає невелику площу блискавками. Це може викликати масові пожежі.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>хвиля спеки</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
-  <HeatWave.letterText>Розпочалася незвичайна спека.\n\nХвиля спеки може швидко вбити, якщо люди отримають тепловий удар. Зберігайте прохолоду, збудувавши кондиціонер, або заглибтесь глибоко в гори.</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>міграція стада</HerdMigration.label>
@@ -60,9 +57,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Вимога викупу</RansomDemand.letterLabel>
   
-  <!-- UNUSED -->
-  <RefugeeChased.label>біженця переслідують</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>падіння транспортної капсули</RefugeePodCrash.label>
   
@@ -82,13 +76,11 @@
   <ToxicFallout.label>токсичні опади</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>Токсичні опади</ToxicFallout.letterLabel>
-  <ToxicFallout.letterText>Далеко від вас стався викид хімічних речовин, що сприяло зараженню цілого регіону.\n\nУсі хто не сховані під дахом будуть уражені.\n\nЦе має протривати декілька днів.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>Вулканічна зима</VolcanicWinter.letterLabel>
-  <VolcanicWinter.letterText>Якийсь супервулкан прокинувся і почав викидати мільйони кубометрів попелу в атмосферу.\n\n Зола в атмосфері буде затуляти сонце. Відбудеться різке зниження температури і ваші рослини перестануть рости через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато років.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>мандрівник приєднався</WandererJoin.label>
