@@ -7,9 +7,9 @@
   <Autodoor.description>Розділяє кімнати. Автоматичне відкривання дозволяє людям переміщуватись між кімнатами без перешкод.</Autodoor.description>
   
   <!-- EN: column -->
-  <Column.label>column</Column.label>
+  <Column.label>колона</Column.label>
   <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
-  <Column.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</Column.description>
+  <Column.description>Колона може тримати на собі дах. Не заважає огляду або руху і має непоганий вигляд.</Column.description>
   
   <!-- EN: door -->
   <Door.label>двері</Door.label>
