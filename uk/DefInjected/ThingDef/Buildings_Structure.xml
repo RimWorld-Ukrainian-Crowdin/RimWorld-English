@@ -14,7 +14,7 @@
   <!-- EN: door -->
   <Door.label>двері</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+  <Door.description>Розділяють кімнати. Прості двері відкриваються вручну, що сповільнює персонажів. Сила сповільнення залежить від матеріалу дверей.</Door.description>
   
   <!-- EN: wall -->
   <Wall.label>стіна</Wall.label>
