@@ -118,10 +118,10 @@
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>арктичний вовк</Wolf_Arctic.label>
-  <Wolf_Arctic.labelFemale>арктичний вовк самка</Wolf_Arctic.labelFemale>
-  <Wolf_Arctic.labelFemalePlural>арктичні вовки самки</Wolf_Arctic.labelFemalePlural>
-  <Wolf_Arctic.labelMale>арктичний вовк самець</Wolf_Arctic.labelMale>
-  <Wolf_Arctic.labelMalePlural>арктичні вовки самці</Wolf_Arctic.labelMalePlural>
+  <Wolf_Arctic.labelFemale>арктична вовчиця</Wolf_Arctic.labelFemale>
+  <Wolf_Arctic.labelFemalePlural>арктичні вовчиці</Wolf_Arctic.labelFemalePlural>
+  <Wolf_Arctic.labelMale>арктичний вовк</Wolf_Arctic.labelMale>
+  <Wolf_Arctic.labelMalePlural>арктичні вовки</Wolf_Arctic.labelMalePlural>
   <!-- EN: arctic wolves -->
   <Wolf_Arctic.labelPlural>арктичні вовки</Wolf_Arctic.labelPlural>
   <!-- EN: arctic wolf puppy -->
@@ -147,10 +147,10 @@
   
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>вовк</Wolf_Timber.label>
-  <Wolf_Timber.labelFemale>вовк самка</Wolf_Timber.labelFemale>
-  <Wolf_Timber.labelFemalePlural>вовки самки</Wolf_Timber.labelFemalePlural>
-  <Wolf_Timber.labelMale>вовк самець</Wolf_Timber.labelMale>
-  <Wolf_Timber.labelMalePlural>вовки самці</Wolf_Timber.labelMalePlural>
+  <Wolf_Timber.labelFemale>вовчиця</Wolf_Timber.labelFemale>
+  <Wolf_Timber.labelFemalePlural>вовчиці</Wolf_Timber.labelFemalePlural>
+  <Wolf_Timber.labelMale>вовк</Wolf_Timber.labelMale>
+  <Wolf_Timber.labelMalePlural>вовки</Wolf_Timber.labelMalePlural>
   <!-- EN: timber wolves -->
   <Wolf_Timber.labelPlural>вовки</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
