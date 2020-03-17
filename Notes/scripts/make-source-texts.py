@@ -10,7 +10,7 @@ def main(args):
     translations_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 
     for dirpath, dirnames, filenames in os.walk(translations_root):
-        if '/.' in dirpath:
+        if "/." in dirpath:
             continue  # skip hidden directories
         for file_name in filenames:
             if not file_name.endswith(".xml"):
@@ -20,18 +20,30 @@ def main(args):
 
 
 def transform_file(file_path):
-    print('Transforming file ', file_path)
+    print("Transforming file ", file_path)
     with open(file_path, "rb") as inf:
-        doc = etree.parse(inf)
+        parser = etree.XMLParser(recover=True)
+        doc = etree.parse(inf, parser)
 
     # Replace tag text with last comment text
     last_comment = None
     for el in doc.iter():
-        if isinstance(el, etree._Comment) and el.text.startswith(" EN: "):
-            last_comment = el.text[len(" EN: ") :].strip()
+        text = (el.text or "").strip()
+
+        if isinstance(el, etree._Comment) and text.startswith("EN:"):
+            text = el.text[len("EN:") + 1 :]
+            # Strip whitespace only around single-line texts
+            if not text.startswith('\n'):
+                text = text.strip()
+            last_comment = text
         else:
             if last_comment is not None:
                 el.text = last_comment
+                # If the text contains any tags, we want them to be replaced by
+                # the new text tags, so the element children must be removed.
+                for _el in el.iterdescendants():
+                    _el.getparent().remove(_el)
+
             last_comment = None
 
     with open(file_path, "wb") as outf:
@@ -40,7 +52,7 @@ def transform_file(file_path):
         # "<" and ">" is technically a reserved character and should be escaped when
         # included into XML text. We are undoing LXML's escaping in order to
         # keep the original text appearance.
-        doc_content = doc_content.replace(b'&gt;', b'>').replace(b'&lt;', b'<')
+        doc_content = doc_content.replace(b"&gt;", b">").replace(b"&lt;", b"<")
         outf.write(doc_content)
 
 
