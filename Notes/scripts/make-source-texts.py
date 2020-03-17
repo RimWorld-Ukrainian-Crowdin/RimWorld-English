@@ -27,7 +27,7 @@ def transform_file(file_path):
 
     # Replace tag text with last comment text
     last_comment = None
-    for el in doc.iter():
+    for el in list(doc.iter()):
         text = (el.text or "").strip()
 
         if isinstance(el, etree._Comment) and text.startswith("EN:"):
@@ -48,7 +48,7 @@ def transform_file(file_path):
                     el.text = etree.CDATA(el.text)
                 # If the text contains any tags, we want them to be replaced by
                 # the new text tags, so the element children must be removed.
-                for _el in el.iterdescendants():
+                for _el in list(el.iterdescendants()):
                     _el.getparent().remove(_el)
 
             last_comment = None
