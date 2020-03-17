@@ -3,29 +3,6 @@
   
   <!-- EN: alpaca -->
   <Alpaca.label>альпака</Alpaca.label>
-  <Alpaca.labelFemale>альпака самка</Alpaca.labelFemale>
-  <Alpaca.labelFemalePlural>альпаки самки</Alpaca.labelFemalePlural>
-  <Alpaca.labelMale>альпака самець</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>альпаки самці</Alpaca.labelMalePlural>
-  <Alpaca.labelPlural>альпаки</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>альпака</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelFemale>альпака самка</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>альпаки самки</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.0.labelMale>альпака самець</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>альпаки самці</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelPlural>альпака</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.1.label>альпака</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelFemale>альпака самка</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>альпаки самки</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.1.labelMale>альпака самець</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>альпаки самці</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelPlural>альпака</Alpaca.lifeStages.1.labelPlural>
-  <Alpaca.lifeStages.2.label>альпака</Alpaca.lifeStages.2.label>
-  <Alpaca.lifeStages.2.labelFemale>альпака самка</Alpaca.lifeStages.2.labelFemale>
-  <Alpaca.lifeStages.2.labelFemalePlural>альпаки самки</Alpaca.lifeStages.2.labelFemalePlural>
-  <Alpaca.lifeStages.2.labelMale>альпака самець</Alpaca.lifeStages.2.labelMale>
-  <Alpaca.lifeStages.2.labelMalePlural>альпаки самці</Alpaca.lifeStages.2.labelMalePlural>
-  <Alpaca.lifeStages.2.labelPlural>альпака</Alpaca.lifeStages.2.labelPlural>
   
   <!-- EN: bison -->
   <Bison.label>бізон</Bison.label>
@@ -38,60 +15,21 @@
   <Chicken.label>курка</Chicken.label>
   <!-- EN: hen -->
   <Chicken.labelFemale>квочка</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>квочки</Chicken.labelFemalePlural>
   <!-- EN: rooster -->
   <Chicken.labelMale>півень</Chicken.labelMale>
-  <Chicken.labelMalePlural>півні</Chicken.labelMalePlural>
-  <Chicken.labelPlural>кури</Chicken.labelPlural>
   <!-- EN: chick -->
   <Chicken.lifeStages.chick.label>курча</Chicken.lifeStages.chick.label>
-  <Chicken.lifeStages.chick.labelFemale>курча самка</Chicken.lifeStages.chick.labelFemale>
-  <Chicken.lifeStages.chick.labelFemalePlural>курчата самки</Chicken.lifeStages.chick.labelFemalePlural>
-  <Chicken.lifeStages.chick.labelMale>курча самець</Chicken.lifeStages.chick.labelMale>
-  <Chicken.lifeStages.chick.labelMalePlural>курчата самці</Chicken.lifeStages.chick.labelMalePlural>
-  <Chicken.lifeStages.chick.labelPlural>курчата</Chicken.lifeStages.chick.labelPlural>
-  <Chicken.lifeStages.cockerel.label>курка</Chicken.lifeStages.cockerel.label>
-  <Chicken.lifeStages.cockerel.labelFemale>квочка</Chicken.lifeStages.cockerel.labelFemale>
-  <Chicken.lifeStages.cockerel.labelFemalePlural>кури</Chicken.lifeStages.cockerel.labelFemalePlural>
   <!-- EN: cockerel -->
   <Chicken.lifeStages.cockerel.labelMale>півник</Chicken.lifeStages.cockerel.labelMale>
-  <Chicken.lifeStages.cockerel.labelMalePlural>півники</Chicken.lifeStages.cockerel.labelMalePlural>
-  <Chicken.lifeStages.cockerel.labelPlural>курка</Chicken.lifeStages.cockerel.labelPlural>
-  <Chicken.lifeStages.2.label>курка</Chicken.lifeStages.2.label>
-  <Chicken.lifeStages.2.labelFemale>квочка</Chicken.lifeStages.2.labelFemale>
-  <Chicken.lifeStages.2.labelFemalePlural>кури</Chicken.lifeStages.2.labelFemalePlural>
-  <Chicken.lifeStages.2.labelMale>півень</Chicken.lifeStages.2.labelMale>
-  <Chicken.lifeStages.2.labelMalePlural>півні</Chicken.lifeStages.2.labelMalePlural>
-  <Chicken.lifeStages.2.labelPlural>курка</Chicken.lifeStages.2.labelPlural>
   
   <!-- EN: cow -->
   <Cow.label>корова</Cow.label>
-  <Cow.labelFemale>корова</Cow.labelFemale>
-  <Cow.labelFemalePlural>корови</Cow.labelFemalePlural>
   <!-- EN: bull -->
   <Cow.labelMale>бик</Cow.labelMale>
-  <Cow.labelMalePlural>бики</Cow.labelMalePlural>
-  <Cow.labelPlural>корови</Cow.labelPlural>
   <!-- EN: calf -->
   <Cow.lifeStages.calf.label>теля</Cow.lifeStages.calf.label>
-  <Cow.lifeStages.calf.labelFemale>теля самка</Cow.lifeStages.calf.labelFemale>
-  <Cow.lifeStages.calf.labelFemalePlural>телята самки</Cow.lifeStages.calf.labelFemalePlural>
-  <Cow.lifeStages.calf.labelMale>теля самець</Cow.lifeStages.calf.labelMale>
-  <Cow.lifeStages.calf.labelMalePlural>телята самці</Cow.lifeStages.calf.labelMalePlural>
   <!-- EN: calves -->
   <Cow.lifeStages.calf.labelPlural>телята</Cow.lifeStages.calf.labelPlural>
-  <Cow.lifeStages.1.label>корова</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelFemale>корова</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>корови самки</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.1.labelMale>бик</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>корови самці</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelPlural>корова</Cow.lifeStages.1.labelPlural>
-  <Cow.lifeStages.2.label>корова</Cow.lifeStages.2.label>
-  <Cow.lifeStages.2.labelFemale>корова</Cow.lifeStages.2.labelFemale>
-  <Cow.lifeStages.2.labelFemalePlural>корови самки</Cow.lifeStages.2.labelFemalePlural>
-  <Cow.lifeStages.2.labelMale>бик</Cow.lifeStages.2.labelMale>
-  <Cow.lifeStages.2.labelMalePlural>корови самці</Cow.lifeStages.2.labelMalePlural>
-  <Cow.lifeStages.2.labelPlural>корова</Cow.lifeStages.2.labelPlural>
   
   <!-- EN: donkey -->
   <Donkey.label>ослик</Donkey.label>
@@ -131,29 +69,8 @@
   <Pig.label>свиня</Pig.label>
   <!-- EN: sow -->
   <Pig.labelFemale>матка</Pig.labelFemale>
-  <Pig.labelFemalePlural>матки</Pig.labelFemalePlural>
-  <Pig.labelMale>свиня самець</Pig.labelMale>
-  <Pig.labelMalePlural>свині самці</Pig.labelMalePlural>
-  <Pig.labelPlural>свині</Pig.labelPlural>
   <!-- EN: piglet -->
   <Pig.lifeStages.piglet.label>порося</Pig.lifeStages.piglet.label>
-  <Pig.lifeStages.piglet.labelFemale>порося самка</Pig.lifeStages.piglet.labelFemale>
-  <Pig.lifeStages.piglet.labelFemalePlural>поросята самки</Pig.lifeStages.piglet.labelFemalePlural>
-  <Pig.lifeStages.piglet.labelMale>порося самець</Pig.lifeStages.piglet.labelMale>
-  <Pig.lifeStages.piglet.labelMalePlural>поросята самці</Pig.lifeStages.piglet.labelMalePlural>
-  <Pig.lifeStages.piglet.labelPlural>поросята</Pig.lifeStages.piglet.labelPlural>
-  <Pig.lifeStages.1.label>свиня</Pig.lifeStages.1.label>
-  <Pig.lifeStages.1.labelFemale>матка</Pig.lifeStages.1.labelFemale>
-  <Pig.lifeStages.1.labelFemalePlural>свині самки</Pig.lifeStages.1.labelFemalePlural>
-  <Pig.lifeStages.1.labelMale>свиня самець</Pig.lifeStages.1.labelMale>
-  <Pig.lifeStages.1.labelMalePlural>свині самці</Pig.lifeStages.1.labelMalePlural>
-  <Pig.lifeStages.1.labelPlural>свиня</Pig.lifeStages.1.labelPlural>
-  <Pig.lifeStages.2.label>свиня</Pig.lifeStages.2.label>
-  <Pig.lifeStages.2.labelFemale>матка</Pig.lifeStages.2.labelFemale>
-  <Pig.lifeStages.2.labelFemalePlural>свині самки</Pig.lifeStages.2.labelFemalePlural>
-  <Pig.lifeStages.2.labelMale>свиня самець</Pig.lifeStages.2.labelMale>
-  <Pig.lifeStages.2.labelMalePlural>свині самці</Pig.lifeStages.2.labelMalePlural>
-  <Pig.lifeStages.2.labelPlural>свиня</Pig.lifeStages.2.labelPlural>
   
   <!-- EN: sheep -->
   <Sheep.label>вівця</Sheep.label>
