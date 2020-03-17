@@ -3,10 +3,8 @@
   
   <!-- EN: colonist -->
   <Colonist.label>поселенець</Colonist.label>
-  <Colonist.labelPlural>поселенці</Colonist.labelPlural>
   
   <!-- EN: member -->
   <Tribesperson.label>абориген</Tribesperson.label>
-  <Tribesperson.labelPlural>аборигени</Tribesperson.labelPlural>
   
 </LanguageData>
