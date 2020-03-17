@@ -3,16 +3,13 @@
   
   <!-- EN: slave -->
   <Slave.label>раб</Slave.label>
-  <Slave.labelPlural>раби</Slave.labelPlural>
   
   <!-- EN: stranger in black -->
   <StrangerInBlack.label>незнайомець у чорному</StrangerInBlack.label>
   <!-- EN: woman in black -->
   <StrangerInBlack.labelFemale>жінка в чорному</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelFemalePlural>жінки в чорному</StrangerInBlack.labelFemalePlural>
   <!-- EN: man in black -->
   <StrangerInBlack.labelMale>чоловік в чорному</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelMalePlural>чоловіки в чорному</StrangerInBlack.labelMalePlural>
   <!-- EN: strangers in black -->
   <StrangerInBlack.labelPlural>незнайомці у чорному</StrangerInBlack.labelPlural>
   
@@ -22,8 +19,6 @@
   <WildMan.labelFemale>дика жінка</WildMan.labelFemale>
   <!-- EN: wild women -->
   <WildMan.labelFemalePlural>дикі жінки</WildMan.labelFemalePlural>
-  <WildMan.labelMale>дикун</WildMan.labelMale>
-  <WildMan.labelMalePlural>дикуни</WildMan.labelMalePlural>
   <!-- EN: wild men -->
   <WildMan.labelPlural>дикуни</WildMan.labelPlural>
   
