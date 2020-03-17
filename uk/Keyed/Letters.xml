@@ -511,10 +511,4 @@
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>Mechanoids have arrived.</LetterMechClusterArrived>
 
-  <!-- UNUSED -->
-  <PrisonerRescueTimeout>The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again.</PrisonerRescueTimeout>
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Вечірка</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} влаштовує вечірку! Кожний хто завітає може відпочити, соціально відірватись та підвищити свої показники.</LetterNewParty>
-
 </LanguageData>
