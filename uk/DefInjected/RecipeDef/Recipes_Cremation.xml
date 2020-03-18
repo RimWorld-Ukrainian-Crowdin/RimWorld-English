@@ -16,11 +16,11 @@
   <BurnDrugs.jobString>Спалює наркотики.</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
-  <BurnWeapon.label>burn weapon</BurnWeapon.label>
+  <BurnWeapon.label>спалити зброю</BurnWeapon.label>
   <!-- EN: Burn unwanted weapon to completely destroy it. -->
-  <BurnWeapon.description>Burn unwanted weapon to completely destroy it.</BurnWeapon.description>
+  <BurnWeapon.description>Спалити непотрібну зброю, щоб позбутися її.</BurnWeapon.description>
   <!-- EN: Burning weapon. -->
-  <BurnWeapon.jobString>Burning weapon.</BurnWeapon.jobString>
+  <BurnWeapon.jobString>Спалює зброю.</BurnWeapon.jobString>
   
   <!-- EN: cremate corpse -->
   <CremateCorpse.label>спалити тіло</CremateCorpse.label>
