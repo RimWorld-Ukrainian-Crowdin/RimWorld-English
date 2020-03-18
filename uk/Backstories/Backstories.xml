@@ -2966,14 +2966,14 @@
     <!-- EN: pest guard -->
     <titleShort>шкідниковий сторожа</titleShort>
     <!-- EN: [PAWN_nameDef] was forced to protect [PAWN_possessive] colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.\n\nDespite [PAWN_possessive] best efforts, [PAWN_possessive] kingdom was destroyed. [PAWN_nameDef] developed PTSD, a hatred of animals and a bad case of technophobia. [PAWN_pronoun] was named for the place they found him. -->
-    <desc>[PAWN_nameDef] was forced to protect [PAWN_possessive] colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.\n\nDespite [PAWN_possessive] best efforts, [PAWN_possessive] kingdom was destroyed. [PAWN_nameDef] developed PTSD, a hatred of animals and a bad case of technophobia. [PAWN_pronoun] was named for the place they found him.</desc>
+    <desc>[PAWN_nameDef] був змушений захищати [PAWN_possessive] поселення в ім'я короля після загадкової появи вбивчих генно-модифікованих тварин.\n\nПопри [PAWN_possessive] важкі зусилля, [PAWN_possessive] королівство було знищено. [PAWN_nameDef] розвинувся ПТСР, ненависть до тварин і сильна технофобія. [PAWN_pronoun] назвали місцем, де вони його знайшли.</desc>
   </HunterOfTheKing53>
   
   <HunterScavenger64>
     <!-- EN: hunter scavenger -->
-    <title>hunter scavenger</title>
+    <title>мисливець-падальник</title>
     <!-- EN: scavenger -->
-    <titleShort>падальщик</titleShort>
+    <titleShort>падальник</titleShort>
     <!-- EN: Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch. -->
     <desc>Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch.</desc>
   </HunterScavenger64>
