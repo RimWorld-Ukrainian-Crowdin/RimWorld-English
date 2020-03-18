@@ -11,7 +11,7 @@
   <!-- EN: alcohol -->
   <AlcoholHigh.label>алкоголь</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
-  <AlcoholHigh.description>Alcohol in the bloodstream. It makes people happy, but reduces capacities.</AlcoholHigh.description>
+  <AlcoholHigh.description>Алкоголь у крові. Він робить людей щасливішими, але применшує розумові здібності.</AlcoholHigh.description>
   <!-- EN: drunkenness -->
   <AlcoholHigh.labelNoun>пияцтво</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
@@ -28,7 +28,7 @@
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>толерантність до алкоголю</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect.</AlcoholTolerance.description>
+  <AlcoholTolerance.description>Вбудована толерантність до алкоголя. Чим сильнішою є ця толерантність, тим більше потрібно алкоголю для здобуття того ж ефекту.</AlcoholTolerance.description>
   <!-- EN: small -->
   <AlcoholTolerance.stages.small-0.label>малий</AlcoholTolerance.stages.small-0.label>
   <!-- EN: small -->
@@ -41,7 +41,7 @@
   <!-- EN: hangover -->
   <Hangover.label>похмілля</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
-  <Hangover.description>An unpleasant delayed after-effect of alcohol intoxication.</Hangover.description>
+  <Hangover.description>Неприємна затримка є наслідком алкогольної інтоксикації.</Hangover.description>
   <!-- EN: a hangover -->
   <Hangover.labelNoun>похмілля</Hangover.labelNoun>
   <!-- EN: slight -->
