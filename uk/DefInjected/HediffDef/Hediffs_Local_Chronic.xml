@@ -78,12 +78,12 @@
   <!-- EN: hearing loss -->
   <HearingLoss.label>втрата слуху</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>Inability to hear quiet sounds due to degradation of hair cells in the cochlea.</HearingLoss.description>
+  <HearingLoss.description>Неможливість почути тихі звуки у зв'язку з деградацією волосяних клітин у завитку вуха.</HearingLoss.description>
   
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>атеросклероз</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks.</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>Закупорка однієї з найважливіших артерій в серці. Закупорки серцевої артерії викликають серцеві напади.</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
   <HeartArteryBlockage.labelNoun>атеросклероз</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
