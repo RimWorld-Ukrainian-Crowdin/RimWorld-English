@@ -59,8 +59,8 @@
     <li>verb_genericattack->swung</li>
     <li>verb_genericattack->flailed</li>
     <li>verb_genericattack->thrashed</li>
-    <li>tried->tried</li>
-    <li>tried->attempted</li>
+    <li>tried->спроба</li>
+    <li>tried->спроба</li>
   </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
