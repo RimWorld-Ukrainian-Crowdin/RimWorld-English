@@ -4,7 +4,7 @@
   <!-- EN: alzheimer's -->
   <Alzheimers.label>хвороба Альцгеймера</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion.</Alzheimers.description>
+  <Alzheimers.description>Захворювання головного мозку, зазвичай пов'язане з старінням. Хвороба Альцгеймера викликає прогресивну деградацію у здатності думати і пам’ятати. Пацієнти, як відомо, забувають близьких родичів, а іноді блукають всюди розгублені.</Alzheimers.description>
   <!-- EN: minor -->
   <Alzheimers.stages.minor-0.label>мала</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
@@ -17,7 +17,7 @@
   <!-- EN: asthma -->
   <Asthma.label>астма</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms.</Asthma.description>
+  <Asthma.description>Довготривале запальне захворювання дихальних шляхів в легенях. Вимагає регулярні обстеження для запобігання симптомам.</Asthma.description>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>мала</Asthma.stages.minor.label>
   <!-- EN: major -->
@@ -28,19 +28,19 @@
   <!-- EN: bad back -->
   <BadBack.label>біль у спині</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly.</BadBack.description>
+  <BadBack.description>Деградація хребта і м'язів навколо. Ускладнює рух і вимагає плавно згинатись.</BadBack.description>
   <!-- EN: a bad back -->
   <BadBack.labelNoun>біль у спині</BadBack.labelNoun>
   
   <!-- EN: blindness -->
   <Blindness.label>сліпота</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>Total inability to see.</Blindness.description>
+  <Blindness.description>Повна нездатність бачити.</Blindness.description>
   
   <!-- EN: carcinoma -->
   <Carcinoma.label>рак</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma.</Carcinoma.description>
+  <Carcinoma.description>Шматочок ракової тканини. Без лікування рак з часом зростатиме, викликаючи погіршення симптомів і врешті-решт вбиваючи пацієнта.\n\nДосвідчений лікар може видалити пухлину. Некваліфікований лікар, можливо, зможе просто ампутувати частину тіла, яка містить рак.</Carcinoma.description>
   <!-- EN: a carcinoma -->
   <Carcinoma.labelNoun>рак</Carcinoma.labelNoun>
   <!-- EN: minor -->
@@ -59,19 +59,19 @@
   <!-- EN: cataract -->
   <Cataract.label>катаракта</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>Milky-looking opacity in the eye. Cataracts impair vision.</Cataract.description>
+  <Cataract.description>Непрозорість молочного виду в очах. Катаракта погіршує зір.</Cataract.description>
   <!-- EN: a cataract -->
   <Cataract.labelNoun>катаракта</Cataract.labelNoun>
   
   <!-- EN: dementia -->
-  <Dementia.label>слабоумство</Dementia.label>
+  <Dementia.label>деменція</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins.</Dementia.description>
+  <Dementia.description>Нервова деградація, яка спричиняє дефіцит у здатності думати і пам’ятати. Деменція має різні причини, включаючи старіння, специфічні захворювання та токсини.</Dementia.description>
   
   <!-- EN: frail -->
   <Frail.label>стареча слабкість</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>Generalized loss of muscle and bone density.</Frail.description>
+  <Frail.description>Узагальнена втрата м'язів та щільності кісток.</Frail.description>
   <!-- EN: frailty -->
   <Frail.labelNoun>стареча слабкість</Frail.labelNoun>
   
