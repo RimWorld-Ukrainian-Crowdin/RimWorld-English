@@ -31,10 +31,10 @@
   <Captured.rulePack.rulesStrings>
     <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
-    <li>tale_noun->the capturing of [PRISONER_nameDef]</li>
-    <li>image->[CAPTURER_nameFull] capturing [PRISONER_nameFull] [circumstance_group]</li>
-    <li>image->[CAPTURER_nameFull] tying [PRISONER_nameFull]'s hands [circumstance_group]</li>
-    <li>image->[CAPTURER_nameFull] smacking [PRISONER_nameFull] while capturing [PRISONER_objective] [circumstance_group]</li>
+    <li>tale_noun->як [PRISONER_nameDef] був(ла) захоплений(а) у полон</li>
+    <li>image->[CAPTURER_nameFull], який(а) захоплює [PRISONER_nameFull]] [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull], який(а) зв’язує руки ув’язненому(ій) [PRISONER_nameFull][circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull], який б’є полоненого(у) [PRISONER_nameFull] під час захоплення [PRISONER_objective] [circumstance_group]</li>
     <li>circumstance_phrase->as [PRISONER_pronoun] writhes on the ground</li>
     <li>circumstance_phrase->as [PRISONER_pronoun] twists in pain</li>
     <li>circumstance_phrase->with professional efficiency</li>
