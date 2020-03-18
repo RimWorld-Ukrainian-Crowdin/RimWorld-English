@@ -29,13 +29,13 @@
   <Elk.lifeStages.elk_calf.labelPlural>лосенята</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: ibex -->
-  <Ibex.label>коза</Ibex.label>
+  <Ibex.label>гірська коза</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>коза</Ibex.labelFemale>
+  <Ibex.labelFemale>гірська коза</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>козел</Ibex.labelMale>
+  <Ibex.labelMale>гірський козел</Ibex.labelMale>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>ibexes</Ibex.labelPlural>
+  <Ibex.labelPlural>гірські кози</Ibex.labelPlural>
   
   <!-- EN: tortoise -->
   <Tortoise.label>черепаха</Tortoise.label>
