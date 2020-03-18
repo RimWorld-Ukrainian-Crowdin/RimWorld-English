@@ -4,7 +4,7 @@
   <!-- EN: heatstroke -->
   <Heatstroke.label>тепловий удар</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death.</Heatstroke.description>
+  <Heatstroke.description>Узагальнене порушення функціонування організму, викликане надмірним впливом тепла і сонця. Жертва відчуває запаморочення, стає слабкою і розгубленою. Відновлення проходить швидше в прохолодному місці, але якщо тепловий вплив триває, то тепловий удар стає ще гірше, аж до смерті.</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>незначне</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -19,7 +19,7 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>обмороження</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments.</Hypothermia.description>
+  <Hypothermia.description>Небезпечно низька температура тіла. Якщо не розігрітись, переохолодження погіршується й закінчується смертю. Одужання настає швидше після того, як жертва відігріється. Avoid hypothermia by wearing warm clothes in cold environments.</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>незначне</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
