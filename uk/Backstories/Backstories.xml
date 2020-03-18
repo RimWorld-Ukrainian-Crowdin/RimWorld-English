@@ -133,7 +133,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>[PAWN_nameDef] дослідив все навколо величезного маєтку [PAWN_possessive] родини, знаходячи маленькі дива природи, сховані в довколишніх катакомбах, річках та печерах.\n\nПід час [PAWN_possessive] підліткових років, [PAWN_nameDef] створив собі численних ворогів</desc>
+    <desc>[PAWN_nameDef] дослідив все навколо величезного маєтку [PAWN_possessive] родини, знаходячи маленькі дива природи, сховані в довколишніх катакомбах, річках та печерах.\n\nПід час [PAWN_possessive] підліткових років, [PAWN_nameDef] нажив собі численних ворогів</desc>
   </AdventurousYouth70>
   
   <AerospaceEngineer44>
@@ -214,7 +214,7 @@
     <!-- EN: student -->
     <titleShort>студент</titleShort>
     <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for [PAWN_possessive] hometown's local council.\n\nFor reasons [PAWN_pronoun] never quite understood, [PAWN_pronoun] was bullied relentlessly by [PAWN_possessive] classmates. [PAWN_pronoun] chose to repress [PAWN_possessive] rage. -->
-    <desc>[PAWN_nameDef] trained towards [PAWN_possessive] dream of working for [PAWN_possessive] hometown's local council.\n\nFor reasons [PAWN_pronoun] never quite understood, [PAWN_pronoun] was bullied relentlessly by [PAWN_possessive] classmates. [PAWN_pronoun] chose to repress [PAWN_possessive] rage.</desc>
+    <desc>[PAWN_nameDef] тренувався заради [PAWN_possessive] мрії працювати в міський раді [PAWN_possessive] рідного міста.\n\nЧерез причини, які [PAWN_pronoun] так ніколи і не зрозумів, [PAWN_pronoun] був постійно жертвою знущань [PAWN_possessive] однокласників. [PAWN_pronoun] вирішив придушувати [PAWN_possessive] злість.</desc>
   </AngryStudent88>
   
   <AnimalCaretaker20>
