@@ -7,9 +7,9 @@
   <!-- EN: bison -->
   <Bison.label>бізон</Bison.label>
   <!-- EN: bison calf -->
-  <Bison.lifeStages.bison_calf.label>bison calf</Bison.lifeStages.bison_calf.label>
+  <Bison.lifeStages.bison_calf.label>бізоненя</Bison.lifeStages.bison_calf.label>
   <!-- EN: bison calves -->
-  <Bison.lifeStages.bison_calf.labelPlural>bison calves</Bison.lifeStages.bison_calf.labelPlural>
+  <Bison.lifeStages.bison_calf.labelPlural>бізоненята</Bison.lifeStages.bison_calf.labelPlural>
   
   <!-- EN: chicken -->
   <Chicken.label>курка</Chicken.label>
@@ -81,17 +81,17 @@
   <!-- EN: sheep -->
   <Sheep.labelPlural>вівці</Sheep.labelPlural>
   <!-- EN: lamb -->
-  <Sheep.lifeStages.lamb.label>lamb</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.label>ягня</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
-  <Sheep.lifeStages.lamb.labelPlural>lambs</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.lifeStages.lamb.labelPlural>ягнята</Sheep.lifeStages.lamb.labelPlural>
   
   <!-- EN: yak -->
   <Yak.label>як</Yak.label>
   <!-- EN: yak -->
   <Yak.labelMale>як</Yak.labelMale>
   <!-- EN: yak calf -->
-  <Yak.lifeStages.yak_calf.label>yak calf</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.label>теля яка</Yak.lifeStages.yak_calf.label>
   <!-- EN: yak calves -->
-  <Yak.lifeStages.yak_calf.labelPlural>yak calves</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.lifeStages.yak_calf.labelPlural>телята яка</Yak.lifeStages.yak_calf.labelPlural>
   
 </LanguageData>
