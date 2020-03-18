@@ -277,7 +277,7 @@
     <!-- EN: apprentice -->
     <titleShort>учень</titleShort>
     <!-- EN: [PAWN_nameDef] grew up helping in [PAWN_possessive] father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged. -->
-    <desc>[PAWN_nameDef] grew up helping in [PAWN_possessive] father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged.</desc>
+    <desc>[PAWN_nameDef] виріс, допомагаючи у кузні [PAWN_possessive] батька.\n\nВони були одними з останніх ковалів на планеті, які використовували традиційні методи ковальства. Вони навіть самі збирали деякі матеріали.\n\nІноді, після праці, [PAWN_nameDef] практикувався з мечами, які [PAWN_pronoun] скував.</desc>
   </ApprenticeSmith37>
   
   <Archaeologist85>
@@ -286,7 +286,7 @@
     <!-- EN: explorer -->
     <titleShort>мандрівник</titleShort>
     <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
-    <desc>[PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living.</desc>
+    <desc>[PAWN_pronoun] жив у пастці нудоти і буденності. Одного дня, [PAWN_pronoun] застрибнув на корабель щоб навчитись археології і побачити всесвіт.\n\n[PAWN_pronoun] навчився виживанню. [PAWN_pronoun] також вивчав людей - хоча [PAWN_pronoun] завжди розумів мертвих краще, ніж живих.</desc>
   </Archaeologist85>
   
   <Archer25>
@@ -295,7 +295,7 @@
     <!-- EN: archer -->
     <titleShort>лучник</titleShort>
     <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
-    <desc>[PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons.</desc>
+    <desc>[PAWN_nameDef] бився за [PAWN_possessive] плем'я. [PAWN_pronoun] спеціалізувався в використанні луків, пілумів та іншої зброї дальнього бою.</desc>
   </Archer25>
   
   <Architect28>
@@ -304,7 +304,7 @@
     <!-- EN: architect -->
     <titleShort>архітектура</titleShort>
     <!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
-    <desc>[PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites.</desc>
+    <desc>[PAWN_nameDef] проектував та будував будівлі. У [PAWN_possessive] рідному блискучому світі, більшість технічних аспектів архітектури оброблялися ШІ. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites.</desc>
   </Architect28>
   
   <ArchotechSpy75>
