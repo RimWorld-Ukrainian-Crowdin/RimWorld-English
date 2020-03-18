@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: install cochlear implant -->
-  <InstallCochlearImplant.label>встановити слуховий апарат</InstallCochlearImplant.label>
+  <InstallCochlearImplant.label>встановлення слухового апарату</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
   <InstallCochlearImplant.description>Встановити слуховий апарат.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
@@ -11,23 +11,23 @@
   <!-- EN: install joywire -->
   <InstallJoywire.label>встановлення "чипу насолоди"</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
+  <InstallJoywire.description>Встановити "чип насолоди".</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
   <InstallJoywire.jobString>Встановлює "чип насолоди".</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
   <InstallPainstopper.label>встановлення знеболювального чипу</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
-  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.description>Встановити знеболювальний чип.</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
   <InstallPainstopper.jobString>Встановлює знеболювальний чип.</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>встановлення силового крюка</InstallPowerClaw.label>
+  <InstallPowerClaw.label>встановлення силові кігті</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <InstallPowerClaw.description>Встановити силові кігті.</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>Встановлює силовий крюк.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>Встановлює силові кігті.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>встановити протез руки</InstallSimpleProstheticArm.label>
