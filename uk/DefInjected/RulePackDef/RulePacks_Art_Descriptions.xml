@@ -13,8 +13,8 @@
     <li>r_art_description->[physical_description_root] [context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
-    <li>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</li>
-    <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
+    <li>context_sentence->Це [depiction] відноситься до [tale_noun] на [DATE].</li>
+    <li>context_sentence->Це [depiction] відноситься до [tale_noun] на [DATE].</li>
     <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
   </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
