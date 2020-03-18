@@ -781,7 +781,7 @@
   
   <BoyScout42>
     <!-- EN: boy scout -->
-    <title>boy scout</title>
+    <title>бойскаут</title>
     <!-- EN: scout -->
     <titleShort>розвідник</titleShort>
     <!-- EN: [PAWN_nameDef] was in a boy scout troop on a midworld.\n\n[PAWN_pronoun] learned many survival skills including how to thrive in the outdoors and how to tend to basic wounds. -->
@@ -799,11 +799,11 @@
   
   <Brave88>
     <!-- EN: brave -->
-    <title>brave</title>
+    <title>сміливець</title>
     <!-- EN: brave -->
-    <titleShort>brave</titleShort>
+    <titleShort>сміливець</titleShort>
     <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
-    <desc>[PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe.</desc>
+    <desc>[PAWN_nameDef] володіє іквами, сокирами, палицями та іншою зброєю ближнього бою у битвах за [PAWN_possessive] плем'я.</desc>
   </Brave88>
   
   <Brigand68>
