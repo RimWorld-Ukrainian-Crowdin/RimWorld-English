@@ -115,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>[PAWN_nameDef] ріс, щоб стати інженером. Багато років, [PAWN_pronoun] планував втекти на вантажному кораблі і почати нове, сповнене пригодами життя.\n\nОдної ночі, після того, як [PAWN_possessive] батьки заснули, [PAWN_pronoun] зміг проникнути на борт суховантажу як раз перед тим, як судно покинуло порт.</desc>
+    <desc>[PAWN_nameDef] ріс, щоб стати інженером. Багато років, [PAWN_pronoun] планував втекти на вантажному кораблі і почати нове, сповнене пригодами життя.\n\nОдної ночі, після того, як [PAWN_possessive] батьки заснули, [PAWN_pronoun] зміг проникнути на борт транспортного корабля як раз перед тим, як судно покинуло порт.</desc>
   </AdventuringChild30>
   
   <AdventurousWeirdo55>
@@ -205,7 +205,7 @@
     <!-- EN: anarchist -->
     <titleShort>анархіст</titleShort>
     <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-    <desc>Після буття покинутим під час спецоперації, [PAWN_nameDef] поклявся помститися державі. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim.</desc>
+    <desc>Після буття покинутим під час спецоперації, [PAWN_nameDef] поклявся помститися державі. [PAWN_pronoun] сформував анархістичну групу, присвячену знищенню урядів центральних світів.\n\nПісля завеликої кількості смертельних ситуацій, і замалої кількості успіхів, [PAWN_nameDef] втік на зовнішне кільце.</desc>
   </AnarchistRebel77>
   
   <AngryStudent88>
