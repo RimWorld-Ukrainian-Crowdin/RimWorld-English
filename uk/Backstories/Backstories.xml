@@ -196,16 +196,16 @@
     <!-- EN: engineer -->
     <titleShort>інженер</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration. -->
-    <desc>[PAWN_nameDef] виріс у родині з воєнним та інженерним минулим. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration.</desc>
+    <desc>[PAWN_nameDef] виріс у родині з воєнним та інженерним минулим. [PAWN_pronoun] хотів приєднатись до армії, але [PAWN_possessive] батькові не сподобалась ідея, тому [PAWN_possessive] iнтерес змінив напрям до великих літаючих машин і витвирів інженерії. [PAWN_pronoun] таємно сподівався, що одного дня це призведе [PAWN_objective] до життя, присвяченого дослідженням галактики.</desc>
   </AmateurEngineer3>
   
   <AnarchistRebel77>
     <!-- EN: anarchist rebel -->
-    <title>anarchist rebel</title>
+    <title>анархіст-повстанець</title>
     <!-- EN: anarchist -->
-    <titleShort>anarchist</titleShort>
+    <titleShort>анархіст</titleShort>
     <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-    <desc>After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim.</desc>
+    <desc>Після буття покинутим під час спецоперації, [PAWN_nameDef] поклявся помститися державі. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim.</desc>
   </AnarchistRebel77>
   
   <AngryStudent88>
@@ -2948,7 +2948,7 @@
     <!-- EN: hunter -->
     <titleShort>мисливець</titleShort>
     <!-- EN: [PAWN_nameDef] was a master hunter.\n\n[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals. -->
-    <desc>[PAWN_nameDef] was a master hunter.\n\n[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals.</desc>
+    <desc>[PAWN_nameDef] був майстерним мисливцем.\n\n[PAWN_pronoun] навчився висліджувати і ловити будь-яку тварину в найнебезпечніших місцях, і мав глибокі знання та винахідливість як вполювати специфічну велику тварину.</desc>
   </Hunter73>
   
   <Hunter74>
@@ -2957,7 +2957,7 @@
     <!-- EN: hunter -->
     <titleShort>мисливець</titleShort>
     <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
-    <desc>[PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals.</desc>
+    <desc>[PAWN_nameDef] висліджував, ловив та вбивав тварин за їх м'ясо та шкіру.\n\n[PAWN_nameDef] використовував як далекобійну, так і зброю ближнього бою. Іноді, [PAWN_pronoun] полював разом із тваринами.</desc>
   </Hunter74>
   
   <HunterOfTheKing53>
