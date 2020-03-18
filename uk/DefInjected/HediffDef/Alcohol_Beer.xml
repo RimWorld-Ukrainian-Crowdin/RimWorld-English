@@ -4,7 +4,7 @@
   <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>алкогольна залежність</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AlcoholAddiction.description>
+  <AlcoholAddiction.description>Хімічна залежність від алкоголю. Довготривала наявність алкоголю спричинила неврологічні пристосування на клітинному рівні, так що мозок тепер нормально функціонувати без наркотиків.\n\nБез регулярних доз алкоголю почнуться симптоми виведення. Однак, тривале утримання змушуватиме мозок повернутись назад в нормальний стан, усуваючи залежність.</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
   <AlcoholAddiction.stages.withdrawal.label>виведення</AlcoholAddiction.stages.withdrawal.label>
   
