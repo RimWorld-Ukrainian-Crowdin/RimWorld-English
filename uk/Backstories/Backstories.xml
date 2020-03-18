@@ -178,7 +178,7 @@
     <!-- EN: astronomer -->
     <titleShort>астроном</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>[PAWN_nameDef] захроплювався астрономією. [PAWN_pronoun] міг годинами дивитись на планети й туманності крізь [PAWN_possessive] телескоп.\n\n[PAWN_pronoun] отримав лаври за знаходження невеличкої комети, яка, в майбутньому, зіткнулась би з недалеким супутником і зірвала б там операції з видобутку корисних копалин.</desc>
+    <desc>[PAWN_nameDef] захоплювався астрономією. [PAWN_pronoun] міг годинами дивитись на планети й туманності крізь [PAWN_possessive] телескоп.\n\n[PAWN_pronoun] отримав лаври за знаходження невеличкої комети, яка, в майбутньому, зіткнулась би з недалеким супутником і зірвала б там операції з видобутку корисних копалин.</desc>
   </AmateurAstronomer77>
   
   <AmateurBotanist79>
@@ -7113,7 +7113,7 @@
     <!-- EN: soldier -->
     <titleShort>солдат</titleShort>
     <!-- EN: Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.\n\n[PAWN_pronoun] excelled in physical training, and even passed most of the intellectual exams. While [PAWN_pronoun] was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering. -->
-    <desc>Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.\n\n[PAWN_pronoun] excelled in physical training, and even passed most of the intellectual exams. While [PAWN_pronoun] was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering.</desc>
+    <desc>Народившись в сім'ї солдатів, [PAWN_nameDef] приєднався до програми військового тренування.\n\n[PAWN_pronoun] досяг успіху у фізичному тренуванні й навіть пройшов більшу частину інтелектуальних іспитів. Хоча [PAWN_pronoun] ніколи не був особливо талановитим або спритним, [PAWN_nameDef] зрозумів цінність наполегливої праці та страждань.</desc>
   </YouthSoldier99>
   
 </BackstoryTranslations>
