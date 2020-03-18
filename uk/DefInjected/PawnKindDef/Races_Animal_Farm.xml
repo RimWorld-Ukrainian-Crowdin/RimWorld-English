@@ -34,24 +34,24 @@
   <!-- EN: donkey -->
   <Donkey.label>ослик</Donkey.label>
   <!-- EN: donkey foal -->
-  <Donkey.lifeStages.donkey_foal.label>donkey foal</Donkey.lifeStages.donkey_foal.label>
+  <Donkey.lifeStages.donkey_foal.label>осленя</Donkey.lifeStages.donkey_foal.label>
   
   <!-- EN: duck -->
   <Duck.label>качка</Duck.label>
   <!-- EN: duckling -->
-  <Duck.lifeStages.duckling.label>duckling</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.label>каченя</Duck.lifeStages.duckling.label>
   
   <!-- EN: goat -->
-  <Goat.label>коза</Goat.label>
+  <Goat.label>козел</Goat.label>
   <!-- EN: goat doe -->
-  <Goat.labelFemale>goat doe</Goat.labelFemale>
+  <Goat.labelFemale>коза</Goat.labelFemale>
   <!-- EN: baby goat -->
-  <Goat.lifeStages.baby_goat.label>baby goat</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.baby_goat.label>козеня</Goat.lifeStages.baby_goat.label>
   
   <!-- EN: goose -->
   <Goose.label>гусак</Goose.label>
   <!-- EN: geese -->
-  <Goose.labelPlural>geese</Goose.labelPlural>
+  <Goose.labelPlural>гуси</Goose.labelPlural>
   
   <!-- EN: guinea pig -->
   <GuineaPig.label>морська свинка</GuineaPig.label>
@@ -59,11 +59,11 @@
   <!-- EN: horse -->
   <Horse.label>кінь</Horse.label>
   <!-- EN: mare -->
-  <Horse.labelFemale>mare</Horse.labelFemale>
+  <Horse.labelFemale>кобила</Horse.labelFemale>
   <!-- EN: stallion -->
-  <Horse.labelMale>stallion</Horse.labelMale>
+  <Horse.labelMale>жеребець</Horse.labelMale>
   <!-- EN: foal -->
-  <Horse.lifeStages.foal.label>foal</Horse.lifeStages.foal.label>
+  <Horse.lifeStages.foal.label>лоша</Horse.lifeStages.foal.label>
   
   <!-- EN: pig -->
   <Pig.label>свиня</Pig.label>
@@ -75,11 +75,11 @@
   <!-- EN: sheep -->
   <Sheep.label>вівця</Sheep.label>
   <!-- EN: ewe -->
-  <Sheep.labelFemale>ewe</Sheep.labelFemale>
+  <Sheep.labelFemale>вівця</Sheep.labelFemale>
   <!-- EN: ram -->
   <Sheep.labelMale>баран</Sheep.labelMale>
   <!-- EN: sheep -->
-  <Sheep.labelPlural>вівця</Sheep.labelPlural>
+  <Sheep.labelPlural>вівці</Sheep.labelPlural>
   <!-- EN: lamb -->
   <Sheep.lifeStages.lamb.label>lamb</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
