@@ -241,7 +241,7 @@
     <!-- EN: antisocial -->
     <titleShort>асоціальний</titleShort>
     <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
-    <desc>[PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals.</desc>
+    <desc>[PAWN_nameDef] мав нестачу типових соціальних навичок, і уникав соціальної взаємодії.\n\n[PAWN_pronoun] отримував задоволення лише від постійної роботи. [PAWN_pronoun] особливо не любив говорити з дуже креативними або винятковими індивідами.</desc>
   </AntisocialChild83>
   
   <ApocalypseChild23>
@@ -821,7 +821,7 @@
     <!-- EN: soldier -->
     <titleShort>солдат</titleShort>
     <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
-    <desc>[PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital.</desc>
+    <desc>[PAWN_pronoun] був дужим солдатом у довгій війні за спадщину. У [PAWN_possessive] фінальній битві, [PAWN_possessive] підрозділ був принесений в жертву для прикриття відступу. [PAWN_nameDef] дивився, як [PAWN_possessive] товарищі гинуть, і був єдиним уцілілим.\n\nПережите зламало [PAWN_objective] зсередини, залишивши [PAWN_objective] без способу стримувати [PAWN_possessive] емоції.\n\nВ лікарні [PAWN_nameDef] навчився малювати.</desc>
   </BrokenSoldier29>
   
   <BrothelGofer84>
