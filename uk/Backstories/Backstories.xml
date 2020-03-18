@@ -812,12 +812,12 @@
     <!-- EN: brigand -->
     <titleShort>розбійник</titleShort>
     <!-- EN: [PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000. -->
-    <desc>[PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000.</desc>
+    <desc>[PAWN_nameDef] летів з бандою розбійників, яких [PAWN_pronoun] вважав за друзів. [PAWN_pronoun] навіть мав [PAWN_possessive] власний корабель - Лайноскоп 2000.</desc>
   </Brigand68>
   
   <BrokenSoldier29>
     <!-- EN: broken soldier -->
-    <title>broken soldier</title>
+    <title>знівечений солдат</title>
     <!-- EN: soldier -->
     <titleShort>солдат</titleShort>
     <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
