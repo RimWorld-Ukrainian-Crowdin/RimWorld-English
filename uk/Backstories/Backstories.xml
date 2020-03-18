@@ -223,21 +223,21 @@
     <!-- EN: caretaker -->
     <titleShort>доглядач</titleShort>
     <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-    <desc>Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it.</desc>
+    <desc>Народжений на середньовічній фермі, [PAWN_nameDef] займався доглядом за домашніми тваринами. [PAWN_pronoun] виріс з любов'ю до них.\n\nЗ часом, [PAWN_pronoun] навчився приручати диких тварин. [PAWN_pronoun] мріяв зустріти трумбо одного дня й приручити його.</desc>
   </AnimalCaretaker20>
   
   <AnimalLabTech39>
     <!-- EN: animal lab tech -->
-    <title>animal lab tech</title>
+    <title>технік з ветеринарної лабораторії</title>
     <!-- EN: lab tech -->
-    <titleShort>lab tech</titleShort>
+    <titleShort>лаборант</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day. -->
-    <desc>[PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day.</desc>
+    <desc>[PAWN_nameDef] працював техніком в лабораторії, що досліджувала тварин.\n\n[PAWN_pronoun] витрачав [PAWN_possessive] дні, піклуючись про тварин і прибираючи за ними. [PAWN_pronoun] мріяв мати [PAWN_possessive] власну лабораторію одного дня.</desc>
   </AnimalLabTech39>
   
   <AntisocialChild83>
     <!-- EN: antisocial child -->
-    <title>асоціальний дитина</title>
+    <title>асоціальна дитина</title>
     <!-- EN: antisocial -->
     <titleShort>асоціальний</titleShort>
     <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
@@ -2975,16 +2975,16 @@
     <!-- EN: scavenger -->
     <titleShort>падальник</titleShort>
     <!-- EN: Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch. -->
-    <desc>Born to a family of raiders in the mudlands of Vinna, [PAWN_nameDef] survived by scavenging food and resources from nearby settlements with [PAWN_possessive] gang. [PAWN_pronoun] was the most ferocious of the bunch.</desc>
+    <desc>Народжений в сім'ї рейдерів в болотних землях Вінни, [PAWN_nameDef] вижив, збираючи їжу та ресурси з прилеглих поселень разом з [PAWN_possessive] бандою. [PAWN_pronoun] був найлютішим у групі.</desc>
   </HunterScavenger64>
   
   <HypnocultLeader61>
     <!-- EN: Hypnocult leader -->
-    <title>Hypnocult leader</title>
+    <title>Лідер гіпнокульту</title>
     <!-- EN: Cultist -->
-    <titleShort>Cultist</titleShort>
+    <titleShort>Культист</titleShort>
     <!-- EN: Desiring to understand people, [PAWN_nameDef] learned hypnotism and discovered [PAWN_possessive] talent for the art.\n\n        [PAWN_pronoun] gathered followers and formed a cult around [PAWN_possessive] vibrant personality. The authorities discovered [PAWN_possessive] illegal operations, and [PAWN_nameDef] fled before [PAWN_pronoun] could be arrested. -->
-    <desc>Desiring to understand people, [PAWN_nameDef] learned hypnotism and discovered [PAWN_possessive] talent for the art.\n\n        [PAWN_pronoun] gathered followers and formed a cult around [PAWN_possessive] vibrant personality. The authorities discovered [PAWN_possessive] illegal operations, and [PAWN_nameDef] fled before [PAWN_pronoun] could be arrested.</desc>
+    <desc>Бажаючи зрозуміти людей, [PAWN_nameDef] вивчив гіпнотизм і відкрив у [PAWN_possessive] талант до мистецтва.\n\n[PAWN_pronoun] зібрав послідовників і сформував культ навколо [PAWN_possessive] яскравої особистості. Влада дізналася про [PAWN_possessive] незаконні дії, і [PAWN_nameDef] вдалося втікти до того, як [PAWN_pronoun] змогли заарештувати.</desc>
   </HypnocultLeader61>
   
   <IcePlanetChild95>
