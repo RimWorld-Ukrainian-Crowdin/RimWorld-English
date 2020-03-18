@@ -2836,14 +2836,14 @@
     <!-- EN: hideaway -->
     <titleShort>затвірник</titleShort>
     <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
-    <desc>Занадно турботливі батьки [PAWN_nameDef] заохочували [PAWN_objective] залишатися вдома майже кожен день. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills.</desc>
+    <desc>Занадно турботливі батьки [PAWN_nameDef] заохочували [PAWN_objective] залишатися вдома майже кожен день. Хоча [PAWN_pronoun] мав багато часу на читання та заняття ремеслом, [PAWN_pronoun] ніколи не розвинув нормальних соціальних навичок.</desc>
   </Hideaway9>
   
   <HighBaroness37>
     <!-- EN: high baroness -->
     <title>баронесса</title>
     <!-- EN: noble -->
-    <titleShort>благородний</titleShort>
+    <titleShort>знать</titleShort>
     <!-- EN: [PAWN_nameDef] was born as low-ranking royalty in a large imperial family.\n\n[PAWN_pronoun] was placed In charge of running [PAWN_possessive] home planet from an early age, and learned important political and cultural skills in that role. -->
     <desc>[PAWN_nameDef] was born as low-ranking royalty in a large imperial family.\n\n[PAWN_pronoun] was placed In charge of running [PAWN_possessive] home planet from an early age, and learned important political and cultural skills in that role.</desc>
   </HighBaroness37>
@@ -2868,9 +2868,9 @@
   
   <HiredGun70>
     <!-- EN: hired gun -->
-    <title>hired gun</title>
+    <title>найманець</title>
     <!-- EN: hired gun -->
-    <titleShort>hired gun</titleShort>
+    <titleShort>найманець</titleShort>
     <!-- EN: [PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed. -->
     <desc>[PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed.</desc>
   </HiredGun70>
