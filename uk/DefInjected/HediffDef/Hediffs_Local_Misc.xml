@@ -4,17 +4,17 @@
   <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>хімічне ушкодження</ChemicalDamageModerate.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageModerate.description>Chemical damage at the cellular level.</ChemicalDamageModerate.description>
+  <ChemicalDamageModerate.description>Хімічні пошкодження на клітинному рівні.</ChemicalDamageModerate.description>
   
   <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>хімічне пошкодження</ChemicalDamageSevere.label>
   <!-- EN: Chemical damage at the cellular level. -->
-  <ChemicalDamageSevere.description>Chemical damage at the cellular level.</ChemicalDamageSevere.description>
+  <ChemicalDamageSevere.description>Хімічні пошкодження на клітинному рівні.</ChemicalDamageSevere.description>
   
   <!-- EN: cirrhosis -->
   <Cirrhosis.label>цироз</Cirrhosis.label>
   <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
-  <Cirrhosis.description>A degenerative liver disease caused by excessive alcohol consumption.</Cirrhosis.description>
+  <Cirrhosis.description>Дегенеративне захворювання печінки, викликане надмірним споживанням алкоголю.</Cirrhosis.description>
   
   <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>постреанімаційний розлад</ResurrectionPsychosis.label>
@@ -38,7 +38,7 @@
   <!-- EN: trauma savant -->
   <TraumaSavant.label>савант</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
-  <TraumaSavant.description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</TraumaSavant.description>
+  <TraumaSavant.description>Винятковий стан викликаний травмою мозку. Мозок, що перебуває в умовах травм, розвинув надзвичайні можливості в деяких своїх районах, втрачаючи здатність розмовляти.</TraumaSavant.description>
   <!-- EN: trauma -->
   <TraumaSavant.labelNoun>травма</TraumaSavant.labelNoun>
   
