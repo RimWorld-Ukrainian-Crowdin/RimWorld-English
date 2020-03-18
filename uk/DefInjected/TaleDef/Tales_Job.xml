@@ -367,7 +367,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Meditated.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef] meditating</li>
+    <li>tale_noun->[PAWN_nameDef] медитує</li>
     <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] sitting quietly, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
@@ -420,7 +420,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
     <li>desc_sentence->There is a [Community] in the background.</li>
     <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
-    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->Видніється [TerrainFeature].</li>
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   </MinedValuable.rulePack.rulesStrings>
   
@@ -499,8 +499,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Prayed.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef] praying</li>
-    <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
+    <li>tale_noun->[PAWN_nameDef] молиться</li>
+    <li>tale_noun->[PAWN_nameDef] молиться до вищих сил</li>
     <li>image->[PAWN_nameFull] gazing into the distance and [circumstance_group]</li>
     <li>image->[PAWN_nameFull] closing [PAWN_possessive] eyes and [circumstance_group]</li>
     <li>image->[PAWN_nameFull] clasping [PAWN_possessive] hands and [circumstance_group]</li>
