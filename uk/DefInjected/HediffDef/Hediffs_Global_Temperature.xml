@@ -19,7 +19,7 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>обмороження</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>Небезпечно низька температура тіла. Якщо не розігрітись, переохолодження погіршується й закінчується смертю. Одужання настає швидше після того, як жертва відігріється. Avoid hypothermia by wearing warm clothes in cold environments.</Hypothermia.description>
+  <Hypothermia.description>Небезпечно низька температура тіла. Якщо не розігрітись, переохолодження погіршується й закінчується смертю. Одужання настає швидше після того, як жертва відігріється. Уникати переохолодження, носити теплий одяг в холодних умовах.</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>незначне</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
@@ -34,7 +34,7 @@
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>гіпотермічне уповільнення</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>Особливий біологічний стан, який використовується деякими істотами, щоб пережити сильні морози. Тіло створіння не залишається теплим, воно адаптується до запобігання внутрішнього замерзання, незважаючи на дуже низьку температуру. Функції організму сповільнюються і знижуються розумові здібності, але холод не зашкоджує постійно. Деякі біологи називають це нечуваною формою сплячки.</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>мала</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
