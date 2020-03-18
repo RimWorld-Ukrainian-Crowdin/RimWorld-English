@@ -97,7 +97,7 @@
     <!-- EN: counselor -->
     <titleShort>куратор</titleShort>
     <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-    <desc>Після одужання від залежності від "чипу насолоди", [PAWN_nameDef] прийняв шлях ненасилля і поклявся допомагати іншим. \n\n\Подорожуючи між громадами, [PAWN_pronoun] використовував медицину, щоб допомогти тим, хто боровся з власними залежностями.</desc>
+    <desc>Після одужання від залежності від 'чипу насолоди', [PAWN_nameDef] прийняв шлях ненасилля і поклявся допомагати іншим. \n\n\Подорожуючи між громадами, [PAWN_pronoun] використовував медицину, щоб допомогти тим, хто боровся з власними залежностями.</desc>
   </AddictionCounsel60>
   
   <Adventurer19>
@@ -115,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>[PAWN_nameDef] ріс, щоб стати інженером. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port.</desc>
+    <desc>[PAWN_nameDef] ріс, щоб стати інженером. Багато років, [PAWN_pronoun] планував втекти на вантажному кораблі і почати нове, сповнене пригодами життя.\n\nОдної ночі, після того, як батьки [PAWN_possessive] заснули, [PAWN_pronoun] зміг проникнути на борт суховантажу як раз перед тим, як судно покинуло порт.</desc>
   </AdventuringChild30>
   
   <AdventurousWeirdo55>
@@ -124,7 +124,7 @@
     <!-- EN: weirdo -->
     <titleShort>дивак</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword.</desc>
+    <desc>Креативний, але дивний індивід, [PAWN_nameDef] присвятив життя [PAWN_possessive] поєднаній пристрасті [PAWN_possessive], історії середньовічного світу і високим технологіям.\n\n[PAWN_pronoun] завжди був захоплений ідеєю становлення 'небесним лицарем', з сяючими обладунками і величезним мечем.</desc>
   </AdventurousWeirdo55>
   
   <AdventurousYouth70>
@@ -2890,18 +2890,18 @@
     <!-- EN: student -->
     <titleShort>студент</titleShort>
     <!-- EN: As a child, [PAWN_nameDef] spent learned many artistic forms including music and novel writing. As [PAWN_pronoun] grew older, [PAWN_pronoun] began to study legends from [PAWN_possessive] home world - legends of the lizard-like beings at the center of [PAWN_possessive] culture's folklore. -->
-    <desc>As a child, [PAWN_nameDef] spent learned many artistic forms including music and novel writing. As [PAWN_pronoun] grew older, [PAWN_pronoun] began to study legends from [PAWN_possessive] home world - legends of the lizard-like beings at the center of [PAWN_possessive] culture's folklore.</desc>
+    <desc>Дитиною, [PAWN_nameDef] вивчав багато видів мистецтв, в тому числі музику та написання романів. Коли [PAWN_pronoun] подорослішав, [PAWN_pronoun] почав вивчати легенди з [PAWN_possessive] рідної планети - про ящірних істот, що були у центрі [PAWN_possessive] культурного фольклору.</desc>
   </HistoryStudent78>
   
   <Housemate8>
     <!-- EN: housemate -->
-    <title>сусід</title>
+    <title>домогосподар</title>
     <!-- EN: housewife -->
     <titleFemale>домогосподарка</titleFemale>
     <!-- EN: housemate -->
-    <titleShort>сусід</titleShort>
+    <titleShort>господар</titleShort>
     <!-- EN: housewife -->
-    <titleShortFemale>домогосподарка</titleShortFemale>
+    <titleShortFemale>господиня</titleShortFemale>
     <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
     <desc>As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked.</desc>
   </Housemate8>
