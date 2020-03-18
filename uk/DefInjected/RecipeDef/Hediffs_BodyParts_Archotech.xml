@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: install archotech arm -->
-  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
+  <InstallArchotechArm.label>встановити архотехнічну руку</InstallArchotechArm.label>
   <!-- EN: Install an archotech arm. -->
-  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.description>Встановити архотехнічну руку.</InstallArchotechArm.description>
   <!-- EN: Installing archotech arm. -->
-  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+  <InstallArchotechArm.jobString>Встановлює архотехнічну руку.</InstallArchotechArm.jobString>
   
   <!-- EN: install archotech eye -->
-  <InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
+  <InstallArchotechEye.label>встановити архотехнічне око</InstallArchotechEye.label>
   <!-- EN: Install an archotech eye. -->
-  <InstallArchotechEye.description>Install an archotech eye.</InstallArchotechEye.description>
+  <InstallArchotechEye.description>Встановити архотехнічне око.</InstallArchotechEye.description>
   <!-- EN: Installing archotech eye. -->
-  <InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+  <InstallArchotechEye.jobString>Встановлює архотехнічне око.</InstallArchotechEye.jobString>
   
   <!-- EN: install archotech leg -->
-  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
+  <InstallArchotechLeg.label>встановити архотехнічну ногу</InstallArchotechLeg.label>
   <!-- EN: Install an archotech leg. -->
-  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>Встановити архотехнічну ногу.</InstallArchotechLeg.description>
   <!-- EN: Installing archotech leg. -->
-  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.jobString>Встановлює архотехнічну ногу.</InstallArchotechLeg.jobString>
   
 </LanguageData>
