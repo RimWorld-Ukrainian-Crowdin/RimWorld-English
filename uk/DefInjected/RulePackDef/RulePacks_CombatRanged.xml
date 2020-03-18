@@ -44,7 +44,7 @@
     <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label]</li>
     <li>prefix->[INITIATOR_definite]'s [WEAPON_label]</li>
     <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite] [destroyed_targets].</li>
     <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</li>
     <li>r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
     <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
