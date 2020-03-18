@@ -93,7 +93,7 @@
     <li>ConceptAny->[ConceptAngsty]</li>
     <li>PersonalCharacteristic(p=0.15)->genitals</li>
     <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
-    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->волосся на тілі</li>
     <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
     <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
@@ -147,30 +147,30 @@
     <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
-    <li>TalkTopicLight->[Vegetable]s</li>
-    <li>TalkTopicLight->eating [Vegetable]s</li>
-    <li>TalkTopicLight->cooking with [Vegetable]s</li>
+    <li>TalkTopicLight->[Vegetable]</li>
+    <li>TalkTopicLight->їсть [Vegetable]</li>
+    <li>TalkTopicLight->готує з [Vegetable]</li>
     <li>TalkTopicLight->[Game]</li>
     <li>TalkTopicLight->playing [Game]</li>
     <li>TalkTopicLight->practicing [Game]</li>
     <li>TalkTopicLight->learning [Game]</li>
-    <li>TalkTopicLight->[Animal]s</li>
-    <li>TalkTopicLight->training [Animal]s</li>
+    <li>TalkTopicLight->[Animal]</li>
+    <li>TalkTopicLight->тренує [Animal]</li>
     <li>TalkTopicLight->taming [Animal]s</li>
     <li>TalkTopicLight->fighting [Animal]s</li>
     <li>TalkTopicLight->crazy [Animal]s</li>
-    <li>TalkTopicLight->[Weapon]s</li>
-    <li>TalkTopicLight->using [Weapon]s</li>
-    <li>TalkTopicLight->practicing with [Weapon]s</li>
-    <li>TalkTopicLight->[TerrainFeature]s</li>
-    <li>TalkTopicLight->[NaturalObject]s</li>
-    <li>TalkTopicLight->[TreeType] trees</li>
-    <li>TalkTopicLight->[PersonJob]s</li>
+    <li>TalkTopicLight->[Weapon]</li>
+    <li>TalkTopicLight->використовує [Weapon]</li>
+    <li>TalkTopicLight->практикується з [Weapon]</li>
+    <li>TalkTopicLight->[TerrainFeature]</li>
+    <li>TalkTopicLight->[NaturalObject]</li>
+    <li>TalkTopicLight->[TreeType] дерева</li>
+    <li>TalkTopicLight->[PersonJob]</li>
     <li>TalkTopicLight->friendly [PersonJob]s</li>
     <li>TalkTopicLight->hostile [PersonJob]s</li>
-    <li>TalkTopicLight->[Enemy]s</li>
+    <li>TalkTopicLight->[Enemy]</li>
     <li>TalkTopicLight->fighting [Enemy]s</li>
-    <li>TalkTopicLight->[Apparel]s</li>
+    <li>TalkTopicLight->[Apparel]</li>
     <li>TalkTopicLight->wearing [Apparel]s</li>
     <li>TalkTopicLight->making [Apparel]s</li>
     <li>talktopicheavyfile(p=0.15)->sex</li>
