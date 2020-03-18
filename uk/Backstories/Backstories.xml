@@ -133,7 +133,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>[PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies</desc>
+    <desc>[PAWN_nameDef] дослідив все навколо величезного маєтку родини [PAWN_possessive], знаходячи маленькі дива природи, сховані в довколишніх катакомбах, річках та печерах.\n\nПід час підліткових років [PAWN_possessive], [PAWN_nameDef] створив собі численних ворогів</desc>
   </AdventurousYouth70>
   
   <AerospaceEngineer44>
@@ -142,7 +142,7 @@
     <!-- EN: engineer -->
     <titleShort>інженер</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>[PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues.</desc>
+    <desc>[PAWN_nameDef] був інженером, відповідальним за виробництво авіації та космічних кораблів. [PAWN_pronoun] зосереджувався на покращенні ліній виробництва, і був відомий за експертність [PAWN_possessive] в технічних і науково-дослідних питаннях.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer22>
@@ -151,7 +151,7 @@
     <!-- EN: programmer -->
     <titleShort>програміст</titleShort>
     <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-    <desc>[PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing.</desc>
+    <desc>[PAWN_nameDef] служив у підррозділі військової робототехніки, і розробляв розумніший бойовий ШІ.\n\nЗа весь час служби [PAWN_pronoun] в підрозділі, [PAWN_pronoun] жодного разу не спілкувався з іншою людиною. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing.</desc>
   </AIProgrammer22>
   
   <AIResearcher94>
@@ -2901,25 +2901,25 @@
     <!-- EN: housemate -->
     <titleShort>господар</titleShort>
     <!-- EN: housewife -->
-    <titleShortFemale>господиня</titleShortFemale>
+    <titleShortFemale>господарка</titleShortFemale>
     <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
-    <desc>As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked.</desc>
+    <desc>У дорослому віці, [PAWN_nameDef] доводилося опікуватися будинком та дітьми, поки [PAWN_possessive] половинка працювала.</desc>
   </Housemate8>
   
   <HouseServant63>
     <!-- EN: house servant -->
-    <title>покоївка</title>
+    <title>домашня прислуга</title>
     <!-- EN: servant -->
-    <titleShort>покоївка</titleShort>
+    <titleShort>слуга</titleShort>
     <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
-    <desc>[PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside.</desc>
+    <desc>[PAWN_nameDef] був домашньою слугою у заможних домовласників.\n\n[PAWN_pronoun] добре знав кухні та підвали маєтку [PAWN_possessive] хазяїв, але ніколи не робив жодної роботи надворі.</desc>
   </HouseServant63>
   
   <HouseServant86>
     <!-- EN: house servant -->
-    <title>покоївка</title>
+    <title>домашня прислуга</title>
     <!-- EN: servant -->
-    <titleShort>покоївка</titleShort>
+    <titleShort>слуга</titleShort>
     <!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
     <desc>[PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house.</desc>
   </HouseServant86>
