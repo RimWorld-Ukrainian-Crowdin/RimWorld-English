@@ -10,7 +10,7 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] запропонував [RECIPIENT_nameDef] перепочити.</li>
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
@@ -94,41 +94,41 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
-    <li>wooed->tried to flirt with</li>
-    <li>wooed->flirted with</li>
-    <li>wooed->tried to attract</li>
-    <li>wooed->tried to romance</li>
-    <li>wooed->tried to woo</li>
-    <li>wooed->wooed</li>
-    <li>wooed->pursued</li>
-    <li>wooed->charmed</li>
-    <li>wooed->courted</li>
-    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
-    <li>wootactic->telling a story about [TalkTopicAny]</li>
-    <li>wootactic->telling a tale about [TalkTopicAny]</li>
-    <li>wootactic->joking about [TalkTopicAny]</li>
-    <li>wootactic->making an observation about [TalkTopicAny]</li>
-    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
-    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
-    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
-    <li>boasting->boasting about</li>
-    <li>boasting->mentioning</li>
-    <li>boasting->implying good things about</li>
-    <li>boasting->exaggerating</li>
-    <li>boasting->talking about</li>
-    <li>boasting->drawing attention to</li>
-    <li>complimenting(p=3)->complimenting</li>
-    <li>complimenting->subtly complimenting</li>
-    <li>complimenting->lauding</li>
-    <li>complimenting->commending</li>
-    <li>complimenting->saying good things about</li>
-    <li>complimenting(p=2)->playfully making fun of</li>
-    <li>complimenting->jokingly poking at</li>
-    <li>complimenting->jokingly half-complimenting</li>
-    <li>complimenting->impishly questioning</li>
+    <li>_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef], [wootactic].</li>
+    <li>wooed->Намагається фліртувати</li>
+    <li>wooed->фліртує</li>
+    <li>wooed->привертає увагу</li>
+    <li>wooed->заграє до</li>
+    <li>wooed->намагається здобути прихильність</li>
+    <li>wooed->пробує завести роман з</li>
+    <li>wooed->Намагається пікапити</li>
+    <li>wooed->обворожений</li>
+    <li>wooed->заграє</li>
+    <li>&lt;li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]&lt;/li></li>
+    <li>wootactic(p=2)->розповідає історію [TalkTopicLight]</li>
+    <li>wootactic(p=2)->розповідає історію [TalkTopicHeavy]</li>
+    <li>wootactic->шуткує про [TalkTopicAny]</li>
+    <li>wootactic->Дискутує з приводу [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] свою [PersonalCharacteristic]</li>
+    <li>wootactic->порівнює [RECIPIENT_possessive] з [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->описує [RECIPIENT_possessive] як [romantic_adj] [romantic_noun]</li>
+    <li>boasting->[boasting_adverb] хвалиться</li>
+    <li>boasting->[boasting_adverb] показує</li>
+    <li>boasting->[boasting_adverb] згадуючи про хороше</li>
+    <li>boasting->[boasting_adverb] перебільшуючи</li>
+    <li>boasting->[boasting_adverb] розповідає про</li>
+    <li>boasting->[boasting_adverb] згадуючи в розмові</li>
+    <li>complimenting(p=3)->[complimenting_adverb] хвалячи</li>
+    <li>complimenting->[complimenting_adverb] обсипаючи компліментами</li>
+    <li>complimenting->[complimenting_adverb] нахвалюючи</li>
+    <li>complimenting->по достоїнству оцінюючи</li>
+    <li>complimenting->[complimenting_adverb] кажучи приємні слова про</li>
+    <li>complimenting(p=2)->[complimenting_adverb] шуткуючи про</li>
+    <li>complimenting->лоскочучи</li>
+    <li>complimenting->тролить</li>
+    <li>complimenting->задаючи єхидно питання про</li>
     <li>complimenting->cheerfully making fun of</li>
-    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->красивий(а)</li>
     <li>romantic_adj->shining</li>
     <li>romantic_adj->glimmering</li>
     <li>romantic_adj->heavenly</li>
@@ -143,15 +143,15 @@
     <li>romantic_adj->lovely</li>
     <li>romantic_adj->wonderful</li>
     <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
-    <li>romantic_noun->flower</li>
-    <li>romantic_noun->spring</li>
-    <li>romantic_noun->river</li>
-    <li>romantic_noun->star</li>
-    <li>romantic_noun->moon</li>
-    <li>romantic_noun->sun</li>
-    <li>romantic_noun->house</li>
+    <li>romantic_noun->квітка</li>
+    <li>romantic_noun->весна</li>
+    <li>romantic_noun->річка</li>
+    <li>romantic_noun->зірка</li>
+    <li>romantic_noun->місяць</li>
+    <li>romantic_noun->сонце</li>
+    <li>romantic_noun->будинок</li>
     <li>romantic_noun->aurora</li>
-    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun->[TreeType] дерево</li>
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
