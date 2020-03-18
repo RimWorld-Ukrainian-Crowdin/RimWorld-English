@@ -77,9 +77,9 @@
     <!-- EN: acolyte of stars -->
     <title>аколіт зірок</title>
     <!-- EN: priest -->
-    <titleShort>священик</titleShort>
+    <titleShort>священник</titleShort>
     <!-- EN: Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on. -->
-    <desc>Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on.</desc>
+    <desc>Вічний мрійник, [PAWN_nameDef] подорожував по всесвіту, щоб знайти те, що, як [PAWN_pronoun] відчував, кликала до нього. \n\n[PAWN_pronoun] ставав бідніший і бідніший, але використовував усе, що міг, щоб продовжити пошуки.</desc>
   </AcolyteOfStars6>
   
   <Actor72>
@@ -93,11 +93,11 @@
   
   <AddictionCounsel60>
     <!-- EN: addiction counsel -->
-    <title>addiction counsel</title>
+    <title>куратор з залежності</title>
     <!-- EN: counselor -->
-    <titleShort>радник</titleShort>
+    <titleShort>куратор</titleShort>
     <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-    <desc>After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions.</desc>
+    <desc>Після одужання від залежності від "чипу насолоди", [PAWN_nameDef] прийняв шлях ненасилля і поклявся допомагати іншим. \n\n\Подорожуючи між громадами, [PAWN_pronoun] використовував медицину, щоб допомогти тим, хто боровся з власними залежностями.</desc>
   </AddictionCounsel60>
   
   <Adventurer19>
@@ -106,7 +106,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>[PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most.</desc>
+    <desc>Жага до пригод [PAWN_nameDef] привела [PAWN_objective] на багато планет. [PAWN_pronoun] відвідав найяскравіші блискучі світи і найтемніші, розірвані війною токсичні планети в прагненні [PAWN_possessive] знайти новину і захват.\n\n[PAWN_pronoun] працював якомога менше, часто ігноруючи етичні межі заради швидкого заробітку. Серед усіх типів праці, [PAWN_pronoun] ненавидів кухарство найбільше.</desc>
   </Adventurer19>
   
   <AdventuringChild30>
@@ -115,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>[PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port.</desc>
+    <desc>[PAWN_nameDef] ріс, щоб стати інженером. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port.</desc>
   </AdventuringChild30>
   
   <AdventurousWeirdo55>
@@ -2872,7 +2872,7 @@
     <!-- EN: hired gun -->
     <titleShort>найманець</titleShort>
     <!-- EN: [PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed. -->
-    <desc>[PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed.</desc>
+    <desc>[PAWN_nameDef] завжди хотів довести, що [PAWN_pronoun] може заробляти на життя без допомоги [PAWN_possessive] батьків. [PAWN_pronoun] займався темними справами, часто з націлюванням зброї на невинних.\n\n[PAWN_pronoun] врешті-решт заробив достатньо грошей, щоб сісти на борт дешевого грузового судна. Чому так дешево, [PAWN_pronoun] зрозумів, коли судно розбилося.</desc>
   </HiredGun70>
   
   <HiredMuscle5>
