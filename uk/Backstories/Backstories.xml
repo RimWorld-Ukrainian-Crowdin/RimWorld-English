@@ -7037,7 +7037,7 @@
   
   <WolfPackMember26>
     <!-- EN: wolf pack member -->
-    <title>wolf pack member</title>
+    <title>член вовчої зграї</title>
     <!-- EN: feral -->
     <titleShort>дикун</titleShort>
     <!-- EN: [PAWN_nameDef] was discarded by [PAWN_possessive] family. Raised by wolves, [PAWN_pronoun] ran, hunted, and defended [PAWN_possessive] pack.\n\n[PAWN_pronoun] learned to fight efficiently by tooth and claw. [PAWN_pronoun] also learned brutally effective primal hunting strategies. -->
@@ -7086,7 +7086,7 @@
     <!-- EN: pirate -->
     <titleShort>пірат</titleShort>
     <!-- EN: [PAWN_nameDef] was born to pirates, in a dirty metal room that smelled of motor oil.\n\n[PAWN_pronoun] was never exactly taught anything, but [PAWN_pronoun] still learned the ways of survival, barter, and combat. -->
-    <desc>[PAWN_nameDef] was born to pirates, in a dirty metal room that smelled of motor oil.\n\n[PAWN_pronoun] was never exactly taught anything, but [PAWN_pronoun] still learned the ways of survival, barter, and combat.</desc>
+    <desc>[PAWN_nameDef] народився у піратів у брудній металевій кімнаті, яка пахла моторним маслом.\n\n[PAWN_pronoun] не вчили, але [PAWN_pronoun] все ще навчився шляхам виживання, бартеру і бою.</desc>
   </YoungPirate71>
   
   <YoungPsychologist58>
