@@ -83,7 +83,7 @@
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>Психічний стан: Бунтівник</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>{0} has had a mental breakdown and is going to induce prisoners to escape.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>{0} мав психічний зрив і він збирається спонукати до втечі ув'язнених.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>бунтівник</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
@@ -112,7 +112,7 @@
   <!-- EN: Mental state: Slaughterer -->
   <Slaughterer.baseInspectLine>Психічний стан: М'ясник</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>{0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} мав психічний зрив і збирається зірвати [PAWN_possessive] злість на ваших тваринах.</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>{0} більше не вбиває випадкових тварин.</Slaughterer.recoveryMessage>
   
