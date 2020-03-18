@@ -51,10 +51,10 @@
   <InstallBionicStomach.jobString>Вживлює біонічний шлунок.</InstallBionicStomach.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>вживити посмертний окислювач</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Вживити посмертний окислювач.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Вживлює посмертний окислювач.</InstallDeathAcidifier.jobString>
   
 </LanguageData>
