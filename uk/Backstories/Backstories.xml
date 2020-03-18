@@ -79,7 +79,7 @@
     <!-- EN: priest -->
     <titleShort>священник</titleShort>
     <!-- EN: Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on. -->
-    <desc>Вічний мрійник, [PAWN_nameDef] подорожував по всесвіту, щоб знайти те, що, як [PAWN_pronoun] відчував, кликала до нього. \n\n[PAWN_pronoun] ставав бідніший і бідніший, але використовував усе, що міг, щоб продовжити пошуки.</desc>
+    <desc>Вічний мрійник, [PAWN_nameDef] подорожував по всесвіту, щоб знайти те, що, як [PAWN_pronoun] відчував, кликало до нього. \n\n[PAWN_pronoun] ставав бідніший і бідніший, але використовував усе, що міг, щоб продовжити пошуки.</desc>
   </AcolyteOfStars6>
   
   <Actor72>
@@ -115,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>[PAWN_nameDef] ріс, щоб стати інженером. Багато років, [PAWN_pronoun] планував втекти на вантажному кораблі і почати нове, сповнене пригодами життя.\n\nОдної ночі, після того, як батьки [PAWN_possessive] заснули, [PAWN_pronoun] зміг проникнути на борт суховантажу як раз перед тим, як судно покинуло порт.</desc>
+    <desc>[PAWN_nameDef] ріс, щоб стати інженером. Багато років, [PAWN_pronoun] планував втекти на вантажному кораблі і почати нове, сповнене пригодами життя.\n\nОдної ночі, після того, як [PAWN_possessive] батьки заснули, [PAWN_pronoun] зміг проникнути на борт суховантажу як раз перед тим, як судно покинуло порт.</desc>
   </AdventuringChild30>
   
   <AdventurousWeirdo55>
@@ -124,7 +124,7 @@
     <!-- EN: weirdo -->
     <titleShort>дивак</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>Креативний, але дивний індивід, [PAWN_nameDef] присвятив життя [PAWN_possessive] поєднаній пристрасті [PAWN_possessive], історії середньовічного світу і високим технологіям.\n\n[PAWN_pronoun] завжди був захоплений ідеєю становлення 'небесним лицарем', з сяючими обладунками і величезним мечем.</desc>
+    <desc>Креативний, але дивний індивід, [PAWN_nameDef] присвятив [PAWN_possessive] життя [PAWN_possessive] поєднаній пристрасті до історії середньовічного світу і високих технологій.\n\n[PAWN_pronoun] завжди був захоплений ідеєю становлення 'небесним лицарем', з сяючими обладунками і величезним мечем.</desc>
   </AdventurousWeirdo55>
   
   <AdventurousYouth70>
@@ -133,7 +133,7 @@
     <!-- EN: adventurer -->
     <titleShort>шукач пригод</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>[PAWN_nameDef] дослідив все навколо величезного маєтку родини [PAWN_possessive], знаходячи маленькі дива природи, сховані в довколишніх катакомбах, річках та печерах.\n\nПід час підліткових років [PAWN_possessive], [PAWN_nameDef] створив собі численних ворогів</desc>
+    <desc>[PAWN_nameDef] дослідив все навколо величезного маєтку [PAWN_possessive] родини, знаходячи маленькі дива природи, сховані в довколишніх катакомбах, річках та печерах.\n\nПід час [PAWN_possessive] підліткових років, [PAWN_nameDef] створив собі численних ворогів</desc>
   </AdventurousYouth70>
   
   <AerospaceEngineer44>
@@ -142,7 +142,7 @@
     <!-- EN: engineer -->
     <titleShort>інженер</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>[PAWN_nameDef] був інженером, відповідальним за виробництво авіації та космічних кораблів. [PAWN_pronoun] зосереджувався на покращенні ліній виробництва, і був відомий за експертність [PAWN_possessive] в технічних і науково-дослідних питаннях.</desc>
+    <desc>[PAWN_nameDef] був інженером, відповідальним за виробництво авіації та космічних кораблів. [PAWN_pronoun] зосереджувався на покращенні ліній виробництва, і був відомий за [PAWN_possessive] експертність в технічних і науково-дослідних питаннях.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer22>
@@ -151,7 +151,7 @@
     <!-- EN: programmer -->
     <titleShort>програміст</titleShort>
     <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-    <desc>[PAWN_nameDef] служив у підррозділі військової робототехніки, і розробляв розумніший бойовий ШІ.\n\nЗа весь час служби [PAWN_pronoun] в підрозділі, [PAWN_pronoun] жодного разу не спілкувався з іншою людиною. [PAWN_pronoun] використовував весь час [PAWN_possessive] спілкуючись з ШІ, який [PAWN_pronoun] розробляв.</desc>
+    <desc>[PAWN_nameDef] служив у підррозділі військової робототехніки, і розробляв розумніші бойові ШІ.\n\nЗа весь той час, поки [PAWN_pronoun] служив в підрозділі, [PAWN_pronoun] жодного разу не спілкувався з іншою людиною. [PAWN_pronoun] використовував весь [PAWN_possessive] час спілкуючись з ШІ, який [PAWN_pronoun] розробляв.</desc>
   </AIProgrammer22>
   
   <AIResearcher94>
@@ -160,7 +160,7 @@
     <!-- EN: researcher -->
     <titleShort>дослідник</titleShort>
     <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-    <desc>[PAWN_nameDef] був досвідченим експертом з штучного інтеллекту, робототехніки, і інтерактивної голографії. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication.</desc>
+    <desc>[PAWN_nameDef] був досвідченим експертом з штучного інтеллекту, робототехніки, і інтерактивної голографії. [PAWN_possessive] дружба з штучними інтелектами, які [PAWN_pronoun] створив, дала [PAWN_objective] впевненість для взаємодії з реальним илюдьми, і [PAWN_pronoun] скоро став майстром з особистої коммунікації.</desc>
   </AIResearcher94>
   
   <AlcoholicTrucker93>
@@ -169,16 +169,16 @@
     <!-- EN: alcoholic -->
     <titleShort>алкоголік</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence. -->
-    <desc>[PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence.</desc>
+    <desc>[PAWN_nameDef] був космічним дальнобійником, що працював у Arcknight Industries, коли [PAWN_pronoun] вбив [PAWN_possessive] дружину і доньку в аварії.\n\n[PAWN_possessive] тіло було відновлено за допомогою експереминтаьної нано-генетичної терапії. Тепер [PAWN_possessive] м'язи постійно відновлюються і застигають, і кожний рух роздирає тканини заново. [PAWN_pronoun] витримує біль в тиші.</desc>
   </AlcoholicTrucker93>
   
   <AmateurAstronomer77>
     <!-- EN: amateur astronomer -->
-    <title>amateur astronomer</title>
+    <title>астроном-аматор</title>
     <!-- EN: astronomer -->
-    <titleShort>astronomer</titleShort>
+    <titleShort>астроном</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>[PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there.</desc>
+    <desc>[PAWN_nameDef] захроплювався астрономією. [PAWN_pronoun] міг годинами дивитись на планети й туманності крізь [PAWN_possessive] телескоп.\n\n[PAWN_pronoun] отримав лаври за знаходження невеличкої комети, яка, в майбутньому, зіткнулась би з недалеким супутником і зірвала б там операції з видобутку корисних копалин.</desc>
   </AmateurAstronomer77>
   
   <AmateurBotanist79>
@@ -187,7 +187,7 @@
     <!-- EN: botanist -->
     <titleShort>ботанік</titleShort>
     <!-- EN: Spending many summers crawling through dirt, [PAWN_nameDef] found [PAWN_pronoun] had quite the green thumb. Instead of learning to cook the food [PAWN_pronoun] grew, [PAWN_pronoun] just grew more and more. -->
-    <desc>Spending many summers crawling through dirt, [PAWN_nameDef] found [PAWN_pronoun] had quite the green thumb. Instead of learning to cook the food [PAWN_pronoun] grew, [PAWN_pronoun] just grew more and more.</desc>
+    <desc>Після багатьох років, витраченних на повзання в землі, [PAWN_nameDef] виявив, що [PAWN_pronoun] має талант до садівництва. Замість того, щоб навчитись готувати їжу, яку [PAWN_pronoun] виростив, [PAWN_pronoun] просто вирощував більше й більше.</desc>
   </AmateurBotanist79>
   
   <AmateurEngineer3>
@@ -196,7 +196,7 @@
     <!-- EN: engineer -->
     <titleShort>інженер</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration. -->
-    <desc>[PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration.</desc>
+    <desc>[PAWN_nameDef] виріс у родині з воєнним та інженерним минулим. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration.</desc>
   </AmateurEngineer3>
   
   <AnarchistRebel77>
@@ -2921,7 +2921,7 @@
     <!-- EN: servant -->
     <titleShort>слуга</titleShort>
     <!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
-    <desc>[PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house.</desc>
+    <desc>[PAWN_nameDef] був слуго нижчого рівня у царському палаці.\n\n[PAWN_pronoun] прибирав кімнати та переносив речі за вказівками старшого персоналу, намагаючись залишатися невидимим для лордів та леді в палаці.</desc>
   </HouseServant86>
   
   <HumanComputer83>
@@ -2930,16 +2930,16 @@
     <!-- EN: computer -->
     <titleShort>комп'ютер</titleShort>
     <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
-    <desc>[PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure.</desc>
+    <desc>Виявилося, що [PAWN_nameDef] має чудову пам'ять і дар виконувати складні обчислення в [PAWN_possessive] голові. Диктатор з індустріальної планети вирішив найняти [PAWN_nameDef], щоб стежити за фінансами та витратами [PAWN_possessive] держави.</desc>
   </HumanComputer83>
   
   <HumanTrafficker35>
     <!-- EN: human trafficker -->
-    <title>human trafficker</title>
+    <title>торговець людьми</title>
     <!-- EN: trafficker -->
-    <titleShort>trafficker</titleShort>
+    <titleShort>торговець</titleShort>
     <!-- EN: [PAWN_nameDef] stole children from their homes to sell them to interested buyers.\n\nOver time, [PAWN_pronoun] lost what little moral sense [PAWN_pronoun] had left. -->
-    <desc>[PAWN_nameDef] stole children from their homes to sell them to interested buyers.\n\nOver time, [PAWN_pronoun] lost what little moral sense [PAWN_pronoun] had left.</desc>
+    <desc>[PAWN_nameDef] викарадав дітей з їх домівок, щоб продати зацікавленим покупцям.\n\nЗ часом, [PAWN_pronoun] втратив ті залишки моралі, що [PAWN_pronoun] мав.</desc>
   </HumanTrafficker35>
   
   <Hunter73>
