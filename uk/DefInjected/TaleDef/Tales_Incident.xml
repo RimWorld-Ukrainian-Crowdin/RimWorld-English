@@ -40,7 +40,7 @@
     <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below.</li>
     <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] мирно бродять.</li>
     <li>desc_sentence->There is no [Enemy] in sight.</li>
   </Aurora.rulePack.rulesStrings>
   
@@ -329,7 +329,7 @@
     <li>desc_sentence->A spectral [PersonJob] watches from the clouds.</li>
     <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature].</li>
     <li>desc_sentence->A [Community] is visible in the far distance.</li>
-    <li>desc_sentence->A spaceship is visible in the far distance.</li>
+    <li>desc_sentence->Космічний корабель видніється здалеку.</li>
   </EndGame_ShipEscape.rulePack.rulesStrings>
   
   <!-- EN: flashstorm -->
