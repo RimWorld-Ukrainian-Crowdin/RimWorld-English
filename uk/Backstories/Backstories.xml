@@ -304,7 +304,7 @@
     <!-- EN: architect -->
     <titleShort>архітектура</titleShort>
     <!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
-    <desc>[PAWN_nameDef] проектував та будував будівлі. У [PAWN_possessive] рідному блискучому світі, більшість технічних аспектів архітектури оброблялися ШІ. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites.</desc>
+    <desc>[PAWN_nameDef] проектував та будував будівлі. У [PAWN_possessive] рідному блискучому світі, більшість технічних аспектів архітектури оброблялися ШІ. Це дало [PAWN_objective] можливість просунути художні межі ремесла, але також означало, що [PAWN_pronoun] ніколи не мав бруднити [PAWN_possessive] руки на будмайданчиках.</desc>
   </Architect28>
   
   <ArchotechSpy75>
