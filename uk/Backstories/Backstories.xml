@@ -151,7 +151,7 @@
     <!-- EN: programmer -->
     <titleShort>програміст</titleShort>
     <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-    <desc>[PAWN_nameDef] служив у підррозділі військової робототехніки, і розробляв розумніший бойовий ШІ.\n\nЗа весь час служби [PAWN_pronoun] в підрозділі, [PAWN_pronoun] жодного разу не спілкувався з іншою людиною. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing.</desc>
+    <desc>[PAWN_nameDef] служив у підррозділі військової робототехніки, і розробляв розумніший бойовий ШІ.\n\nЗа весь час служби [PAWN_pronoun] в підрозділі, [PAWN_pronoun] жодного разу не спілкувався з іншою людиною. [PAWN_pronoun] використовував весь час [PAWN_possessive] спілкуючись з ШІ, який [PAWN_pronoun] розробляв.</desc>
   </AIProgrammer22>
   
   <AIResearcher94>
@@ -160,7 +160,7 @@
     <!-- EN: researcher -->
     <titleShort>дослідник</titleShort>
     <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-    <desc>[PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication.</desc>
+    <desc>[PAWN_nameDef] був досвідченим експертом з штучного інтеллекту, робототехніки, і інтерактивної голографії. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication.</desc>
   </AIResearcher94>
   
   <AlcoholicTrucker93>
