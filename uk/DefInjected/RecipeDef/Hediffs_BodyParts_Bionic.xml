@@ -9,9 +9,9 @@
   <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
-  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <InstallBionicEar.label>вживлення біонічного вуха</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
+  <InstallBionicEar.description>Вживити біонічне вухо.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
   <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
   
