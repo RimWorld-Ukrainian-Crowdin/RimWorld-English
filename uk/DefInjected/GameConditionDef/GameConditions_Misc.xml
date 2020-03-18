@@ -49,11 +49,11 @@
   <!-- EN: An extreme wave of heat is baking the area. -->
   <HeatWave.description>Хвиля непомірної спеки прокочується вашим поселенням.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>хвиля спеки спече територію навколо [map_definite] для [gameConditionDuration_duration], завдаючи шкоди сільськогосподарським культурам і, ймовірно, вбиваючи людей або тварин у неохолоджених районах</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Хвиля спеки минула.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool.</HeatWave.letterText>
+  <HeatWave.letterText>Почалася незвичайна хвиля спеки.\n\nХвилі спеки можуть викликати смертельний тепловий інсульт. Залишайтеся охолодженими, будуючи пасивний або електричний охолоджувач, або потрапивши в глибоку підземну ділянку, де скелі природно прохолодні.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>знищувач планет</Planetkiller.label>
@@ -63,13 +63,13 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>психічний дрон</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity.</PsychicDrone.description>
+  <PsychicDrone.description>Спрямований в далечінь архотех виділяє психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>у [psychicDroneLevel] психічної дрон буде дзижчати навколо [map_definite] для [gameConditionDuration_duration], підштовхуючи всіх людей [psychicDroneGender] породжуючи божевілля</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Дію психічного дрону завершено.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}.</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Кожен {0} колоніст відчуває хвилю страху і гніву!\n\nЯкийсь далекий двигун ненависті пробуджується. Це проектування психічного дрона на цьому сайті через орбітальний підсилювач, налаштований тільки вдавати {0}s. Протягом декількох днів настрій деяких людей буде трохи гіршим.\n\nРівень дрона - {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>психічний дрон</PsychicSoothe.label>
