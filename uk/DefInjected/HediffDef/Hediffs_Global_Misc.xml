@@ -130,7 +130,7 @@
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>хімічне отруєння</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
-  <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten.</ToxicBuildup.description>
+  <ToxicBuildup.description>Отрута в крові. Це можна отримати з різних джерел, в тому числі з токсин навколишнього середовища, отруйних укусів, або отруєної зброї.\n\nУ великих дозах, концентрація токсинів є смертельною. Навіть у малих дозах, він може генерувати рак.\n\nістоти, які вмирають від інтоксикації не можуть бути з'їденими.</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>незначне</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
