@@ -4,7 +4,7 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>біонічна рука</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>An installed bionic arm.</BionicArm.description>
+  <BionicArm.description>Встановлена біонічна рука.</BionicArm.description>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>кулак</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
