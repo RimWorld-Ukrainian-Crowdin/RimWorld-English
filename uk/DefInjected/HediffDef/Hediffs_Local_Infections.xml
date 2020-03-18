@@ -48,12 +48,12 @@
   <!-- EN: gut worms -->
   <GutWorms.label>кишкові глисти</GutWorms.label>
   <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger. -->
-  <GutWorms.description>Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger.</GutWorms.description>
+  <GutWorms.description>Гельмінти паразитують в кишечнику. Вони викликають блювоту. Вони також споживають їжу жертви, що збільшує голод.</GutWorms.description>
   
   <!-- EN: malaria -->
   <Malaria.label>малярія</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
-  <Malaria.description>An infectious disease caused by a mosquito-borne parasite.</Malaria.description>
+  <Malaria.description>Інфекційне захворювання, спричинене паразитом комарів.</Malaria.description>
   <!-- EN: minor -->
   <Malaria.stages.minor.label>мала</Malaria.stages.minor.label>
   <!-- EN: major -->
@@ -64,12 +64,12 @@
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>м’язові паразити</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
-  <MuscleParasites.description>Parasitic creatures in the muscles. These cause weakness and a lack of coordination.</MuscleParasites.description>
+  <MuscleParasites.description>Паразитарні істоти в м'язах, вони спричиняють слабкість і погану координацію.</MuscleParasites.description>
   
   <!-- EN: plague -->
   <Plague.label>чума</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
-  <Plague.description>An infectious disease caused by bacteria.</Plague.description>
+  <Plague.description>Інфекційне захворювання, спричинене бактеріями.</Plague.description>
   <!-- EN: minor -->
   <Plague.stages.minor.label>мала</Plague.stages.minor.label>
   <!-- EN: major -->
@@ -106,7 +106,7 @@
   <!-- EN: infection -->
   <WoundInfection.label>інфекція</WoundInfection.label>
   <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
-  <WoundInfection.description>Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves.</WoundInfection.description>
+  <WoundInfection.description>Бактеріальна інфекція в рані. Без лікування, бактерії будуть розмножуватися, взнищуючи місцеві тканини, і, в кінцевому рахунку, викликаючи зараження крові та смерть.\n\nчерез еони людських воєн, інфекцій часто забрали більше життів, ніж самі рани.</WoundInfection.description>
   <!-- EN: an infection -->
   <WoundInfection.labelNoun>інфекція</WoundInfection.labelNoun>
   <!-- EN: minor -->
