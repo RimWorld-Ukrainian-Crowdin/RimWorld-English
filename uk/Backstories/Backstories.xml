@@ -7100,11 +7100,11 @@
   
   <YouthDelinquent30>
     <!-- EN: youth delinquent -->
-    <title>youth delinquent</title>
+    <title>юний правопорушник</title>
     <!-- EN: delinquent -->
-    <titleShort>delinquent</titleShort>
+    <titleShort>правопорушник</titleShort>
     <!-- EN: [PAWN_nameDef] was the only child of celebrity sommeliers. [PAWN_possessive] parents expected [PAWN_objective] to take up the family profession, but after [PAWN_possessive] third admission to a youth detention center, this career path became unlikely.\n\nWhile in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in ornithology. -->
-    <desc>[PAWN_nameDef] was the only child of celebrity sommeliers. [PAWN_possessive] parents expected [PAWN_objective] to take up the family profession, but after [PAWN_possessive] third admission to a youth detention center, this career path became unlikely.\n\nWhile in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in ornithology.</desc>
+    <desc>[PAWN_nameDef] був єдиною дитиною відомих сомельє. [PAWN_possessive] parents expected [PAWN_objective] to take up the family profession, but after [PAWN_possessive] third admission to a youth detention center, this career path became unlikely.\n\nWhile in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in ornithology.</desc>
   </YouthDelinquent30>
   
   <YouthSoldier99>
