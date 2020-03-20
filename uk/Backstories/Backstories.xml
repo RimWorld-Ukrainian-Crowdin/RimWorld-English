@@ -358,7 +358,7 @@
     <!-- EN: dodger -->
     <titleShort>хитрун</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on one of the urbworlds and had to fend for [PAWN_objective]self all [PAWN_possessive] life. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words. -->
-    <desc>Виростаючи на одній з урб-планет, [PAWN_nameDef] довелося постійно відстоювати [PAWN_possessive] життя. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words.</desc>
+    <desc>Виростаючи на одній з урб-планет, [PAWN_nameDef] довелося постійно відстоювати [PAWN_possessive] життя. [PAWN_pronoun] ніколи нікому не довіряв, покладаючись на [PAWN_possessive] переконливість і хитрість, щоб вижити.\n\nНезабаром [PAWN_pronoun] почав вправно володіти як вогнепальною зброєю та ножами, так і словом.</desc>
   </ArtfulDodger78>
   
   <ArtifactHunter48>
@@ -367,7 +367,7 @@
     <!-- EN: artifacter -->
     <titleShort>шукач артефактів</titleShort>
     <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-    <desc>[PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive.</desc>
+    <desc>[PAWN_nameDef] став депресивним та втратив інтерес до життя. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive.</desc>
   </ArtifactHunter48>
   
   <ArtificerRampant95>
