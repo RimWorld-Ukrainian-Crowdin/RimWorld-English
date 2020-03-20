@@ -396,7 +396,7 @@
     <!-- EN: farmer -->
     <titleShort>фермер</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology. -->
-    <desc>[PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology.</desc>
+    <desc>[PAWN_nameDef] виріс на утопічній фермі [PAWN_possessive] батьків. Вони були однією з останніх ферм на планеті, що віддавали перевагу традиційним методам ведення сільського господарства, ніж передовим технологіям.</desc>
   </ArtisanFarmer23>
   
   <ArtisticWeirdo56>
@@ -410,9 +410,9 @@
   
   <ArtsPatron54>
     <!-- EN: arts patron -->
-    <title>arts patron</title>
+    <title>покровитель мистецтв</title>
     <!-- EN: patron -->
-    <titleShort>patron</titleShort>
+    <titleShort>меценат</titleShort>
     <!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
     <desc>[PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself.</desc>
   </ArtsPatron54>
