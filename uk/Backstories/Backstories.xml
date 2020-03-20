@@ -331,7 +331,7 @@
     <!-- EN: scientist -->
     <titleShort>учений</titleShort>
     <!-- EN: [PAWN_nameDef] did scientific research for a planetary army. [PAWN_pronoun] studied war scenarios and designed weapon systems to help win battles with a minimum of fuss. -->
-    <desc>[PAWN_nameDef] did scientific research for a planetary army. [PAWN_pronoun] studied war scenarios and designed weapon systems to help win battles with a minimum of fuss.</desc>
+    <desc>[PAWN_nameDef] робив наукові дослідження для планетарної армії. [PAWN_pronoun] вивчав воєнні сценарії та розробляв системи озброєння, щоб допомогти вигравати битви з мінімальними зусиллями.</desc>
   </ArmyScientist35>
   
   <ArmySergeant16>
@@ -340,7 +340,7 @@
     <!-- EN: sergeant -->
     <titleShort>сержант</titleShort>
     <!-- EN: [PAWN_nameDef] served in [PAWN_possessive] country's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances. -->
-    <desc>[PAWN_nameDef] served in [PAWN_possessive] country's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances.</desc>
+    <desc>[PAWN_nameDef] служив в армії [PAWN_possessive] країни, командуючи малими підрозділами в якості унтер-офіцера.\n\n[PAWN_pronoun] відзначився створенням тактично обгрунтованих планів, незважаючи на складні обставини.</desc>
   </ArmySergeant16>
   
   <Aromatherapist80>
@@ -349,7 +349,7 @@
     <!-- EN: therapist -->
     <titleShort>терапевт</titleShort>
     <!-- EN: [PAWN_nameDef] practiced aromatherapy, using essences extracted from home-grown plants. -->
-    <desc>[PAWN_nameDef] practiced aromatherapy, using essences extracted from home-grown plants.</desc>
+    <desc>[PAWN_nameDef] практикував ароматерапію, використовуючи есенції вирощених вдома рослин.</desc>
   </Aromatherapist80>
   
   <ArtfulDodger78>
