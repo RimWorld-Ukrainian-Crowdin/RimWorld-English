@@ -46,7 +46,7 @@
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>Список модифікації було змінено. Гра автоматично перезавантажиться.</ModsChanged>
+  <ModsChanged>Список модів було змінено. Гра автоматично перезавантажиться.</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
   <FailedToRestart>Щось пішло не так при перезавантажені. Гра не може повністю активувати (деактивувати) модифікації, тому деякі модифікації все ще будуть працювати (або ні).\n\n Рекомендуємо негайно перезавантажити гру для активації модів начисто.</FailedToRestart>
   <!-- EN: Restarting -->
@@ -112,13 +112,13 @@
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Load anyway</LoadAnyway>
+  <LoadAnyway>Все одно завантажити</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
+  <ChangeLoadedMods>Завантажити моди по списку зі файлу збереження</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <MissingMods>Деякі моди відсутні, тому їх треба спершу встановити,</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>Official content</OfficialContent>
+  <OfficialContent>Офіційний вміст</OfficialContent>
   <!-- EN: Active -->
   <ContentActive>Active</ContentActive>
   <!-- EN: Installed, but not active -->
@@ -172,13 +172,13 @@
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
   <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
+  <ModsMismatchWarningTitle>Невідповідність модів</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Цей файл було збережено зі набором активних модів, що відрізняється від поточного. Це може спричинити проблеми, залежно від того, що саме ці моди роблять.\n\nФайл було збережено з (у цьому порядку)\n\n{0}\n\nЗараз активні (у цьому порядку):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>Ви змінили налаштування екрану. Чи добре працюють нові налаштування?\n\nСтарі налаштування буде відновлено автоматично через {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>Залишити</ResolutionKeep>
   <!-- EN: Revert -->
