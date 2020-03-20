@@ -387,7 +387,7 @@
     <!-- EN: artilleer -->
     <titleShort>артлилер</titleShort>
     <!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
-    <desc>[PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar.</desc>
+    <desc>[PAWN_nameDef] вантажив снаряди та націлював артилерію щоб здалеко обстрілювати ворогів [PAWN_possessive] армії.</desc>
   </Artilleryman28>
   
   <ArtisanFarmer23>
