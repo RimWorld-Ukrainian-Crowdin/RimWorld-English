@@ -367,7 +367,7 @@
     <!-- EN: artifacter -->
     <titleShort>шукач артефактів</titleShort>
     <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-    <desc>[PAWN_nameDef] став депресивним та втратив інтерес до життя. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive.</desc>
+    <desc>[PAWN_nameDef] став депресивним та втратив інтерес до життя. [PAWN_pronoun] подорожував з планети на планету, шукаючи психо артефактів серед руїн механоїдів в надії, що вони вилікують біль у [PAWN_possessive] душі.\n\nРетельне планування та непохитна зброя в руці берегли життя [PAWN_nameDef].</desc>
   </ArtifactHunter48>
   
   <ArtificerRampant95>
@@ -381,11 +381,11 @@
   
   <Artilleryman28>
     <!-- EN: artilleryman -->
-    <title>artilleryman</title>
+    <title>артилерист</title>
     <!-- EN: artillerywoman -->
-    <titleFemale>artillerywoman</titleFemale>
+    <titleFemale>артилеристка</titleFemale>
     <!-- EN: artilleer -->
-    <titleShort>artilleer</titleShort>
+    <titleShort>артлилер</titleShort>
     <!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
     <desc>[PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar.</desc>
   </Artilleryman28>
