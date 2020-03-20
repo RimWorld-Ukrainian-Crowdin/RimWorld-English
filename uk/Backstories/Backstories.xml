@@ -500,9 +500,9 @@
   
   <Athlete47>
     <!-- EN: athlete -->
-    <title>athlete</title>
+    <title>атлет</title>
     <!-- EN: athlete -->
-    <titleShort>athlete</titleShort>
+    <titleShort>атлет</titleShort>
     <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
     <desc>[PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept.</desc>
   </Athlete47>
