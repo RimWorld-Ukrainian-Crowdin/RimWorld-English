@@ -17,7 +17,7 @@
   <!-- EN: Version {0} -->
   <VersionIndicator>Версія {0}</VersionIndicator>
   <!-- EN: Game version -->
-  <GameVersionIndicator>Game version</GameVersionIndicator>
+  <GameVersionIndicator>Версія гри</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>версія розроблення</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
@@ -27,7 +27,7 @@
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>{0} and {1}</ToCommaListAnd>
+  <ToCommaListAnd>{0} та {1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -37,7 +37,7 @@
   <!-- EN: new -->
   <New>новий</New>
   <!-- EN: Gender -->
-  <Gender>Gender</Gender>
+  <Gender>Стать</Gender>
   <!-- EN: min -->
   <min>мін</min>
   <!-- EN: max -->
@@ -138,7 +138,7 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
-  <ThingMadeOfStuffLabel>{0} створено {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{1} з {0}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>{PAWN_labelShort} {1}</SomeonesRoom>
