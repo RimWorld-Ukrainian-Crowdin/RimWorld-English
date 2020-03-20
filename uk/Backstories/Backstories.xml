@@ -527,13 +527,13 @@
   
   <BalletDancer81>
     <!-- EN: ballet dancer -->
-    <title>ballet dancer</title>
+    <title>танцюрист балету</title>
     <!-- EN: dancer -->
     <titleShort>танцюрист</titleShort>
     <!-- EN: ballerina -->
-    <titleShortFemale>ballerina</titleShortFemale>
+    <titleShortFemale>балерина</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
-    <desc>[PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands.</desc>
+    <desc>[PAWN_nameDef] був танцюристом у традиційній балетній трупі. [PAWN_pronoun] майстерно оволодів древніми рухами і розважав тисячі.</desc>
   </BalletDancer81>
   
   <BanditLeader74>
@@ -547,9 +547,9 @@
   
   <Banished68>
     <!-- EN: banished -->
-    <title>banished</title>
+    <title>вигнанець</title>
     <!-- EN: banished -->
-    <titleShort>banished</titleShort>
+    <titleShort>вигнанець</titleShort>
     <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
     <desc>[PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time.</desc>
   </Banished68>
@@ -610,7 +610,7 @@
   
   <BehaviourResearch74>
     <!-- EN: behaviour research -->
-    <title>behaviour research</title>
+    <title>дослідник поведінки</title>
     <!-- EN: scientist -->
     <titleShort>учений</titleShort>
     <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
