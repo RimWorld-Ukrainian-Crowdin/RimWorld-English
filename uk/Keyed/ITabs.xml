@@ -203,15 +203,15 @@
   <!-- EN: Slightly impaired -->
   <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>Не задано</NoPain>
+  <NoPain>Немає</NoPain>
   <!-- EN: Little -->
-  <LittlePain>Little</LittlePain>
+  <LittlePain>Слабкий</LittlePain>
   <!-- EN: Medium -->
-  <MediumPain>Помірний режим</MediumPain>
+  <MediumPain>Середній</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>Severe</SeverePain>
+  <SeverePain>Значний</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>Найжорсткіший режим</ExtremePain>
+  <ExtremePain>Надзвичайний</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
