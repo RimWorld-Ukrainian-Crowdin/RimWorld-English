@@ -13,16 +13,16 @@
   <!-- EN: deer -->
   <Deer.label>олень</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>олень самка</Deer.labelFemale>
+  <Deer.labelFemale>олениха</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>олень самець</Deer.labelMale>
+  <Deer.labelMale>олень</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>олень</Deer.labelPlural>
+  <Deer.labelPlural>олені</Deer.labelPlural>
   
   <!-- EN: elk -->
   <Elk.label>лось</Elk.label>
   <!-- EN: elk -->
-  <Elk.labelPlural>лось</Elk.labelPlural>
+  <Elk.labelPlural>лосі</Elk.labelPlural>
   <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>лосеня</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
