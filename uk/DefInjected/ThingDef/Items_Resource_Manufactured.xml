@@ -22,7 +22,7 @@
   <MedicineHerbal.description>A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing.</MedicineHerbal.description>
   
   <!-- EN: medicine -->
-  <MedicineIndustrial.label>медицина</MedicineIndustrial.label>
+  <MedicineIndustrial.label>ліки</MedicineIndustrial.label>
   <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
   <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
   
