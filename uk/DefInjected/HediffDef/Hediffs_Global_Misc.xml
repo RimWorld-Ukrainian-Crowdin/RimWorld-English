@@ -6,11 +6,11 @@
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
   <Anesthetic.description>Снодійне у крові. Знеболювальні роблять персонажів несвідомими.</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>зношування</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>спадання</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
-  <Anesthetic.stages.woozy.label>одурманений</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.woozy.label>одурманення</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
-  <Anesthetic.stages.sedated.label>відключений</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>відключення</Anesthetic.stages.sedated.label>
   
   <!-- EN: blood loss -->
   <BloodLoss.label>крововтрата</BloodLoss.label>
@@ -19,9 +19,9 @@
   <!-- EN: minor -->
   <BloodLoss.stages.minor-0.label>мала</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-1.label>мала</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.minor-1.label>легка</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
-  <BloodLoss.stages.moderate.label>середні</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.moderate.label>помірна</BloodLoss.stages.moderate.label>
   <!-- EN: severe -->
   <BloodLoss.stages.severe.label>рясна</BloodLoss.stages.severe.label>
   <!-- EN: extreme -->
