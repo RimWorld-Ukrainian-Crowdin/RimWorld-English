@@ -39,9 +39,9 @@
   <!-- EN: Gender -->
   <Gender>Стать</Gender>
   <!-- EN: min -->
-  <min>мін</min>
+  <min>не менше</min>
   <!-- EN: max -->
-  <max>макс</max>
+  <max>не більше</max>
   <!-- EN: chance -->
   <chance>шанс</chance>
   <!-- EN: context -->
@@ -79,7 +79,7 @@
   <!-- EN: Average -->
   <Average>Середня</Average>
   <!-- EN: Cause -->
-  <Cause>Cause</Cause>
+  <Cause>Причина</Cause>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
 
