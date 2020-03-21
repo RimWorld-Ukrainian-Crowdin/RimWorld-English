@@ -359,23 +359,23 @@
   <!-- EN: Min. food quality -->
   <MinFoodQuality>Min. food quality</MinFoodQuality>
   <!-- EN: Diet -->
-  <Diet>Diet</Diet>
+  <Diet>Дієта</Diet>
   <!-- EN: Nutrition need per day -->
   <NutritationEatenPerDay>Nutrition need per day</NutritationEatenPerDay>
   <!-- EN: Leather type -->
-  <LeatherType>Leather type</LeatherType>
+  <LeatherType>Тип шкіри</LeatherType>
   <!-- EN: Body size -->
   <BodySize>Body size</BodySize>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>Base price</MarketValue>
+  <MarketValue>Базова ціна</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Covers</Covers>
+  <Covers>Прикриває</Covers>
   <!-- EN: Created at -->
   <CreatedAt>Created at</CreatedAt>
   <!-- EN: Layer -->
-  <Layer>Layer</Layer>
+  <Layer>Шар</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
