@@ -733,13 +733,13 @@
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
-  <Outfit>Outfit</Outfit>
+  <Outfit>Набір одягу</Outfit>
   <!-- EN: Select outfit... -->
-  <SelectOutfit>Select outfit...</SelectOutfit>
+  <SelectOutfit>Вибрати набір одягу...</SelectOutfit>
   <!-- EN: New outfit -->
-  <NewOutfit>New outfit</NewOutfit>
+  <NewOutfit>Новий набір одягу</NewOutfit>
   <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
+  <DeleteOutfit>Видалити набір одягу...</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
   <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
