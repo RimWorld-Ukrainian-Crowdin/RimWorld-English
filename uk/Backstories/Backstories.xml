@@ -3470,13 +3470,13 @@
   
   <Mailman2>
     <!-- EN: mailman -->
-    <title>mailman</title>
+    <title>листоноша</title>
     <!-- EN: mail carrier -->
-    <titleFemale>mail carrier</titleFemale>
+    <titleFemale>листоноша</titleFemale>
     <!-- EN: mailman -->
-    <titleShort>mailman</titleShort>
+    <titleShort>листоноша</titleShort>
     <!-- EN: mailwoman -->
-    <titleShortFemale>mailwoman</titleShortFemale>
+    <titleShortFemale>листоноша</titleShortFemale>
     <!-- EN: [PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs. -->
     <desc>[PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs.</desc>
   </Mailman2>
