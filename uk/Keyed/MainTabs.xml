@@ -25,15 +25,15 @@
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
   <PriorityOneDoneFirst>Priority 1 is done first. Priority 4 is done last.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>Will not do</Priority0>
+  <Priority0>Не буде робити</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>Top priority</Priority1>
+  <Priority1>Найвищий пріоритет</Priority1>
   <!-- EN: High priority -->
-  <Priority2>High priority</Priority2>
+  <Priority2>Високий пріоритет</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>Normal priority</Priority3>
+  <Priority3>Звичайний пріоритет</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>Low priority</Priority4>
+  <Priority4>Низький пріоритет</Priority4>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -49,7 +49,7 @@
   <!-- EN: Forced apparel -->
   <ForcedApparel>Примусовий одяг</ForcedApparel>
   <!-- EN: Edit... -->
-  <AssignTabEdit>Редагувати...</AssignTabEdit>
+  <AssignTabEdit>Змінити...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Управління політики щодо наркотиків</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
