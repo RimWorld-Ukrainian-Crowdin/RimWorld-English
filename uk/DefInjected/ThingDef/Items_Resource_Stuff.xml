@@ -29,27 +29,27 @@
   <!-- EN: plasteel -->
   <Plasteel.label>пласталь</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure.</Plasteel.description>
+  <Plasteel.description>Конструкційний матеріал передових космічних технологій. Завдяки своїй унікальній молекулярній структурі пласталь надзвичайно сильна.</Plasteel.description>
   
   <!-- EN: silver -->
   <Silver.label>срібло</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making decorations.</Silver.description>
+  <Silver.description>Цей метал в основному використовується як валюта. Його також можна використовувати для виготовлення прикрас.</Silver.description>
   
   <!-- EN: steel -->
   <Steel.label>сталь</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines.</Steel.description>
+  <Steel.description>Залізно-вуглецевий металевий сплав, який використовується для будівництва величезної кількості конструкцій, зброї та машин.</Steel.description>
   
   <!-- EN: synthread -->
   <Synthread.label>синтетична тканина</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.description>Синтетична тканина з космічних розробок, призначена для виготовлення звичайного одягу. М'яка, легка, міцна і добре утеплює.</Synthread.description>
   
   <!-- EN: uranium -->
   <Uranium.label>уран</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition.</Uranium.description>
+  <Uranium.description>Темний важкий метал. Хоча він найбільш відомий як паливо для ядерних пристроїв, його надзвичайна щільність і твердість також сприяють виготовленню певної зброї, броні та боєприпасів.</Uranium.description>
   
   <!-- EN: wood -->
   <WoodLog.label>дерево</WoodLog.label>
