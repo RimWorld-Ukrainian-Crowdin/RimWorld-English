@@ -47,27 +47,27 @@
   <Leather_GuineaPig.description>Клаптики хутра морської свинки. Делікатні, але розкішні.</Leather_GuineaPig.description>
   
   <!-- EN: heavy fur -->
-  <Leather_Heavy.label>heavy fur</Leather_Heavy.label>
+  <Leather_Heavy.label>важке хутро</Leather_Heavy.label>
   <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
-  <Leather_Heavy.description>Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well.</Leather_Heavy.description>
+  <Leather_Heavy.description>Товста шкіра покрита довгим, міцним хутряним килимом. Добувається з великих та витривалих тварин. Ця товста шкіра дуже добре утеплює та захищає.</Leather_Heavy.description>
   
   <!-- EN: human leather -->
   <Leather_Human.label>людська шкіра</Leather_Human.label>
   <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
+  <Leather_Human.description>Вичинена, висушена та вичишена людська шкіра. Більшість людей вважають цей матеріал жахливим, а деякі - захоплюючим. Хоча шкіра непогана, вона досить слабо захищає та ізолює.</Leather_Human.description>
   
   <!-- EN: lightleather -->
-  <Leather_Light.label>lightleather</Leather_Light.label>
+  <Leather_Light.label>легка шкіра</Leather_Light.label>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
-  <Leather_Light.description>Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers.</Leather_Light.description>
+  <Leather_Light.description>Легка та тонка шкіра. Напевно, знята з невеликої тварини. Поступається захистом товстішим шкірам.</Leather_Light.description>
   
   <!-- EN: lizardskin -->
-  <Leather_Lizard.label>lizardskin</Leather_Lizard.label>
+  <Leather_Lizard.label>шкіра ящірки</Leather_Lizard.label>
   <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
-  <Leather_Lizard.description>The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all.</Leather_Lizard.description>
+  <Leather_Lizard.description>Вичинена шкіра холоднокровної рептилії. Шкіра ящірки досить міцна, але зовсім не ізолює.</Leather_Lizard.description>
   
   <!-- EN: panthera fur -->
-  <Leather_Panthera.label>panthera fur</Leather_Panthera.label>
+  <Leather_Panthera.label>хутро пантери</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
   <Leather_Panthera.description>A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat.</Leather_Panthera.description>
   
