@@ -41,18 +41,18 @@
   <!-- EN: ibex -->
   <Ibex.label>коза</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex.description>Дикий предок одомашненої кози. Козли живуть на території, де більшість антилоп не змогли вижити, поїдаючи лишайники та рідкі гірські рослини. Вони відомі спритним перескакуванням по голих скелях - і своєю жорстокою таранною атакою.</Ibex.description>
   <!-- EN: left hoof -->
-  <Ibex.tools.left_hoof.label>left hoof</Ibex.tools.left_hoof.label>
+  <Ibex.tools.left_hoof.label>ліве копито</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Ibex.tools.right_hoof.label>right hoof</Ibex.tools.right_hoof.label>
+  <Ibex.tools.right_hoof.label>праве копито</Ibex.tools.right_hoof.label>
   <!-- EN: head -->
   <Ibex.tools.head.label>голова</Ibex.tools.head.label>
   
   <!-- EN: tortoise -->
   <Tortoise.label>черепаха</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.description>Ця важкоброньована сухопутна рептилія відома своєю низькою швидкістю та напрочуд жахливим укусом. Через свою природню броню її важко вбити, а вона може нанести серйозні подшкодженя під час довгого бою.</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>дзьоб</Tortoise.tools.beak.label>
   <!-- EN: head -->
