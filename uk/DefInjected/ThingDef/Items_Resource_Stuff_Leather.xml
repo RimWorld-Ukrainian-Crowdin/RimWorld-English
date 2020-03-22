@@ -2,32 +2,32 @@
 <LanguageData>
   
   <!-- EN: bearskin -->
-  <Leather_Bear.label>bearskin</Leather_Bear.label>
+  <Leather_Bear.label>ведмежа шкіра</Leather_Bear.label>
   <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
-  <Leather_Bear.description>The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_Bear.description>
+  <Leather_Bear.description>Міцна хутряна шкіра ведмедя. У порівнянні з більшістю шкір, вона досить жорстка і трохи краща за всі види регулювання температури.</Leather_Bear.description>
   
   <!-- EN: birdskin -->
-  <Leather_Bird.label>birdskin</Leather_Bird.label>
+  <Leather_Bird.label>шкіра птахів</Leather_Bird.label>
   <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
-  <Leather_Bird.description>Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_Bird.description>
+  <Leather_Bird.description>Вичинена, висушена та вичишена пташина шкіра. Досить делікатна. Без пір’я вона забезпечує низький захист від спеки чи холоду.</Leather_Bird.description>
   
   <!-- EN: bluefur -->
-  <Leather_Bluefur.label>bluefur</Leather_Bluefur.label>
+  <Leather_Bluefur.label>синє хутро</Leather_Bluefur.label>
   <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
-  <Leather_Bluefur.description>The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates.</Leather_Bluefur.description>
+  <Leather_Bluefur.description>Пухнаста шкура муффало. Впізнавана своїм характерним синім відтінком. Добре регулює температуру в холодному кліматі.</Leather_Bluefur.description>
   
   <!-- EN: camelhide -->
-  <Leather_Camel.label>camelhide</Leather_Camel.label>
+  <Leather_Camel.label>верблюжа шкіра</Leather_Camel.label>
   <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
-  <Leather_Camel.description>Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates.</Leather_Camel.description>
+  <Leather_Camel.description>Вичинена, висушена та вичишена верблюжа шкіра. Добре регулює температуру в жаркому кліматі.</Leather_Camel.description>
   
   <!-- EN: chinchilla fur -->
-  <Leather_Chinchilla.label>chinchilla fur</Leather_Chinchilla.label>
+  <Leather_Chinchilla.label>хутро шиншилли</Leather_Chinchilla.label>
   <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
-  <Leather_Chinchilla.description>Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.description>Вичинена, висушена та вичишена шкіра шиншилли. Відомне як надзвичайно розкішне та ізолююче хутро. Надзвичайно цінне.</Leather_Chinchilla.description>
   
   <!-- EN: dog leather -->
-  <Leather_Dog.label>dog leather</Leather_Dog.label>
+  <Leather_Dog.label>собача шкіра</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
   <Leather_Dog.description>Дублена, висушена, оброблена шкіра. Хороший традиційний матеріал для виготовлення одягу та сумок.</Leather_Dog.description>
   
