@@ -52,35 +52,35 @@
   <Uranium.description>Темний важкий метал. Хоча він найбільш відомий як паливо для ядерних пристроїв, його надзвичайна щільність і твердість також сприяють виготовленню певної зброї, броні та боєприпасів.</Uranium.description>
   
   <!-- EN: wood -->
-  <WoodLog.label>дерево</WoodLog.label>
+  <WoodLog.label>деревина</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
+  <WoodLog.description>Деревина з дерев або інших волокнистих рослин. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
   <!-- EN: log -->
   <WoodLog.tools.log.label>колода</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>alpaca wool</WoolAlpaca.label>
+  <WoolAlpaca.label>шерсть альпаки</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>The remarkably soft wool of an alpaca. It is very warm.</WoolAlpaca.description>
+  <WoolAlpaca.description>Надзвичайно м'яка шерсть альпаки. Дуже тепла.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>bison wool</WoolBison.label>
+  <WoolBison.label>шерсть бізона</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>Thick and coarse wool of a bison. Quite warm.</WoolBison.description>
+  <WoolBison.description>Густа та груба шерсть зубра. Досить тепла.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.label>шерсть гігантського лінивця</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm.</WoolMegasloth.description>
+  <WoolMegasloth.description>Хоча дещо грубі, довгі волокна шерсті гігантського лінивця роблять її дуже міцною. Винятково тепла.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>muffalo wool</WoolMuffalo.label>
+  <WoolMuffalo.label>шерсть муффало</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions.</WoolMuffalo.description>
+  <WoolMuffalo.description>М'який, легкий і забезпечує дуже хорошу ізоляцію. Одяг з вовни муффало зігріває тіло навіть у дуже холодних умовах.</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>sheep wool</WoolSheep.label>
+  <WoolSheep.label>овеча шерсть</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>Sheep's wool. It provides good insulation.</WoolSheep.description>
+  <WoolSheep.description>Овеча вовна. Добре ізолює.</WoolSheep.description>
   
 </LanguageData>
