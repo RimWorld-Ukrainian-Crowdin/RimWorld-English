@@ -4,24 +4,24 @@
   <!-- EN: caribou -->
   <Caribou.label>карибу</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.description>Великий представник сімейства оленів, добре пристосований до життя в холодному кліматі. Карібу можна доїти, але вони не будуть носити багаж.</Caribou.description>
   <!-- EN: left hoof -->
-  <Caribou.tools.left_hoof.label>left hoof</Caribou.tools.left_hoof.label>
+  <Caribou.tools.left_hoof.label>ліве копито</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Caribou.tools.right_hoof.label>right hoof</Caribou.tools.right_hoof.label>
+  <Caribou.tools.right_hoof.label>праве копито</Caribou.tools.right_hoof.label>
   <!-- EN: head -->
   <Caribou.tools.head.label>голова</Caribou.tools.head.label>
   
   <!-- EN: deer -->
   <Deer.label>олень</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick.</Deer.description>
+  <Deer.description>Стадне травоїдне середніх розмірів, живе переважно в змішаних лісах і рівнинах.</Deer.description>
   <!-- EN: venison -->
-  <Deer.race.meatLabel>venison</Deer.race.meatLabel>
+  <Deer.race.meatLabel>оленина</Deer.race.meatLabel>
   <!-- EN: left hoof -->
-  <Deer.tools.left_hoof.label>left hoof</Deer.tools.left_hoof.label>
+  <Deer.tools.left_hoof.label>ліве копито</Deer.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Deer.tools.right_hoof.label>right hoof</Deer.tools.right_hoof.label>
+  <Deer.tools.right_hoof.label>праве копито</Deer.tools.right_hoof.label>
   <!-- EN: teeth -->
   <Deer.tools.teeth.label>зуби</Deer.tools.teeth.label>
   <!-- EN: head -->
@@ -30,11 +30,11 @@
   <!-- EN: elk -->
   <Elk.label>лось</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <Elk.description>Великий представник сімейства оленів, добре пристосований до життя в холодному кліматі. Одомашнених лосів можна доїти, але вони не будуть носити багаж.</Elk.description>
   <!-- EN: left hoof -->
-  <Elk.tools.left_hoof.label>left hoof</Elk.tools.left_hoof.label>
+  <Elk.tools.left_hoof.label>ліве копито</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Elk.tools.right_hoof.label>right hoof</Elk.tools.right_hoof.label>
+  <Elk.tools.right_hoof.label>праве копито</Elk.tools.right_hoof.label>
   <!-- EN: head -->
   <Elk.tools.head.label>голова</Elk.tools.head.label>
   
