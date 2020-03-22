@@ -61,9 +61,9 @@
   <!-- EN: wild boar -->
   <WildBoar.label>дикий кабан</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks.</WildBoar.description>
+  <WildBoar.description>Це волохате всеїдне є нащадком свиней, що колись втекли та еволюціонували для життя в дикій природі.\n\nІкла роблять кабана кращим бійцем, ніж його родичів - одомашнених свиней. На жаль, він занадто непокірний, щоб навчитися виконувати важкі завдання.</WildBoar.description>
   <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>бивень</WildBoar.tools.tusk.label>
+  <WildBoar.tools.tusk.label>ікла</WildBoar.tools.tusk.label>
   <!-- EN: head -->
   <WildBoar.tools.head.label>голова</WildBoar.tools.head.label>
   
