@@ -29,22 +29,22 @@
   <!-- EN: dog leather -->
   <Leather_Dog.label>собача шкіра</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Dog.description>Дублена, висушена, оброблена шкіра. Хороший традиційний матеріал для виготовлення одягу та сумок.</Leather_Dog.description>
+  <Leather_Dog.description>Вичинена, висушена та вичишена шкіра. Хороший традиційний матеріал для виготовлення одягу та сумок.</Leather_Dog.description>
   
   <!-- EN: elephant leather -->
-  <Leather_Elephant.label>elephant leather</Leather_Elephant.label>
+  <Leather_Elephant.label>слонова шкіра</Leather_Elephant.label>
   <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
-  <Leather_Elephant.description>Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator.</Leather_Elephant.description>
+  <Leather_Elephant.description>Вичинена, висушена та вичишена слонова шкіра. Досить жорстка, але погано ізолює.</Leather_Elephant.description>
   
   <!-- EN: foxfur -->
-  <Leather_Fox.label>foxfur</Leather_Fox.label>
+  <Leather_Fox.label>хутро лисиці</Leather_Fox.label>
   <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
-  <Leather_Fox.description>The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price.</Leather_Fox.description>
+  <Leather_Fox.description>Шкірка лисиці. Добре захищає від холоду і досить розкішна, приносить гарний прибуток.</Leather_Fox.description>
   
   <!-- EN: guinea pig fur -->
-  <Leather_GuineaPig.label>guinea pig fur</Leather_GuineaPig.label>
+  <Leather_GuineaPig.label>хутро морської свинки</Leather_GuineaPig.label>
   <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
-  <Leather_GuineaPig.description>Sheets of guinea pig fur. It is delicate, but luxurious.</Leather_GuineaPig.description>
+  <Leather_GuineaPig.description>Клаптики хутра морської свинки. Делікатні, але розкішні.</Leather_GuineaPig.description>
   
   <!-- EN: heavy fur -->
   <Leather_Heavy.label>heavy fur</Leather_Heavy.label>
