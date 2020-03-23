@@ -27,7 +27,7 @@
   <BlocksSlate.description>Блоки цільного сланцю. Тьмяний камінь, що легко відламується.</BlocksSlate.description>
   
   <!-- EN: granite chunk -->
-  <ChunkGranite.label>granite chunk</ChunkGranite.label>
+  <ChunkGranite.label>брила граніту</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkGranite.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkGranite.description>
   
