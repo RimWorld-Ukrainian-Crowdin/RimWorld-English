@@ -16,37 +16,37 @@
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
   <KnowColonistExecuted.stages.justified_execution_of_colonist.description>Винний поселенець був страчений. Це було виправдано, але все одно сумно.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
-  <KnowColonistExecuted.stages.colonist_euthanized.label>colonist euthanized</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>поселененця евтаназовано</KnowColonistExecuted.stages.colonist_euthanized.label>
   <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
-  <KnowColonistExecuted.stages.colonist_euthanized.description>A colonist was euthanized. It was humane, but still sad.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>Поселенець був евтаназований. Це гуманно, але все одно сумно.</KnowColonistExecuted.stages.colonist_euthanized.description>
   <!-- EN: colonist executed -->
-  <KnowColonistExecuted.stages.colonist_executed.label>colonist executed</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.label>поселенця страчено</KnowColonistExecuted.stages.colonist_executed.label>
   <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
-  <KnowColonistExecuted.stages.colonist_executed.description>A colonist was killed in cold blood. It seemed a bit evil.</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_executed.description>Поселенця холоднокровно вбили. Це здалося трохи злим.</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>colonist organ-harvested</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
   <KnowColonistExecuted.stages.colonist_organharvested.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
-  <KnowGuestExecuted.stages.justified_execution.label>justified execution</KnowGuestExecuted.stages.justified_execution.label>
+  <KnowGuestExecuted.stages.justified_execution.label>виправдана страта</KnowGuestExecuted.stages.justified_execution.label>
   <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
-  <KnowGuestExecuted.stages.justified_execution.description>A guilty prisoner or guest was executed. It was justified, but still sad.</KnowGuestExecuted.stages.justified_execution.description>
+  <KnowGuestExecuted.stages.justified_execution.description>Винний в'язень чи гість був страчений. Це було виправдано, але все одно сумно.</KnowGuestExecuted.stages.justified_execution.description>
   <!-- EN: someone was euthanized -->
-  <KnowGuestExecuted.stages.someone_was_euthanized.label>someone was euthanized</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>когось евтанізували</KnowGuestExecuted.stages.someone_was_euthanized.label>
   <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
   <KnowGuestExecuted.stages.someone_was_euthanized.description>A prisoner or guest was euthanized. It was humane, but still sad.</KnowGuestExecuted.stages.someone_was_euthanized.description>
   <!-- EN: someone was executed -->
-  <KnowGuestExecuted.stages.someone_was_executed.label>someone was executed</KnowGuestExecuted.stages.someone_was_executed.label>
+  <KnowGuestExecuted.stages.someone_was_executed.label>когось стратили</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
-  <KnowGuestExecuted.stages.someone_was_executed.description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</KnowGuestExecuted.stages.someone_was_executed.description>
+  <KnowGuestExecuted.stages.someone_was_executed.description>В'язня чи гостя холоднокровно вбили. Це здалося трохи злим.</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>someone was organ-murdered</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>помер невинний в'язень</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
   <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
   
