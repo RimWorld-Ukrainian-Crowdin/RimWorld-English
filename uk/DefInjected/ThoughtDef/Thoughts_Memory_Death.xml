@@ -9,12 +9,12 @@
   <!-- EN: colonist died -->
   <KnowColonistDied.stages.colonist_died.label>колоніст помер</KnowColonistDied.stages.colonist_died.label>
   <!-- EN: One of our people died. We should be able to take care of our people. -->
-  <KnowColonistDied.stages.colonist_died.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.colonist_died.description>
+  <KnowColonistDied.stages.colonist_died.description>Помер один з наших. Ми повинні мати змогу піклуватися про своїх людей.</KnowColonistDied.stages.colonist_died.description>
   
   <!-- EN: justified execution of colonist -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>justified execution of colonist</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>виправдана страта поселенця</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>A guilty colonist was executed. It was justified, but still sad.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>Винний поселенець був страчений. Це було виправдано, але все одно сумно.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
   <KnowColonistExecuted.stages.colonist_euthanized.label>colonist euthanized</KnowColonistExecuted.stages.colonist_euthanized.label>
   <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
