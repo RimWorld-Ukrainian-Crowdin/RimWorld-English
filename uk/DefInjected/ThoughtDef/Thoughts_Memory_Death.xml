@@ -58,7 +58,7 @@
   <!-- EN: my brother {0} died -->
   <MyBrotherDied.stages.my_brother_died.label>my brother {0} died</MyBrotherDied.stages.my_brother_died.label>
   <!-- EN: My brother died. My own flesh and blood... -->
-  <MyBrotherDied.stages.my_brother_died.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.my_brother_died.description>
+  <MyBrotherDied.stages.my_brother_died.description>Мій брат помер. Моя плоть і кров...</MyBrotherDied.stages.my_brother_died.description>
   
   <!-- EN: my cousin {0} died -->
   <MyCousinDied.stages.my_cousin_died.label>my cousin {0} died</MyCousinDied.stages.my_cousin_died.label>
