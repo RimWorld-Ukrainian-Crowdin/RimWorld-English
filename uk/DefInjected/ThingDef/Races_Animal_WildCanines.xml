@@ -39,7 +39,7 @@
   <!-- EN: warg -->
   <Warg.label>варг</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>Мускулисті вовкоподібні істоти зі неприродньо смертельними кігтями та абсурдно потужним укусом. Вони харчуються тільки м'ясом або трупами. Якщо їх потривожити у дикій природі, вони дуже схильні до нападу.\n\nВчені кажуть, що варги - нащадки озброєних військових тварин, створених для придушення населення. The superstitious see them as the tools of an angry god.</Warg.description>
+  <Warg.description>Мускулисті вовкоподібні істоти зі неприродньо смертельними кігтями та абсурдно потужним укусом. Вони харчуються тільки м'ясом або трупами. Якщо їх потривожити у дикій природі, вони дуже схильні до нападу.\n\nВчені кажуть, що варги - нащадки озброєних військових тварин, створених для придушення населення. Забобонні люди бачать їх знаряддям розлюченого бога.</Warg.description>
   <!-- EN: left claw -->
   <Warg.tools.left_claw.label>ліва лапа</Warg.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -52,7 +52,7 @@
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>арктичний вовк</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
-  <Wolf_Arctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Arctic.description>
+  <Wolf_Arctic.description>Арктичний варіант древнього вовка з Землі. Шалено розумні, вовки полюють зграями та мають складний соціальний устрій.</Wolf_Arctic.description>
   <!-- EN: left claw -->
   <Wolf_Arctic.tools.left_claw.label>ліва лапа</Wolf_Arctic.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -63,7 +63,7 @@
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>вовк</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
-  <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</Wolf_Timber.description>
+  <Wolf_Timber.description>Кошлатий хижак, що навіював страх у багатьох древніх культурах Землі. Шалено розумні, вовки полюють зграями та мають складний соціальний устрій.</Wolf_Timber.description>
   <!-- EN: wolf meat -->
   <Wolf_Timber.race.meatLabel>вовче м’ясо</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
