@@ -35,9 +35,9 @@
   <!-- EN: spear -->
   <MeleeWeapon_Spear.label>спис</MeleeWeapon_Spear.label>
   <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
-  <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.description>Держакова зброя з гострим накінечником щоб колоти противника.</MeleeWeapon_Spear.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Spear.tools.shaft.label>вал</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.shaft.label>древко</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: point -->
   <MeleeWeapon_Spear.tools.point.label>вістря</MeleeWeapon_Spear.tools.point.label>
   
