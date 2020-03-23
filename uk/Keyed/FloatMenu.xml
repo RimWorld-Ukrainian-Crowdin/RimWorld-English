@@ -158,7 +158,7 @@
   <CannotCapture>Не можливо захопити</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
-  <Rescue>Порятунок {1_label}</Rescue>
+  <Rescue>Рятувати {1_label}</Rescue>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Не можливо врятувати</CannotRescue>
 
