@@ -47,8 +47,8 @@
   
   <!-- EN: gut worms -->
   <GutWorms.label>кишкові глисти</GutWorms.label>
-  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger. -->
-  <GutWorms.description>Гельмінти паразитують в кишечнику. Вони викликають блювоту. Вони також споживають їжу жертви, що збільшує голод.</GutWorms.description>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.description>Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger.</GutWorms.description>
   
   <!-- EN: malaria -->
   <Malaria.label>малярія</Malaria.label>
