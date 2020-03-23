@@ -469,6 +469,8 @@
   <GoodwillChangedReason_UsedAbility>used {0} on {1}</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>harvested {0}</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: removed {0} -->
+  <GoodwillChangedReason_RemovedImplant>removed {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>downgraded {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -501,6 +503,10 @@
   <GoodwillChangedReason_SoldPawn>sold {0_labelShort}</GoodwillChangedReason_SoldPawn>
   <!-- EN: euthanized {PAWN_labelShort} -->
   <GoodwillChangedReason_EuthanizedPawn>euthanized {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
+  <!-- EN: requested military aid -->
+  <GoodwillChangedReason_RequestedMilitaryAid>requested military aid</GoodwillChangedReason_RequestedMilitaryAid>
+  <!-- EN: requested trader caravan -->
+  <GoodwillChangedReason_RequestedTrader>requested trader caravan</GoodwillChangedReason_RequestedTrader>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} accept your gift but they don't appreciate it.</MessageGiftGivenButNotAppreciated>
