@@ -20,7 +20,7 @@
   <!-- EN: Cuts marble chunks into usable blocks. -->
   <Make_StoneBlocksMarble.description>Обтесати уламки мармура в блоки.</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksMarble.jobString>Теше кам'яні блоки з уламків.</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksMarble.jobString>Обтесує кам'яні блоки з уламків.</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
   <Make_StoneBlocksSandstone.label>зробити блоки пісковику</Make_StoneBlocksSandstone.label>
@@ -34,6 +34,6 @@
   <!-- EN: Cuts slate chunks into usable blocks. -->
   <Make_StoneBlocksSlate.description>Обтесати уламки сланцю в блоки.</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSlate.jobString>Теше кам'яні блоки з уламків.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.jobString>Обтесує кам'яні блоки з уламків.</Make_StoneBlocksSlate.jobString>
   
 </LanguageData>
