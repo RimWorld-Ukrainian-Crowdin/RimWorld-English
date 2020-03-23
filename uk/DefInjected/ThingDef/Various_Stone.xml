@@ -32,19 +32,19 @@
   <ChunkGranite.description>Ка'мяна брила. Можна розрізати на корисні кам'яні блоки.</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
-  <ChunkLimestone.label>limestone chunk</ChunkLimestone.label>
+  <ChunkLimestone.label>вапнякова брила</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkLimestone.description>
+  <ChunkLimestone.description>Ка'мяна брила. Можна розрізати на корисні кам'яні блоки.</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
-  <ChunkMarble.label>marble chunk</ChunkMarble.label>
+  <ChunkMarble.label>мармурова брила</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkMarble.description>
+  <ChunkMarble.description>Ка'мяна брила. Можна розрізати на корисні кам'яні блоки.</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
-  <ChunkSandstone.label>sandstone chunk</ChunkSandstone.label>
+  <ChunkSandstone.label>брила пісковику</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSandstone.description>
+  <ChunkSandstone.description>Ка'мяна брила. Можна розрізати на корисні кам'яні блоки.</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
   <ChunkSlagSteel.label>steel slag chunk</ChunkSlagSteel.label>
@@ -52,32 +52,32 @@
   <ChunkSlagSteel.description>A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel.</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
-  <ChunkSlate.label>slate chunk</ChunkSlate.label>
+  <ChunkSlate.label>сланцева брила</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkSlate.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSlate.description>
   
   <!-- EN: granite -->
-  <Granite.label>granite</Granite.label>
+  <Granite.label>граніт</Granite.label>
   <!-- EN: A very hard igneous rock. -->
   <Granite.description>A very hard igneous rock.</Granite.description>
   
   <!-- EN: limestone -->
-  <Limestone.label>limestone</Limestone.label>
+  <Limestone.label>вапняк</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
   <Limestone.description>A sedimentary rock formed from the compacted remains of ancient seashells.</Limestone.description>
   
   <!-- EN: marble -->
-  <Marble.label>marble</Marble.label>
+  <Marble.label>мармур</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
   <Marble.description>A soft metamorphic rock.</Marble.description>
   
   <!-- EN: sandstone -->
-  <Sandstone.label>sandstone</Sandstone.label>
+  <Sandstone.label>піщаник</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
   <Sandstone.description>A sedimentary rock composed of sand particles compressed together.</Sandstone.description>
   
   <!-- EN: slate -->
-  <Slate.label>slate</Slate.label>
+  <Slate.label>сланець</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
   <Slate.description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage.</Slate.description>
   
