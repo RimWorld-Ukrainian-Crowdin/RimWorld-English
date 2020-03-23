@@ -112,9 +112,9 @@
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Все одно завантажити</LoadAnyway>
+  <LoadAnyway>Запустити, як є</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Завантажити моди по списку з файлу</ChangeLoadedMods>
+  <ChangeLoadedMods>Завантажити, як у файлі</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Деякі моди відсутні, тому їх треба спершу встановити,</MissingMods>
   <!-- EN: Official content -->
@@ -530,6 +530,8 @@
   <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Return to trade mode.</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
