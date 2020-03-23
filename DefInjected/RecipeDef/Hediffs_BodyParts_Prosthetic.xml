@@ -50,4 +50,11 @@
   <!-- EN: Installing prosthetic leg. -->
   <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
   
+  <!-- EN: remove painstopper -->
+  <RemovePainstopper.label>remove painstopper</RemovePainstopper.label>
+  <!-- EN: Remove the painstopper. -->
+  <RemovePainstopper.description>Remove the painstopper.</RemovePainstopper.description>
+  <!-- EN: Removing painstopper. -->
+  <RemovePainstopper.jobString>Removing painstopper.</RemovePainstopper.jobString>
+  
 </LanguageData>

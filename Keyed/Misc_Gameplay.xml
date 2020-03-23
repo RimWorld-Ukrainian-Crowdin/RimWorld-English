@@ -104,6 +104,8 @@
   <TitleOfFaction>{0} of {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} will lose these permissions</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>unknown</UnknownLower>
   <!-- EN: On -->
