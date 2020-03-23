@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: grand sculpture -->
-  <SculptureGrand.label>велична скульптура</SculptureGrand.label>
+  <SculptureGrand.label>грандіозна скульптура</SculptureGrand.label>
   <!-- EN: A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>A huge sculpture sized to dominate a room.</SculptureGrand.description>
   
@@ -19,6 +19,6 @@
   <!-- EN: snowman -->
   <Snowman.label>сніговик</Snowman.label>
   <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
-  <Snowman.description>A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it.</Snowman.description>
+  <Snowman.description>Набір великих сніжних кульок, складених і сформованих, щоб нагадувати людину. Люди роблять це заради розваги.</Snowman.description>
   
 </LanguageData>
