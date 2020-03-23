@@ -4,12 +4,12 @@
   <!-- EN: blue carpet -->
   <CarpetBlue.label>синій килим</CarpetBlue.label>
   <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Приємний для ніг плюшевий килим в класному синьому кольорі.</CarpetBlue.description>
+  <CarpetBlue.description>Приємний для ніг плюшевий килим холодного синього кольору.</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
   <CarpetCream.label>кремовий килим</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Впровадження килиму кремового кольору.</CarpetCream.description>
+  <CarpetCream.description>Принадний кремовий килим.</CarpetCream.description>
   
   <!-- EN: dark carpet -->
   <CarpetDark.label>темний килим</CarpetDark.label>
@@ -29,15 +29,15 @@
   <!-- EN: concrete -->
   <Concrete.label>бетон</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>Rough concrete. It is cheap and quick to build, but is also quite ugly.</Concrete.description>
+  <Concrete.description>Грубий бетон. Дешевий та швидко будується, але досить бридкий.</Concrete.description>
   
   <!-- EN: gold tile -->
-  <GoldTile.label>золота підлога</GoldTile.label>
+  <GoldTile.label>золота плитка</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
   <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>steel tile</MetalTile.label>
+  <MetalTile.label>сталева плитка</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
   <MetalTile.description>Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
   
