@@ -5,7 +5,7 @@
   <Blight.label>чума</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>explosion</Explosion.label>
+  <Explosion.label>вибух</Explosion.label>
   
   <!-- EN: rect trigger -->
   <RectTrigger.label>rect trigger</RectTrigger.label>
@@ -17,6 +17,6 @@
   <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>тунель</TunnelHiveSpawner.label>
   
 </LanguageData>
