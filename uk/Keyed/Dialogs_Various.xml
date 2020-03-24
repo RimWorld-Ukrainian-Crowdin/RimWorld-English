@@ -531,7 +531,7 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Return to trade mode.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}.</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} не бажає відправляти караван, тому що {NEGOTIATOR_nameDef} не має необхідний титул {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
