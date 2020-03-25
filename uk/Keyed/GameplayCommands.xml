@@ -13,9 +13,9 @@
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>Перемкнути живлення</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>Перемкнути живлення.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
@@ -23,7 +23,7 @@
   <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
+  <CommandTryReconnectLabel>Перез'єднати</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
   <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
 
@@ -36,9 +36,9 @@
   
   <!-- Drafting -->
   <!-- EN: Draft -->
-  <CommandDraftLabel>Чернетка</CommandDraftLabel>
+  <CommandDraftLabel>Мобілізувати</CommandDraftLabel>
   <!-- EN: Undraft -->
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
+  <CommandUndraftLabel>Демобілізувати</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
@@ -57,21 +57,21 @@
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Скасувати</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionDesc>Скасувати це будівництво.</CommandCancelConstructionDesc>
 
   <!-- EN: Get out of bed -->
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedLabel>Встати з ліжка</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedDesc>Вийти з поточного ліжко.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandThingSetOwnerLabel>Set owner</CommandThingSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Вибрати власника</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Призначити це ліжко за конкретним колоністом.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>Assign this throne to be owned by a specific colonist.</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Призначити цей трон за конкретним колоністом.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>Призначити колоніста</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
   <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
@@ -81,15 +81,15 @@
   <!-- EN: Unassign -->
   <BuildingUnassign>Unassign</BuildingUnassign>
   <!-- EN: For prisoners -->
-  <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersLabel>Для в'язнів</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
-  <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersDesc>Чи буде ця кімната використовуватися в'язнями.</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
   <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>Лікарняне</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
-  <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalDesc>Чи буде це ліжко використовуватися для медичних потреб.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
