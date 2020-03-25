@@ -29,7 +29,7 @@
   <!-- EN: mood -->
   <Mood.label>настрій</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
-  <Mood.description>Шкала настрою вказує наскільки ваш колоніст задоволений. Якщо показники стають занадто низькі, є ризик психічного розладу. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree.</Mood.description>
+  <Mood.description>Шкала настрою вказує наскільки ваш колоніст задоволений. Якщо показники стають занадто низькі, є ризик психічного розладу. В залежності від того, наскільки низький його настрій, хтось з психічним розладом може мати менші зриви, наприклад, ховатися в своїй кімнаті весь день, або більший нервовий зрив, на кшталт, влаштування різанини.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>зовнішнє середовище</Outdoors.label>
