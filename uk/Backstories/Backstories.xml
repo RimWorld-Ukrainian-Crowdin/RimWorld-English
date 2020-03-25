@@ -313,7 +313,7 @@
     <!-- EN: aI spy -->
     <titleShort>шпигун ШІ</titleShort>
     <!-- EN: [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
-    <desc>[PAWN_nameDef] був дослідником кібернетики. Під час дослідження трансцендованого світу [PAWN_pronoun] створив заміцні зв'язки з [PAWN_possessive] піддослідними. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down.</desc>
+    <desc>[PAWN_nameDef] був дослідником кібернетики. Під час дослідження трансцендованого світу [PAWN_pronoun] створив заміцні зв'язки з [PAWN_possessive] піддослідними. З часом, архотех взяв [PAWN_objective] на службу, і використовував [PAWN_objective] як шпигуна.\n\nКоли [PAWN_pronoun] пізніше повстав проти [PAWN_possessive] нелюдяного володаря, він відправив механоїдів крізь космічний простір, щоб знайти і знищити [PAWN_objective].</desc>
   </ArchotechSpy75>
   
   <ArmyCook0>
@@ -322,7 +322,7 @@
     <!-- EN: cook -->
     <titleShort>кок</titleShort>
     <!-- EN: [PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training. -->
-    <desc>[PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training.</desc>
+    <desc>[PAWN_nameDef] приєднався до армії як робітник і витратив більшу частину [PAWN_possessive] часу готуючи їжу і ремонтуючи. Коли [PAWN_pronoun] був на небезпечній планеті, [PAWN_pronoun] пройшов крізь базову підготовку з стрільби й виживання.</desc>
   </ArmyCook0>
   
   <ArmyScientist35>
