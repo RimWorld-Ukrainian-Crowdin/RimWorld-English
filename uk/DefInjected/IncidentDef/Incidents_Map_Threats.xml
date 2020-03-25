@@ -32,11 +32,11 @@
   <ManhunterPack.label>зграя мисливців на людей</ManhunterPack.label>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>mech cluster</MechCluster.label>
+  <MechCluster.label>меха-кластер</MechCluster.label>
   <!-- EN: Mechanoid cluster -->
-  <MechCluster.letterLabel>Mechanoid cluster</MechCluster.letterLabel>
+  <MechCluster.letterLabel>Кластер механоїдів</MechCluster.letterLabel>
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <MechCluster.letterText>A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText>
+  <MechCluster.letterText>Бойовий кластер механоїдів йде на посадку невдалік від вас. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText>
   
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>розбита частина корабля (психічна)</PsychicEmanatorShipPartCrash.label>
