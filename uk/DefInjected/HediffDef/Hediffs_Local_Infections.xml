@@ -91,7 +91,7 @@
   <!-- EN: sleeping sickness -->
   <SleepingSickness.label>сонна хвороба</SleepingSickness.label>
   <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
-  <SleepingSickness.description>An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection.</SleepingSickness.description>
+  <SleepingSickness.description>Інфекційна хвороба, викликана паразитом, якого переносять комахи. Сонна хвороба не така небезпечна, як деякі інші хвороби, але протікає повільно. Тілу потрібно багато часу, щоб позбутися інфекції.</SleepingSickness.description>
   <!-- EN: minor -->
   <SleepingSickness.stages.minor-0.label>мала</SleepingSickness.stages.minor-0.label>
   <!-- EN: minor -->
