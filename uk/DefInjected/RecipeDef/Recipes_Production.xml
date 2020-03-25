@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>destroy apparel</DestroyApparel.label>
+  <DestroyApparel.label>знищити одяг</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
+  <DestroyApparel.description>Використати тепло, щоб знищити непотрібний одяг. Це швидше ніж переплавка і працює на всіх предметах, але не дає ресурсів.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>Destroying apparel.</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Знищує одяг.</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>знищити зброю</DestroyWeapon.label>
@@ -65,7 +65,7 @@
   <Make_StoneBlocksAny.jobString>Обтесує кам'яні уламки.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>smelt apparel</SmeltApparel.label>
+  <SmeltApparel.label>переплавити одяг</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
   <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
