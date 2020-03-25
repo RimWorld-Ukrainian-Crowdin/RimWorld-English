@@ -38,7 +38,7 @@
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>Персонажі і істоти вибухають при смерті ({0}, радіус {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} start naked. -->
-  <ScenPart_PawnsAreNaked>{0} починає {THING_gender ? голий : гола}.</ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsAreNaked>{0} починають голі.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
