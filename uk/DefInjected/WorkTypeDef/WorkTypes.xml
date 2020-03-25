@@ -213,11 +213,11 @@
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
   <Warden.description>Наглядати, годувати, вербувати та балакати з вʼязнями.</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>пильнувати</Warden.gerundLabel>
+  <Warden.gerundLabel>нагляд</Warden.gerundLabel>
   <!-- EN: Warden -->
-  <Warden.labelShort>Вартовий</Warden.labelShort>
+  <Warden.labelShort>Наглядач</Warden.labelShort>
   <!-- EN: Warden -->
-  <Warden.pawnLabel>Вартовий</Warden.pawnLabel>
+  <Warden.pawnLabel>Наглядач</Warden.pawnLabel>
   <!-- EN: Handle -->
   <Warden.verb>Наглядати</Warden.verb>
   
