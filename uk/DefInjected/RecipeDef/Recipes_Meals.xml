@@ -9,11 +9,11 @@
   <CookMealFine.jobString>Готує чудову страву.</CookMealFine.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>cook fine meal x4</CookMealFineBulk.label>
+  <CookMealFineBulk.label>чудова страва х4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>Cook 4 somewhat complex meals from a combination of meat and plant ingredients.</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Приготувати 4 комплексних блюда з сирого м'яса та рослин.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>Cooking 4 fine meals.</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Готує 4 чудових страви.</CookMealFineBulk.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>делікатес</CookMealLavish.label>
@@ -23,11 +23,11 @@
   <CookMealLavish.jobString>Готує делікатес.</CookMealLavish.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>cook lavish meal x4</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>делікатес х4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Приготувати 4 дуже складних блюда з сирого м'яса та рослин. Потребує великої кількості інгредієнтів.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>Cooking 4 lavish meals.</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Готує 4 делікатеси.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>звичайна страва</CookMealSimple.label>
