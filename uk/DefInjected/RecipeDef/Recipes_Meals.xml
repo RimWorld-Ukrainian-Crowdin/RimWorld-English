@@ -37,11 +37,11 @@
   <CookMealSimple.jobString>Готує звичайну страву.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>cook simple meal x4</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>звичайна страва х4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>Cook 4 straightforward meals from one ingredient.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Приготувати 4 звичайних блюда з одного інгредієнта.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>Cooking 4 simple meals.</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Готує 4 звичайних страви.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>консерви</CookMealSurvival.label>
@@ -51,10 +51,10 @@
   <CookMealSurvival.jobString>Готує консерви.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>cook packaged survival meal x4</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>консерви х4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Приготувати 4 консервованих блюда з сирого м'яса і рослин. Потребує великої кількості інгредієнтів.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>Cooking 4 survival meals.</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Готує 4 консерви.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>
