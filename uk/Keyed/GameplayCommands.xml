@@ -508,12 +508,12 @@
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>View quest: {0}</CommandViewQuest>
+  <CommandViewQuest>Переглянути доручення: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>View this quest in quests tab.</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Показати це доручення на вкладці Доручення.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>Open linked quest</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Відкрити пов'язане доручення</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>Open linked quest in the quests tab.</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Відкрити пов'язане доручення на вкладці Доручення.</CommandOpenLinkedQuestDesc>
   
 </LanguageData>
