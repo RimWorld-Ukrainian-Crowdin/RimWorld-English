@@ -12,7 +12,7 @@
   <DoorOpenSpeed.description>The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>фактор посилення імунітета</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>фактор посилення імунітету</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
   <ImmunityGainSpeedFactor.description>Швидкість посилення імунітету множиться на це значення.</ImmunityGainSpeedFactor.description>
   
