@@ -3,13 +3,13 @@
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>Jump to location</JumpToLocation>
+  <JumpToLocation>Перейти до місця</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>Postpone</PostponeLetter>
+  <PostponeLetter>Відкласти</PostponeLetter>
   <!-- EN: Reject -->
   <RejectLetter>Брак</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>Read more</ReadMore>
+  <ReadMore>Детальніше</ReadMore>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
@@ -28,15 +28,15 @@
   <!-- EN: goodwill -->
   <goodwill>доброзичливість</goodwill>
   <!-- EN: Neutral -->
-  <Neutral>Neutral</Neutral>
+  <Neutral>Нейтральні</Neutral>
   <!-- EN: Death -->
-  <Death>Death</Death>
+  <Death>Смерть</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
   <ShortCircuitRain>A {1_label} has short-circuited in the rain and started a fire.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
-  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>Знайдено нову територію</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
   <AreaRevealed>A new area has been revealed.</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
@@ -142,7 +142,7 @@
   <!-- EN: View related quest -->
   <ViewRelatedQuest>View related quest</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>View quest</ViewQuest>
+  <ViewQuest>Переглянути доручення</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>The last events in {PAWN_definite}'s life</LastEventsInLife>
 
