@@ -7,13 +7,13 @@
   <!-- EN: Planet -->
   <TabPlanet>Планета</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>Соціальні потреби</TabCaravanSocial>
+  <TabCaravanSocial>Взаємини</TabCaravanSocial>
   <!-- EN: Health -->
   <TabCaravanHealth>Здоров'я</TabCaravanHealth>
   <!-- EN: Needs -->
   <TabCaravanNeeds>Потреби</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>Спорядження</TabCaravanGear>
+  <TabCaravanGear>Манатки</TabCaravanGear>
   <!-- EN: Items -->
   <TabCaravanItems>Предмети</TabCaravanItems>
   
@@ -47,7 +47,7 @@
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Ув'язнені</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Equippable items</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Предмети, які можна екіпірувати</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Недоступно</NoneCapable>
   <!-- EN: Caravan not moving -->
