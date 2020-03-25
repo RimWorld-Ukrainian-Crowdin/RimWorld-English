@@ -14,7 +14,7 @@
   <!-- EN: chemical -->
   <DrugDesire.label>наркотики</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood.</DrugDesire.description>
+  <DrugDesire.description>Шкала наркотиків відображає бажання приймати наркотики. Коли його значення вище певного рівня, воно буде викликати гарний настрій, але коли воно нижче певного рівня, настрій буде ставти все гірше й гірше.</DrugDesire.description>
   
   <!-- EN: food -->
   <Food.label>їжа</Food.label>
