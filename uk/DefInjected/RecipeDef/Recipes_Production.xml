@@ -67,9 +67,9 @@
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>переплавити одяг</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description>
+  <SmeltApparel.description>Використати тепло і сильні електромагніти, щоб переробити металевий одяг, як броня, на корисні ресурси.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>Smelting apparel.</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Переплавлює одяг.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>переплавити зброю</SmeltWeapon.label>
