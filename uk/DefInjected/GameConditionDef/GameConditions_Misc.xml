@@ -83,7 +83,7 @@
   <!-- EN: solar flare -->
   <SolarFlare.label>сонячний спалах</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
-  <SolarFlare.description>A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working.</SolarFlare.description>
+  <SolarFlare.description>Сонячний спалах вражає планету. Електромагнітні хвилі блокують роботу більшості приладів.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
   <SolarFlare.endMessage>Сонячний спалах скінчився.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
@@ -94,7 +94,7 @@
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
   <ToxicFallout.description>Шлейф токсичного пилу з якогось віддаленого джерела повільно осідає по всьому цьому регіону. Будь-яка жива істота, що не знаходиться під дахом, буде повільно отруюватись, а предмети, залишені зовні, будуть схильні до корозії.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>хмара токсичних опадів покриватиме територію навколо [map_definite] протягом [gameConditionDuration_duration], знищуючи рослинне і тваринне життя</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>Токсична хмара розвіялась.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
