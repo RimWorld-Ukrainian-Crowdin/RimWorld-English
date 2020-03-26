@@ -272,17 +272,17 @@
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Зібрати караван</CommandFormCaravan>
+  <CommandFormCaravan>Сформувати караван</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>Сформуйте групу поселенців, здатних подорожувати в нові зони. Вони зберуть усю призначену провізію та супутніх тварин, покинуть нинішню територію та чекатимуть подальших наказів.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>Reform caravan</CommandReformCaravan>
+  <CommandReformCaravan>Розформувати караван</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>Розформувати групу поселенців. Поселенці покинуть нинішню зону та чекатимуть подальших наказів.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
-  <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravanFailHostilePawns>У цій зоні все ще є вороги.</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
   <!-- EN: Split -->
@@ -308,7 +308,7 @@
   <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>Досягнута максимальна кількість колоній.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>Там нікого немає щоб захопити зону.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>У цій області є вороги.</CommandSettleFailEnemies>
   
@@ -316,7 +316,7 @@
   <!-- EN: Abandon -->
   <CommandAbandonHome>Покинути</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Покинути це місце. Територія стане недоступною, і ви ніколи не зможете повернутися сюди. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
   
