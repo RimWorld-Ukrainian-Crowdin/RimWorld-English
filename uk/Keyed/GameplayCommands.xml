@@ -374,27 +374,27 @@
   <!-- EN: Take off -->
   <CommandTakeOff>Взлетіти</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
-  <CommandTakeOffDesc>Get on board the ship and escape the planet.</CommandTakeOffDesc>
+  <CommandTakeOffDesc>Сісти на борт корабля та втікти з планети.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind.</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>Ви впевнені, що хочете запустити корабель?\n\nУсі в цій зоні втечуть з планети. Усі інші залишаться позаду.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>Set target fuel level</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>Встановити цільовий рівень палива</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>Set the target fuel level. Colonists will attempt to fill this up to the target fuel level.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>Встановіть цільовий рівень палива. Поселенці намагатимуться заповнити це до цільового рівня.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>Toggle automatic refuel</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Перемикнути автоматичну дозаправку</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>Sets whether or not automatic refueling is allowed.</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Встановлює, чи дозволяється автоматична дозаправка.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
-  <CommandCancelLoad>Cancel load</CommandCancelLoad>
+  <CommandCancelLoad>Скасувати завантаження</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>Cancel loading this with people or items and eject everything already loaded.</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>Скасувати завантаження цього людьми або предметами та вийняти все, що вже завантажено.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch group -->
