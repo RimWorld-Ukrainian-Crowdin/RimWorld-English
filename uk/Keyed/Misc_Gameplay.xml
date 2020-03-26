@@ -1059,7 +1059,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>Ви запустили корабель!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>Тепер ваша машинна персона спробує направити корабель у безпечне місце. У цій системі вона може знайти процвітаючу планету. Чи може здійснити багатовікову подорож до іншої зірки. Може навіть вирішити сховатися під льодом астероїду на кілька тисяч років, чекаючи, коли хтось збудує тут новий утопічний світ.\n\nВи дізнаєтесь, коли прокинетесь.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>Ці поселенці втекли:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
@@ -1067,7 +1067,7 @@
   <!-- EN: In memory of:\n -->
   <GameOverInMemoryOf>В пам'ять про:\n</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
-  <GameOverKeepPlaying>Keep playing</GameOverKeepPlaying>
+  <GameOverKeepPlaying>Продовжити гру</GameOverKeepPlaying>
   <!-- EN: Main menu -->
   <GameOverMainMenu>Головне меню</GameOverMainMenu>
 
@@ -1159,11 +1159,11 @@
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Клікніть, щоб перейти до режиму планування, де ви зможете розпланувати подорож та підрахувати дистанцію між точками.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Додати дві чи більше точки.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Додати одну або кілька точок.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
@@ -1177,11 +1177,11 @@
   <!-- EN: ESC: Return to the caravan formation dialog. -->
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>Est. travel time: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>Прибл. час подорожі: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>Est. travel time (from previous waypoint): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Прибл. час подорожі (з попередньої точки): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>Est. travel time: {0}</EstimatedTimeToTile>
+  <EstimatedTimeToTile>Прибл. час подорожі: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
   <ForagedFoodAmount>Foraged food amount</ForagedFoodAmount>
 
@@ -1247,11 +1247,11 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Bonded to: {0}</BondedWith>
+  <BondedWith>Прив'язаний до: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
   <NotBonded>Ще не прив'язаний</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>bonded to someone else</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>прив’язаний до когось іншого</BladelinkBondedToSomeoneElse>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1263,7 +1263,7 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>Intercepts {0} every {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Перехоплює {0} кожен {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
   <InterceptsProjectiles>Перехоплює {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
