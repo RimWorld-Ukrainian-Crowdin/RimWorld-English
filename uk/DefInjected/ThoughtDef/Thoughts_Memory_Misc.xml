@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: ate without table -->
-  <AteWithoutTable.stages.ate_without_table.label>ate without table</AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.label>{PAWN_gender ? Їв : Їла} не за столом</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>I had to eat a meal off the ground. Can't we get a table around here?</AteWithoutTable.stages.ate_without_table.description>
   
