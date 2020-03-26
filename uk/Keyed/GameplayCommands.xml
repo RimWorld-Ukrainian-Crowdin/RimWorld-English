@@ -25,14 +25,14 @@
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Перез'єднати</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>Спроба приєднатися до іншої мережі живлення у радіусі мого з'єднання. Це корисно, якщо я підключений до мережі без живлення, але поруч є мережа з живленням.</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleLabel>Місце збору</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescActive>Активне - поселенці зберуться навколо цього об’єкта.</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>Неактивне - поселенці не збиратимутья навколо цього об’єкта.</CommandGatherSpotToggleDescInactive>
   
   <!-- Drafting -->
   <!-- EN: Draft -->
