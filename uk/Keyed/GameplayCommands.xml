@@ -45,14 +45,14 @@
   <IsIncapped>{1_labelShort} cannot walk.</IsIncapped>
 
   <!-- EN: Fire at will -->
-  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>Стріляти на розсуд</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
   <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>Очистити пріоритетну роботу</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>Очистити список назначених пріорітетних робіт. Персонаж повернеться до своєї звичайної самонаправленої діяльності.</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Скасувати</CommandCancelConstructionLabel>
@@ -108,31 +108,31 @@
   <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
+  <CommandHideZoneLabel>Сховати</CommandHideZoneLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
+  <CommandUnhideZoneLabel>Показати</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Сховати\показати цю зону.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Видалити</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Видалити цю зону.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsLabel>Скопіювати налаштування</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>Скопіюйте налаштування цієї зони в буфер, щоб ви могли вставити їх в іншу зону.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>Вставити налаштування</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>Переписати налаштування цієї зони тими, що раніше були скопійовані у буфер.</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
+  <CommandAllowSow>Дозволити посів</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSowDesc>При відключенні поселенці ніколи не будуть сіяти рослини у цій зоні. Вони все одно будуть збирати урожай.</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -146,7 +146,7 @@
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShell>Витягнути снаряд</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
   <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
@@ -158,15 +158,15 @@
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
-  <CommandShipLaunch>Launch ship</CommandShipLaunch>
+  <CommandShipLaunch>Запустили корабель</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>Старт послідовності запуску корабля з поточною конфігурацією.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
+  <CommandShipLaunchReport>Показати звіт про запуск</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>Start ship</CommandShipStartup>
+  <CommandShipStartup>Старт корабля</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
   <CommandShipStartupDesc>Wake up hibernating ship components.</CommandShipStartupDesc>
 
@@ -200,7 +200,7 @@
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
-  <CommandInstall>Install</CommandInstall>
+  <CommandInstall>Встановити</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
@@ -266,9 +266,9 @@
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
-  <CommandBuildCopy>Build copy</CommandBuildCopy>
+  <CommandBuildCopy>Побудувати копію</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>Побудувати копію цієї будівлі.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -286,25 +286,25 @@
   
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>Split</CommandSplitCaravan>
+  <CommandSplitCaravan>Розділити</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>Розділіть цей караван на два. Пізніше каравани можуть бути об'єднані назад, допоки вони знаходяться близько один до одного.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
-  <CommandMergeCaravans>Merge</CommandMergeCaravans>
+  <CommandMergeCaravans>Об'єднати</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>Об'єднати обрані каравани.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>Select all caravans which should be merged. The caravans must be close to each other.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>Оберіть усі каравани, які потрібно об'єднати. Каравани повинні бути близько один до одного.</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
   <!-- EN: Settle -->
-  <CommandSettle>Settle</CommandSettle>
+  <CommandSettle>Поселитися</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
+  <CommandSettleDesc>Поселитися в цій області. Ваші поселенці увійдуть в цю область, і ви зможете розпочати будівництво нової оселі.</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>Ваша фракція може мати тільки одну базу.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
