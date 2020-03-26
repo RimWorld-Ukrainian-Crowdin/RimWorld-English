@@ -164,11 +164,11 @@
   <!-- EN: Show launch report -->
   <CommandShipLaunchReport>Показати звіт про запуск</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>Показати звіт про готовність корабля до запуску.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
   <CommandShipStartup>Старт корабля</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>Wake up hibernating ship components.</CommandShipStartupDesc>
+  <CommandShipStartupDesc>Пробудити неактивні компоненти корабля.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
@@ -176,23 +176,23 @@
   <!-- EN: Wake up the cryptosleeper and eject them. -->
   <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
-  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+  <CommandPodEjectFailEmpty>Нікого не містить.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
+  <CommandToggleDoorForbid>Прохід заборонено</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Коли двері заборонені, поселенці та чужинці не будуть йти крізь неї. Це не впливає на те, як вороги чи тварини взаємодіють із дверима.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>Тримати відкритими</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Коли активне, ваші поселенці не зачинятимуть двері після проходу крізь них.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
   <CommandResetTemp>Скинути</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
+  <CommandResetTempDesc>Скинути цільову температуру до кімнатної.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
   <CommandRaiseTempDesc>Підвищити цільову температуру.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
