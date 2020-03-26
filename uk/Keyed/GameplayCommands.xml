@@ -228,27 +228,27 @@
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Спустити тварин</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>Якщо увімкнено, навчених тварин натравлюють на дальні цілі. Якщо вимкнено, вони залишаються поруч і охороняють господаря.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>No animals available.</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>Немає доступних тварин.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
   <CommandSquadAttack>Атакувати</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>Наказати обраному поселенцю атакувати призначену ціль.</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>Атаки ближнього бою</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>Order selected colonists to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Наказати обраному поселенцю атакувати призначену ціль, використовуючи лише кулаки та зброю ближнього бою.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>Hold fire</CommandHoldFire>
+  <CommandHoldFire>Зупинити вогонь</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Зупинити будь-які атаки.</CommandHoldFireDesc>
   
@@ -356,17 +356,17 @@
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>Offer gifts</CommandOfferGifts>
+  <CommandOfferGifts>Зробити дар</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>Offer gifts to this faction.</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>Запропонувати подарунок цій фракції.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>Завершити торгівельну угоду</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>Виконайте запит поселення на товари та отримайте свою винагороду.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>Ваш караван мусить мати {0} щоб завершити цю торгівельну угоду.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
   <CommandFulfillTradeOfferConfirm>Дати {0}?</CommandFulfillTradeOfferConfirm>
   
@@ -474,9 +474,9 @@
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
+  <CommandShowSellableItems>Покажіть, що купуватиме</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>Показати усе, що цей торговець хоче придбати.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
@@ -488,7 +488,7 @@
   <!-- EN: Send -->
   <CommandSendShuttle>Відправити</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>Initiate takeoff and have the shuttle fly to its destination.</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>Ініціювати взлет і переліт шатлу до місця призначення.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
   <CommandSendShuttleFailUnderRoof>Шаттл під дахом.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
