@@ -73,27 +73,27 @@
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Призначити колоніста</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Призначити цю могилу конкретному поселенцю.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
-  <BuildingAssign>Assign</BuildingAssign>
+  <BuildingAssign>Призначити</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>Reassign</BuildingReassign>
+  <BuildingReassign>Перепризначити</BuildingReassign>
   <!-- EN: Unassign -->
-  <BuildingUnassign>Unassign</BuildingUnassign>
+  <BuildingUnassign>Зняти призначення</BuildingUnassign>
   <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>Для в'язнів</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
   <CommandBedSetForPrisonersDesc>Чи буде ця кімната використовуватися в'язнями.</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>Тільки ліжка в закритих приміщеннях можуть бути встановлені для в'язнів.</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>Лікарняне</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>Чи буде це ліжко використовуватися для медичних потреб.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>Увімкнення тюремного режиму впливає на всю кімнату (оскільки поселенці та в'язні не можуть спати в одній кімнаті).\n\nЦі люди втратять право власності на своє ліжко:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Вимкнення тюремного режиму впливає на всю кімнату (оскільки в'язні та поселенці не можуть спати в одній кімнаті).\n\nЦі люди втратять право власності на своє ліжко:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Ви впевнені, що ви хочете зробити це?</AreYouSure>
 
@@ -136,25 +136,25 @@
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Встановити примусову ціль</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>Встановлює ціль, яку ця бтурель повинна атакувати постійно, доки може.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
+  <CommandStopForceAttack>Припинити примусову атаку</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>Зупиняє примусову атаку і дозволяє турелі стріляти за своїм бажанням.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>Зараз не атакує примусово.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
   <CommandExtractShell>Витягнути снаряд</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Розряджає поточний снаряд для заміни іншим боєприпасом.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>Ціль за межами максимальної відстані.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>Ціль нижче мінімальної відстані.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>Warning: The mortar won't fire because it's set to "Hold fire".</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>Увага: міномет не буде вести вогонь, тому що він у режимі "Не стріляти".</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
@@ -272,7 +272,7 @@
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Form caravan</CommandFormCaravan>
+  <CommandFormCaravan>Зібрати караван</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
   
