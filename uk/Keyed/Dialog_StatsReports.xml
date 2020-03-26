@@ -124,19 +124,19 @@
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>Матеріал</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Матеріал, з якого зроблена ця річ. Це впливає на багато інших характеристик, включаючи пошкодження зброї, броня та ізоляція одягу, запас міцності предмету та будівлі, краса, ринкова вартість, і тд.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>Зброя</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>The weapon used by this turret.</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Зброя, яку використовує ця турель.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>How much damage an object can take before being destroyed.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Скільки пошкодженнь об'єкт може отримати до повного знищення.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>The amount of work it takes to uninstall this.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Обсяг роботи, необхідний для видалення цього.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>Which facilities can be used to produce this.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>Які споруди можуть бути використані для вироблення цього.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Кількість пошкоджень, які ця зброя наносить.\n\nВід нього можна ухилится чи пом'якшити бронею цілі.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>A multiplier on the amount of experience doctors gain when using this to tend a patient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
