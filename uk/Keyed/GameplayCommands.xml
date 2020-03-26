@@ -7,9 +7,9 @@
   <!-- EN: Allow -->
   <CommandAllow>Дозволено</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>Forbidden: Your colonists are not allowed to interact with this. Click to allow.</CommandForbiddenDesc>
+  <CommandForbiddenDesc>Заборонено: Вашим поселенцям не дозволено взаємодіяти з цим. Натисніть, щоб дозволити.</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>Allowed: Your colonists are allowed to interact with this. Click to forbid.</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>Дозволено: Вашим поселенцям дозволено взаємодіяти з цим. Натисніть, щоб заборонити.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
