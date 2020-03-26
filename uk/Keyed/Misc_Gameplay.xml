@@ -499,7 +499,7 @@
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+  <TextMote_TameSuccess>Приручено!\n{0} шанс</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -525,7 +525,7 @@
   <!-- EN: Build roof -->
   <BuildRoof>Build roof</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>No roof</NoRoof>
+  <NoRoof>Без даху</NoRoof>
   <!-- EN: Snow clear -->
   <SnowClear>Snow clear</SnowClear>
   <!-- EN: Area {0} -->
@@ -549,13 +549,13 @@
 
   <!-- Snow -->
   <!-- EN: No snow -->
-  <SnowNone>No snow</SnowNone>
+  <SnowNone>Без снігу</SnowNone>
   <!-- EN: Snow (dusting) -->
-  <SnowDusting>Snow (dusting)</SnowDusting>
+  <SnowDusting>Сніг (присипало)</SnowDusting>
   <!-- EN: Snow (thin) -->
-  <SnowThin>Snow (thin)</SnowThin>
+  <SnowThin>Сніг (тонкий)</SnowThin>
   <!-- EN: Snow (medium) -->
-  <SnowMedium>Snow (medium)</SnowMedium>
+  <SnowMedium>Сніг (середній)</SnowMedium>
   <!-- EN: Snow (thick) -->
   <SnowThick>Snow (thick)</SnowThick>
 
