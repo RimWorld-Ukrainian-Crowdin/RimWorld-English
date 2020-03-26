@@ -400,13 +400,13 @@
   <!-- EN: Launch group -->
   <CommandLaunchGroup>Запуск групи</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>Ініціює процес націлювання для запуску групи транспортних капсул. Наступний крок - обрати ціль. Капсули полетять та приземляться разом.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Some transport pods in this loading group are not connected to a fueling port.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Деякі транспортні капсули у цій групі не приєднаний до порту для заправки.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>Some pod launchers in this group have no fuel.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>Деякі пускові установки в цій групі не мають пального.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>Some pod launchers are under a roof.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Деякі пускові установки знаходяться під дахом.</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
@@ -416,7 +416,7 @@
   <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>The pod launcher has no fuel.</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>Пускова установка не має пального.</CommandLoadTransporterFailNoFuel>
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
