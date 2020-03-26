@@ -785,9 +785,9 @@
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
-  <RotStateFresh>Fresh</RotStateFresh>
+  <RotStateFresh>Свіже</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>Rotting</RotStateRotting>
+  <RotStateRotting>Гниє</RotStateRotting>
   <!-- EN: Dessicated -->
   <RotStateDessicated>Dessicated</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
@@ -799,7 +799,7 @@
   <!-- EN: over a decade -->
   <OverADecade>over a decade</OverADecade>
   <!-- EN: less than a day -->
-  <LessThanADay>less than a day</LessThanADay>
+  <LessThanADay>менше доби</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
@@ -859,21 +859,21 @@
   <!-- EN: Priority -->
   <Priority>Priority</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>Clear all</ClearAll>
+  <ClearAll>Очистити все</ClearAll>
   <!-- EN: Allow all -->
-  <AllowAll>Allow all</AllowAll>
+  <AllowAll>Дозволити все</AllowAll>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
   <HitPoints>{0} hit points</HitPoints>
   <!-- EN: any quality -->
-  <AnyQuality>any quality</AnyQuality>
+  <AnyQuality>будь-яка якість</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>{0} only</OnlyQuality>
+  <OnlyQuality>{0} тільки</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
-  <Undiscovered>Undiscovered</Undiscovered>
+  <Undiscovered>Невідкрите</Undiscovered>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
@@ -921,25 +921,25 @@
   <!-- EN: Special conditions affecting the area right now. -->
   <GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
   <!-- EN: time left -->
-  <TimeLeft>time left</TimeLeft>
+  <TimeLeft>залишилось часу</TimeLeft>
   <!-- EN: impact date -->
   <ImpactDate>impact date</ImpactDate>
   <!-- EN: Source unknown. -->
   <SourceUnknown>Source unknown.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>Click to jump to the source.</ClickToJumpToSource>
+  <ClickToJumpToSource>Клікніть, щоб перейти то джерела.</ClickToJumpToSource>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>Caused by quest: {0}</CausedByQuest>
+  <CausedByQuest>Спричинено дорученням: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>You have no usable materials from which to build this.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>У вас немає матеріалів, з яких можна це збудувати.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} матиме штраф до швидкості роботи</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>Cannot be placed under a roof.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>Неможливо розмістити під дахом.</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Must place with head attached to ship structural beam.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -977,9 +977,9 @@
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>Cannot launch.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>Неможливо запустити.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>Ready for launch.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>Готовий до запуску.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>Missing critical component</ShipReportMissingPart>
   <!-- EN: requires -->
