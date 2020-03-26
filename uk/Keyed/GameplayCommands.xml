@@ -194,37 +194,37 @@
   <!-- EN: Reset the target temperature to room temperature. -->
   <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
-  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
+  <CommandRaiseTempDesc>Підвищити цільову температуру.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
-  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
+  <CommandLowerTempDesc>Понизити цільову температуру.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
   <CommandInstall>Встановити</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
+  <CommandInstallDesc>Цей предмет зараз упакований для зберігання та транспортування. За допомогою цієї команди встановіть його у потрібному місці.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>Reinstall at...</CommandReinstall>
+  <CommandReinstall>Переставити на...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  <CommandReinstallDesc>Призначити видалення та перестановку предмета в інше місце.</CommandReinstallDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Створити склад навколо цієї будівлі, що формою точно відповідає радіусу запуску маяка.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
-  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileLabel>Створити склад</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Створіть зону вирощування навколо будівлі, що формою точно відповідає світловому радіусу лампи.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
-  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneLabel>Створити зону вирощування</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
+  <CommandAutoRearm>Авто-переобладнання</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be replaced after it springs.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>Якщо увімкнено, ця пастка буде автоматично переобладнана після спрацювання.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
@@ -250,19 +250,19 @@
   <!-- EN: Hold fire -->
   <CommandHoldFire>Hold fire</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
+  <CommandHoldFireDesc>Зупинити будь-які атаки.</CommandHoldFireDesc>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>Оберіть рослину для вирощування</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>Саджати: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>Визначте, яку рослину варто тут посадити.</CommandSelectPlantToGrowDesc>
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>Tuned to</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Налаштовано на</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -450,19 +450,19 @@
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>Select next in launch group</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>Обрати наступного в групі</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>Обрати наступну транспортну капсулу у групі для запуску.</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>Призначити відкрити/закрити</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>Призначити закриття чи відкриття цієї вентиляції. Незабаром прийде поселенець для виконання завдання.</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
-  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointLabel>Видалити</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
   <CommandRemoveWaypointDesc>Видалити цю відмітку.</CommandRemoveWaypointDesc>
 
