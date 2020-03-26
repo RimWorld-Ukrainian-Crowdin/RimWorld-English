@@ -557,7 +557,7 @@
   <!-- EN: Snow (medium) -->
   <SnowMedium>Сніг (середній)</SnowMedium>
   <!-- EN: Snow (thick) -->
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowThick>Сніг (товстий)</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
@@ -573,7 +573,7 @@
   <!-- EN: Shell loaded: {1_label} -->
   <ShellLoaded>Shell loaded: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>Not loaded</ShellNotLoaded>
+  <ShellNotLoaded>Не завантажено</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
@@ -591,17 +591,17 @@
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>спостерігає схід сонця.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>cloudwatching.</CloudWatching>
+  <CloudWatching>дивиться на хмари.</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>watching the sunset.</WatchingSunset>
+  <WatchingSunset>спостерігає захід сонця.</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>stargazing.</Stargazing>
+  <Stargazing>дивиться на зірки.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>watching the eclipse.</WatchingEclipse>
+  <WatchingEclipse>дивиться на затемнення.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>watching the aurora.</WatchingAurora>
+  <WatchingAurora>дивиться на полярне сяйво.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>using {0} on {1}.</UsingVerb>
+  <UsingVerb>використовуэ {0} на {1}.</UsingVerb>
   <!-- EN: area -->
   <AreaLower>area</AreaLower>
   <!-- EN: cowering. -->
@@ -609,27 +609,27 @@
   <!-- EN: standing. -->
   <ReportStanding>стоїть.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>гасить пожежу.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>extinguishing fire on {TARGET_label}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>гасить вогонь на {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>digging up corpse.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>викопує труп.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Відвідує церемонію одруження</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <LordReportAttendingParty>Відвідує вечірку</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>Attending concert</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Відвідує концерт</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>Holding a concert</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Проводить концерт</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>Giving a speech</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Виступає з промовою</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Listening to {ORGANIZER_labelShort}'s speech</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Слухає промову {ORGANIZER_labelShort}</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Збирає караван</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -643,7 +643,7 @@
   <!-- EN: Target lying down -->
   <TargetProne>Target lying down</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>Target size</TargetSize>
+  <TargetSize>Розмір цілі</TargetSize>
   <!-- EN: Weather -->
   <Weather>Погода</Weather>
   <!-- EN: Cover -->
@@ -661,11 +661,11 @@
   <!-- EN: Make {0}. -->
   <RecipeMakeDescription>Робить {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>Робить {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
   <RecipeAdminister>administer {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Призначає {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
@@ -683,9 +683,9 @@
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>Значний поріг зриву</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>Незначний поріг зриву</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
@@ -695,7 +695,7 @@
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} під {1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
   <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
@@ -713,13 +713,13 @@
   <!-- EN: Dead -->
   <Dead>Dead</Dead>
   <!-- EN: Unconscious -->
-  <Unconscious>Unconscious</Unconscious>
+  <Unconscious>Без свідомості</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>In shock due to pain</PainShock>
+  <PainShock>У шоці через біль</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>Pain shock</PainShockShort>
+  <PainShockShort>Больовий шок</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Incapacitated</Incapacitated>
+  <Incapacitated>Недієздатний</Incapacitated>
   <!-- EN: In restraints (slowed) -->
   <InRestraints>In restraints (slowed)</InRestraints>
   <!-- EN: Carrying -->
@@ -727,7 +727,7 @@
   <!-- EN: Affected by: -->
   <AffectedBy>Affected by:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>Queued</Queued>
+  <Queued>У черзі</Queued>
   <!-- EN: State -->
   <State>State</State>
   <!-- EN: stun -->
@@ -737,7 +737,7 @@
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>View information.</DefInfoTip>
+  <DefInfoTip>Переглянути інформацію.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
@@ -751,11 +751,11 @@
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>Not connected to power.</PowerNotConnected>
+  <PowerNotConnected>Не підключено до живлення.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Grid excess/stored: {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Power needed</PowerNeeded>
+  <PowerNeeded>Потрібно живлення</PowerNeeded>
   <!-- EN: Power output -->
   <PowerOutput>Power output</PowerOutput>
   <!-- EN: Stored -->
