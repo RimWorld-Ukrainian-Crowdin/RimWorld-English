@@ -316,27 +316,27 @@
   <!-- EN: Abandon -->
   <CommandAbandonHome>Покинути</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>Покинути це місце. Територія стане недоступною, і ви ніколи не зможете повернутися сюди. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Покинути це місце. Територія стане недоступною, і ви ніколи не зможете повернутися сюди. Після того, як ви покинете свій дім, ви зможете наказати одному з ваших караванів оселитися на новому місці.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>Усі ваші колоністи там.</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Cancel forming caravan</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Скасувати формування каравану</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>Terminate the caravan formation process.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Припинити процес збору каравану.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Видалити з каравану</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>Видалити цю людину чи тварину з каравану.</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
   <CommandAddToCaravan>Додати до каравану</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>Додати цю людину чи тварину до каравану.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
@@ -350,9 +350,9 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Торгувати з цією фракцією.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>Нема свідомого та здібного переговорника.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>None of your people have the required faction permission: {0}</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Ніхто з ваших людей не має необхідного дозволу на фракцію: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -368,11 +368,11 @@
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
-  <CommandFulfillTradeOfferConfirm>Give {0}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>Дати {0}?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
-  <CommandTakeOff>Take off</CommandTakeOff>
+  <CommandTakeOff>Взлетіти</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
   <CommandTakeOffDesc>Get on board the ship and escape the planet.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
