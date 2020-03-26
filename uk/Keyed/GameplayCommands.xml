@@ -18,9 +18,9 @@
   <CommandTogglePowerDesc>Перемкнути живлення.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Призначити перемикач живлення</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Призначити річ для перемикання живлення. Поселенець незабаром прийде та перемикне його.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Перез'єднати</CommandTryReconnectLabel>
@@ -95,17 +95,17 @@
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <AreYouSure>Ви впевнені, що ви хочете зробити це?</AreYouSure>
 
   <!-- EN: Detonate -->
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
+  <CommandDetonateLabel>Детонувати</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateDesc>Почати відлік до детонації.</CommandDetonateDesc>
 
   <!-- EN: Rename -->
   <CommandRenameZoneLabel>Переназвати</CommandRenameZoneLabel>
   <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>Перейменувати цю зону.</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
   <CommandHideZoneLabel>Сховати</CommandHideZoneLabel>
@@ -306,11 +306,11 @@
   <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>Ваша фракція може мати тільки одну базу.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>Досягнута максимальна кількість колоній.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
   <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>У цій області є вороги.</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
@@ -334,21 +334,21 @@
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
+  <CommandAddToCaravan>Додати до каравану</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
   <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>Zoom in</CommandShowMap>
+  <CommandShowMap>Збільшити</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
+  <CommandShowMapDesc>Збільшити масштаб у цій зоні.</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
   <CommandTrade>Торгівля</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
+  <CommandTradeDesc>Торгувати з цією фракцією.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
@@ -398,7 +398,7 @@
   
   <!-- Launch group -->
   <!-- EN: Launch group -->
-  <CommandLaunchGroup>Launch group</CommandLaunchGroup>
+  <CommandLaunchGroup>Запуск групи</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
   <CommandLaunchGroupDesc>Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
@@ -432,7 +432,7 @@
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>Autoload</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Автозавантаження</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
   <CommandAutoloadTransportersDesc>Toggle loading all required cargo automatically as soon as they become available.</CommandAutoloadTransportersDesc>
   
@@ -482,11 +482,11 @@
   <!-- EN: Attack -->
   <CommandAttackSettlement>Атакувати</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>Атакувати це поселення.</CommandAttackSettlementDesc>
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>Send</CommandSendShuttle>
+  <CommandSendShuttle>Відправити</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
   <CommandSendShuttleDesc>Initiate takeoff and have the shuttle fly to its destination.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
