@@ -40,9 +40,9 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>Демобілізувати</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Перемикнути військову мобілізацію.\n\nМобілізовані будуть виконувати наказати та вести бій. Вони не будуть працювати, їсти чи відпочивати.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{1_labelShort} cannot walk.</IsIncapped>
+  <IsIncapped>{1_labelShort} не може ходити.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Стріляти на розсуд</CommandFireAtWillLabel>
