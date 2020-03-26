@@ -1043,29 +1043,29 @@
   <!-- EN: on edge -->
   <Mood_OnEdge>на межі</Mood_OnEdge>
   <!-- EN: stressed -->
-  <Mood_Stressed>stressed</Mood_Stressed>
+  <Mood_Stressed>в стрессі</Mood_Stressed>
   <!-- EN: neutral -->
   <Mood_Neutral>нейтрально</Mood_Neutral>
   <!-- EN: content -->
-  <Mood_Content>content</Mood_Content>
+  <Mood_Content>задоволений</Mood_Content>
   <!-- EN: happy -->
   <Mood_Happy>щасливі</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Усі мертві чи пішли. Ця історія закінчена.\n\nМожливо, хтось інший знайде руїни цього місця корисними.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>You've launched the ship!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>Ви запустили корабель!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
   <GameOverShipLaunchedEnding>Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>These colonists escaped:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>Ці поселенці втекли:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
   <GameOverColonistsLeft>These colonists were left behind:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>In memory of:\n</GameOverInMemoryOf>
+  <GameOverInMemoryOf>В пам'ять про:\n</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Keep playing</GameOverKeepPlaying>
   <!-- EN: Main menu -->
