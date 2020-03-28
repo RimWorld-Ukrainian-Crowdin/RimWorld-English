@@ -90,9 +90,9 @@
   <NewColonyHope.stages.initial_hope.description>I'm getting used to this, but it's still an exciting new situation. I hope this works out...</NewColonyHope.stages.initial_hope.description>
   
   <!-- EN: initial optimism -->
-  <NewColonyOptimism.stages.initial_optimism.label>initial optimism</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.label>початковий оптимізм</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
-  <NewColonyOptimism.stages.initial_optimism.description>It's a tough situation, but I'm excited to be founding a new settlement.</NewColonyOptimism.stages.initial_optimism.description>
+  <NewColonyOptimism.stages.initial_optimism.description>Це складна ситуація, але я радий, що мені випала нагода заснувати нове поселення.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
   <Nuzzled.stages.nuzzled.label>nuzzled</Nuzzled.stages.nuzzled.label>
