@@ -28,7 +28,7 @@
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>толерантність до алкоголю</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>Вбудована толерантність до алкоголя. Чим сильнішою є ця толерантність, тим більше потрібно алкоголю для здобуття того ж ефекту.</AlcoholTolerance.description>
+  <AlcoholTolerance.description>Вибудована толерантність до алкоголя. Чим сильнішою є ця толерантність, тим більше потрібно алкоголю для здобуття того ж ефекту.</AlcoholTolerance.description>
   <!-- EN: small -->
   <AlcoholTolerance.stages.small-0.label>малий</AlcoholTolerance.stages.small-0.label>
   <!-- EN: small -->
