@@ -112,7 +112,7 @@
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Мертве тіло {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{1_label} (мертвий(а))</DeadLabel>
+  <DeadLabel>{1_label} ({1_gender ? мертвий : мертва})</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>нерівна {0}</RoughStoneTerrainLabel>
