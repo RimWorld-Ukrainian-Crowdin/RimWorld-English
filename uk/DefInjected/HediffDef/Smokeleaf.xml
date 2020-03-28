@@ -16,7 +16,7 @@
   <SmokeleafHigh.labelNoun>кайф від димолиста</SmokeleafHigh.labelNoun>
   
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>звикання до димолисту</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>толерантність до димолисту</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
   <SmokeleafTolerance.description>Вибудована толерантність до димолисту. Чим сильнішою є ця толерантність, тим більше потрібно димолисту для здобуття того ж ефекту.</SmokeleafTolerance.description>
   <!-- EN: small -->
