@@ -11,21 +11,21 @@
   <!-- EN: high on wake-up -->
   <WakeUpHigh.label>високий на бадьорин</WakeUpHigh.label>
   <!-- EN: Wake-up in the bloodstream. Fills the need for rest by stimulating the brain. -->
-  <WakeUpHigh.description>Wake-up in the bloodstream. Fills the need for rest by stimulating the brain.</WakeUpHigh.description>
+  <WakeUpHigh.description>Активний бадьорин в крові. Позбавляє необхідності в відпочинку, стимулюючи мозок.</WakeUpHigh.description>
   <!-- EN: a wake-up high -->
-  <WakeUpHigh.labelNoun>бадьорин високий</WakeUpHigh.labelNoun>
+  <WakeUpHigh.labelNoun>кайф від бадьорину</WakeUpHigh.labelNoun>
   
   <!-- EN: wake-up tolerance -->
-  <WakeUpTolerance.label>толерантність до бадьорина</WakeUpTolerance.label>
+  <WakeUpTolerance.label>толерантність до бадьорину</WakeUpTolerance.label>
   <!-- EN: A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect. -->
-  <WakeUpTolerance.description>A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect.</WakeUpTolerance.description>
+  <WakeUpTolerance.description>Вибудована толерантність до бадьорину. Чим сильнішою є ця толерантність, тим більше потрібно бадьорину для здобуття того ж ефекту.</WakeUpTolerance.description>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-0.label>малий</WakeUpTolerance.stages.small-0.label>
+  <WakeUpTolerance.stages.small-0.label>мала</WakeUpTolerance.stages.small-0.label>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-1.label>малий</WakeUpTolerance.stages.small-1.label>
+  <WakeUpTolerance.stages.small-1.label>мала</WakeUpTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <WakeUpTolerance.stages.large.label>великий</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.large.label>велика</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->
-  <WakeUpTolerance.stages.massive.label>масивний</WakeUpTolerance.stages.massive.label>
+  <WakeUpTolerance.stages.massive.label>масивна</WakeUpTolerance.stages.massive.label>
   
 </LanguageData>
