@@ -64,7 +64,7 @@
   <KilledColonyAnimal.stages.killed_colony_animal.label>killed colony animal</KilledColonyAnimal.stages.killed_colony_animal.label>
   
   <!-- EN: man -->
-  <Man.stages.man.label>людина</Man.stages.man.label>
+  <Man.stages.man.label>чоловік</Man.stages.man.label>
   
   <!-- EN: not {0}'s master -->
   <NotBondedAnimalMaster.stages.not_s_master.label>not {0}'s master</NotBondedAnimalMaster.stages.not_s_master.label>
