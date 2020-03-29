@@ -13,7 +13,7 @@
   <!-- EN: climate cycle -->
   <ClimateCycle.label>кліматичний цикл</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>Багаторічний цикл зміни клімату, викликаний витягнутою еліптичною орбітою.</ClimateCycle.description>
+  <ClimateCycle.description>Багаторічні регулярні коливання клімату через еліптичність орбіти.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>заморозки</ColdSnap.label>
@@ -47,18 +47,18 @@
   <!-- EN: heat wave -->
   <HeatWave.label>хвиля спеки</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>Хвиля непомірної спеки прокочується вашим поселенням.</HeatWave.description>
+  <HeatWave.description>Найсильніша спека висушує околиці.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>небачене підвищення температури буде спалювати усе навколо [map_definite] [gameConditionDuration_duration]. Ваші посіви, тварини, та люди які не будуть у охолденних місцях загинуть</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>спека буде висушувати [map_definite] і прилеглі околиці протягом [gameConditionDuration_duration], завдаючи шкоди посівам. Тварини і люди, що опинилися поза охолоджуваних приміщень, можуть загинути</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Хвиля спеки минула.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>Почалася незвичайна хвиля спеки.\n\nВисокі температури можуть викликати смертельний тепловий удар. Проконтролюйте щоб були прохолодні приміщення будуючи пасивні або електричні кондиціонери, або пробуривши печери вглиб скель.</HeatWave.letterText>
+  <HeatWave.letterText>Почалася надзвичайно сильна спека. \n\nОстерігайтесь теплових ударів: вони смертельно небезпечні. Знижуйте температуру в приміщеннях за допомогою випарного охолоджувача або кондиціонера, або приховайтесь глибоко під землею, де гірська порода зберігає природну прохолоду.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>знищувач планет</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>Міжзоряна зброя для винищення планет наближається до цієї планети. Вона рознесе планету на шмаття, як куля гвинтівки, що вразила яйце, винищуючи все живе.</Planetkiller.description>
+  <Planetkiller.description>Міжзоряний "вбивця планет" наближається до нас. Воно винищить усе живе та розмаже нашу планету наче яйце.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>психічний дрон</PsychicDrone.label>
