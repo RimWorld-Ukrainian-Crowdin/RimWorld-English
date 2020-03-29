@@ -49,11 +49,11 @@
   <!-- EN: An extreme wave of heat is baking the area. -->
   <HeatWave.description>Хвиля непомірної спеки прокочується вашим поселенням.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>хвиля спеки спече територію навколо [map_definite] для [gameConditionDuration_duration], завдаючи шкоди сільськогосподарським культурам і, ймовірно, вбиваючи людей або тварин у неохолоджених районах</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>небачене підвищення температури буде спалювати усе навколо [map_definite] [gameConditionDuration_duration]. Ваші посіви, тварини, та люди які не будуть у охолденних місцях загинуть</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Хвиля спеки минула.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>Почалася незвичайна хвиля спеки.\n\nХвилі спеки можуть викликати смертельний тепловий інсульт. Залишайтеся охолодженими, будуючи пасивний або електричний охолоджувач, або потрапивши в глибоку підземну ділянку, де скелі природно прохолодні.</HeatWave.letterText>
+  <HeatWave.letterText>Почалася незвичайна хвиля спеки.\n\nВисокі температури можуть викликати смертельний тепловий удар. Проконтролюйте щоб були прохолодні приміщення будуючи пасивні або електричні кондиціонери, або пробуривши печери вглиб скель.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>знищувач планет</Planetkiller.label>
