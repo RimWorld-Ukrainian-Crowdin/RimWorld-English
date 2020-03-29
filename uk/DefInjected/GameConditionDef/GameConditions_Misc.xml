@@ -16,31 +16,31 @@
   <ClimateCycle.description>Багаторічний цикл зміни клімату, викликаний витягнутою еліптичною орбітою.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>хрещенські морози</ColdSnap.label>
+  <ColdSnap.label>заморозки</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>Надзвичайно холодна погода настала в цьому регіоні.</ColdSnap.description>
+  <ColdSnap.description>Незвичне похоладання накриває ваш регіон.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
   <ColdSnap.descriptionFuture>фронт холодного повітря охолоджуватиме територію навколо [map_definite] протягом [gameConditionDuration_duration], шкодячи рослинам, тваринам та людям, які не матимуть відповідного захисту</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>Суворі морози закінчилися.</ColdSnap.endMessage>
+  <ColdSnap.endMessage>Потепління (кінець заморозок)</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
   <ColdSnap.letterText>Незвичайне похолодання.\n\nЗаморозки можуть швидко вбити від переохолодження. Подбайте про будівництво опалюваного приміщення для виживання, одягніть відповідний одяг і спробуйте зібрати врожай, перш ніж він замерзне та загине.</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>затемнення</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>Планета занурюється в тінь. Деякий час буде темно, як вночі.</Eclipse.description>
+  <Eclipse.description>Затемнення затінює поверхню планети. Деякий час буде темно навіть у день.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
   <Eclipse.endMessage>Затемнення скінчилося.</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
   <Eclipse.letterText>Один з супутників цієї планети вийшов на орбіту напроти сонця. Почалось затемнення.</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>грозовий фронт</Flashstorm.label>
+  <Flashstorm.label>гроза</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>Грозовий фронт підриває невелику територію повторними спалахами блискавки.</Flashstorm.description>
+  <Flashstorm.description>Блискавки від грози підпалюють невелики ділянки.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>Грозовий фронт пройшов.</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Гроза скінчилася.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
   <Flashstorm.letterText>Несподівана гроза вражає невелику площу блискавками. Це може викликати масові пожежі.</Flashstorm.letterText>
   
