@@ -56,7 +56,7 @@
   <HeatWave.letterText>Почалася надзвичайно сильна спека. \n\nОстерігайтесь теплових ударів: вони смертельно небезпечні. Знижуйте температуру в приміщеннях за допомогою випарного охолоджувача або кондиціонера, або приховайтесь глибоко під землею, де гірська порода зберігає природну прохолоду.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>знищувач планет</Planetkiller.label>
+  <Planetkiller.label>вбивця планет</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
   <Planetkiller.description>Міжзоряний "вбивця планет" наближається до нас. Воно винищить усе живе та розмаже нашу планету наче яйце.</Planetkiller.description>
   
