@@ -63,7 +63,7 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>психічний дрон</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>Спрямований в далечінь архотех виділяє психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
+  <PsychicDrone.description>Спрямований в далечінь доісторічний ШИ виділяє психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
   <PsychicDrone.descriptionFuture>у [psychicDroneLevel] психічної дрон буде дзижчати навколо [map_definite] для [gameConditionDuration_duration], підштовхуючи всіх людей [psychicDroneGender] породжуючи божевілля</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
