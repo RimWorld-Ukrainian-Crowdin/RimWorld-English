@@ -405,7 +405,7 @@
     <!-- EN: weirdo -->
     <titleShort>дивак</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
-    <desc>[PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends.</desc>
+    <desc>[PAWN_nameDef] виріс в домі біля жвавого метрополісу.\n\n[PAWN_pronoun] мав хист у мистецтві і креативній праці, але часто вів себе дивно, і тому мав небагато друзів.</desc>
   </ArtisticWeirdo56>
   
   <ArtsPatron54>
@@ -414,7 +414,7 @@
     <!-- EN: patron -->
     <titleShort>меценат</titleShort>
     <!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
-    <desc>[PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself.</desc>
+    <desc>[PAWN_nameDef] керував інвестиціями [PAWN_possessive] родини в мистецтво.\n\n[PAWN_pronoun] обирав митців для покровительства і працював з ними для створення робіт, які найбільш вихваляли [PAWN_possessive] родину, Імперську церкву, і саму Імперію.</desc>
   </ArtsPatron54>
   
   <ArtStudent6>
