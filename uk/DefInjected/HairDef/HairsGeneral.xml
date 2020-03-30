@@ -62,10 +62,10 @@
   <Keeper.label>кіпер</Keeper.label>
   
   <!-- EN: lackland -->
-  <Lackland.label>lackland</Lackland.label>
+  <Lackland.label>безземельний</Lackland.label>
   
   <!-- EN: locks -->
-  <Locks.label>locks</Locks.label>
+  <Locks.label>локони</Locks.label>
   
   <!-- EN: long -->
   <Long.label>довге</Long.label>
@@ -86,25 +86,25 @@
   <Ponytails.label>хвостики</Ponytails.label>
   
   <!-- EN: primal -->
-  <Primal.label>primal</Primal.label>
+  <Primal.label>дикунська</Primal.label>
   
   <!-- EN: princess -->
   <Princess.label>принцеса</Princess.label>
   
   <!-- EN: randy -->
-  <Randy.label>randy</Randy.label>
+  <Randy.label>ренді</Randy.label>
   
   <!-- EN: recruit -->
   <Recruit.label>рекрутувати</Recruit.label>
   
   <!-- EN: revolt -->
-  <Revolt.label>revolt</Revolt.label>
+  <Revolt.label>бунтівник</Revolt.label>
   
   <!-- EN: rockstar -->
-  <Rockstar.label>rockstar</Rockstar.label>
+  <Rockstar.label>рокер</Rockstar.label>
   
   <!-- EN: rookie -->
-  <Rookie.label>rookie</Rookie.label>
+  <Rookie.label>новобранець</Rookie.label>
   
   <!-- EN: savage -->
   <Savage.label>дикун</Savage.label>
@@ -116,7 +116,7 @@
   <ScorpionTail.label>хвіст скорпіона</ScorpionTail.label>
   
   <!-- EN: scrapper -->
-  <Scrapper.label>scrapper</Scrapper.label>
+  <Scrapper.label>забіяка</Scrapper.label>
   
   <!-- EN: senorita -->
   <Senorita.label>сеньйорита</Senorita.label>
@@ -125,16 +125,16 @@
   <Shaved.label>лисина</Shaved.label>
   
   <!-- EN: shave top braid -->
-  <ShaveTopBraid.label>shave top braid</ShaveTopBraid.label>
+  <ShaveTopBraid.label>бреди з лисиною</ShaveTopBraid.label>
   
   <!-- EN: snazzy -->
-  <Snazzy.label>snazzy</Snazzy.label>
+  <Snazzy.label>нестримана</Snazzy.label>
   
   <!-- EN: spikes -->
   <Spikes.label>шипи</Spikes.label>
   
   <!-- EN: sticky -->
-  <Sticky.label>sticky</Sticky.label>
+  <Sticky.label>липка</Sticky.label>
   
   <!-- EN: topdog -->
   <Topdog.label>бос</Topdog.label>
