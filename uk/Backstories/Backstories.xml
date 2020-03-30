@@ -423,7 +423,7 @@
     <!-- EN: Artist -->
     <titleShort>Митець</titleShort>
     <!-- EN: After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industr   work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from  herart. -->
-    <desc>Після років практики, Фрейя змогла вступити в художній університет, і покращити свої навички. Вона шукала роботу в індустрії мистецтва, закінчивши університет з хорошими оцінками. She made some progress with private commissions, managing to make a decent living from  herart.</desc>
+    <desc>Після років практики, Фрейя змогла вступити в художній університет, і покращити свої навички. Вона шукала роботу в індустрії мистецтва, закінчивши університет з хорошими оцінками. Вона досягла певного прогресу, з отриманням комісій, зумівши досягти гідного рівея життя від серця.</desc>
   </ArtStudent6>
   
   <AsceticPriest84>
@@ -432,7 +432,7 @@
     <!-- EN: priest -->
     <titleShort>священик</titleShort>
     <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-    <desc>After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars.</desc>
+    <desc>Після прийняття обітниці мовчання, [PAWN_nameDef] приєднався до монастирю, щоб провести [PAWN_possessive] дні в тихій задумі.\n\n[PAWN_pronoun] знайшов щастя, вирощуючи овочі в саду і роблячи сир в підвалах монастиря.</desc>
   </AsceticPriest84>
   
   <AspergersRebel13>
@@ -441,7 +441,7 @@
     <!-- EN: rebel -->
     <titleShort>повстанець</titleShort>
     <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
-    <desc>[PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly.</desc>
+    <desc>[PAWN_nameDef] виріс як повстанець а колись ківітнучому світі, зруйнованому війною.\n\n[PAWN_possessive] синдром Аспергера значив, що [PAWN_pronoun] мав труднощі з соціалізаціями і був нездатний виявляти турботу, але [PAWN_pronoun] вивчив навички на кшталт досліджень і стрільби дуже швидко.</desc>
   </AspergersRebel13>
   
   <AspiringEngineer58>
