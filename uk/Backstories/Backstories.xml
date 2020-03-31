@@ -486,7 +486,7 @@
     <!-- EN: assassin -->
     <titleShort>асасин</titleShort>
     <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-    <desc>[PAWN_nameDef] був спеціально навчений як оперативник, щоб бути використаним для дуже ризикованих вбивств. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</desc>
+    <desc>[PAWN_nameDef] був спеціально навчений як оперативник, щоб бути використаним для дуже ризикованих вбивств. [PAWN_possessive] навички з гвинтівкою були неперевершені.\n\n[PAWN_pronoun] з часом, був зраджений [PAWN_possessive] керівництвом, коли ціль дізналася про замовлення та запропонувала підтримувати їх майбутні проєкти. [PAWN_nameDef] поклявся більше нікому не довіряти.</desc>
   </Assassin7>
   
   <Assembler69>
