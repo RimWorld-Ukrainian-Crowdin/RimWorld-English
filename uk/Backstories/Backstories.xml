@@ -450,7 +450,7 @@
     <!-- EN: tinkerer -->
     <titleShort>механік</titleShort>
     <!-- EN: [PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders. -->
-    <desc>[PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders.</desc>
+    <desc>[PAWN_nameDef] завжди був захоплений гаджетами й механізмами. [PAWN_pronoun] розбирав і збирав назад майже все, що [PAWN_pronoun] міг знайти.\n\n[PAWN_pronoun] звик ремонтувати іграшки, принесені [PAWN_objective] іншими дітьми, і навіть відремонтував декілька пристроїів, належавших [PAWN_possessive] дорослим клієнтам.</desc>
   </AspiringEngineer58>
   
   <AspiringPhysicist47>
@@ -459,16 +459,16 @@
     <!-- EN: student -->
     <titleShort>студент</titleShort>
     <!-- EN: The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, [PAWN_pronoun] decided [PAWN_pronoun] wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals. -->
-    <desc>The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, [PAWN_pronoun] decided [PAWN_pronoun] wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals.</desc>
+    <desc>Дочка інженера й лікаря, [PAWN_nameDef] мала дуже насичене багате інтелектуальним розвитком раннє життя. Після візиту в лабораторію з фізики, [PAWN_pronoun] вирішила, що [PAWN_pronoun] хотіла стати квантовим фізиком.\n\nВкушена верблюдом, збита з лошаді і переслідувана собаками, [PAWN_nameDef] розвинула страх тварин.</desc>
   </AspiringPhysicist47>
   
   <AspiringPopIdol28>
     <!-- EN: aspiring pop idol -->
-    <title>aspiring pop idol</title>
+    <title>починаючий поп-ідол</title>
     <!-- EN: pop idol -->
     <titleShort>поп-ідол</titleShort>
     <!-- EN: [PAWN_nameDef] was being trained in song and dance to become the next big pop idol. [PAWN_pronoun] grew up being taken care of by company handlers.\n\n[PAWN_pronoun] never knew manual labor, but learned a lot about music and social etiquette. -->
-    <desc>[PAWN_nameDef] was being trained in song and dance to become the next big pop idol. [PAWN_pronoun] grew up being taken care of by company handlers.\n\n[PAWN_pronoun] never knew manual labor, but learned a lot about music and social etiquette.</desc>
+    <desc>[PAWN_nameDef] вчився танецювати й співати, щоб стати наступним поп-ідолом. [PAWN_pronoun] виріс під опікою власників компанії.\n\n[PAWN_pronoun] ніколи не займався фізичною працею, але багато вивчив про музику й етикет.</desc>
   </AspiringPopIdol28>
   
   <Assassin20>
@@ -477,7 +477,7 @@
     <!-- EN: assassin -->
     <titleShort>асасин</titleShort>
     <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
-    <desc>[PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</desc>
+    <desc>[PAWN_nameDef] був професійним вбивцею. [PAWN_pronoun] був холоднокровним, розважливий, та мав гарний прибуток. В цій справі відсутність емпатії - перевага.</desc>
   </Assassin20>
   
   <Assassin7>
@@ -486,7 +486,7 @@
     <!-- EN: assassin -->
     <titleShort>асасин</titleShort>
     <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-    <desc>[PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</desc>
+    <desc>[PAWN_nameDef] був спеціально навчений як оперативник, щоб бути використаним для дуже ризикованих вбивств. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</desc>
   </Assassin7>
   
   <Assembler69>
