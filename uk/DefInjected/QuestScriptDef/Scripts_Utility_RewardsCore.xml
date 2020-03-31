@@ -23,7 +23,7 @@
     <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   -->
   <Util_SendItemPods.questDescriptionRules.rulesStrings>
-    <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+    <li>rewardDescription->прибудуть транспортній капсули з такими ресурсами (загальна вартість [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   </Util_SendItemPods.questDescriptionRules.rulesStrings>
   
 </LanguageData>
