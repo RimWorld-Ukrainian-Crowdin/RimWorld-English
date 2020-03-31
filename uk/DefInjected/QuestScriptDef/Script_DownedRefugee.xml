@@ -20,8 +20,8 @@
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
   <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
-    <li>questName->Saving [refugee_nameDef]</li>
-    <li>questName->The Rescue of [refugee_nameDef]</li>
+    <li>questName->Рятує [refugee_nameDef]</li>
+    <li>questName->Рятування [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
