@@ -542,7 +542,7 @@
     <!-- EN: bandit -->
     <titleShort>бандит</titleShort>
     <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side. -->
-    <desc>[PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side.</desc>
+    <desc>[PAWN_nameDef] піднімався в рядах кримінальної організації, з часом ставши лідером одного з їх найдальшого осередку бандитів. [PAWN_possessive] собака Рест ніколи не покидала [PAWN_possessive] сторони.</desc>
   </BanditLeader74>
   
   <Banished68>
@@ -551,7 +551,7 @@
     <!-- EN: banished -->
     <titleShort>вигнанець</titleShort>
     <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
-    <desc>[PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time.</desc>
+    <desc>Плем'я, в якому був [PAWN_nameDef], вигнало [PAWN_objective] після кривавого конфлікту. [PAWN_pronoun] дуже довго виживав в лісах.</desc>
   </Banished68>
   
   <BanishedSoldier85>
