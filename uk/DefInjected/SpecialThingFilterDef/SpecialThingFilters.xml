@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>allow biocoded apparel</AllowBiocodedApparel.label>
+  
   <!-- EN: allow biocoded weapons -->
   <AllowBiocodedWeapons.label>дозволити біокодовану зброю</AllowBiocodedWeapons.label>
   
@@ -29,6 +32,9 @@
   <AllowFresh.label>дозволити свіжі</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Дозволити органічні речі, які не почали гнити.</AllowFresh.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>allow non-biocoded apparel</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
   <AllowNonBiocodedWeapons.label>дозволити не-біокодовану зброю</AllowNonBiocodedWeapons.label>
