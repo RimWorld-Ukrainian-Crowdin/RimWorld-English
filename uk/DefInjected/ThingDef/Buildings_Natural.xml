@@ -52,9 +52,9 @@
   <MineableUranium.description>Гірська порода, що містить уран.</MineableUranium.description>
   
   <!-- EN: raised rocks -->
-  <RaisedRocks.label>raised rocks</RaisedRocks.label>
+  <RaisedRocks.label>стіни з каміння</RaisedRocks.label>
   <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
-  <RaisedRocks.description>A fragile wall made of rubble. It will collapse in time.</RaisedRocks.description>
+  <RaisedRocks.description>Крихка стіна, зроблена з щебеню. Вона розвалиться з часом.</RaisedRocks.description>
   
   <!-- EN: steam geyser -->
   <SteamGeyser.label>паровий гейзер</SteamGeyser.label>
