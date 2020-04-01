@@ -221,8 +221,8 @@
   <Stat_Hediff_NaturalHealingFactor_Desc>A multiplier applied to the overall rate of natural wound healing.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Food poisoning chance factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <!-- EN: A multiplier applied to the chance of accidentally cooking a meal with food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of accidentally cooking a meal with food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of getting food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition is drains blood. -->
   <Stat_Hediff_BleedingRate_Desc>The rate at which this condition is drains blood.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
@@ -260,8 +260,8 @@
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>The overall efficiency of this body part.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Weapon_Biocoded_Name>Biocoding</Stat_Thing_Weapon_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biocoding</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Weapon_Biocoded_Desc>This item has been coded to only accept a particular individual's bio-signature.</Stat_Thing_Weapon_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>This item has been coded to only accept a particular individual's bio-signature.</Stat_Thing_Biocoded_Desc>
 
 </LanguageData>
