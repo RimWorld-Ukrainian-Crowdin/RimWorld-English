@@ -11,7 +11,7 @@
   <DevilstrandCloth.label>дияволокно</DevilstrandCloth.label>
   <DevilstrandCloth.stuffProps.stuffAdjective>дияволокна</DevilstrandCloth.stuffProps.stuffAdjective>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame.</DevilstrandCloth.description>
+  <DevilstrandCloth.description>Тканина, зіткана з мікровролокон, виділених з грибів демонитки. Вона дуже міцна, добре ізолює тепло, і має винятковий захист від полум'я.</DevilstrandCloth.description>
   
   <!-- EN: gold -->
   <Gold.label>золото</Gold.label>
@@ -20,8 +20,8 @@
   <Gold.description>Найспокусливіший метал з усіх. Занадто м'який, щоб бути корисним для практичного використання, він надзвичайно красивий і ніколи не тьмяніє. Мільйони загинули у спробах вгамувати нескінченну людську спрагу до золота.</Gold.description>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>hyperweave</Hyperweave.label>
-  <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
+  <Hyperweave.label>гіпертканина</Hyperweave.label>
+  <Hyperweave.stuffProps.stuffAdjective>гіпертканина</Hyperweave.stuffProps.stuffAdjective>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
   <Hyperweave.description>Нано-тканина, сплетена молекула до молекули за допомогою спеціалізованих виробничих механітів. Залишаючись гнучкою більшість часу, вона здатна поглинати вхідні удари та її неймовірно складно зламати. Секрети її виробництва відомі лише найсучаснішим культурам утопічного світу.</Hyperweave.description>
   
@@ -65,7 +65,7 @@
   <WoodLog.label>деревина</WoodLog.label>
   <WoodLog.stuffProps.stuffAdjective>деревини</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Деревина з дерев або інших волокнистих рослин. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
+  <WoodLog.description>Деревина з дерев або інших волокнистих рослин. Корисно для побудови структур й виготовлення зброї. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
   <!-- EN: log -->
   <WoodLog.tools.log.label>колода</WoodLog.tools.log.label>
   
