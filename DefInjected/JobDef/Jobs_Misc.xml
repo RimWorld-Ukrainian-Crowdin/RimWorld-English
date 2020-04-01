@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: applying techprint TargetB. -->
-  <ApplyTechprint.reportString>applying techprint TargetB.</ApplyTechprint.reportString>
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>applying TargetB.</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
