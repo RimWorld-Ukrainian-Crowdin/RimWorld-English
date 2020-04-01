@@ -65,7 +65,7 @@
   <WoodLog.label>деревина</WoodLog.label>
   <WoodLog.stuffProps.stuffAdjective>деревини</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Деревина з дерев або інших волокнистих рослин. Корисно для побудови структур й виготовлення зброї. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
+  <WoodLog.description>Деревина з дерев або інших волокнистих рослин. Корисно для побудови структур й виготовлення зброї. Є гарним паливом для багать й генераторів, і може бути перероблено в хімпаливо. У крайньому випадку, фрагмент деревини можна використати як зброю чи ногу.</WoodLog.description>
   <!-- EN: log -->
   <WoodLog.tools.log.label>колода</WoodLog.tools.log.label>
   
