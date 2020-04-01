@@ -89,22 +89,22 @@
   <!-- EN: smoothed granite -->
   <SmoothedGranite.label>вигладжений граніт</SmoothedGranite.label>
   <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
-  <SmoothedGranite.description>A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles.</SmoothedGranite.description>
+  <SmoothedGranite.description>Дуже міцна магматична порода. Його сяюча поверхня вкрита мозаїкою чорних, білих й розових цяточек.</SmoothedGranite.description>
   
   <!-- EN: smoothed limestone -->
   <SmoothedLimestone.label>вигладжений вапняк</SmoothedLimestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
-  <SmoothedLimestone.description>A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within.</SmoothedLimestone.description>
+  <SmoothedLimestone.description>Осадова порода, зформована з ущільнених рештків староданіх мушель морських молюсків. Він світиться м'яко-білим, з легкими узорами інших кольорів всередині.</SmoothedLimestone.description>
   
   <!-- EN: smoothed marble -->
   <SmoothedMarble.label>вигладжений мармур</SmoothedMarble.label>
   <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
-  <SmoothedMarble.description>A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light.</SmoothedMarble.description>
+  <SmoothedMarble.description>М'який метаморфічний камінь. Цей напівпрозорий камінь майже світиться власним, глибинним світлом.</SmoothedMarble.description>
   
   <!-- EN: smoothed sandstone -->
   <SmoothedSandstone.label>вигладжений пісковик</SmoothedSandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
-  <SmoothedSandstone.description>A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface.</SmoothedSandstone.description>
+  <SmoothedSandstone.description>Осадова гірська порода, зформована з стиснутих разом частинок піску. Пісчані шари були відполіровані до м'якої, пласкої поверхні.</SmoothedSandstone.description>
   
   <!-- EN: smoothed slate -->
   <SmoothedSlate.label>вигладжений сланець</SmoothedSlate.label>
