@@ -98,17 +98,17 @@
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>Токсична хмара розвіялась.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
-  <ToxicFallout.letterText>Далеко від вас стався викид хімічних речовин, що сприяло зараженню цілого регіону.\n\nУсі хто не сховані під дахом будуть уражені.\n\nЦе має протривати декілька днів.</ToxicFallout.letterText>
+  <ToxicFallout.letterText>Далеко від вас хімічний вогонь випустив шлейф отрути над цим регіоном\n\nУсі, хто не сховані під дахом, будуть уражені токсичним пилом, повільно падаючим в атмосфері.\n\nЦе може протривати від декількох днів до року.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>вулканічна зима</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
   <VolcanicWinter.description>Далекий вулкан чи пожежа забруднює атмосферу попелом, що значно зменшить кількість світла, яке досягає поверхні. Температура буде нижче, а рослини ростимуть повільніше.</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>шар попелу зависне в верхніх шарах атмосфери, зменшуючий сонячне світло навколо [map_definite], протягом [gameConditionDuration_duration], серйозно пошкоджуючи локальну екосистему</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>Most of the ash has settled.</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Більшість попелу розвіялась.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Відбудеться різке зниження температури і ваші рослини перестануть рости через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато років.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Далекий вулкан чи пожежа забруднює атмосферу масивною кількістю попелу\n\nПопел в атмосфері закриє сонце. Відбудеться різке зниження температури і ваші рослини перестануть рости через відсутність сонячного світла. Це може пройти через кілька тижнів, або тривати багато років.</VolcanicWinter.letterText>
   
 </LanguageData>
