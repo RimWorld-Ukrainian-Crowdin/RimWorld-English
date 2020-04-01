@@ -491,11 +491,11 @@
   
   <Assembler69>
     <!-- EN: assembler -->
-    <title>assembler</title>
+    <title>складальник</title>
     <!-- EN: assembler -->
-    <titleShort>assembler</titleShort>
+    <titleShort>складальник</titleShort>
     <!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
-    <desc>[PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots.</desc>
+    <desc>[PAWN_nameDef] працював на фабричній мануфактурі, збираючи продукти з допомогою роботів.</desc>
   </Assembler69>
   
   <Athlete47>
@@ -504,7 +504,7 @@
     <!-- EN: athlete -->
     <titleShort>атлет</titleShort>
     <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
-    <desc>[PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept.</desc>
+    <desc>[PAWN_nameDef] став професійним атлетом в молодому віці. Завдяки [PAWN_possessive] навичкам, [PAWN_pronoun] був здатний покинути [PAWN_possessive] рідний світ і вступити в утопічний університет наук і технологій.\n\nЧерез [PAWN_possessive] складний розклад і інтровертну натуру, [PAWN_pronoun] став соціально невмілим.</desc>
   </Athlete47>
   
   <AwkwardNerd48>
@@ -513,7 +513,7 @@
     <!-- EN: nerd -->
     <titleShort>ботан</titleShort>
     <!-- EN: Always fascinated by machines, [PAWN_nameDef] spent [PAWN_possessive] time studying robotics and holography. [PAWN_pronoun] preferred the company of [PAWN_possessive] scientific creations to that of other people. -->
-    <desc>Always fascinated by machines, [PAWN_nameDef] spent [PAWN_possessive] time studying robotics and holography. [PAWN_pronoun] preferred the company of [PAWN_possessive] scientific creations to that of other people.</desc>
+    <desc>Завжди в захваті від машин, [PAWN_nameDef] проводив [PAWN_possessive] час вивчаючи робототехніку й голографію. [PAWN_pronoun] надавав перевагу компанії [PAWN_possessive] наукових витворів іншим людям.</desc>
   </AwkwardNerd48>
   
   <AWOLSoldier49>
