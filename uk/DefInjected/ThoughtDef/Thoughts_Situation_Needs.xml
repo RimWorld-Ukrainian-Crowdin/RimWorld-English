@@ -167,7 +167,7 @@
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
   <NeedRest.stages.drowsy.description>I haven't slept in a while. It's hard to keep focus.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
-  <NeedRest.stages.tired.label>втомлений(а)</NeedRest.stages.tired.label>
+  <NeedRest.stages.tired.label>{PAWN_gender ? стомлений : стомлена}</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
   <NeedRest.stages.tired.description>I'm so tired. I just want to lay down and rest for a few minutes...</NeedRest.stages.tired.description>
   <!-- EN: exhausted -->
