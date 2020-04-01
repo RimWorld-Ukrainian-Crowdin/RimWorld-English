@@ -518,11 +518,11 @@
   
   <AWOLSoldier49>
     <!-- EN: aWOL soldier -->
-    <title>aWOL soldier</title>
+    <title>солдат в самоволці</title>
     <!-- EN: soldier -->
     <titleShort>солдат</titleShort>
     <!-- EN: [PAWN_nameDef] was an infantryman.\n\nWhen [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
-    <desc>[PAWN_nameDef] was an infantryman.\n\nWhen [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet.</desc>
+    <desc>[PAWN_nameDef] був піхотинцем.\n\nКоли [PAWN_pronoun] був інформований про відправлення [PAWN_possessive] на Війну Зінноа-Зартца, [PAWN_pronoun] вирішив, що [PAWN_pronoun] не хотів бути солдатом. [PAWN_pronoun] Втік через воєнний космоліт.</desc>
   </AWOLSoldier49>
   
   <BalletDancer81>
