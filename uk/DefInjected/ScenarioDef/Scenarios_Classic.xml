@@ -34,7 +34,7 @@
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>Гола брутальність</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>Це мала бути незначна хірургічна операція. Лише годинка під анестезією. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. Чи можеш ти вижити зовсім без підготовки, припасів та інструментів?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Це мала бути незначна хірургічна операція. Лише годинка під анестезією. Ви почувалися цілком безпечно.\n\nА тепер ви прокинулися в десантній капсулі, прорізаючій атмосферу далекої планети.\n\nІ, якщо не враховувати шар загадкового слизу навколо вашого тіла, ви повністю голі. Чи можеш ти вижити зовсім без підготовки, припасів та інструментів?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>Голий, сам, та зовсім не підготований. Чи зможеш ти вижити? Надзвичайно важко та нечесно.</NakedBrutality.scenario.summary>
   
