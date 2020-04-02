@@ -39,17 +39,17 @@
   <!-- EN: psychoid plant -->
   <Plant_Psychoid.label>психолист</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid.description>Листяна рослина, що продукує психін. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.</Plant_Psychoid.description>
+  <Plant_Psychoid.description>Листяна рослина, що продукує психін. Рослина розвинла таку властивість як захисний механізм проти травоїдних тварин, дія психіну їх надто сильно стимулює і спричиняє нудоту. Переробленеий психін у різних формах може бути застосований з рекреаційною метою. Він викликає залежність.</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
   <Plant_Rice.label>рис</Plant_Rice.label>
   <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
-  <Plant_Rice.description>A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil.</Plant_Rice.description>
+  <Plant_Rice.description>Коротка швидкоросла культура, що дає дрібне їстівне зерно. Його поживність та простота вирощування зробили його основою економік багатьох цивілізацій. Росте рис швидко, але він є чутливим до якості ґрунту, тому росте повільно на бідних ґрунтах.</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>димолист</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>Рослина, вирощувана через психологічні властивості хімікатів, що містяться у її листі. З її листя на місці для виготовлення можна робити самокрутки. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>полуниця</Plant_Strawberry.label>
