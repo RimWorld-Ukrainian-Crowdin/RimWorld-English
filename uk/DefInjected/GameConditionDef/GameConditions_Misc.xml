@@ -69,16 +69,16 @@
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Дію психічного дрону завершено.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>Кожен {0} колоніст відчуває хвилю страху і гніву!\n\nЯкийсь далекий двигун ненависті пробуджується. Це проектування психічного дрона на цьому сайті через орбітальний підсилювач, налаштований тільки вдавати {0}s. Протягом декількох днів настрій деяких людей буде трохи гіршим.\n\nРівень дрона - {1}.</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Кожен {0} колоніст відчуває хвилю страху і гніву!\n\nЯкийсь далекий двигун ненависті пробуджується. Він проектує психічну хвилю на це місце через орбітальний підсилювач та налаштований щоб впливати тільки на {0}. Протягом декількох днів настрій деяких людей буде трохи гіршим.\n\nРівень дрона - {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>психічний дрон</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>Спрямований в далечінь архотех виділяє психічні сигнали через орбітальні посилювачі, заспокоюючи людей та стабілізуючи їхню думку.</PsychicSoothe.description>
+  <PsychicSoothe.description>Десь в далечині ШІ предтеч виділяє психічні сигнали через орбітальний підсилювач, які заспокоюють та стабілізують їх психіку.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>Дію психічного дрону завершено.</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>Дію заспокійливої хвилі завершено.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>Кожен колоніст-{0} задоволено посміхається!\n\nЯкийсь далекий двигун щастя запустився. Він проектує психічну хвилю на це місце через орбітальний підсилювач, налаштований, щоб впливати тільки на {0}ів. Протягом декількох днів настрій деяких людей буде трохи кращим.</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Кожен колоніст {0} задоволено посміхається!\n\nЯкийсь далекий двигун щастя запустився. Він проектує заспокійливу хвилю на це місце через орбітальний підсилювач та налаштований щоб впливати тільки на {0}. Протягом декількох днів настрій деяких людей буде трохи кращим.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>сонячний спалах</SolarFlare.label>
