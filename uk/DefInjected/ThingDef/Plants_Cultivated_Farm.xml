@@ -29,17 +29,17 @@
   <!-- EN: hop plant -->
   <Plant_Hops.label>хміль</Plant_Hops.label>
   <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
-  <Plant_Hops.description>Хміль є важливим інгредієнтом пива.</Plant_Hops.description>
+  <Plant_Hops.description>Квітуча рослина, що є важливим інгредієнтом пива.</Plant_Hops.description>
   
   <!-- EN: potato plant -->
   <Plant_Potato.label>картопля</Plant_Potato.label>
   <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
-  <Plant_Potato.description>A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil.</Plant_Potato.description>
+  <Plant_Potato.description>Дуже поживна бульба. Картопля росте добре навіть у порівняно бідних ґрунтах. Обсмажена в олії картопля утворює смачну та хрустку скоринку.</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
   <Plant_Psychoid.label>психолист</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid.description>A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.</Plant_Psychoid.description>
+  <Plant_Psychoid.description>Листяна рослина, що продукує психін. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
   <Plant_Rice.label>рис</Plant_Rice.label>
