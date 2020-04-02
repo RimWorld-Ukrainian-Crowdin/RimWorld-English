@@ -47,7 +47,7 @@
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Стріляти на розсуд</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>Перемкнути вогонь за бажанням.\n\nКоли вимкнено, цей персонаж не буде автоматично стріляти в цілі здалеку. Не впливає на ближній бій.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Очистити пріоритетну роботу</CommandClearPrioritizedWork>
@@ -172,9 +172,9 @@
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>Eject sleeper</CommandPodEject>
+  <CommandPodEject>Пробудити сплячого</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Пробудити людину в кріптосні й відділити її.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Нікого не містить.</CommandPodEjectFailEmpty>
 
