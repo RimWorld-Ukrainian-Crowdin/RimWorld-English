@@ -65,7 +65,7 @@
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
   <PsychicDrone.description>Десь в далечині ШІ предтеч виділяє психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>у [psychicDroneLevel] психічної дрон буде дзижчати навколо [map_definite] для [gameConditionDuration_duration], підштовхуючи всіх людей [psychicDroneGender] породжуючи божевілля</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>[psychicDroneLevel] буде взаємодіяти у [map_definite] протягом [gameConditionDuration_duration], підштовхуючи всіх людей [psychicDroneGender] до божевілля</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Дію психічного дрону завершено.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
