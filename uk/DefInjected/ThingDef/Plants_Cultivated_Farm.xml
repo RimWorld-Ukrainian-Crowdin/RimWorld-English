@@ -49,16 +49,16 @@
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>димолист</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>Рослина, вирощувана через психологічні властивості хімікатів, що містяться у її листі. З її листя на місці для виготовлення можна робити самокрутки. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>Рослина, вирощувана через психологічні властивості хімікатів, що містяться у її листі. З її листя на місці для виготовлення можна робити самокрутки. Димолист дає курцю відчуття розслабленості, натомість зменшуючи мотивацію. Може викликати залежність.</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>полуниця</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.</Plant_Strawberry.description>
+  <Plant_Strawberry.description>Кущова рослина, що плодить дрібні та смачні ягоди. Хоч у перерахунку на калорії ці кущі менш плодовиті, ніж інші рослини, полуниці смачні навіть у сирому вигляді.</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
   <Plant_TreeCocoa.label>какао-дерево</Plant_TreeCocoa.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
-  <Plant_TreeCocoa.description>A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates.</Plant_TreeCocoa.description>
+  <Plant_TreeCocoa.description>Тропічне дерево, що виробляє шоколад. Штучно виведене, щоб давати солодші плоди та виживати у не дуже теплих регіонах.</Plant_TreeCocoa.description>
   
 </LanguageData>
