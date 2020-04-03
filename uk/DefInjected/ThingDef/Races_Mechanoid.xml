@@ -11,7 +11,7 @@
   <!-- EN: lancer -->
   <Mech_Lancer.label>лансер</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
-  <Mech_Lancer.description>Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat.</Mech_Lancer.description>
+  <Mech_Lancer.description>Швидкі бойові механоїди розміром з людину, побудовані для битву на середній й далекцій дистанції. Їх тіла легкі, роблячи ї вразливими цілями на близький дистанції - особливо в ближньому бою.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>лівий кулак</Mech_Lancer.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -22,7 +22,7 @@
   <!-- EN: pikeman -->
   <Mech_Pikeman.label>пікінер</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
-  <Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it.</Mech_Pikeman.description>
+  <Mech_Pikeman.description>Незграбний багатоногий бойовий механоїд, що є платформою для далекобійної зброї. Хоч й ефективний на дистанції, він є слабким в битвах на невеликій відстані і в ближньому бою.\n\nВетерани воєн з механоїдами знають, що часто найбезпечніше місце навколо пікінера - прямо біля нього.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <Mech_Pikeman.tools.front_left_leg.label>передня ліва лапка</Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: front right leg -->
