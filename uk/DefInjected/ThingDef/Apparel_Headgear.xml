@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: flak helmet -->
-  <Apparel_AdvancedHelmet.label>flak helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.label>металевий шолом</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
   <Apparel_AdvancedHelmet.description>Легкий бойовий шолом складної конструкції, зміцнений пластсталлю. Не ефективний проти негострої зброї.</Apparel_AdvancedHelmet.description>
   
@@ -49,7 +49,7 @@
   <!-- EN: war mask -->
   <Apparel_WarMask.label>бойова маска</Apparel_WarMask.label>
   <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
-  <Apparel_WarMask.description>An artistically terrifying war mask. It hides the wearer's face and makes them more confident.</Apparel_WarMask.description>
+  <Apparel_WarMask.description>Мистецьки моторошна бойова маска. Ховає обличчя носіїв та робить їх впевненішими.</Apparel_WarMask.description>
   
   <!-- EN: war veil -->
   <Apparel_WarVeil.label>бойова вуаль</Apparel_WarVeil.label>
