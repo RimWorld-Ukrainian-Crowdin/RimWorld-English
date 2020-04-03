@@ -8,12 +8,12 @@
   <Bullet_InfernoCannon.label>снаряд для пекельної гармати</Bullet_InfernoCannon.label>
   
   <!-- EN: needle shot -->
-  <Bullet_NeedleGun.label>needle shot</Bullet_NeedleGun.label>
+  <Bullet_NeedleGun.label>голка</Bullet_NeedleGun.label>
   
   <!-- EN: heavy charge blaster -->
   <Gun_ChargeBlasterHeavy.label>важкий бластер</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
-  <Gun_ChargeBlasterHeavy.description>A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>Імпульсний, скорострільний бластер для вогню по певній зоні. Сильні охолоджувальні системи дозволяють довгі, смертельні черги.</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
   <Gun_ChargeBlasterHeavy.tools.barrel.label>ствол</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->
@@ -29,12 +29,12 @@
   <Gun_InfernoCannon.verbs.Verb_Shoot.label>пекельна гармата</Gun_InfernoCannon.verbs.Verb_Shoot.label>
   
   <!-- EN: needle gun -->
-  <Gun_Needle.label>needle gun</Gun_Needle.label>
+  <Gun_Needle.label>голкомет</Gun_Needle.label>
   <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
   <Gun_Needle.description>A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances.</Gun_Needle.description>
   <!-- EN: barrel -->
   <Gun_Needle.tools.barrel.label>ствол</Gun_Needle.tools.barrel.label>
   <!-- EN: needle gun -->
-  <Gun_Needle.verbs.Verb_Shoot.label>needle gun</Gun_Needle.verbs.Verb_Shoot.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>голкомет</Gun_Needle.verbs.Verb_Shoot.label>
   
 </LanguageData>
