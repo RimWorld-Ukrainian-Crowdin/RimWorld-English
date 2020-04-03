@@ -410,11 +410,11 @@
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>Load launch group of {0}</CommandLoadTransporter>
+  <CommandLoadTransporter>Завантажити групу для запуску з {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Визначає обрані транспортники як групу для запуску. Відкриває діалогове вікно для завантаження, щоб ви могли вирішити, хто і що має бути завантажене всередину.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Транспортна капсула не приєднана до порту для заправки.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Пускова установка не має пального.</CommandLoadTransporterFailNoFuel>
   
@@ -422,13 +422,13 @@
   <!-- EN: Load -->
   <CommandLoadTransporterSingle>Завантажити</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Відкриває діалогове вікно для завантаження, щоб ви могли вирішити, хто і що має бути завантажене всередину.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>Set to load</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Підготовити для завантаження</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Відкриває діалогове вікно для завантаження, щоб ви могли вирішити, хто і що має бути завантажене всередину.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
