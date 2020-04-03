@@ -17,7 +17,7 @@
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
     <li>questName->Нагорода від [asker_nameDef]</li>
-    <li>questName->Camp of [enemyFaction_pawnsPlural]</li>
+    <li>questName->[enemyFaction_pawnsPlural] отаборилися</li>
     <li>questName->Табір бандитів</li>
     <li>questName->Табір рейдерів</li>
     <li>questName->Знищити табір</li>
