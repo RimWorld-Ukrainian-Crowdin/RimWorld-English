@@ -9,11 +9,11 @@
   <!-- EN: ship part (psychic droner) -->
   <PsychicDronerShipPart.label>частина корабля (психічний випромінювач)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>Частина стародавнього кораблю, відірвана з судна невідомого походження. Йому може бути багато тисяч років.\n\nВ цій частині розташований пристрій для створення психічних порушень. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself.</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>Частина стародавнього кораблю, відірвана з судна невідомого походження. Йому може бути багато тисяч років.\n\nВ цій частині розташований пристрій для створення психічних порушень. Використовуючи незбагненні архотехнології, він генерує психічний сигнал, якій зводить тварин і людей з розуму в великому радіусі навколо нього.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>уламок корабля</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful resources.</ShipChunk.description>
+  <ShipChunk.description>Уламок корабля. Його можна розібрати для отримання корисних ресурсів.</ShipChunk.description>
   
 </LanguageData>
