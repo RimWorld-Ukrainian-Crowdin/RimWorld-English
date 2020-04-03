@@ -34,12 +34,12 @@
   <!-- EN: flak vest -->
   <Apparel_FlakVest.label>бронежилет</Apparel_FlakVest.label>
   <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
-  <Apparel_FlakVest.description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</Apparel_FlakVest.description>
+  <Apparel_FlakVest.description>Жилет, з бронепластинами, розміщеними спереду й ззаду. Хоч він й є ефективним для відбиття куль й ріжучих атак, направлених на тіло, він ніяк не захищає кінцівки.</Apparel_FlakVest.description>
   
   <!-- EN: jacket -->
   <Apparel_Jacket.label>куртка</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>Міцна куртка, для захисту проти синців й подряпин й збереження тепла в холодну погоду.</Apparel_Jacket.description>
   
   <!-- EN: pants -->
   <Apparel_Pants.label>штани</Apparel_Pants.label>
@@ -54,16 +54,16 @@
   <!-- EN: plate armor -->
   <Apparel_PlateArmor.label>пластинчастий обладунок</Apparel_PlateArmor.label>
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
-  <Apparel_PlateArmor.description>Overlapping solid plates of armor covering the entire body from neck to feet.</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.description>Бронепластини, накладені одна на одну, вкривають все тіло з ніг до голови.</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>marine armor</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.label>броня десантника</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>Набір силової броні. Багатошарові пластини з пласталі дуже ефективні для запобігання атакам, за винятком декількох вразливих точок в суглобах. Нейро-меметичні мехзанізми дозволяють людині носити броню без зменшення легкості руху.\n\nБроня на кшталт цієї часто використовується Імперськими яничарами й космодесантниками для швидкого вторгнення.</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>племінний одяг</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</Apparel_TribalA.description>
+  <Apparel_TribalA.description>Одяг на все тіло, зроблений з допомогою неолітичних інструментів. Хоч вона й виглядає примітивно, вона допомагає зігрівати власника.</Apparel_TribalA.description>
   
 </LanguageData>
