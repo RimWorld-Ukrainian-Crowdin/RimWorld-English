@@ -4,7 +4,7 @@
   <!-- EN: centipede -->
   <Mech_Centipede.label>гусінь</Mech_Centipede.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_Centipede.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_Centipede.description>
+  <Mech_Centipede.description>Важкі бойові механоїди, що рухаються на десятках маленьких ніг. Їх міцний панцир й бойова міць роблять їх дуже ефективними проти згублених нерухомих захисників. Вони мають деяку вразливість до рухомої тактики "вдар-і-біжи".</Mech_Centipede.description>
   <!-- EN: head -->
   <Mech_Centipede.tools.head.label>голова</Mech_Centipede.tools.head.label>
   
