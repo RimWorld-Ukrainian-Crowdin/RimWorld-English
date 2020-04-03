@@ -33,7 +33,7 @@
   <!-- EN: scyther -->
   <Mech_Scyther.label>пожинач</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive.</Mech_Scyther.description>
+  <Mech_Scyther.description>Швидкі, стрункі бойові механорїди розміром з людину, що спецілізуються у швидкому скороченні дистанції й битві на близькій відстані. Їхні тіла вкриті лезами й вістрями, але вонип найчастіше використвоують два наручних леза для відрізання кінцівок або видалення нутрощів жертви.</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>ліве лезо</Mech_Scyther.tools.left_blade.label>
   <!-- EN: right blade -->
