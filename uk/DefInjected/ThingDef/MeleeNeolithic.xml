@@ -13,9 +13,9 @@
   <!-- EN: ikwa -->
   <MeleeWeapon_Ikwa.label>іква</MeleeWeapon_Ikwa.label>
   <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
-  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.description>Коротке древко, приєднане до довгого ріжучого вістря, зробленого, щоб зариватися в життєво необхідні органи від швидкого удару.</MeleeWeapon_Ikwa.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Ikwa.tools.handle.label>руків'я</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.handle.label>древко</MeleeWeapon_Ikwa.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_Ikwa.tools.head.label>голова</MeleeWeapon_Ikwa.tools.head.label>
   <!-- EN: edge -->
