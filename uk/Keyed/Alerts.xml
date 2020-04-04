@@ -230,19 +230,19 @@
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>Монумент буде зруйновано</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Ви збудували щось заборонене всередині одного з ваших монументів. Монумент вважатиметься зруйнованим через {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
+  <ActivatorCountdown>Активатор зворотного відліку {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Активатор зворотного відліку працює, очікуючи на пробудження сусідніх механоїдів.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} активаторів зворотного відліку</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>{0} активаторів зворотного відліку працюють, очікуючи на пробудження сусідніх механоїдів.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon>
+  <QuestExpiresSoon>Термін дії доручення спливає через {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Термін дії доручення '{0}' спливе через {1}.</QuestExpiresSoonDesc>
 </LanguageData>
