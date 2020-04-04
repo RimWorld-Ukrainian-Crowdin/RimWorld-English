@@ -201,7 +201,7 @@
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label} потребує поверхні, що втримає {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (when made of {2_label}) requires terrain that supports: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label}, зроблені з {2_label}, потребує поверхні, що втримає {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Територія вже зайнята.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -231,9 +231,9 @@
   <!-- EN: None of your {0} have this skill. -->
   <NoColonistWithSkillTip>Жоден з ваших {0} не має цих навичків.</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>{0} needed</SkillNeededForConstructing>
+  <SkillNeededForConstructing>треба {0}</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>None of your {0} have all skills required.</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>Жоден з ваших {0} не має усіх необхідних навичок.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Усі {0} хто не задіяний за {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
