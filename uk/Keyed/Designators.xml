@@ -211,11 +211,11 @@
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Водяне колесо має бути розміщенно у руслі ріки.</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>Interaction spot will overlap with the interaction spot of {1_labelShort}.</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>Місце взаємодії буде конфліктувати з місцем взаємодії {1_labelShort}.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>Interaction spot overlaps with the interaction spot of {1_labelShort}.</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>Місце взаємодії конфліктує з місцем взаємодії {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Monument markers can't be placed directly adjacent to any building. -->
-  <MonumentAdjacentToBuilding>Monument markers can't be placed directly adjacent to any building.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Плани монументів не можуть межувати з іншими будівлями.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
