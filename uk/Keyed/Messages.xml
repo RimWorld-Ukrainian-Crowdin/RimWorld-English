@@ -402,12 +402,12 @@
   <MessageCantBanishDownedPawn>Cannot banish {1_labelShort} since {1_pronoun} cannot walk.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
-  <MessageSleepingPawnsWokenUp>{0} have woken up.</MessageSleepingPawnsWokenUp>
+  <MessageSleepingPawnsWokenUp>{0} {0_gender ? прокинувся : прокинулася}.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
   <MessageMechClusterDefeated>Mech cluster buildings have been defeated.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
-  <MessageCompSpawnerSpawnedItem>Item produced: {0}.</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>Товар виготовлено: {0}.</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
   <MessageHediffCuredByItem>Health condition healed: {0}.</MessageHediffCuredByItem>
@@ -602,9 +602,9 @@
   <MessageResearchMenuWithoutBench>Warning: Research will not begin until you build a research bench.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>{0_indefinite} has triggered a proximity activator.</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>{0_indefinite} {0_gender ? запустив : запустила} зближувальний активатор.</MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
-  <MessageCannotSelectInvisibleStat>{0_label} is currently hidden.</MessageCannotSelectInvisibleStat>
+  <MessageCannotSelectInvisibleStat>{0_label} наразі приховано.</MessageCannotSelectInvisibleStat>
 
 </LanguageData>
