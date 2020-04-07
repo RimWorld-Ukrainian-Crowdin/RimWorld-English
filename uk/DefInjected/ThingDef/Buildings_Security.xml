@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>barricade</Barricade.label>
+  <Barricade.label>барикада</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects.</Barricade.description>
+  <Barricade.description>Бар'єр висотою з талію для укриття від відповідних пострілів. Барикади потворні але забезпечують краще укриття ніж інші низькі об'єкти.</Barricade.description>
   
   <!-- EN: sandbags -->
-  <Sandbags.label>sandbags</Sandbags.label>
+  <Sandbags.label>мішки з піском</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
   <Sandbags.description>Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects.</Sandbags.description>
   
