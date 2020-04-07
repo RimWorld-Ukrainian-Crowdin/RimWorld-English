@@ -19,7 +19,7 @@
   <!-- EN: armchair -->
   <Armchair.label>крісло</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
+  <Armchair.description>Велике, м'яке, зручне сидіння. Є відмінним для відпочинку. Може бути використано біля столів, місць для праці, й так далі.</Armchair.description>
   
   <!-- EN: bed -->
   <Bed.label>ліжко</Bed.label>
@@ -29,17 +29,17 @@
   <!-- EN: bedroll -->
   <Bedroll.label>спальний мішок</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
+  <Bedroll.description>Просте ліжко, яке розкладається на землі, зазвичай зроблене з тканини чи шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
   
   <!-- EN: double bedroll -->
   <BedrollDouble.label>спальний мішок на двох</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
+  <BedrollDouble.description>Звичайне ліжко з подвійною шириною, яке розкладається на підлозі, зазвичай виготовлене з тканини або шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
   
   <!-- EN: dining chair -->
   <DiningChair.label>стілець</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
+  <DiningChair.description>Зручний й привабливий стілець. Може бути використано біля столів, місць дял праці, й так далі.</DiningChair.description>
   
   <!-- EN: double bed -->
   <DoubleBed.label>двоспальне ліжко</DoubleBed.label>
@@ -47,24 +47,24 @@
   <DoubleBed.description>Просте ліжко з удвоєною шириною для двох осіб.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>подвійне місце для спання</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
-  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.description>Відмічає місце на землі, де дві людини повинні спати. Занадто по-спартанськи.</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
   <Dresser.label>комод</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
-  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
+  <Dresser.description>Комод. Надає невеличкий бонус до комфорту для всіх ліжок. Розміщення більше одного комода на ліжко не матиме ніякого ефекту.</Dresser.description>
   
   <!-- EN: end table -->
   <EndTable.label>тумбочка</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
+  <EndTable.description>Маленька тумбочка біля стола, яка робить ліжко поруч більш комфортним. Вона повинна бути розташована біля узголів'я ліжка. Більше одної тумбочки не буде мати жодного ефекту.</EndTable.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>лікарняне ліжко</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
+  <HospitalBed.description>Ліжко, специфічно розроблене для використання в лікарнях. Через те, що воно може бути відрегульоване для пацієнта, і має вбудоване обладнання, воно покращує результати лікування в порівнянні з іншими ліжками.</HospitalBed.description>
   
   <!-- EN: plant pot -->
   <PlantPot.label>горщик для рослин</PlantPot.label>
