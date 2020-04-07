@@ -79,7 +79,7 @@
   <!-- EN: shelf -->
   <Shelf.label>стелаж</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</Shelf.description>
+  <Shelf.description>Полиця для зберігання різних предметів. Предмети, які в ній зберігаються, не будуть впливати на красу кімнати і не будуть псуватися, навіть якщо стелаж розташований ззовні.</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>місце для сну</SleepingSpot.label>
