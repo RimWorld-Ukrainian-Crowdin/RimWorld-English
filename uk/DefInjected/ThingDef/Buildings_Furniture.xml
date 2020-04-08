@@ -29,7 +29,7 @@
   <!-- EN: bedroll -->
   <Bedroll.label>спальний мішок</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>Просте ліжко, яке розкладається на землі, зазвичай зроблене з тканини чи шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
+  <Bedroll.description>Просте ліжко, яке розкладається на землі, зазвичай зроблене з тканини чи шкіри, частіше з хутром всередині. Він легкий і може бути згорнутим у рулон для зручного перенесення, але він не годиться для постійного ночування. Каравани можуть використовувати спальні мішки, поки мандрують, для кращого сну.</Bedroll.description>
   
   <!-- EN: double bedroll -->
   <BedrollDouble.label>спальний мішок на двох</BedrollDouble.label>
