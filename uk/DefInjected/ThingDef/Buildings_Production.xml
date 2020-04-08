@@ -19,20 +19,20 @@
   <!-- EN: crafting spot -->
   <CraftingSpot.label>місце для виготовлення</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools.</CraftingSpot.description>
+  <CraftingSpot.description>Місце для створення простих предметів, таких як ножі чи луки. Виробництво тут повільне через відсутність інструментів.</CraftingSpot.description>
   
   <!-- EN: deep drill -->
-  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.label>глибинне буріння</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
   <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill.description>
   
   <!-- EN: drug lab -->
   <DrugLab.label>наркотична лабораторія</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab.description>
+  <DrugLab.description>Робоче місце оснащене різними контейнера, нагрівачами та вимірювальними приладами для виробництва різноманітних наркотиків.</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.label>електричний крематорій</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
   <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
   
