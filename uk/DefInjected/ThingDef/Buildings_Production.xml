@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: biofuel refinery -->
-  <BiofuelRefinery.label>biofuel refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.label>біопаливний завод</BiofuelRefinery.label>
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
-  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
+  <BiofuelRefinery.description>Переробка біологічних речовин, такі як дерево або рослинні матерії в хімпаливо.</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
   <Brewery.label>пивоварня</Brewery.label>
@@ -34,7 +34,7 @@
   <!-- EN: electric crematorium -->
   <ElectricCrematorium.label>електричний крематорій</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>Величезний кам'яний крематорій, який випаровує трупи при надзвичайно високих температурах.</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>електрична плавильня</ElectricSmelter.label>
@@ -44,7 +44,7 @@
   <!-- EN: electric smithy -->
   <ElectricSmithy.label>електрична кузня</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
-  <ElectricSmithy.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+  <ElectricSmithy.description>Електрична кузня для створення не механічної зброї і інструментів.</ElectricSmithy.description>
   
   <!-- EN: electric stove -->
   <ElectricStove.label>електрична плита</ElectricStove.label>
@@ -57,24 +57,24 @@
   <ElectricTailoringBench.description>Верстак з швейною машиною для швидкого пошиття одягу. Може працювати без електрики на 50% від нормальної швидкості.</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
-  <FabricationBench.label>fabrication bench</FabricationBench.label>
+  <FabricationBench.label>верстат для виробництва</FabricationBench.label>
   <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
-  <FabricationBench.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench.description>
+  <FabricationBench.description>Верстак, оснащений передовими інструментами для виробництва технологічних чудес з найпростіших матеріалів.</FabricationBench.description>
   
   <!-- EN: fermenting barrel -->
   <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+  <FermentingBarrel.description>Бочка для зброджування сирого сусла в пиво.</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>кузня</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  <FueledSmithy.description>Кузня, яка використовує дерево в якості пального для створення не механічної зброї і інструментів.</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
   <FueledStove.label>плита</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
-  <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+  <FueledStove.description>Проста плита, яка використовує дерево в якості пального, з прикріпленою стільницею для приготування їжі.</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
   <HandTailoringBench.label>стіл кравця</HandTailoringBench.label>
