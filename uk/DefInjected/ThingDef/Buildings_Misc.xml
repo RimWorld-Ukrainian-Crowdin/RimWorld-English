@@ -4,22 +4,22 @@
   <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>стародавня капсула криптосну</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>Ця капсула для криптосну виглядає так, ніби вона тут була вже дуже довгий час. Що вона може в собі містити?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>місце для формування карантину</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Призначає місце для формування каравану. Поставте це біля своїх складів, для пришвидшення цього процесу.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>термінал зв'язку</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>Allows radio contact with other factions and orbital traders.</CommsConsole.description>
+  <CommsConsole.description>Дає можливість радіозв'язку з іншими фракціями й орбітальними торгівцями.</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>капсула криптосну</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Автономний саркофаг, розроблений, щоб зберігати людину в стані анабіозу багато років.</CryptosleepCasket.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>вогнегасник</FirefoamPopper.label>
