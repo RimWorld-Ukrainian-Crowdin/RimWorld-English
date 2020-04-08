@@ -12,7 +12,7 @@
   <Brewery.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</Brewery.description>
   
   <!-- EN: butcher spot -->
-  <ButcherSpot.label>butcher spot</ButcherSpot.label>
+  <ButcherSpot.label>місце м'ясника</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
   
