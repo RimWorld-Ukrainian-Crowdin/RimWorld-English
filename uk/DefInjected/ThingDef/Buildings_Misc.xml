@@ -36,7 +36,7 @@
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>сканер мінералів</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>Сенсорний пристрій, що використовується дослідниками для пошуку пприхованих ресурсів. Шанс знайти ресурси залежить від здатності до досліджень оператора. Він споживає багато електрики. Якщо ви знайдете похований ресурс, вам знадобляться глибокі бури, щоб витягти його. Не працює під дахом.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Сенсорний пристрій, що використовується дослідниками для пошуку прихованих ресурсів. Шанс знайти ресурси залежить від здатності до досліджень оператора. Він споживає багато електрики. Якщо ви знайдете похований ресурс, вам знадобляться глибокі бури, щоб витягти його. Не працює під дахом.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>сканер мінералів дальньої дії</LongRangeMineralScanner.label>
