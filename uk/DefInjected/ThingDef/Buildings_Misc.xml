@@ -41,7 +41,7 @@
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>сканер мінералів дальньої дії</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Допоможний сенсорний пристрій, який використовується дослідниками щоб знайти специфічний тип мінералу на іншому боці планети. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>marriage spot</MarriageSpot.label>
