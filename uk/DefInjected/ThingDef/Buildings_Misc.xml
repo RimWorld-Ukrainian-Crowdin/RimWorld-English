@@ -44,14 +44,14 @@
   <LongRangeMineralScanner.description>Допоможний сенсорний пристрій, який використовується дослідниками щоб знайти специфічний тип мінералу на іншому боці планети. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.label>місце для шлюбу</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  <MarriageSpot.description>Призначає місце, де будуть відбуватися шлюбні церемонії. Глядачі можуть дивитися з обох сторін.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
   <MoisturePump.label>водяний насос</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
-  <MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump.description>
+  <MoisturePump.description>Дуже повільно вирівнює вологу в оточуючій землі, перетворюючи болота в сухі ґрунти, а м'який пісок в нормальний пісок. Не працює у глибоких водоймах.</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>багатофункціональний аналізатор</MultiAnalyzer.label>
