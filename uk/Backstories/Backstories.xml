@@ -417,14 +417,14 @@
     <desc>[PAWN_nameDef] керував інвестиціями [PAWN_possessive] родини в мистецтво.\n\n[PAWN_pronoun] обирав митців для покровительства і працював з ними для створення робіт, які найбільш вихваляли [PAWN_possessive] родину, Імперську церкву, і саму Імперію.</desc>
   </ArtsPatron54>
   
-  <ArtStudent6>
+  <ArtStudent79>
     <!-- EN: Art student -->
-    <title>Студент-митець</title>
+    <title>Art student</title>
     <!-- EN: Artist -->
-    <titleShort>Митець</titleShort>
-    <!-- EN: After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industr   work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from  herart. -->
-    <desc>Після років практики, Фрейя змогла вступити в художній університет, і покращити свої навички. Вона шукала роботу в індустрії мистецтва, закінчивши університет з хорошими оцінками. Вона досягла певного прогресу, з отриманням комісій, зумівши досягти гідного рівея життя від серця.</desc>
-  </ArtStudent6>
+    <titleShort>Artist</titleShort>
+    <!-- EN: After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industry work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from heart. -->
+    <desc>After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industry work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from heart.</desc>
+  </ArtStudent79>
   
   <AsceticPriest84>
     <!-- EN: ascetic priest -->
