@@ -79,39 +79,39 @@
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Опору лишилося</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Складність вербування</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
-  <RecruitmentChance>Recruitment chance</RecruitmentChance>
+  <RecruitmentChance>Імовірність вербування</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
-  <RecruitmentChanceExplanation>Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2}</RecruitmentChanceExplanation>
+  <RecruitmentChanceExplanation>Фактор складності вербування: {0}\nФактор настрою: {1}\nКомбінована базова імовірність: {2}</RecruitmentChanceExplanation>
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - -\nОстання спроба вербування\nВербувальник: {3}\nФактор переговорних властивостей: {4}\nФактор особистої оцінки: {5} ({6})\nКінцева імовірність для {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nResistance reduction: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nЗниження опору: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>Relations gain on release</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>Збільшення прихильності при звільненні</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition.</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>Прихильність фракції в'язня, яку ви отримаєте після його звільнення. Об'єм прихильності залежить від стану здоров'я та психічного стану в'язня.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
   <PrisonBreakMTBDays>Prison break interval</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
   <PrisonBreakMTBDaysDescription>The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>Never</Never>
+  <Never>Ніколи</Never>
   <!-- EN: Not while asleep -->
-  <NotWhileAsleep>Not while asleep</NotWhileAsleep>
+  <NotWhileAsleep>Не під час сну</NotWhileAsleep>
   <!-- EN: Slave price -->
   <SlavePrice>Вартість раба</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>Отримую їжу</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>Doctors care</DoctorsCare>
+  <DoctorsCare>Лікарський догляд</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Gets medicine</GetsMedicine>
+  <GetsMedicine>Отримує ліки</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Пробувати вербувати</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <ConsideredGuilty>Визнаний винним (ще протягом {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
