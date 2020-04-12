@@ -3,7 +3,7 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Замовлення</TabBills>
+  <TabBills>Проекти</TabBills>
   <!-- EN: Growing -->
   <TabGrowing>Growing</TabGrowing>
   <!-- EN: Bio -->
@@ -47,7 +47,7 @@
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Додати замовлення</AddBill>
+  <AddBill>Додати проект</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
@@ -59,7 +59,7 @@
   <!-- EN: Plant -->
   <PlantVerb>Посадити</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>Скопійований проект сюди вставити не можна.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>Перемістити вище</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -67,7 +67,7 @@
   <!-- EN: Delete -->
   <DeleteBillTip>Видалити</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>Copy to the clipboard</CopyBillTip>
+  <CopyBillTip>Копіювати до буферу обміну</CopyBillTip>
   <!-- EN: Suspend -->
   <SuspendBillTip>Призупинити</SuspendBillTip>
   <!-- EN: Paste -->
