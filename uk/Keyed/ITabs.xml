@@ -9,11 +9,11 @@
   <!-- EN: Bio -->
   <TabCharacter>Біографія</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Training</TabTraining>
+  <TabTraining>Дресирування</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>В'язень</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Guest</TabGuest>
+  <TabGuest>Гість</TabGuest>
   <!-- EN: Gear -->
   <TabGear>Манатки</TabGear>
   <!-- EN: Needs -->
@@ -29,9 +29,9 @@
   <!-- EN: Basics -->
   <TabBasics>Основні</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Stats</TabStats>
+  <TabStats>Статистика</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Records</TabRecords>
+  <TabRecords>Записи</TabRecords>
   <!-- EN: Art -->
   <TabArt>Дизайн</TabArt>
   <!-- EN: Social -->
@@ -51,9 +51,9 @@
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>Min skill</MinimumSkill>
+  <MinimumSkill>Мінімальна навичка</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>SUSPENDED</SuspendedCaps>
+  <SuspendedCaps>ЗУПИНЕНО</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>Працівник: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
