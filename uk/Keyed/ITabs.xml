@@ -93,9 +93,9 @@
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
   <PrisonerReleaseRelationGainsDesc>Прихильність фракції в'язня, яку ви отримаєте після його звільнення. Об'єм прихильності залежить від стану здоров'я та психічного стану в'язня.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
-  <PrisonBreakMTBDays>Prison break interval</PrisonBreakMTBDays>
+  <PrisonBreakMTBDays>Інтервал втечі</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
-  <PrisonBreakMTBDaysDescription>The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer.</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDaysDescription>Середня кількість діб без врахування сну між спробами втечі. Визначається настроєм, рухомістю та часом з останньої спроби втечі.\n\nЦе число не враховує час сну, тому в середньому інтервал між втечами буде довшим.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
   <Never>Ніколи</Never>
   <!-- EN: Not while asleep -->
@@ -115,15 +115,15 @@
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>Move speed</MoveSpeed>
+  <MoveSpeed>Швидкість руху</MoveSpeed>
   <!-- EN: Efficiency -->
-  <Efficiency>Efficiency</Efficiency>
+  <Efficiency>Ефективність</Efficiency>
   <!-- EN: Part efficiency -->
   <PartEfficiency>Ефективність органу</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <BodyPartEfficiency>Ефективність частини тіла</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>Gone</MissingBodyPart>
+  <MissingBodyPart>Втрачено</MissingBodyPart>
   <!-- EN: Destroyed -->
   <DestroyedBodyPart>Знищено</DestroyedBodyPart>
   <!-- EN: Shattered -->
@@ -131,47 +131,47 @@
   <!-- EN: Removed -->
   <RemovedBodyPart>Видалено</RemovedBodyPart>
   <!-- EN: Healthy -->
-  <Healthy>Healthy</Healthy>
+  <Healthy>Здоровий(-ва)</Healthy>
   <!-- EN: In pain -->
-  <InPain>In pain</InPain>
+  <InPain>Болить</InPain>
   <!-- EN: Pain -->
   <PainLevel>Біль</PainLevel>
   <!-- EN: Injured -->
-  <Injured>Injured</Injured>
+  <Injured>Травмовано</Injured>
   <!-- EN: Untended injury -->
-  <UntendedInjury>Untended injury</UntendedInjury>
+  <UntendedInjury>Недоглянуті травми</UntendedInjury>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>no health conditions</NoHealthConditions>
+  <NoHealthConditions>немає хвороб</NoHealthConditions>
   <!-- EN: Whole body -->
-  <WholeBody>Whole body</WholeBody>
+  <WholeBody>Все тіло</WholeBody>
   <!-- EN: Data processing -->
   <DataProcessing>Обробка даних</DataProcessing>
   <!-- EN: Communication -->
   <Communication>Комунікація</Communication>
   <!-- EN: Affects -->
-  <Affects>Affects</Affects>
+  <Affects>Впливає на</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>Bleeding</BleedingRate>
+  <BleedingRate>Кровотеча</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>death in {0}</TimeToDeath>
+  <TimeToDeath>смерть через {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
-  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <WontBleedOutSoon>безпосередньої небезпеки немає</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>Overview</HealthOverview>
+  <HealthOverview>Огляд</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>Операції ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Модифікації ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Медичні операції</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>amputate</Amputate>
+  <Amputate>ампутувати</Amputate>
   <!-- EN: harvest -->
   <HarvestOrgan>зібрати</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>remove</RemoveOrgan>
+  <RemoveOrgan>видалити</RemoveOrgan>
   <!-- EN: memory -->
-  <MemoryLower>memory</MemoryLower>
+  <MemoryLower>пам'ять</MemoryLower>
   <!-- EN: social interactions -->
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
