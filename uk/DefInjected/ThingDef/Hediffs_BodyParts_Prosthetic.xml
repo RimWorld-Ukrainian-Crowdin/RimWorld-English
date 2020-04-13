@@ -19,7 +19,7 @@
   <!-- EN: power claw -->
   <PowerClaw.label>силовий кіготь</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainlyness slows down movement slightly. -->
-  <PowerClaw.description>A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainlyness slows down movement slightly.</PowerClaw.description>
+  <PowerClaw.description>Бойовий варіант заміни руки, що складається з механічої долоні з гачкуватим кігтем на кожному пальці. Ріже глибоко, і має достатнью силу щоб розтрощити череп як яйце. Кігті можна втягувати, що робить можливим використання руки у повсякденних справах. Однак загальна його незручність трохи сповільнює рух.</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>протез руки</SimpleProstheticArm.label>
