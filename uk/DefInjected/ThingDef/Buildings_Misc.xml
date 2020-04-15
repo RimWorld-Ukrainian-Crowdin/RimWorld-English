@@ -56,22 +56,22 @@
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>багатофункціональний аналізатор</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Збільшує швидкість досліджень, коли поставлені біля високотехнологічного дослідницького столу і розблокує нові дослідницькі проєкти. Кожний дослідницькій стіл може використовувати тільки один аналізатор.</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
   <OrbitalTradeBeacon.label>орбітальний маяк</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Потрібун для міжпланетної торгівлі. Можна продавати товари тільки тим торгівцям, хто розташовані біля орбітального маяку. Можливе розміщення в приміщеннях.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>party spot</PartySpot.label>
+  <PartySpot.label>місце для вечірок</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Designates a spot for throwing parties.</PartySpot.description>
+  <PartySpot.description>Призначує місце для початку вечірок.</PartySpot.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.label>запускач капсул</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+  <PodLauncher.description>Заправний порт для запуску однієї транспортної капсули. Запускачі можуть запускати капсули групою - але вони мають бути розташовані близько один до одного.</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
   <Sarcophagus.label>sarcophagus</Sarcophagus.label>
