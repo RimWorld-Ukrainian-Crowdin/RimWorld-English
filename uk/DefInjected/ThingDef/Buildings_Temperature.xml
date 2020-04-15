@@ -4,7 +4,7 @@
   <!-- EN: campfire -->
   <Campfire.label>багаття</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+  <Campfire.description>Може готувати їжу і створювати тепло, і згорає через декілька днів. Як і з усіма джерелами тепла, маєбути розміщений в приміщенні, щоб мати закритий простір для нагрівання. Може бути поповнений.</Campfire.description>
   
   <!-- EN: cooler -->
   <Cooler.label>охолоджувач</Cooler.label>
