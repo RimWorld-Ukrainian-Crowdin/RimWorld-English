@@ -4,12 +4,12 @@
   <!-- EN: bionic arm -->
   <BionicArm.label>біонічна рука</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArm.description>
+  <BionicArm.description>Просунута штучна рука. Тихі міні-сервомотори роблять її сильною, але біогелеве нервове підключення дає виключний рівень контролю. Лікувальна система з грато-пилу дозволяє їй відновлюватись після пошкоджень. Вона краще біологічної руки майже в усьому.</BionicArm.description>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>біонічне вухо</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.</BionicEar.description>
+  <BionicEar.description>Просунутий імплант вуха. Збірник невидимих підшкірних мікрофонів захоплює звук і передає його біогелевому нервовому інтерфейсу, який зв'язаний напряму з слуховим нервом. Є достатньо чутливим, щоб почути кота перед тим, як ви його побачите, не може бути пошкодженим голосним шумом і автоматично налаштовує себе так, щоб почути значні звуки в шумних умовах.</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>біонічне око</BionicEye.label>
