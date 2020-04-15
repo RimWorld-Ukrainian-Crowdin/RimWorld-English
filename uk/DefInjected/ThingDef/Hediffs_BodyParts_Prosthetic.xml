@@ -29,11 +29,11 @@
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>штучне серце</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>Протез серця. Він містить електричний мотор, який плавно рухає кров по тілу. користувачі часто жаліються на втому, але це краще альтернативи.</SimpleProstheticHeart.description>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>протез ноги</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>Протез ноги. Хоч у нього й нема нервового інтерфейсу, його комплексна система внутрішніх суставів допомагає йому досить переконливо імітувати рухи нормальної ноги. І все-ж таки, він гірше за справжню ногу.</SimpleProstheticLeg.description>
   
 </LanguageData>
