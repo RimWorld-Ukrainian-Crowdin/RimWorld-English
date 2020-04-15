@@ -9,12 +9,12 @@
   <!-- EN: sandbags -->
   <Sandbags.label>мішки з піском</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects.</Sandbags.description>
+  <Sandbags.description>Мішки з зібраними з місцевості землею й піском, складені для використання в якості укриття. Мішки з пішком некрасиві, але дають краще укриття, ніж інші низькі об'єкти.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>антикрупинкова боєголовка з СВП</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>Працююча на антиматерії антикрупинкова боєголовка, підключена до датчика, який залежить від дотику або впливу кулі. Оскільки вона прихована в місцевості, вона не може бути розміщена впритул до інших пасток. Тварини можуть їх відчувати, коли спокійні.</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
   <TrapIED_EMP.label>Саморобна пастка з ЕМІ зарядом</TrapIED_EMP.label>
