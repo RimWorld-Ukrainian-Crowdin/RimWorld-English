@@ -43,14 +43,14 @@
   <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
   <Turret_Autocannon.description>Важка автоматична турель. Її крупнокаліберні снаряди наносять важкі пошкодження на значних дистанціях, але її ствол треба оновляти після використання. Не може стріляти по близьким цілям, і може вибухнути при пошкодженні.</Turret_Autocannon.description>
   <!-- EN: Barrel durability -->
-  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Зносостійкість ствола</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
-  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Shots until barrel change</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Пострілів до зміни стволу</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new barrel -->
-  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Не може стріляти: Потрібен новий ствол</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: mini-turret -->
-  <Turret_MiniTurret.label>mini-turret</Turret_MiniTurret.label>
+  <Turret_MiniTurret.label>міні-турель</Turret_MiniTurret.label>
   <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
   <Turret_MiniTurret.description>A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
   <!-- EN: Barrel durability -->
