@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: minified thing -->
-  <MinifiedThing.label>minified thing</MinifiedThing.label>
+  <MinifiedThing.label>мініатюризована річ</MinifiedThing.label>
   
   <!-- EN: unfinished apparel -->
   <UnfinishedApparel.label>недороблений одяг</UnfinishedApparel.label>
@@ -35,14 +35,14 @@
   <UnfinishedHealthItemBionic.description>Недороблений біонічний компонент.</UnfinishedHealthItemBionic.description>
   
   <!-- EN: unfinished prosthetic -->
-  <UnfinishedHealthItemProsthetic.label>unfinished prosthetic</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedHealthItemProsthetic.label>недороблений протез</UnfinishedHealthItemProsthetic.label>
   <!-- EN: An unfinished prosthetic. -->
-  <UnfinishedHealthItemProsthetic.description>An unfinished prosthetic.</UnfinishedHealthItemProsthetic.description>
+  <UnfinishedHealthItemProsthetic.description>Недороблений протез.</UnfinishedHealthItemProsthetic.description>
   
   <!-- EN: unfinished metal armor -->
-  <UnfinishedMetallicTechArmor.label>unfinished metal armor</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>недороблена металева броня</UnfinishedMetallicTechArmor.label>
   <!-- EN: An unfinished piece of metal armor. -->
-  <UnfinishedMetallicTechArmor.description>An unfinished piece of metal armor.</UnfinishedMetallicTechArmor.description>
+  <UnfinishedMetallicTechArmor.description>Недороблений шматок металевої броні.</UnfinishedMetallicTechArmor.description>
   
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>незавершена скульптура</UnfinishedSculpture.label>
@@ -50,9 +50,9 @@
   <UnfinishedSculpture.description>Незавершена скульптура.</UnfinishedSculpture.description>
   
   <!-- EN: unfinished advanced armor -->
-  <UnfinishedTechArmor.label>unfinished advanced armor</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>недороблена просунута броня</UnfinishedTechArmor.label>
   <!-- EN: An unfinished piece of high-tech armor. -->
-  <UnfinishedTechArmor.description>An unfinished piece of high-tech armor.</UnfinishedTechArmor.description>
+  <UnfinishedTechArmor.description>Недороблений шматок високотехнологічної броні.</UnfinishedTechArmor.description>
   
   <!-- EN: unfinished weapon -->
   <UnfinishedWeapon.label>недобудована зброя</UnfinishedWeapon.label>
