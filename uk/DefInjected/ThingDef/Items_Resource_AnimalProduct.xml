@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: cassowary egg (fert.) -->
-  <EggCassowaryFertilized.label>cassowary egg (fert.)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.label>яйце казуара(заплід.)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
-  <EggCassowaryFertilized.description>A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked.</EggCassowaryFertilized.description>
+  <EggCassowaryFertilized.description>Запліднене яйце казуара. При задовільних умовах, з нього вилупиться пташеня казуара. Його можна їсти сирим, але краще приготувати.</EggCassowaryFertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
-  <EggChickenFertilized.label>chicken egg (fert.)</EggChickenFertilized.label>
+  <EggChickenFertilized.label>куряче яйце (заплід.)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
-  <EggChickenFertilized.description>A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</EggChickenFertilized.description>
+  <EggChickenFertilized.description>Запліднене яйце курки. При задовільних умовах, з нього вилупиться курча. Його можна їсти сирим, але краще приготувати.</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
-  <EggChickenUnfertilized.label>chicken egg (unfert.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>куряче яйце (незаплід.)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggChickenUnfertilized.description>An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked.</EggChickenUnfertilized.description>
+  <EggChickenUnfertilized.description>Незапліднене куряче яйце. Його можна їсти сирим, але набагато, набагато краще приготувати.</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
-  <EggCobraFertilized.label>cobra egg (fert.)</EggCobraFertilized.label>
+  <EggCobraFertilized.label>яйце кобри(заплід.)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
-  <EggCobraFertilized.description>A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked.</EggCobraFertilized.description>
+  <EggCobraFertilized.description>Запліднене яйце кобри. При задовільних умовах, з нього вилупиться дитинча кобри. Його можна їсти сирим, але краще приготувати.</EggCobraFertilized.description>
   
   <!-- EN: duck egg (fert.) -->
-  <EggDuckFertilized.label>duck egg (fert.)</EggDuckFertilized.label>
+  <EggDuckFertilized.label>яйце качки(заплід.)</EggDuckFertilized.label>
   <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
-  <EggDuckFertilized.description>A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked.</EggDuckFertilized.description>
+  <EggDuckFertilized.description>Запліднене яйце качки. При задовільних умовах, з нього вилупиться каченя. Його можна їсти сирим, але краще приготувати.</EggDuckFertilized.description>
   
   <!-- EN: duck egg (unfert.) -->
-  <EggDuckUnfertilized.label>duck egg (unfert.)</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.label>яйце качки(незаплід.)</EggDuckUnfertilized.label>
   <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggDuckUnfertilized.description>An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked.</EggDuckUnfertilized.description>
+  <EggDuckUnfertilized.description>Незапліднене качине яйце. Його можна їсти сирим, але набагато, набагато краще приготувати.</EggDuckUnfertilized.description>
   
   <!-- EN: emu egg (fert.) -->
-  <EggEmuFertilized.label>emu egg (fert.)</EggEmuFertilized.label>
+  <EggEmuFertilized.label>яйце ему(заплід.)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
-  <EggEmuFertilized.description>A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked.</EggEmuFertilized.description>
+  <EggEmuFertilized.description>Запліднене яйце ему. При задовільних умовах, з нього вилупиться пташеня ему. Його можна їсти сирим, але краще приготувати.</EggEmuFertilized.description>
   
   <!-- EN: goose egg (fert.) -->
   <EggGooseFertilized.label>goose egg (fert.)</EggGooseFertilized.label>
