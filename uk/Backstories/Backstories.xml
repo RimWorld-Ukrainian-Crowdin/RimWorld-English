@@ -601,11 +601,11 @@
   
   <BeastSlayer67>
     <!-- EN: beast slayer -->
-    <title>beast slayer</title>
+    <title>вбивця звірів</title>
     <!-- EN: slayer -->
     <titleShort>вбивця</titleShort>
     <!-- EN: [PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill. -->
-    <desc>[PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</desc>
+    <desc>[PAWN_nameDef] подорожував між планетами, слідкуючи за новинами про напади тварин. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</desc>
   </BeastSlayer67>
   
   <BehaviourResearch74>
@@ -745,9 +745,9 @@
   
   <Bookworm3>
     <!-- EN: bookworm -->
-    <title>bookworm</title>
+    <title>книжковий хробак</title>
     <!-- EN: bookworm -->
-    <titleShort>bookworm</titleShort>
+    <titleShort>книжковий хробак</titleShort>
     <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth in the library, reading every book [PAWN_pronoun] could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of mechanoid wars. [PAWN_pronoun] vowed that one day, [PAWN_pronoun] would see these things for [PAWN_objective]self. -->
     <desc>[PAWN_nameDef] spent [PAWN_possessive] youth in the library, reading every book [PAWN_pronoun] could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of mechanoid wars. [PAWN_pronoun] vowed that one day, [PAWN_pronoun] would see these things for [PAWN_objective]self.</desc>
   </Bookworm3>
