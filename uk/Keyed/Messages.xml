@@ -38,7 +38,7 @@
   <MessageDeterioratedAway>{0} has deteriorated away in storage.</MessageDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
+  <MessageSeasonBegun>Починається {0}.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
@@ -47,16 +47,16 @@
   <MessageNeedBeaconToTradeWithShip>You need a powered orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
 
   <!-- EN: {0} has been destroyed. -->
-  <MessageConditionCauserDespawned>{0} has been destroyed.</MessageConditionCauserDespawned>
+  <MessageConditionCauserDespawned>{0} було знищено.</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>Проект виконано: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{1_label} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} повністю {1_gender ? вилікувався : вилікувалась}.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Prisoner {1_labelShort} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>В'язень {1_labelShort} втікає.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} found no nearby unreserved shells for {GUN_label}.</MessageOutOfNearbyShellsFor>
