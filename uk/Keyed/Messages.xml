@@ -584,9 +584,9 @@
   <!-- EN: {0_definite} has accepted a quest: {1} -->
   <MessageQuestAccepted>{0_definite} has accepted a quest: {1}</MessageQuestAccepted>
   <!-- EN: {0} is leaving. -->
-  <MessagePawnLeaving>{0} is leaving.</MessagePawnLeaving>
+  <MessagePawnLeaving>{0} йде.</MessagePawnLeaving>
   <!-- EN: {0} are leaving. -->
-  <MessagePawnsLeaving>{0} are leaving.</MessagePawnsLeaving>
+  <MessagePawnsLeaving>{0} йдуть.</MessagePawnsLeaving>
 
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>The monument has been destroyed because you've built a disallowed building inside.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
