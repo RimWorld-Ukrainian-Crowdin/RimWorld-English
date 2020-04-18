@@ -9,7 +9,7 @@
   <!-- EN: Bio -->
   <TabCharacter>Біографія</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Дресирування</TabTraining>
+  <TabTraining>Приручення</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>В'язень</TabPrisoner>
   <!-- EN: Guest -->
@@ -49,7 +49,7 @@
   <!-- EN: Add bill -->
   <AddBill>Додати проект</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>Проект {0} вимагає перелічених далі навичок. Жоден ваш колоніст не має цих навичок, тому ніхто не виконає цей проект.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>Мінімальна навичка</MinimumSkill>
   <!-- EN: SUSPENDED -->
@@ -175,7 +175,7 @@
   <!-- EN: social interactions -->
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>Hunger rate</HungerRate>
+  <HungerRate>Швидкість зголодніння</HungerRate>
   <!-- EN: Tiredness -->
   <Tiredness>Втома</Tiredness>
   <!-- EN: Pain -->
@@ -199,7 +199,7 @@
   <!-- EN: OK -->
   <GoodCondition>ОК</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>Enhanced</Enhanced>
+  <Enhanced>Покращено</Enhanced>
   <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
   <!-- EN: Impaired -->
@@ -219,18 +219,18 @@
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>Trainability</Trainability>
+  <Trainability>Приручуваність</Trainability>
   <!-- EN: Requires {0} trainability. -->
-  <CannotTrainNotSmartEnough>Requires {0} trainability.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Потребує приручуваність {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{1_labelShort} is too small to train this.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} надто {1_gender ? малий : мала} для вивчення цього.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>Передумови: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
-  <NoRelationships>(no relationships)</NoRelationships>
+  <NoRelationships>(немає стосунків)</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>Kidnapped</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
@@ -242,9 +242,9 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Лідер фракції</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>Opinion of {1_labelShort}</OpinionOf>
+  <OpinionOf>Думка {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{1_labelShort}'s opinion of me</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Думка {1_labelShort} про мене</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>I'm dead</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -266,15 +266,15 @@
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>Show all</ShowAll>
+  <ShowAll>Показувати все</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>Show combat</ShowCombat>
+  <ShowCombat>Показувати бойове</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>Show social</ShowSocial>
+  <ShowSocial>Показувати соціальне</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>no recent entries</NoRecentEntries>
+  <NoRecentEntries>записи відсутні</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+  <CopyLogTip>Копіювати звіт до буфера обміну.</CopyLogTip>
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
@@ -300,17 +300,17 @@
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>Members</CaravanMembers>
+  <CaravanMembers>Члени</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Тварин</CaravanAnimals>
   <!-- EN: Items to load -->
-  <ItemsToLoad>Items to load</ItemsToLoad>
+  <ItemsToLoad>Предмети для завантаження</ItemsToLoad>
   <!-- EN: Loaded items -->
-  <LoadedItems>Loaded items</LoadedItems>
+  <LoadedItems>Завантажені предмети</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
+  <PackAnimalsCountLower>в’ючні тварини</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
+  <InMentalStateCountLower>психічно зломлені</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
@@ -318,7 +318,7 @@
   <!-- EN: Contained items -->
   <ContainedItems>Contained items</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>Do you really want to remove {0}?</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Ви дійсно бажаєте видалити {0}?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
@@ -328,6 +328,6 @@
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
   <QuestDismissed>This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
-  <DeleteQuest>Delete this quest and remove it from the quest list forever.</DeleteQuest>
+  <DeleteQuest>Назавжди видалити це доручення.</DeleteQuest>
 
 </LanguageData>
