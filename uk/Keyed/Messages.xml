@@ -131,10 +131,10 @@
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} has died. Cause: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>{1_labelShort} has died.</PawnDied>
+  <PawnDied>{1_labelShort} {1_gender ? помер : померла}.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{1_label} is no longer incapable of walking.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} тепер може ходити.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
@@ -152,11 +152,11 @@
   <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0} мала викидень через голодування.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0} мала викидень через стан здоров'я.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageGaveBirth>{0} народила.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity. -->
   <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity.</MessagePsychicAmplifierNoSensitivity>
@@ -185,9 +185,9 @@
   <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{1_labelShort} is dead.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} {1_gender ? мертвий : мертва}.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{1_labelShort} is off the map.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} знаходиться за межами карти.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort} started a social fight with {PAWN2_labelShort}.</MessageSocialFight>
@@ -219,10 +219,10 @@
   <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Уламки космічних кораблів приземлилися неподалік. Ви можете їх розібрати та отримати трохи ресурсів.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Some items cannot be traded because of:</MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Деякими товарами не можна торгувати, бо:</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted.</MessageConstructionFailed>
