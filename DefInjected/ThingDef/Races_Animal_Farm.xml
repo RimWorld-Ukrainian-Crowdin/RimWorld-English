@@ -60,8 +60,8 @@
   
   <!-- EN: duck -->
   <Duck.label>duck</Duck.label>
-  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily. -->
-  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily.</Duck.description>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely.</Duck.description>
   <!-- EN: claws -->
   <Duck.tools.claws.label>claws</Duck.tools.claws.label>
   <!-- EN: beak -->
