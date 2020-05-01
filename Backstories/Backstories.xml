@@ -3791,14 +3791,14 @@
     <desc>[PAWN_nameDef] spent [PAWN_possessive] teenage years as a mercenary, being hired to kill and maim others. [PAWN_pronoun] was tall, menacing, and frightening. [PAWN_pronoun] could instill fear into the hearts of any man who crossed [PAWN_objective], and kill anyone [PAWN_pronoun] wanted.</desc>
   </Mercenary55>
   
-  <MercenaryChef31>
+  <MercenaryChef44>
     <!-- EN: mercenary chef -->
     <title>mercenary chef</title>
     <!-- EN: mercenary -->
     <titleShort>mercenary</titleShort>
-    <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] is a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
-    <desc>Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] is a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget.</desc>
-  </MercenaryChef31>
+    <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
+    <desc>Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget.</desc>
+  </MercenaryChef44>
   
   <MercenaryLeader28>
     <!-- EN: mercenary leader -->
