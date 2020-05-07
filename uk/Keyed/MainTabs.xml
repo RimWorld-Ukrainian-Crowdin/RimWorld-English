@@ -259,9 +259,9 @@
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>a colonist with the title of {0}.</QuestNoColonistWithTitle>
   <!-- EN: Reward preferences -->
-  <ChooseRewards>Reward preferences</ChooseRewards>
+  <ChooseRewards>Вподобання винагород</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
-  <ChooseRewardsDesc>Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered.</ChooseRewardsDesc>
+  <ChooseRewardsDesc>Скажіть іншим фракціям, які винагороди ви хочете в майбутніх дорученнях. Це не впливає на вже запропоновані доручення.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Accept {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
