@@ -3793,11 +3793,11 @@
   
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
-    <title>mercenary chef</title>
+    <title>голова найманців</title>
     <!-- EN: mercenary -->
-    <titleShort>mercenary</titleShort>
+    <titleShort>найманець</titleShort>
     <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
-    <desc>Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget.</desc>
+    <desc>Слідуючи по стопах [PAWN_possessive] родини, [PAWN_nameDef] був солдатом-найманцем.\n\n[PAWN_pronoun] був природньо обдарованим снайпером. Однак, [PAWN_possessive] справжня пристрасть була створенням нового рецепту або розсіченням нового пристрою.</desc>
   </MercenaryChef44>
   
   <MercenaryLeader28>
