@@ -92,21 +92,21 @@
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
   <MessageMustDesignateHaulable>Потрібно призначити елементи, які перетягуються. Деякі елементи перетягуються і не можуть бути призначені.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Потрібно призначити непрохідні шахтні камені.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>Потрібно призначити тварин, яких можна вполювати.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>Потрібно призначити тварин, які приручаються.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Потрібно призначити покинуті штучні структури.</MessageMustDesignateClaimable>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>You must defeat a mech cluster before you can deconstruct it.</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>Вам потрібно перемогти кластерний механізм, перш ніж його можна буде розібрати.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>Потрібно призначити нерівні кам'яні поверхні.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>Ніщо не може вилучити товстий дах.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>Це вже в сховищі й буде переміщено в сховище високого пріоритету як необхідне.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
   <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
