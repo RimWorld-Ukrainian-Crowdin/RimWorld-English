@@ -659,7 +659,7 @@
     <!-- EN: gunsmith -->
     <titleShort>зброяр</titleShort>
     <!-- EN: As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals. -->
-    <desc>Молодий коваль, [PAWN_nameDef] у сімейний магазин нагрянула поліція. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</desc>
+    <desc>Молодий коваль, [PAWN_nameDef] у сімейний магазин нагрянула поліція. [PAWN_pronoun] застрелив двох офіцерів, перш ніж вони нокатуваои [PAWN_objective] і заарештували його.\n\nзасуджений до довічного перебування у в'язниці, [PAWN_nameDef] дізналися про подорож і рейдерство від інших злочинців.</desc>
   </BlacksmithShooter21>
   
   <BlacksmithsSon73>
@@ -691,7 +691,7 @@
   
   <BloodyDentist9>
     <!-- EN: bloody dentist -->
-    <title>bloody dentist</title>
+    <title>кривавий дантист</title>
     <!-- EN: dentist -->
     <titleShort>дантист</titleShort>
     <!-- EN: After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world. -->
@@ -702,7 +702,7 @@
     <!-- EN: bloody wanderer -->
     <title>кривавий мандрівник</title>
     <!-- EN: wanderer -->
-    <titleShort>wanderer</titleShort>
+    <titleShort>мандрівник</titleShort>
     <!-- EN: [PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective]. -->
     <desc>[PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective].</desc>
   </BloodyWanderer28>
@@ -1006,7 +1006,7 @@
   
   <CaveworldIlluminator23>
     <!-- EN: caveworld illuminator -->
-    <title>caveworld illuminator</title>
+    <title>тунельний освітлювач</title>
     <!-- EN: illuminator -->
     <titleShort>освітлювач</titleShort>
     <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]’s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
@@ -1177,9 +1177,9 @@
   
   <ChurchPsychic98>
     <!-- EN: church psychic -->
-    <title>church psychic</title>
+    <title>церковний екстрасенс</title>
     <!-- EN: psychic -->
-    <titleShort>psychic</titleShort>
+    <titleShort>екстрасенс</titleShort>
     <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
     <desc>[PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought.</desc>
   </ChurchPsychic98>
@@ -1316,7 +1316,7 @@
     <!-- EN: coma child -->
     <titleShort>коматозна дитина</titleShort>
     <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-    <desc>A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story.</desc>
+    <desc>Нещасний випадок у дитинстві призвів [PAWN_nameDef] до коми. [PAWN_pronoun] не прокинувся, поки [PAWN_pronoun] був у [PAWN_possessive] пізньому підлітковому віці. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story.</desc>
   </ComaChild57>
   
   <CombatEngineer30>
