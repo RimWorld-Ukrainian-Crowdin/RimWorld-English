@@ -21,30 +21,30 @@
   <MessageRaidersSatisfiedLeaving>{0} від {1} задоволені завданою шкодою і йдуть.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} з {1} втікають.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Дружні {0} від {1} ідуть.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} від {1} приймають пораненого гостя.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{0} від {1} потрапили в пастку й намагаються вибратись.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0} з {1} залишають карту через небезпечну температуру.</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{0} worn by {1_nameFull} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} що носився {1_nameFull} знищився.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
-  <MessageDeterioratedAway>{0} has deteriorated away in storage.</MessageDeterioratedAway>
+  <MessageDeterioratedAway>{0} знищився на складі.</MessageDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>Починається {0}.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} залишив зону комунікації.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>You need a powered orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Вам потрібен орбітальний маяк з живленням, щоб торгувати з кораблем.</MessageNeedBeaconToTradeWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} було знищено.</MessageConditionCauserDespawned>
