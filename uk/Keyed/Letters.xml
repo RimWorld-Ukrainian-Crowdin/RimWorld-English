@@ -245,65 +245,65 @@
   <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Караван знищений</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Всі члени {0} померли.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
-  <LetterLabelCaravanEnteredMap>Caravan arrived at {0_label}</LetterLabelCaravanEnteredMap>
+  <LetterLabelCaravanEnteredMap>Караван прибув у {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>{0} has arrived at {1_definite}.</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} прибув в {1_definite}.</LetterCaravanEnteredMap>
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>Атака почалася</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} прибув в {1} і готовий почати атаку.</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>Attack begun</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>Атака почалася</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Ваш транспорт приїхав в {0}.</LetterTransportPodsLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
-  <LetterLabelFactionBaseDefeated>Base destroyed</LetterLabelFactionBaseDefeated>
+  <LetterLabelFactionBaseDefeated>База зруйнована</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
-  <LetterFactionBaseDefeated>The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>База ворожих військ {0} була зруйнована.\n\nУ {1} караван автоматично буде реформований. Ви можете реформувати караван зараз на Світовому екрані, вибравши зруйновану базу та обравши опцію "Реформи каравану".</LetterFactionBaseDefeated>
   <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means this faction doesn't exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Це була остання база {0}, що означає, що ця ватага більше не існує.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Завдання завершено</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Ви перемогли ворога!\n\nПлатіж від {0} прийшов, і відносини покращилися до {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
-  <LetterLabelFoundPreciousLump>Distant resource scanned</LetterLabelFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Відскановано віддалені ресурси</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Використовуючи ваш далекобійний сканер, {WORKER_labelShort} знайшов шматок {0} деяку відстань.\n\nНа жаль, це не триватиме - інші добудуть спочатку за {1} днів, якщо ми цього не зробимо.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>Scanned underground</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Відскановано під землею</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>{FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner!</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} знайшов шматочок похований {0} використовуючи сканер, який проникнув до землі!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
-  <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>Засідка</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>Ваш {0} потрапили в засідку!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>Мирні переговори</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Переговори були катастрофою. Делегати ледве пройшли повз своє перше привітання до того, як дискусія розбилася на образи та звинувачення.\n\nПісля того, як ваш караван відійшов рано, {0} з {1} спіймав його та атакує!\n\nСторони з {1}: {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>Зустрічний вогонь про мир</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
   <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
