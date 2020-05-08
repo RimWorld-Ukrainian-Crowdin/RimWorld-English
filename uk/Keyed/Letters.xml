@@ -90,46 +90,46 @@
   <AncientShrineWarning>Як {PAWN_nameDef} малює біля древньої стіни, похмуре передчуття долає {PAWN_objective}. {PAWN_pronoun} не знаю, чому, але {PAWN_pronoun} відчуває, що ця пильна структура може містити велику небезпеку.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>Ми розблились {0}!</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>{0} помста</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite} атакує після завдавання шкоди!\n\nЦе полювання на будь-якого гуманоїд може бути досягнуто. Він заспокоїться, коли він піде в сон.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{1_indefinite} is attacking due to a botched taming attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>{1_indefinite} нападає із-за невдалої спроби приручення!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>Other {1_kindBasePlural} nearby have also become enraged!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>Інші поблизу {1_kindBasePlural} також розлючуються!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{1_labelShort} hit trap</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} потрапляння до пастки</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort} випадково вирвав пастку та отримав від неї пошкодження.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>{PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort} розробив умову охорони здоров’я:\n\n  {1}\n\nЦе було заподіяно:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort} {1}</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} розробив умови для здоров'я: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort} {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeathLabel>{1} помер: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} з {1}, помер.\n\nновий {3} є {NEWLEADER_nameFull}.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>Новий {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} більше не {3} з {1}.\n\nновий {3} є {NEWLEADER_nameFull}.</LetterLeaderChanged>
 
   <!-- EN: The final straw was: {0} -->
-  <FinalStraw>The final straw was: {0}</FinalStraw>
+  <FinalStraw>Останньою краплею було: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>This happened because of poor mood.</MentalStateReason_Mood>
+  <MentalStateReason_Mood>Так сталося через поганий настрій.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
   <MentalStateReason_Trait>This happened because of the trait: {0}.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
