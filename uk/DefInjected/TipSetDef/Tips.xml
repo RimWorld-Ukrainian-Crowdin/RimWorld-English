@@ -30,15 +30,15 @@
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
   <GameplayTips.tips.13>Туманна або дощова погода зменшує точність далекобійної зброї.</GameplayTips.tips.13>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.tips.14>You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target.</GameplayTips.tips.14>
+  <GameplayTips.tips.14>Ви можете проаналізувати ймовірність попадання вибравши стрільця і розташувавши вказівник миші над ціллю.</GameplayTips.tips.14>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.tips.15>Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them.</GameplayTips.tips.15>
+  <GameplayTips.tips.15>Турелі вибухають після поглинення великої шкоди. Не розташовуйте їх близько один до одної і не розміщуйте ваших людей занадто близько до них.</GameplayTips.tips.15>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.tips.16>Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it.</GameplayTips.tips.16>
+  <GameplayTips.tips.16>Деякі тварини вибухають при смерті. Ви можете використовувати транспортні капсули, щоб кидати тварин на ворогів. Подумайте про це.</GameplayTips.tips.16>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.tips.17>If you need help in a fight, call your allies using the comms console.</GameplayTips.tips.17>
+  <GameplayTips.tips.17>Якщо вам потрібна допомога у боротьбі, покличте своїх союзників через термінал зв'язку.</GameplayTips.tips.17>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.tips.18>Maddened animals will attack any human, including your enemies. You can use this.</GameplayTips.tips.18>
+  <GameplayTips.tips.18>Збожеволілі тварини будуть нападати на будь-яку людину, включаючи ваших ворогів. Ви можете використовувати це.</GameplayTips.tips.18>
   <!-- EN: EMP bursts will temporarily disable turrets, mortar shields, and bullet shields. -->
   <GameplayTips.tips.19>EMP bursts will temporarily disable turrets, mortar shields, and bullet shields.</GameplayTips.tips.19>
   <!-- EN: EMP bursts instantly break personal shields. -->
