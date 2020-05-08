@@ -57,17 +57,17 @@
   <RecruitFail>{0} не вдалося завербувати {1} ( шанс{2}).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} є {RELATIVE_labelShort} {1}. Якщо {PAWN_nameDef} вмирає, {RELATIVE_labelShort} буде страждати від тривалого горя. Однак, якщо вам вдасться врятувати {PAWN_nameDef}, {RELATIVE_labelShort} будете дуже щасливі протягом тривалого часу.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
-  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
+  <LetterLabelBirthday>День народження</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayChronological>Сьогодні {0}хронологічний день народження! Біологічно {1} {3} років.\n\nХронологія, {1} щойно перегорнув {2}.\n\nЗверніть увагу, що оскільки люди не старіють, а в криптоліпі хронологічний день народження відділений від біологічного дня.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>{0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} досяг біологічного віку {1}.\n\nНа жаль, {0_nameFull} досяг таких захворювань через старіння:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
-  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+  <LetterLabelNewDisease>Хвороба</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
   <NewDisease>{PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
