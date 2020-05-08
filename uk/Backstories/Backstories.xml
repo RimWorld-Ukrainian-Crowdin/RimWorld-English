@@ -632,7 +632,7 @@
     <!-- EN: gambler -->
     <titleShort>азартний гравець</titleShort>
     <!-- EN: The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again. -->
-    <desc>The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again.</desc>
+    <desc>Єдиною корисною навичкою [PAWN_nameDef] вивченою з [PAWN_possessive] важкої військової школи була рейтингування карт. [PAWN_pronoun] заважав багатьом ворогам, обманюючи в казино, стаючи все більш напруженим і жорстоким, як загроза помсти зростала.\n\nКоли [PAWN_pronoun] нарешті спіймали, вони спалили половину [PAWN_possessive] шкіри. [PAWN_pronoun] ніколи більше не могли зіштовхнутися з вогнем чи жорстокістю знов.</desc>
   </BlackjackPlayer76>
   
   <Blacksmith7>
@@ -641,7 +641,7 @@
     <!-- EN: blacksmith -->
     <titleShort>коваль</titleShort>
     <!-- EN: As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-    <desc>As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.</desc>
+    <desc>Як коваль у середньовічному світі, [PAWN_nameDef] отримав репутацію через високу якість [PAWN_possessive] роботи. [PAWN_pronoun] теж не був поганим у користуванні мечами [PAWN_pronoun] викуваних теж.</desc>
   </Blacksmith7>
   
   <Blacksmith72>
@@ -650,16 +650,16 @@
     <!-- EN: blacksmith -->
     <titleShort>коваль</titleShort>
     <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-    <desc>As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.</desc>
+    <desc>Як коваль у середньовічному світі, [PAWN_nameDef] отримав репутацію через високу якість [PAWN_possessive] роботи. [PAWN_pronoun] теж не був поганим у користуванні мечами [PAWN_pronoun] викуваних теж.</desc>
   </Blacksmith72>
   
   <BlacksmithShooter21>
     <!-- EN: blacksmith shooter -->
-    <title>blacksmith shooter</title>
+    <title>вбивця коваля</title>
     <!-- EN: gunsmith -->
     <titleShort>зброяр</titleShort>
     <!-- EN: As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals. -->
-    <desc>As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</desc>
+    <desc>Молодий коваль, [PAWN_nameDef] у сімейний магазин нагрянула поліція. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</desc>
   </BlacksmithShooter21>
   
   <BlacksmithsSon73>
