@@ -114,7 +114,7 @@
   <StatsReport_NonToolAttack>Напад</StatsReport_NonToolAttack>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>Different sources of recreation satisfy different recreation types. Колоністам стає нудно робити один і той же тип відпочинку, тому важливо забезпечити різноманітні джерела відпочинку з різними видами відпочинку.</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Різні джерела відпочинку задовольняють різні види відпочинку. Колоністам стає нудно робити один і той же тип відпочинку, тому важливо забезпечити різноманітні джерела відпочинку з різними видами відпочинку.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
   <Stat_JoyKind_AllTypes>Всі види відпочинку</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
@@ -144,7 +144,7 @@
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Мультиплікатор кількості досвіду, який отримують лікарі при використанні цього, для догляду пацієнта.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>The attributes of this plant.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>Властивості цієї рослини.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>Which body parts this covers.\n\nArmor does not protect body parts that it does not cover.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
