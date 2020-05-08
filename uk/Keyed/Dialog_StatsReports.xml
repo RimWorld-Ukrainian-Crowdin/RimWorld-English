@@ -114,9 +114,9 @@
   <StatsReport_NonToolAttack>Напад</StatsReport_NonToolAttack>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types.</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Different sources of recreation satisfy different recreation types. Колоністам стає нудно робити один і той же тип відпочинку, тому важливо забезпечити різноманітні джерела відпочинку з різними видами відпочинку.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>All recreation types</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Всі види відпочинку</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>Добутий товар</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
@@ -142,7 +142,7 @@
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
   <Stat_Thing_Damage_Desc>Кількість пошкоджень, які ця зброя наносить.\n\nВід нього можна ухилится чи пом'якшити бронею цілі.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>A multiplier on the amount of experience doctors gain when using this to tend a patient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Мультиплікатор кількості досвіду, який отримують лікарі при використанні цього, для догляду пацієнта.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>The attributes of this plant.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
