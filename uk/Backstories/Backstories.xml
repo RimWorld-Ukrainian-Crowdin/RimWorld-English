@@ -1316,7 +1316,7 @@
     <!-- EN: coma child -->
     <titleShort>коматозна дитина</titleShort>
     <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-    <desc>Нещасний випадок у дитинстві призвів [PAWN_nameDef] до коми. [PAWN_pronoun] не прокинувся, поки [PAWN_pronoun] був у [PAWN_possessive] пізньому підлітковому віці. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story.</desc>
+    <desc>Нещасний випадок у дитинстві призвів [PAWN_nameDef] до коми. [PAWN_pronoun] не прокинувся, поки [PAWN_pronoun] був у [PAWN_possessive] пізньому підлітковому віці. [PAWN_possessive] тіло так і не оговталось від років бездіяльності, але люди схильні жаліти [PAWN_objective], коли вони чують [PAWN_possessive] історію.</desc>
   </ComaChild57>
   
   <CombatEngineer30>
@@ -1339,7 +1339,7 @@
   
   <CombatMedic82>
     <!-- EN: combat medic -->
-    <title>combat medic</title>
+    <title>бойовий медик</title>
     <!-- EN: medic -->
     <titleShort>медик</titleShort>
     <!-- EN: After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved. -->
@@ -1411,7 +1411,7 @@
   
   <ComputerGeek62>
     <!-- EN: computer geek -->
-    <title>computer geek</title>
+    <title>комп'ютерний гік</title>
     <!-- EN: geek -->
     <titleShort>ґік</titleShort>
     <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood on [PAWN_possessive] computer, typing away, never knowing when to get up and eat.\n\n[PAWN_pronoun] had a very narrow interest: hacking cryptosleep safety protocols. -->
@@ -1964,9 +1964,9 @@
   
   <DrugLieutenant98>
     <!-- EN: drug lieutenant -->
-    <title>drug lieutenant</title>
+    <title>нарколейтенант</title>
     <!-- EN: drugman -->
-    <titleShort>drugman</titleShort>
+    <titleShort>наркоман</titleShort>
     <!-- EN: [PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean. -->
     <desc>[PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean.</desc>
   </DrugLieutenant98>
@@ -2180,9 +2180,9 @@
   
   <FarmBoy64>
     <!-- EN: farm boy -->
-    <title>farm boy</title>
+    <title>селюк</title>
     <!-- EN: farm boy -->
-    <titleShort>farm boy</titleShort>
+    <titleShort>селюк</titleShort>
     <!-- EN: [PAWN_nameDef] worked on [PAWN_possessive] family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, [PAWN_pronoun] avoided softer jobs that might have kept [PAWN_objective] cooped up inside.\n\n[PAWN_pronoun] enjoyed this lonely work, and tended to stay out of people's way and do [PAWN_possessive] own thing. -->
     <desc>[PAWN_nameDef] worked on [PAWN_possessive] family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, [PAWN_pronoun] avoided softer jobs that might have kept [PAWN_objective] cooped up inside.\n\n[PAWN_pronoun] enjoyed this lonely work, and tended to stay out of people's way and do [PAWN_possessive] own thing.</desc>
   </FarmBoy64>
@@ -2459,7 +2459,7 @@
   
   <GameTester77>
     <!-- EN: game tester -->
-    <title>game tester</title>
+    <title>тестувальник ігор</title>
     <!-- EN: tester -->
     <titleShort>тестер</titleShort>
     <!-- EN: Making a new life on a barely-livable planet after nuclear war, [PAWN_nameDef] was able to fulfill [PAWN_possessive] desires with money borrowed from [PAWN_possessive] father.\n\n[PAWN_pronoun] loved playing a particular colony simulator. [PAWN_possessive] favorite thing to do in the game was to build elaborate hospitals. Spending most of [PAWN_possessive] time playing, [PAWN_pronoun] forgot horrors of war and [PAWN_possessive] need for revenge. -->
@@ -2661,9 +2661,9 @@
   
   <Guardian55>
     <!-- EN: guardian -->
-    <title>guardian</title>
+    <title>охоронець</title>
     <!-- EN: guardian -->
-    <titleShort>guardian</titleShort>
+    <titleShort>охоронець</titleShort>
     <!-- EN: After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian. -->
     <desc>After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian.</desc>
   </Guardian55>
@@ -4649,7 +4649,7 @@
     <!-- EN: politician -->
     <titleShort>політик</titleShort>
     <!-- EN: [PAWN_nameDef] was an activist in a powerful political faction. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat. -->
-    <desc>[PAWN_nameDef] was an activist in a powerful political faction. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat.</desc>
+    <desc>[PAWN_nameDef] був активістом потужної політичної фракції. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat.</desc>
   </Politician57>
   
   <PoorKid18>
