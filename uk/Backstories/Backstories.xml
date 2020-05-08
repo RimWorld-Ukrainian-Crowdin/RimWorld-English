@@ -578,7 +578,7 @@
     <!-- EN: technician -->
     <titleShort>технік</titleShort>
     <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service. -->
-    <desc>[PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service.</desc>
+    <desc>[PAWN_nameDef] отримала навчання з вогнепальної зброї, але [PAWN_possessive] робота була зосереджена на технічному пристосуванні та маніпуляціях з бойовими механізмами на полі бою.\n\n[PAWN_pronoun] розвинувся посттравматичний стресовий розлад після уникнення примітивної вогнепальної атаки в полі пшениці. Армія медично звільнялася  [PAWN_objective] від служби.</desc>
   </BattlefieldTech52>
   
   <BattleMechanic27>
