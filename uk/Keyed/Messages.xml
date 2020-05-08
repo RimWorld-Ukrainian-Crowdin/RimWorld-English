@@ -64,33 +64,33 @@
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>Попередження: {ANIMAL_kindBasePlural} має {1} базовий шанс атакувати при завданні йому шкоди. Шанс залежить від діапазону й показника прихованості мисливця.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Попередження: {ANIMAL_kindBasePlural} може атакувати при невдалій спробі приручення ( шанс{1}).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>Новачок</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} успішно завербував {RECRUITEE_nameFull} ( шанс{2}).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} успішно приручив {1} ( шанс{2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} успішно приручив {1} ( шанс{2} ). Тепер він називається {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>Колонія не може дозволити собі цю угоду.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>У вас недостатньо срібла для торгівлі.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Критичне попередження: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>Потрібно призначити плодоносні рослини, що достатньо виросли.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>Потрібно призначити рослини, що достатньо виросли і дають дерево.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>Потрібно призначити рослини.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>Must designate haulable items. Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>Потрібно призначити елементи, які перетягуються. Деякі елементи перетягуються і не можуть бути призначені.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
