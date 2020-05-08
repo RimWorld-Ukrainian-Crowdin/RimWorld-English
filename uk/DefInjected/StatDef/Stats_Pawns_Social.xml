@@ -7,19 +7,19 @@
   <ArrestSuccessChance.description>Наскільки ефективною є ця людина під час арешту людей. Це впливає на те, що ця людина зможе заарештувати когось без опору.</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
-  <NegotiationAbility.label>negotiation ability</NegotiationAbility.label>
+  <NegotiationAbility.label>здатність вести перемовини</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks.</NegotiationAbility.description>
+  <NegotiationAbility.description>Наскільки ефективною є ця людина в ролі переговорника.\n\nЦе впливає на швидкість вербування ув'язненого, вплив на фракційні відносини при наданні подарунків та результат мирних переговорів.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
   <PawnBeauty.label>краса</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
-  <PawnBeauty.description>How physically attractive this person is. This affects social interactions.</PawnBeauty.description>
+  <PawnBeauty.description>Наскільки фізично привабливою є ця людина. Це впливає на соціальні взаємодії.</PawnBeauty.description>
   
   <!-- EN: social impact -->
-  <SocialImpact.label>social impact</SocialImpact.label>
+  <SocialImpact.label>соціальний вплив</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
-  <SocialImpact.description>A multiplier on how much other people are affected by this person's social interactions.</SocialImpact.description>
+  <SocialImpact.description>Коефіцієнт того, наскільки інші люди під впливом соціальних взаємодій цієї людини.</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
   <TameAnimalChance.label>шанс приручення тварини</TameAnimalChance.label>
