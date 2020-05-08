@@ -166,60 +166,60 @@
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
   <LetterRelatedPawnsInMapWherePlayerLanded>Є люди, в яких є стосунки з вашим {0} або ув'язненими в районі, де ви {0} приземлилися.</LetterRelatedPawnsInMapWherePlayerLanded>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>There are people who have relationships with your {0} or prisoners in this settlement:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSettlement>Є люди, у яких є стосунки з вашим {0} або в'язнями в цьому населенні:</LetterRelatedPawnsSettlement>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>There are people who have relationships with your {0} or prisoners in this area:</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSite>Є люди, які мають стосунки з вашим {0} або в'язнів в цій області:</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>relationship</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>відносини</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} має зв'язок з колоністами. {PAWN_pronoun} є {RELATIVE_labelShort} з {1}.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} має відносини з одним з ваших ув'язнених. {PAWN_pronoun} є {RELATIVE_labelShort} з {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterLabelAffair>Справа</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}.</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort}, одружений з {SPOUSE_labelShort}, розпочався справа з {PAWN2_labelShort}.</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+  <LetterLabelNewLovers>Нові кохані</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>{PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed.</LetterNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} і {PAWN2_labelShort} тепер хочуть спати разом. Подумайте про призначення їм подвійне ліжко.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} і {PAWN2_labelShort} більше не у відносинах.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name.</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} змінить {PAWN_possessive} прізвище на {PAWN_possessive} ім'я народження.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
+  <LetterLabelBreakup>Розставання</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Шлюб!</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>Відхилити пропозицію</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>У якийсь момент у найближчі дні чи квадруми, вони приймуть шлюбну церемонію та запросять усіх колоністів. Розгляньте можливість розміщення шлюбу, якщо ви хочете контролювати, де відбувається церемонія.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>{PAWN_label} will change {PAWN_possessive} last name to {1}.</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} зміниться {PAWN_possessive} прізвище на {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{INITIATOR_nameFull} is going to be unhappy about this.</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} буде нещасним з цього приводу.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Hostile>Хості: {0}</LetterLabelRelationsChange_Hostile>
   <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_Ally>Союзник: {0}</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
   <LetterLabelRelationsChange_NeutralFromHostile>Ворог тепер нейтральний: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>Ворог тепер нейтральний: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
   <!-- EN: bonded -->
-  <LetterLabelSuffixBondedAnimalDied>bonded</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>зв'язано</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} був пов'язаний з {HUMAN_labelShort}. Це вплине на настрій {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
   <LetterPartBondedAnimalDiedMulti>It will affect mood of the following people:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
