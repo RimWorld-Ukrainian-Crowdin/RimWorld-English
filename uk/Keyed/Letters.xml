@@ -305,15 +305,15 @@
   <!-- EN: Peace talks backfire -->
   <LetterLabelPeaceTalks_Backfire>Зустрічний вогонь про мир</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Переговори повернулися. Незважаючи на торгівлю деякими приємними людьми, делегати не досягли прогресу в суттєвих питаннях, і кілька заяв трактували як образи.\n\nвідносини з {0}: {1}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>Мирні переговори</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Переговори процвітали. Делегатам вдалося чітко спілкуватися та з основною повагою, але не змогли досягти прогресу у будь-яких справжніх питаннях.\n\nВідносини з {0} залишаються незмінними.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>Мирні переговори успіху</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Переговори мали успіх. Делегати досягли нового взаємного розуміння з кількох суттєвих питань.\n\nпокращилися з {0} відносинами з {1}.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
   <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
