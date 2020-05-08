@@ -29,7 +29,7 @@
     <li>questName->Звільнення [prisoner_nameDef]</li>
     <li>questName->Порятунок [prisoner_nameDef]</li>
     <li>questName->Порятунок [prisoner_nameDef]</li>
-    <li>questName->Breaking [prisoner_nameDef] Out</li>
+    <li>questName->Порятунок [prisoner_nameDef]</li>
   </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
   
 </LanguageData>
