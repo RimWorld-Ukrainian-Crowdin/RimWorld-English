@@ -592,11 +592,11 @@
   
   <Beastmaster67>
     <!-- EN: beastmaster -->
-    <title>beastmaster</title>
+    <title>володар звірів</title>
     <!-- EN: beastmaster -->
-    <titleShort>beastmaster</titleShort>
+    <titleShort>володар звірів</titleShort>
     <!-- EN: [PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did. -->
-    <desc>[PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did.</desc>
+    <desc>[PAWN_nameDef] сім'я мала більше дітей, ніж вони мали належні титули для спадкування. Будучи низького рангу в порядку народження, [PAWN_nameDef] було присвоєно почесне звання "Ловець звірів".\n\n[PAWN_nameDef] керував розгалуженою родинною менажерією. Тоді як [PAWN_pronoun] ніколи не працював руками зі звірами, [PAWN_pronoun] пов'язаний з ними. Мало хто оцінив [PAWN_objective] їх метод виконання.</desc>
   </Beastmaster67>
   
   <BeastSlayer67>
@@ -614,7 +614,7 @@
     <!-- EN: scientist -->
     <titleShort>учений</titleShort>
     <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
-    <desc>Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</desc>
+    <desc>Спійманий у якості здичавілої дитини, [PAWN_nameDef] був примушений до умов сучасного суспільства. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</desc>
   </BehaviourResearch74>
   
   <BiosphereManager95>
