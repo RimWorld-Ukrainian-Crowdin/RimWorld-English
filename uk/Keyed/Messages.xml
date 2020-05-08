@@ -108,28 +108,28 @@
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
   <MessageAlreadyInStorage>Це вже в сховищі й буде переміщено в сховище високого пріоритету як необхідне.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Потрібно надати трупові або збитому персонажу одяг, що легко знімається.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Потрібно призначити приручену тварину, яка належить до колонії.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Потрібно призначити повні могили або контейнери.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>Must designate unforbidden items.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>Потрібно призначити незаборонені елементи.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>Must designate forbidden items.</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>Потрібно призначити заборонені елементи.</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{1_labelShort} has refused to be arrested!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} відмовився бути заарештованим!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
-  <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>Уже немає вільних лікарняних ліжок.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>Уже немає вільних ліжок для тварин.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>Операція вимагає {0} або краще, але поточний режим медичного захисту {PAWN_labelShort} "{2}".</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{PAWN_labelShort} has died. Cause: {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} помер. Причина: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
   <PawnDied>{1_labelShort} {1_gender ? помер : померла}.</PawnDied>
 
