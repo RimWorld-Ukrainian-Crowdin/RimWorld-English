@@ -4,7 +4,7 @@
   <!-- EN: Arrest success chance -->
   <ArrestSuccessChance.label>Шанс успіху на арешт</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
-  <ArrestSuccessChance.description>How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance.</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>Наскільки ефективною є ця людина під час арешту людей. Це впливає на те, що ця людина зможе заарештувати когось без опору.</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>negotiation ability</NegotiationAbility.label>
