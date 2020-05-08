@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
-  <ArrestSuccessChance.label>Arrest success chance</ArrestSuccessChance.label>
+  <ArrestSuccessChance.label>Шанс успіху на арешт</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
   <ArrestSuccessChance.description>How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance.</ArrestSuccessChance.description>
   
