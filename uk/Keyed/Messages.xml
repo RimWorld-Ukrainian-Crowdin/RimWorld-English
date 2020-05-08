@@ -144,12 +144,12 @@
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
   <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} катастрофічно не вдалося під час роботи над {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} не зміг впоратися з безглуздим способом роботи на {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} скоїв фатальну помилку під час роботи з {PATIENT_labelShort} через спеціальні виклики: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Ця операція злиться {0}.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} мала викидень через голодування.</MessageMiscarriedStarvation>
@@ -267,7 +267,7 @@
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>{0} has died due to being exposed to light.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} has died from rotting.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} помер від гнилості.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>{0} has died because of poison.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
@@ -297,9 +297,9 @@
   <MessageRescueeDidntJoin>[PAWN_nameDef] has recovered and decided to leave.</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>Деякі транспортні модулі недоступні.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>Усі лаунчери pod'а підключені до вибраного транспортного pod'а повинні бути прилеглими.</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
@@ -353,7 +353,7 @@
   <MessageWouldReplaceLockedApparel>Cannot wear: This would replace apparel {1_labelShort} refues to remove.</MessageWouldReplaceLockedApparel>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Тому що вони рабові, вбивство {DESIGNATED_labelShort} зробить {BONDED_labelShort} нещасним.</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
   <MessageCaravanRanOutOfFood>{0} has run out of food ({PAWN_label}).</MessageCaravanRanOutOfFood>
@@ -382,7 +382,7 @@
   <MessageCannotSelfTendEver>{1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>Ця плитка непрохідна.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
   <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
@@ -447,7 +447,7 @@
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} cannot grow underneath a roof.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>Cannot build a roof over {0}.</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>Неможливо побудувати дах понад {0}.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
   <MessageChoseRoute>Caravan will automatically travel to the first waypoint.</MessageChoseRoute>
@@ -460,7 +460,7 @@
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>Relations with {0} have changed from {1} to {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>Relations with {0} have changed from {1} to {2} ({3}).</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>Відносини з {0} змінилися з {1} на {2} ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
   <GoodwillChangedReason_AttackedPawn>attacked {1_labelShort}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
@@ -509,7 +509,7 @@
   <GoodwillChangedReason_RequestedTrader>requested trader caravan</GoodwillChangedReason_RequestedTrader>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>{0} accept your gift but they don't appreciate it.</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} приймає ваш подарунок, але вони не цінують його.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
   <MessageCantGiveGiftBecauseCantCarryEncumbered>The caravan is already encumbered and can't carry anything else.</MessageCantGiveGiftBecauseCantCarryEncumbered>
@@ -564,23 +564,23 @@
   <!-- EN: Disable all mods before using this tool. -->
   <MessageDisableModsBeforeCleaningTranslationFiles>Disable all mods before using this tool.</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
-  <MessageUnpackBeforeCleaningTranslationFiles>Unpack and then delete all compressed translation files for this language before using this tool.</MessageUnpackBeforeCleaningTranslationFiles>
+  <MessageUnpackBeforeCleaningTranslationFiles>Розпакуйте і видаліть всі файли перекладу для цієї мови перед використанням цього інструменту.</MessageUnpackBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folders: {0} -->
-  <MessageTranslationFilesCleanupDone>Done. Affected folders: {0}</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>Зроблено. Зміненіпапки: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Не вдалося завантажити один з файлів перекладу ({0}). Всі помилки XML парсингу повинні бути вирішені спочатку.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>Cannot shoot in melee.</MessageCantShootInMelee>
+  <MessageCantShootInMelee>Не може стріляти в ближньому бою.</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
   <MessageNoColonistCanAcceptQuest>None of your {0} can accept this quest now.</MessageNoColonistCanAcceptQuest>
   <!-- EN: Cannot accept this quest. -->
-  <MessageCannotAcceptQuest>Cannot accept this quest.</MessageCannotAcceptQuest>
+  <MessageCannotAcceptQuest>Неможливо прийняти цей квест.</MessageCannotAcceptQuest>
   <!-- EN: {0_definite} has accepted a quest: {1} -->
   <MessageQuestAccepted>{0_definite} has accepted a quest: {1}</MessageQuestAccepted>
   <!-- EN: {0} is leaving. -->
