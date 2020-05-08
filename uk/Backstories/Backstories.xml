@@ -614,7 +614,7 @@
     <!-- EN: scientist -->
     <titleShort>учений</titleShort>
     <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
-    <desc>Спійманий у якості здичавілої дитини, [PAWN_nameDef] був примушений до умов сучасного суспільства. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</desc>
+    <desc>Спійманий у якості здичавілої дитини, [PAWN_nameDef] був примушений до умов сучасного суспільства. [PAWN_pronoun] швидко адаптувався і став дослідником поведінки, врешті решт володіючи приватним обладнанням..\n\n[PAWN_pronoun] спеціалізується на іклах, але багато чого дізнався про всіх тварин. [PAWN_pronoun] однак ніколи не був зацікавлений в рослинах.</desc>
   </BehaviourResearch74>
   
   <BiosphereManager95>
@@ -623,7 +623,7 @@
     <!-- EN: botanist -->
     <titleShort>ботанік</titleShort>
     <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty. -->
-    <desc>[PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty.</desc>
+    <desc>[PAWN_nameDef] жив у мирному блискучому світі, де вся праця виконувалася роботами, а люди присвятили себе дозвіллю. [PAWN_pronoun] керував рослинним і тваринним життям величезного парку, куди громадяни приходили, щоб помилуватися красою природи.</desc>
   </BiosphereManager95>
   
   <BlackjackPlayer76>
