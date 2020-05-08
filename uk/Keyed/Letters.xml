@@ -23,24 +23,24 @@
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
   <LetterRelationsChange_NeutralFromAlly>Відносини з {0} охололи. Вони тепер вважають вас нейтральним замість об'єднаних.\n\nПоки вони все ще будуть мирно взаємодіяти з вами, вони більше не будуть надсилати винищувачів на допомогу, коли ви під загрозою.\n\nЦе сталося через те, що прихильність ({1}) впала нижче {2}. Якщо відносини з ними впадуть нижче {3}, {0} то вони стануть ворогами. Якщо прихильність зросте вище {4}, то вона стане вашим союзником і боротиметься за вас.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькі. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькі. Зараз вони вважають вас союзником.\n\nСоюзники іноді прибувають, щоб допомогти боротися з ворогами, коли ви під атакою. Ви також можете покликати їх на допомогу в будь-який час, ціною прихильності.\n\nВи станете союзниками, тому що ваш товар ({1}) виріс минуло {2}. Якщо прихильність впала нижче {3}, відносини повернуться до нейтрального.</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
-  <goodwill>доброзичливість</goodwill>
+  <goodwill>прихильність</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Нейтральні</Neutral>
   <!-- EN: Death -->
   <Death>Смерть</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>A {1_label} has short-circuited in the rain and started a fire.</ShortCircuitRain>
+  <ShortCircuitRain>У {1_label} має коротке замикання в дощ і почалася пожежа.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Знайдено нову територію</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
-  <AreaRevealed>A new area has been revealed.</AreaRevealed>
+  <AreaRevealed>Нова область була виявлена.</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>Нова область була виявлена, містить давні, ворожі механоїди.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
