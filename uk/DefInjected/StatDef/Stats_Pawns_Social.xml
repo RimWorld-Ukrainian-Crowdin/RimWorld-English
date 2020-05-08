@@ -19,12 +19,12 @@
   <!-- EN: social impact -->
   <SocialImpact.label>соціальний вплив</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
-  <SocialImpact.description>Коефіцієнт того, наскільки інші люди під впливом соціальних взаємодій цієї людини.</SocialImpact.description>
+  <SocialImpact.description>Коефіцієнт того, наскільки інші люди залежать від соціальних взаємодій цієї людини.</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
   <TameAnimalChance.label>шанс приручення тварини</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
-  <TameAnimalChance.description>The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals.</TameAnimalChance.description>
+  <TameAnimalChance.description>Базовий шанс того, що ця людина успішно приручить тварину з будь-якої наданої спроби.\n\nРеальний шанс також залежить від дикості тварини.\nНевдала спроба приручення може спричиняти напади тварин, особливо більш агресивних тварин.</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>навик торгівлі</TradePriceImprovement.label>
