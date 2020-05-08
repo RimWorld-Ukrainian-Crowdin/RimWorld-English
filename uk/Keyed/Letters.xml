@@ -233,17 +233,17 @@
   <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>Залежність: {0}</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{PAWN_labelShort} створив залежність від {1}.\n\n{PAWN_pronoun} тепер має потребу в {1}, видимою на вкладці {PAWN_possessive} потреби. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} створив залежність від {1}.\n\n{PAWN_pronoun} тепер має потребу в {1}, видимою на вкладці {PAWN_possessive} потреби. {PAWN_pronoun} автоматично споживати препарат для виконання {PAWN_possessive} потрібно. Якщо {PAWN_pronoun} не може отримати жодного {1}, {PAWN_pronoun} піде на вилучення.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>{0} гурт</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{2_label} is binging on {1}.</LetterDrugBinge>
+  <LetterDrugBinge>{2_label} є під наркотою {1}.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Караван знищений</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
   <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
 
