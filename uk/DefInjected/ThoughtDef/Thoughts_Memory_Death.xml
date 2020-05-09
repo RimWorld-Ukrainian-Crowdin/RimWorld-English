@@ -53,7 +53,7 @@
   <!-- EN: my aunt {0} died -->
   <MyAuntDied.stages.my_aunt_died.label>моя тітка {0} померла</MyAuntDied.stages.my_aunt_died.label>
   <!-- EN: My aunt died. -->
-  <MyAuntDied.stages.my_aunt_died.description>My aunt died.</MyAuntDied.stages.my_aunt_died.description>
+  <MyAuntDied.stages.my_aunt_died.description>Моя тітка померла.</MyAuntDied.stages.my_aunt_died.description>
   
   <!-- EN: my brother {0} died -->
   <MyBrotherDied.stages.my_brother_died.label>мій брат {0} помер</MyBrotherDied.stages.my_brother_died.label>
@@ -83,27 +83,27 @@
   <!-- EN: my fiancée {0} died -->
   <MyFianceeDied.stages.my_fiance_died.label>моя наречена {0} померла</MyFianceeDied.stages.my_fiance_died.label>
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
-  <MyFianceeDied.stages.my_fiance_died.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.my_fiance_died.description>
+  <MyFianceeDied.stages.my_fiance_died.description>Моя наречена померла. Така жінка... моє майбутнє зникло.</MyFianceeDied.stages.my_fiance_died.description>
   
   <!-- EN: my grandchild {0} died -->
-  <MyGrandchildDied.stages.my_grandchild_died.label>my grandchild {0} died</MyGrandchildDied.stages.my_grandchild_died.label>
+  <MyGrandchildDied.stages.my_grandchild_died.label>мій(моя) онук(а) {0} помер(ла)</MyGrandchildDied.stages.my_grandchild_died.label>
   <!-- EN: My grandchild died. My own flesh and blood... -->
-  <MyGrandchildDied.stages.my_grandchild_died.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.my_grandchild_died.description>
+  <MyGrandchildDied.stages.my_grandchild_died.description>Мій(моя) онук(а) помер(ла). Моя плоть і кров...</MyGrandchildDied.stages.my_grandchild_died.description>
   
   <!-- EN: my grandparent {0} died -->
-  <MyGrandparentDied.stages.my_grandparent_died.label>my grandparent {0} died</MyGrandparentDied.stages.my_grandparent_died.label>
+  <MyGrandparentDied.stages.my_grandparent_died.label>мій(моя) дідусь(бабуся) {0} помер(ла)</MyGrandparentDied.stages.my_grandparent_died.label>
   <!-- EN: My grandparent died. -->
-  <MyGrandparentDied.stages.my_grandparent_died.description>My grandparent died.</MyGrandparentDied.stages.my_grandparent_died.description>
+  <MyGrandparentDied.stages.my_grandparent_died.description>Мій(моя) дідусь(бабуся) помер(ла).</MyGrandparentDied.stages.my_grandparent_died.description>
   
   <!-- EN: my half-sibling {0} died -->
-  <MyHalfSiblingDied.stages.my_halfsibling_died.label>my half-sibling {0} died</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>мій(моя) зведений(а) брат(сестра) {0} помер(ла)</MyHalfSiblingDied.stages.my_halfsibling_died.label>
   <!-- EN: My half-sibling died. My own flesh and blood... -->
-  <MyHalfSiblingDied.stages.my_halfsibling_died.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>Мій(моя) зведений(а) брат(сестра) помер(ла). Моя плоть і кров...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
   
   <!-- EN: my husband {0} died -->
-  <MyHusbandDied.stages.my_husband_died.label>my husband {0} died</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.label>мій чоловік {0} помер</MyHusbandDied.stages.my_husband_died.label>
   <!-- EN: My husband is dead. I am alone. -->
-  <MyHusbandDied.stages.my_husband_died.description>My husband is dead. I am alone.</MyHusbandDied.stages.my_husband_died.description>
+  <MyHusbandDied.stages.my_husband_died.description>Мій чоловік мертвий. Я самотня.</MyHusbandDied.stages.my_husband_died.description>
   
   <!-- EN: my kin {0} died -->
   <MyKinDied.stages.my_kin_died.label>my kin {0} died</MyKinDied.stages.my_kin_died.label>
