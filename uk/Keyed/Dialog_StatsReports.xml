@@ -152,9 +152,9 @@
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
   <Stat_Thing_Plant_FertilityRequirement_Desc>Мінімальна родючість ґрунту, що ця рослина вимагає для росту.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>Наскільки ця рослина чутлива до родючості ґрунту.\n\nНизька чутливість означає, що рослина буде рости приблизно з однаковою швидкістю у родючому чи бідному ґрунті. High sensitivity means the plant grows slow in poor soil, but faster in rich soil.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Наскільки ця рослина чутлива до родючості ґрунту.\n\nНизька чутливість означає, що рослина буде рости приблизно з однаковою швидкістю в родючому чи бідному ґрунті. Висока чутливість означає, що рослина росте повільно в бідному ґрунті, але швидше в родючому ґрунті.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>The amount of light this plant requires to grow.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>Кількість світла, яку ця рослина потребує для росту.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
   <Stat_Thing_Plant_LifeSpan_Desc>The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
