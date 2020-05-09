@@ -134,25 +134,25 @@
   <!-- EN: The weapon used by this turret. -->
   <Stat_Weapon_Desc>Зброя, яку використовує ця турель.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Скільки пошкодженнь об'єкт може отримати до повного знищення.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Скільки пошкоджень об'єкт може отримати до повного знищення.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>Обсяг роботи, необхідний для видалення цього.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>Які споруди можуть бути використані для вироблення цього.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>Кількість пошкоджень, які ця зброя наносить.\n\nВід нього можна ухилится чи пом'якшити бронею цілі.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Кількість пошкоджень, які ця зброя наносить.\n\nВід нього можна ухилитися чи пом'якшити бронею цілі.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Мультиплікатор кількості досвіду, який отримують лікарі при використанні цього, для догляду пацієнта.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>Властивості цієї рослини.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>Which body parts this covers.\n\nArmor does not protect body parts that it does not cover.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Які частини тіла це покриває.\n\nБроня не захищає частини тіла, які вона не покриває.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
   <Stat_Thing_Apparel_Layer_Desc>Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>The minimum soil fertility that this plant requires to grow.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Мінімальна родючість ґрунту, що ця рослина вимагає для росту.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Наскільки ця рослина чутлива до родючості ґрунту.\n\nНизька чутливість означає, що рослина буде рости приблизно з однаковою швидкістю у родючому чи бідному ґрунті. High sensitivity means the plant grows slow in poor soil, but faster in rich soil.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
   <Stat_Thing_Plant_LightRequirement_Desc>The amount of light this plant requires to grow.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
