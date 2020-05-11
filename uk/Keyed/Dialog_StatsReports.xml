@@ -164,13 +164,13 @@
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
   <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Максимальна температура, яку ця рослина може витримати.\n\nТемператури вище цього рівня з часом можуть завдати шкоди.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>The minimum skill needed for a farmer to to sow this plant.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Мінімальне вміння, необхідне фермеру для посіву цієї рослини.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>The kinds of food this creature is capable of eating.\n\nCan eat: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>Види їжі, яку ця істота здатна їсти.\n\nМоже їсти: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>The type of leather this creature will yield when butchered.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>Тип шкіри, яка буде отримана з істоти після розбирання туші.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>The chance that this creature will attack when a tamer tries to tame it and fails.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Шанс, що ця істота нападе, коли приборкувач спробує її приручити і дасть маху.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
   <Stat_Race_Trainability_Desc>This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
