@@ -158,11 +158,11 @@
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
   <Stat_Thing_Plant_LifeSpan_Desc>Тривалість життя рослини.\n\nРослини природньо помирають після певного віку, навіть, якщо їх не пожинають.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>The amount of product this plant will yield when harvested.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>Кількість продукту, яку ця рослина дасть при збиранні.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Мінімальна температура, яку ця рослина може витримати.\n\nТемператури нижче цього рівня з часом можуть завдати шкоди.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Максимальна температура, яку ця рослина може витримати.\n\nТемператури вище цього рівня з часом можуть завдати шкоди.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
   <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>The minimum skill needed for a farmer to to sow this plant.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
