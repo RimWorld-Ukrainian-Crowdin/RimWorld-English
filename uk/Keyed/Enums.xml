@@ -101,9 +101,9 @@
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
-  <HungerLevel_Exhausted>Виснаженний(ий)</HungerLevel_Exhausted>
+  <HungerLevel_Exhausted>Виснажений(а)</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>Дуже втомивлений(а)</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>Дуже втомлений(а)</HungerLevel_VeryTired>
   <!-- EN: Tired -->
   <HungerLevel_Tired>Втомлений(а)</HungerLevel_Tired>
   <!-- EN: Rested -->
@@ -111,7 +111,7 @@
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>плоска</Hilliness_Flat>
+  <Hilliness_Flat>рівнина</Hilliness_Flat>
   <!-- EN: small hills -->
   <Hilliness_SmallHills>невеликі пагорби</Hilliness_SmallHills>
   <!-- EN: large hills -->
@@ -119,7 +119,7 @@
   <!-- EN: mountainous -->
   <Hilliness_Mountainous>гори</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>неможливі</Hilliness_Impassable>
+  <Hilliness_Impassable>непрохідний</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
