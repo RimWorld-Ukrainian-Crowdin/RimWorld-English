@@ -7,7 +7,7 @@
   -->
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->Ми перехопили повідомлення про колекцію цінних предметів вартістю [itemStashContentsValue] неподалік від [map_definite]. Колекція складається з:\n\n[itemStashContents]\n\nСхоже, що [allSitePartsDescriptionsExceptFirst]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] з [asker_faction_name], проінформував нас про колекцію цінних предметів вартістю [itemStashContentsValue] недалеко від нас. Колекція складається з:\n\n[itemStashContents]\n\n[asker_label] каже, що [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] з [asker_faction_name], повідомив нам про колекцію цінних предметів вартістю [itemStashContentsValue] неподалік від нас. Колекція складається з:\n\n[itemStashContents]\n\n[asker_label] каже, що [allSitePartsDescriptionsExceptFirst]</li>
   </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
