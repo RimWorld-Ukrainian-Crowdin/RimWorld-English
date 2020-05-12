@@ -57,7 +57,7 @@
   <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>алкогольні напої</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>шматки</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>корм</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
