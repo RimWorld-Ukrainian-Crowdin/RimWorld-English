@@ -29,9 +29,9 @@
   <!-- EN: normal -->
   <StoragePriorityNormal>звичайний</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>переважний</StoragePriorityPreferred>
+  <StoragePriorityPreferred>бажаний</StoragePriorityPreferred>
   <!-- EN: important -->
-  <StoragePriorityImportant>пріорітетний</StoragePriorityImportant>
+  <StoragePriorityImportant>пріоритетний</StoragePriorityImportant>
   <!-- EN: critical -->
   <StoragePriorityCritical>обов'язковий</StoragePriorityCritical>
 
