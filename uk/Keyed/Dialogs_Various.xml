@@ -106,9 +106,9 @@
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>Ми проходимо версію {0} але збережені дані — з {1}, що є зовсім іншою версією.\n\nМожна досі пробувати завантажити ці дані.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>Дані були збережені версією нашої гри й повинні працювати без проблем.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>Дані сесії були збережені нашою версією гри й повинні працювати без проблем.</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>Дані сесії є невідомим форматом і скоріш за все не завантажаться належним чином.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>Помилка при збереженні файлу {0}:\n\n{1}\n\nдив. журнал помилок для отримання додаткової інформації.</ProblemSavingFile>
   <!-- EN: Load anyway -->
@@ -136,25 +136,25 @@
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0} thinks that you should give this settlement a name. What should the local settlement be called?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0} думає, що ви повинні дати цьому поселенню ім'я. Як назвати це місцеве поселення?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseGainsName>Ця спільнота тепер відома як {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>Це ім'яне дійсне.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} also thinks that you should give this settlement a name. What should this local settlement be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} також думає, що ви повинні дати цьому поселенню ім'я. Як назвати це місцеве поселення?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>Ваша фракція тепер відома як {0}, і ця спільнота тепер відома як {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
+  <NameIsInvalid>Будь ласка, введіть дійсне ім'я.</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <NameIsInUse>Ім'я вже використовується.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <ZoneGainsName>Зона тепер називається {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
