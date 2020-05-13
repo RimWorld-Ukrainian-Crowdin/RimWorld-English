@@ -497,7 +497,7 @@
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>Resistance\n{0} to {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+  <TextMote_TameFail>Приручити не вдалося\n{0} шанс</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Приручено!\n{0} шанс</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
@@ -725,7 +725,7 @@
   <!-- EN: Carrying -->
   <Carrying>Carrying</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Affected by:</AffectedBy>
+  <AffectedBy>Постраждалі від:</AffectedBy>
   <!-- EN: Queued -->
   <Queued>У черзі</Queued>
   <!-- EN: State -->
