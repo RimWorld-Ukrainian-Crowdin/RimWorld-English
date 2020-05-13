@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>orbital bombardment targeter</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>цільовий приціл орбіти</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
   <OrbitalTargeterBombardment.description>An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently.</OrbitalTargeterBombardment.description>
   <!-- EN: orbital bombardment targeter -->
