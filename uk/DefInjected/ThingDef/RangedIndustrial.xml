@@ -11,7 +11,7 @@
   <Bullet_BoltActionRifle.label>набій для гвинтівки з ковзним затвором</Bullet_BoltActionRifle.label>
   
   <!-- EN: EMP launcher shell -->
-  <Bullet_EMPLauncher.label>EMP launcher shell</Bullet_EMPLauncher.label>
+  <Bullet_EMPLauncher.label>ЕМІ-снаряд</Bullet_EMPLauncher.label>
   
   <!-- EN: heavy SMG bullet -->
   <Bullet_HeavySMG.label>набій для важкого ПК</Bullet_HeavySMG.label>
@@ -35,7 +35,7 @@
   <Bullet_Shotgun.label>набій для дробовика</Bullet_Shotgun.label>
   
   <!-- EN: smoke launcher shell -->
-  <Bullet_SmokeLauncher.label>smoke launcher shell</Bullet_SmokeLauncher.label>
+  <Bullet_SmokeLauncher.label>димовий снаряд</Bullet_SmokeLauncher.label>
   
   <!-- EN: sniper rifle bullet -->
   <Bullet_SniperRifle.label>набій для снайперської гвинтівки</Bullet_SniperRifle.label>
@@ -43,7 +43,7 @@
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.label>штурмова гвинтівка</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
-  <Gun_AssaultRifle.description>A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.description>Універсальна, вогнепальна штурмова гвинтівка для бою в полі або містах. Має гарну далекобійність, достатню потужність та гарну точність.</Gun_AssaultRifle.description>
   <!-- EN: stock -->
   <Gun_AssaultRifle.tools.stock.label>приклад</Gun_AssaultRifle.tools.stock.label>
   <!-- EN: barrel -->
