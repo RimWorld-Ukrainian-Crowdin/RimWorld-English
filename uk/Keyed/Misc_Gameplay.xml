@@ -1089,17 +1089,17 @@
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
+  <MarriageSpotUsable>Тепер можна використовувати.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Неможливо: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>заблоковано</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>too dangerous for {1_labelShort}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>занадто небезпечно для {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>forbidden for {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>заборонено для {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <MarriageSpotReserved>зарезервовано</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
   <MarriageSpotUnreachable>unreachable for {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
