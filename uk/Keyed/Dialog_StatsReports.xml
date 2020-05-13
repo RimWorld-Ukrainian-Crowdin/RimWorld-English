@@ -172,25 +172,25 @@
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
   <Stat_Race_Animal_TameFailedRevengeChance_Desc>Шанс, що ця істота нападе, коли приборкувач спробує її приручити і дасть маху.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform.</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>Загальна ментальна здатність цього створіння до навчання. Це поєднання інтелекту та уважності. Воно визначає, які завдання це створіння можна навчити виконувати.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
-  <Stat_Race_LifeExpectancy_Desc>The average life expectancy of this creature.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_LifeExpectancy_Desc>Середня тривалість життя цієї істоти.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>The recreational value of ingesting this. Higher numbers will fulfill the recreation need more.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>The size of this creature's body, compared to an average adult human.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>Розмір тіла цієї істоти, порівняно з середньою дорослою людиною.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>How much time passes between when a melee attack with this weapon begins and when it hits.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Скільки часу проходить між тим, коли починається атака ближнього бою з цією зброєю й коли зброя б'є.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
-  <Stat_Thing_Weapon_BurstShotCount_Desc>The amount of shots this weapon fires in each burst.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>Кількість пострілів це зброя видає в кожній черзі.</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>The fire rate of this weapon during each burst.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>Скорострільність зброї під час кожної черги.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
-  <Stat_Thing_Weapon_Range_Desc>The maximum range of this weapon.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Desc>Максимальна дальність цієї зброї.</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>Радіус випадкових пострілів із цієї зброї.\nвисокою\nЗа великих значень снаряди розсипаються навколо цілі рандомно.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>The chance that a shot will directly hit its target if not intercepted, dodged or stopped.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>Ймовірність того, що постріл безпосередньо вразить ціль, якщо не буде перехопленим, зміщеним або зупиненим.</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
   <Stat_Thing_MoodChange_Desc>This body part's effect on the mood of the owner.</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
