@@ -124,7 +124,7 @@
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>Source species</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>The species of creature from which this was taken.</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>Вид істоти, з якого це взято</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>Матеріал</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
@@ -214,7 +214,7 @@
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
   <Stat_Thing_Surgery_DeathOnFailChance_Desc>The chance the patient will die upon failure of this surgery.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: The addictiveness of this drug. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>The addictiveness of this drug.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>Залежність від цього препарату.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
   <Stat_Hediff_TotalBleedFactor_Name>Total bleed factor</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
