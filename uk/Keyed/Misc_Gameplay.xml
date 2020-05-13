@@ -791,7 +791,7 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>Dessicated</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
+  <CurrentlyFrozen>Заморожені (не зіпсувати)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>Refrigerated (spoils in {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
@@ -805,7 +805,7 @@
   <!-- EN: Shot by {1_labelShort} -->
   <ShotBy>Shot by {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>Cannot hit target.</CannotHit>
+  <CannotHit>Не можливо вразити ціль.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
   <ManhunterPerHit>Manhunter chance per hit</ManhunterPerHit>
 
@@ -829,9 +829,9 @@
   <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
+  <ReadyToHarvest>Готові до збору врожаю.</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>Mature.</Mature>
+  <Mature>Зрілі.</Mature>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Сезон росту</OutdoorGrowingPeriod>
   <!-- EN: Never -->
@@ -857,7 +857,7 @@
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Dumping stockpile zone</DumpingStockpile>
   <!-- EN: Priority -->
-  <Priority>Priority</Priority>
+  <Priority>Пріоритет</Priority>
   <!-- EN: Clear all -->
   <ClearAll>Очистити все</ClearAll>
   <!-- EN: Allow all -->
