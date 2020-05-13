@@ -67,13 +67,13 @@
   <!-- EN: Immunity -->
   <Immunity>Імунітет</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>{0} days to recover</DaysToRecover>
+  <DaysToRecover>{0} днів, щоб відновитися</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>Ineffective</Ineffective>
+  <Ineffective>Неефективний</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>illegal</Illegal>
+  <Illegal>нелегальний</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>detection chance</DetectionChance>
+  <DetectionChance>шанс виявлення</DetectionChance>
   <!-- EN: Race -->
   <Race>Раса</Race>
   <!-- EN: Description -->
@@ -89,9 +89,9 @@
   <!-- EN: Drop -->
   <DropThing>Зняти</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>Temporary faction members will not drop their items.</DropThingLodger>
+  <DropThingLodger>Тимчасові члени фракції не будуть відмовлятись від своїх позицій.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>This person refuses to drop this.</DropThingLocked>
+  <DropThingLocked>Ця людина відмовляється зняти цю річ.</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Переназвати</Rename>
   <!-- EN: Rename animal -->
@@ -99,11 +99,11 @@
   <!-- EN: Rename colonist -->
   <RenameColonist>Переназвати колоніста</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>Renounce title</RenounceTitle>
+  <RenounceTitle>Відректися від титулу</RenounceTitle>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} з {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>Ця дія призведе  {PAWN_nameD} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nце буде мати наступні ефекти:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
   <RenounceTitleWillLoosePermits>{PAWN_possessive} will lose these permissions</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
