@@ -271,7 +271,7 @@
   <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>триває завантаження</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>За межами максимального діапазону</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Недостатньо палива</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
@@ -281,15 +281,15 @@
   <!-- EN: Infection chance multiplier from room -->
   <RoomInfectionChanceFactor>Infection chance multiplier from room</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>Closed</VentClosed>
+  <VentClosed>Закрито</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>worn by {1_labelShort}</WornBy>
+  <WornBy>носив {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>equipped by {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} хоче це зруйнувати.\n    Нагорода: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>{0} wants this destroyed.</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>{0} хоче це знищити.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
   <ShuttleDelayInspectString>Departing on shuttle in {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
@@ -297,11 +297,11 @@
   <!-- EN: Should depart on shuttle -->
   <ShouldDepartOnShuttleInspectString>Should depart on shuttle</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+  <WorldObjectTimeout>Залишилось часу: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>Натисніть для сортування за цим стовпцем.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>Shift + клік: Збільшити пріоритет\nShift + правий клік: Зменшити пріоритет</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
