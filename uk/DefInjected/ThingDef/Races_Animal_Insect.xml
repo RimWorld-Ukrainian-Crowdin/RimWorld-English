@@ -24,9 +24,9 @@
   <!-- EN: spelopede -->
   <Spelopede.label>спелопеда</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
-  <Spelopede.description>A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</Spelopede.description>
+  <Spelopede.description>Середнього розміру генетично модифікований інсектоїд, завбільшки з вівцю. Спелопеди - це середня каста вулика, яка виконує більшість завдань, і відбиває атаки ворогів її кігтями. Вона небезпечна в бою, але повільна на відкритій місцевості.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>голова-щелепи</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>хеліцери</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
   <Spelopede.tools.head.label>голова</Spelopede.tools.head.label>
   
