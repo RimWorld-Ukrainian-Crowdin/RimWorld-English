@@ -365,7 +365,7 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} з {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>You can't re-enter for another {0} days.</EnterCooldown>
+  <EnterCooldown>Ви не можете повторно ввести ще {0} днів.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Караван</Caravan>
   <!-- EN: there may be danger there. -->
@@ -387,7 +387,7 @@
   <!-- EN: enemy -->
   <Enemy>ворог</Enemy>
   <!-- EN: location -->
-  <Location>location</Location>
+  <Location>місцезнаходження</Location>
   <!-- EN: animals -->
   <AnimalsLower>тваринництво</AnimalsLower>
   <!-- EN: {0} x{1} -->
