@@ -303,7 +303,7 @@
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
   <WorkPriorityShiftClickTip>Shift + клік: Збільшити пріоритет\nShift + правий клік: Зменшити пріоритет</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + притиск: Увімкнути всі\nShift + праве натискання: Вимкнути всі</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
   <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
@@ -313,7 +313,7 @@
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Skill Requirements</SkillRequirements>
   <!-- EN: Products -->
-  <Products>Products</Products>
+  <Products>Товари</Products>
   <!-- EN: {0} of {1} -->
   <Relationship>{0} з {1}</Relationship>
   <!-- EN: Prisoner -->
@@ -325,7 +325,7 @@
   <!-- EN: Impassable -->
   <Impassable>Impassable</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>Caravan movement speed</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>Швидкість руху каравану</CaravanMovementSpeedFull>
   <!-- EN: downed -->
   <DownedLower>збитий</DownedLower>
   <!-- EN: resting -->
@@ -345,23 +345,23 @@
   <!-- EN: to -->
   <RangeTo>то</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Немає листа</NoDietCategoryLetter>
   <!-- EN: Expires in -->
   <ExpiresIn>Expires in</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort}'s caravan</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>Reason</Reason>
+  <Reason>Причина</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>Relations with {0}</RelationsWith>
+  <RelationsWith>Відносини з {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>captured by {0}</capturedBy>
+  <capturedBy>захоплений {0}</capturedBy>
   <!-- EN: your caravan -->
   <yourCaravan>ваш караван</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>{0} wildness</CreatureWildness>
+  <CreatureWildness>{0} дикість</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>{0} trainability</CreatureTrainability>
+  <CreatureTrainability>{0} приручуваність</CreatureTrainability>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} з {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
