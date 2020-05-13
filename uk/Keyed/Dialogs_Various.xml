@@ -190,11 +190,11 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Попередження: Ви приземлитесь в замороженому середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся зіткнутися з екстремальним випробуванням, виберіть інше місце або сезону.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Гра призначена для середніх розмірів карти. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Map size</MapSize>
+  <MapSize>Розмір карти</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
   <!-- EN: Small -->
@@ -206,7 +206,7 @@
   <!-- EN: Extreme (test) -->
   <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>Starting season</MapStartSeason>
+  <MapStartSeason>Початок сезону</MapStartSeason>
   <!-- EN: Auto -->
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
   <!-- EN: Notice -->
@@ -243,19 +243,19 @@
   <Unlimited>Unlimited</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(У цього рецепту не може бути цільового підрахунку, тому що він має численні або непередбачувані продукти.)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
-  <WorkAmount>Work amount</WorkAmount>
+  <WorkAmount>Обсяг роботи</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Minimum skills:</MinimumSkills>
+  <MinimumSkills>Мінімальні навички:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Requires {0} {1}</BillRequires>
+  <BillRequires>Вимагає {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
+  <BillRequiresNutrition>Вимагає {0} харчування</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
+  <BillRequiresMayVary>Примітка: невеликі за обсягом інгредієнти, як золото, потребують в {0} більше.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Це невеликий за обсягом інгредієнт. Це означає, що кожна "одиниця" в {0} менша, ніж нормальний обсяг інгредієнта. Тому, щоб заповнити таку ж потребу інгредієнта, вам необхідно в {0} більше, ніж зазвичай.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
   <UsableIngredients>інгредієнти</UsableIngredients>
   <!-- EN: To {0} -->
@@ -275,7 +275,7 @@
   <!-- EN: Count tainted -->
   <IncludeTainted>Count tainted</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
-  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
+  <LimitToAllowedStuff>Лише дозволені інгредієнти</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
   <IncludeFromAll>Look everywhere</IncludeFromAll>
   <!-- EN: Look in {0} -->
@@ -285,17 +285,17 @@
   <!-- EN: Damage -->
   <Damage>Damage</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>Armor penetration</ArmorPenetration>
+  <ArmorPenetration>Пробиття броні</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Пробиття броні - це частина броні, яку зброя буде ігнорувати кожного разу при ударі в ціль.\n\nЯкщо пробиття броні перевищує броню цілі, то це наче ціль без броні. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
-  <Accuracy>Accuracy</Accuracy>
+  <Accuracy>Точність</Accuracy>
   <!-- EN: Burst shot count -->
   <BurstShotCount>Burst shot count</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Warmup</WarmupTime>
+  <WarmupTime>Розминка</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <MeleeWarmupTime>Розминка в ближньому бою</MeleeWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Затримка удару</CooldownTime>
   <!-- EN: Disarmed -->
