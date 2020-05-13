@@ -18,8 +18,8 @@
   <!-- EN: tornado generator -->
   <TornadoGenerator.label>генератор торнадо</TornadoGenerator.label>
   <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
-  <TornadoGenerator.description>An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally.</TornadoGenerator.description>
+  <TornadoGenerator.description>Стародавній блок управління мережею супутників для контроля погоди. У цього пристрою прибрані певні обмеження; він здатний створювати величезні потоки повітря, створюючи торнадо в обраному місці. Погодна мережа помітить це неавторизоване вторгнення і заблокує пристрій після його використання, але торнадо залишиться витрачати його енергію як звичайно.</TornadoGenerator.description>
   <!-- EN: tornado generator -->
-  <TornadoGenerator.verbs.Verb_Spawn.label>tornado generator</TornadoGenerator.verbs.Verb_Spawn.label>
+  <TornadoGenerator.verbs.Verb_Spawn.label>генератором торнадо</TornadoGenerator.verbs.Verb_Spawn.label>
   
 </LanguageData>
