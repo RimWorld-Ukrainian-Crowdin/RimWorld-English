@@ -6,31 +6,31 @@
   <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
   <Alphabeaver.description>Велика боброподібна істота генетично розроблена для збору деревини з ефективністю машини. За відсутності спеціалізованого годування ці тварини увійдуть у маніакальний стан, який змушує їх їсти всі дерева в цілому, і, ймовірно, будуть атакувати, якщо будуть затурбовані.</Alphabeaver.description>
   <!-- EN: left claw -->
-  <Alphabeaver.tools.left_claw.label>left claw</Alphabeaver.tools.left_claw.label>
+  <Alphabeaver.tools.left_claw.label>ліва лапа</Alphabeaver.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Alphabeaver.tools.right_claw.label>right claw</Alphabeaver.tools.right_claw.label>
+  <Alphabeaver.tools.right_claw.label>права лапа</Alphabeaver.tools.right_claw.label>
   <!-- EN: head -->
   <Alphabeaver.tools.head.label>голова</Alphabeaver.tools.head.label>
   
   <!-- EN: boomrat -->
   <Boomrat.label>вибухощур</Boomrat.label>
   <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
-  <Boomrat.description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed.</Boomrat.description>
+  <Boomrat.description>Або завдяки генетичним модифікаціям, або як незвичайний захисний механізм, ці гризуни створюють могутній вогняний вибух, коли вмирають.</Boomrat.description>
   <!-- EN: left claw -->
-  <Boomrat.tools.left_claw.label>left claw</Boomrat.tools.left_claw.label>
+  <Boomrat.tools.left_claw.label>ліва лапа</Boomrat.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Boomrat.tools.right_claw.label>right claw</Boomrat.tools.right_claw.label>
+  <Boomrat.tools.right_claw.label>права лапа</Boomrat.tools.right_claw.label>
   <!-- EN: head -->
   <Boomrat.tools.head.label>голова</Boomrat.tools.head.label>
   
   <!-- EN: capybara -->
   <Capybara.label>капібара</Capybara.label>
   <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
-  <Capybara.description>The largest natural rodent, the capybara is well-adapted for steaming jungle environments.</Capybara.description>
+  <Capybara.description>Найбільший природний гризун, капібара гарно пристосована до жарких джунглів.</Capybara.description>
   <!-- EN: left claw -->
-  <Capybara.tools.left_claw.label>left claw</Capybara.tools.left_claw.label>
+  <Capybara.tools.left_claw.label>ліва лапа</Capybara.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Capybara.tools.right_claw.label>right claw</Capybara.tools.right_claw.label>
+  <Capybara.tools.right_claw.label>права лапа</Capybara.tools.right_claw.label>
   <!-- EN: head -->
   <Capybara.tools.head.label>голова</Capybara.tools.head.label>
   
