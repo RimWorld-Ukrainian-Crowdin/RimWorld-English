@@ -59,22 +59,22 @@
   <!-- EN: rat -->
   <Rat.label>щур</Rat.label>
   <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
-  <Rat.description>A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere.</Rat.description>
+  <Rat.description>Ненавистні для багатьох гризуни, відомі за забруднення кухонь і поширення хвороб, щури переслідують людей, де б вони не були. Вони їдять майже що завгодно й живуть майже де завгодно.</Rat.description>
   <!-- EN: left claw -->
-  <Rat.tools.left_claw.label>left claw</Rat.tools.left_claw.label>
+  <Rat.tools.left_claw.label>ліва лапа</Rat.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Rat.tools.right_claw.label>right claw</Rat.tools.right_claw.label>
+  <Rat.tools.right_claw.label>права лапа</Rat.tools.right_claw.label>
   <!-- EN: head -->
   <Rat.tools.head.label>голова</Rat.tools.head.label>
   
   <!-- EN: squirrel -->
   <Squirrel.label>білка</Squirrel.label>
   <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
-  <Squirrel.description>One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather.</Squirrel.description>
+  <Squirrel.description>Один з багатьох витривалих видів гризунів, що слідує за людством, де б воно не було. Білки відомі за їх пухнасті хвости, які вони використовують, як парасольки, в погану погоду.</Squirrel.description>
   <!-- EN: left claw -->
-  <Squirrel.tools.left_claw.label>left claw</Squirrel.tools.left_claw.label>
+  <Squirrel.tools.left_claw.label>ліва лапа</Squirrel.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Squirrel.tools.right_claw.label>right claw</Squirrel.tools.right_claw.label>
+  <Squirrel.tools.right_claw.label>права лапа</Squirrel.tools.right_claw.label>
   <!-- EN: head -->
   <Squirrel.tools.head.label>голова</Squirrel.tools.head.label>
   
