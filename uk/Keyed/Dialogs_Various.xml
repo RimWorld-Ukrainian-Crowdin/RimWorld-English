@@ -158,19 +158,19 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}.</PawnGainsName>
+  <PawnGainsName>Нік цієї особи тепер {0}. Назва {PAWN_possessive} — {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
+  <AnimalGainsName>Ім'я тварини тепер — {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Невідповідність версій</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>Ця гра була збережена з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього збереження може викликати помилки і збої.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>Файл світу був створений з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього світу може викликати помилки і збої. Ви повинні, ймовірно, створити новий світ з нуля.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>Цей файл був збережений з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього файлу може викликати помилки і збої.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Невідповідність модів</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
@@ -186,7 +186,7 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Ви дійсно хочете назавжди вимкнути режим розробки на даному комп'ютері?\n\nЦе варіант для людей, які хочуть зіграти в чисту гру без спокуси використовувати інструменти для розробки, щоб отримати перевагу в грі.\n\nРежим розробки можна повторно включити, але це вимагає ручного редагування конфігураційних файлів. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
