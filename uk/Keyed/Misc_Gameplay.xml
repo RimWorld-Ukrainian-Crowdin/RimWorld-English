@@ -103,9 +103,9 @@
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} з {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Ця дія призведе  {PAWN_nameD} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nце буде мати наступні ефекти:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>Ця дія призведе  {PAWN_nameDef} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nце буде мати наступні ефекти:\n\n{EFFECTS}{PAWN_nameDef}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} will lose these permissions</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} втратить ці дозволи</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>невідомо</UnknownLower>
   <!-- EN: On -->
@@ -119,23 +119,23 @@
   <!-- EN: Milk fullness -->
   <MilkFullness>Повнота молока</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Wool growth</WoolGrowth>
+  <WoolGrowth>Вовняна тканина</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>Egg progress</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>Fertilized</Fertilized>
+  <Fertilized>запліднено</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Freezing</Freezing>
+  <Freezing>Заморозка</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>Overheating</Overheating>
+  <Overheating>Перегрівання</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+  <RuinedByTemperature>Зруйнований температурою.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+  <CorpsePercentMissing>Відсутні частини тіла</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
   <HiveReproducesIn>Reproduces in</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
@@ -145,7 +145,7 @@
   <!-- EN: Next resource in -->
   <NextSpawnedResourceIn>Next resource in</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Broken down</BrokenDown>
+  <BrokenDown>Зламався</BrokenDown>
   <!-- EN: (bond) -->
   <BondBrackets>(бонд)</BondBrackets>
   <!-- EN: Fuel -->
@@ -161,13 +161,13 @@
   <!-- EN: enemies -->
   <Enemies>вороги</Enemies>
   <!-- EN: time passed -->
-  <TimePassed>time passed</TimePassed>
+  <TimePassed>Час очікування</TimePassed>
   <!-- EN: current radius -->
-  <CurrentRadius>current radius</CurrentRadius>
+  <CurrentRadius>поточний радіус</CurrentRadius>
   <!-- EN: radius expands in -->
   <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
   <!-- EN: permanent -->
-  <Permanent>permanent</Permanent>
+  <Permanent>постійний</Permanent>
   <!-- EN: Resting -->
   <CaravanResting>Відпочиває</CaravanResting>
   <!-- EN: using 1 bedroll -->
@@ -187,7 +187,7 @@
   <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>Days of food: {0} (rot in {1} days)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>Stopped because: Everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Зупинився тому, що: кожен збитий.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>Stopped because: Everyone is in a mental break.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
@@ -205,7 +205,7 @@
   <!-- EN: {0} downed -->
   <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Traveling.</CaravanTraveling>
+  <CaravanTraveling>Подорожуючи.</CaravanTraveling>
   <!-- EN: Waiting. -->
   <CaravanWaiting>Waiting.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
