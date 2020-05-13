@@ -369,7 +369,7 @@
   <!-- EN: Caravan -->
   <Caravan>Караван</Caravan>
   <!-- EN: there may be danger there. -->
-  <HiddenOrNoSitePartDescription>there may be danger there.</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>там може бути небезпека.</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>lump of {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -403,7 +403,7 @@
   <!-- EN: prisoners -->
   <PrisonersLower>полонені</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>Click to view this quest in quests tab</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Натисніть, щоб показати це доручення на вкладці Доручення</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>Mood</Mood>
   <!-- EN: Quest -->
@@ -475,15 +475,15 @@
   <!-- EN: Fermented -->
   <Fermented>Fermented</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
+  <FermentationProgress>Прогрес: {0} ({1} залишилось)</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Неідеальна температура. Швидкість бродіння: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
-  <Headshot>Headshot</Headshot>
+  <Headshot>Постріл у голову</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>Лікування успішне!\n{0} шанс</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
@@ -521,15 +521,15 @@
 
   <!-- Areas -->
   <!-- EN: Home -->
-  <Home>Home</Home>
+  <Home>Вдома</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>Build roof</BuildRoof>
+  <BuildRoof>Побудувати дах</BuildRoof>
   <!-- EN: No roof -->
   <NoRoof>Без даху</NoRoof>
   <!-- EN: Snow clear -->
   <SnowClear>Snow clear</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <AreaDefaultLabel>Територія {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
   <NoAreaAllowed>Unrestricted</NoAreaAllowed>
   <!-- EN: New area -->
@@ -561,7 +561,7 @@
 
   <!-- Turrets -->
   <!-- EN: Installed -->
-  <GunInstalled>Installed</GunInstalled>
+  <GunInstalled>Встановлено</GunInstalled>
   <!-- EN: Minimum range -->
   <MinimumRange>Minimum range</MinimumRange>
   <!-- EN: Can fire in -->
@@ -673,7 +673,7 @@
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Expires in: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>Термін дії збігає: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
   <ThoughtNullifiedBy>thought disabled by</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
@@ -729,7 +729,7 @@
   <!-- EN: Queued -->
   <Queued>У черзі</Queued>
   <!-- EN: State -->
-  <State>State</State>
+  <State>Стан</State>
   <!-- EN: stun -->
   <StunLower>оглушення</StunLower>
 
@@ -759,7 +759,7 @@
   <!-- EN: Power output -->
   <PowerOutput>Power output</PowerOutput>
   <!-- EN: Stored -->
-  <PowerBatteryStored>Stored</PowerBatteryStored>
+  <PowerBatteryStored>Збережений</PowerBatteryStored>
   <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Efficiency</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
