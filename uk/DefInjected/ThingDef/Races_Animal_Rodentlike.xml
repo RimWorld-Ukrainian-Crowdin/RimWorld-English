@@ -50,9 +50,9 @@
   <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
   <Raccoon.description>Невеличка й витривала тварина, що розповсюджена в лісах й чагарниках. Вона була б рада увірватись в ваш контейнер зі сміттям або в вашу кухню, щоб з'істи майже що завгодно.</Raccoon.description>
   <!-- EN: left claw -->
-  <Raccoon.tools.left_claw.label>left claw</Raccoon.tools.left_claw.label>
+  <Raccoon.tools.left_claw.label>ліва лапа</Raccoon.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Raccoon.tools.right_claw.label>right claw</Raccoon.tools.right_claw.label>
+  <Raccoon.tools.right_claw.label>права лапа</Raccoon.tools.right_claw.label>
   <!-- EN: head -->
   <Raccoon.tools.head.label>голова</Raccoon.tools.head.label>
   
