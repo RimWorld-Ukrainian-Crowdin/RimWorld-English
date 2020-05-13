@@ -763,13 +763,13 @@
   <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Efficiency</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>Self-discharging</SelfDischarging>
+  <SelfDischarging>Само-розрядження</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
   <TargetTemperature>Target temperature</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>Current power use</PowerConsumptionMode>
+  <PowerConsumptionMode>Поточне використання енергії</PowerConsumptionMode>
   <!-- EN: high -->
   <PowerConsumptionHigh>високі</PowerConsumptionHigh>
   <!-- EN: low -->
@@ -797,7 +797,7 @@
   <!-- EN: Not refrigerated (spoils in {0}) -->
   <NotRefrigerated>Not refrigerated (spoils in {0})</NotRefrigerated>
   <!-- EN: over a decade -->
-  <OverADecade>over a decade</OverADecade>
+  <OverADecade>більше десяти років</OverADecade>
   <!-- EN: less than a day -->
   <LessThanADay>менше доби</LessThanADay>
 
