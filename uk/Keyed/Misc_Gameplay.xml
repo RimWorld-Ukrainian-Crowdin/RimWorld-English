@@ -961,9 +961,9 @@
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>Заблоковано</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>Заблоковано дахом</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
@@ -1011,21 +1011,21 @@
 
   <!-- Minification -->
   <!-- EN: Installed -->
-  <Installed>Installed</Installed>
+  <Installed>Встановлено</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>Not installed</NotInstalled>
+  <NotInstalled>Не встановлено</NotInstalled>
 
   <!-- Art -->
   <!-- EN: Title -->
-  <Title>Title</Title>
+  <Title>Назва</Title>
   <!-- EN: Untitled -->
-  <Untitled>Untitled</Untitled>
+  <Untitled>Без назви</Untitled>
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
+  <UnfinishedItem>Незакінчений {0}</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>Незакінчено {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
@@ -1037,7 +1037,7 @@
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>mental state</Mood_MentalState>
+  <Mood_MentalState>психічний стан</Mood_MentalState>
   <!-- EN: about to break -->
   <Mood_AboutToBreak>about to break</Mood_AboutToBreak>
   <!-- EN: on edge -->
@@ -1073,15 +1073,15 @@
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Expires in:</LifespanExpiry>
+  <LifespanExpiry>Термін дії збігає:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>inactive</InactiveFacility>
+  <InactiveFacility>неактивний</InactiveFacility>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} {1} зараз зростає.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
   <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
