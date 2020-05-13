@@ -234,7 +234,7 @@
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
   <Stat_Hediff_PartEfficiency_Desc>The offset in efficiency applied to body parts affected by this.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: The mental abilities this affects. -->
-  <Stat_Hediff_Affects_Desc>The mental abilities this affects.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_Affects_Desc>Ментальні здібності, на які це впливає.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
   <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
@@ -250,7 +250,7 @@
   <!-- EN: Whether or not this will prevent infections. -->
   <Stat_Hediff_PreventsInfection_Desc>Whether or not this will prevent infections.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
-  <Stat_Thing_Terrain_Supports_Desc>The things this terrain supports.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>Речі, які підтримує ця місцевість.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
   <Stat_Thing_TerrainRequirement_Desc>This can only be placed on terrain of these types.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
@@ -262,10 +262,10 @@
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>The amount of power this building will draw from the power grid.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->
-  <Stat_Thing_BodyPartEfficiency_Desc>The overall efficiency of this body part.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>Загальна ефективність цієї частини тіла.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>Biocoding</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Біокодування</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>This item has been coded to only accept a particular individual's bio-signature.</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>Цей елемент було закодовано тільки щоб прийняти біопідпис конкретної людини.</Stat_Thing_Biocoded_Desc>
 
 </LanguageData>
