@@ -549,7 +549,7 @@
   <!-- EN: Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>Кількість, яку можна відправити з караваном.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>People and animals</PawnsTab>
   <!-- EN: Items -->
@@ -557,19 +557,19 @@
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
-  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>Обране місце виходу ({0}) не доступне.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>Не вдалося знайти допустимі місця пакування. Переконайтеся, що обране місце виходу ({0}) доступне.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>Warning: Some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Попередження: деякі з призначених колоністів не можуть дістатися до місця виходу ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{1_labelShort} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} не доступний для будь-кого з призначених колоністів.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>Ніхто з призначених колоністів не може дістатись {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
   <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>The caravan can't carry that much.</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>Караван не може нести так багато.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
   <CaravanMassUsageTooltip>Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
@@ -581,11 +581,11 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Unlimited</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Приблизна кількість днів перед тим, як хоча б одна людина чи тварина залищиться без їжі. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry quickly.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>Ваш караван має тільки {0} днів з їжею і швидко стане голодним.</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -593,17 +593,17 @@
   <!-- EN: Forage per day -->
   <ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the caravan's food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>Велика частина їжі з каравану скоро стане черствою.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>You have no caravan members capable of diplomacy or trading.</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>У вас нема членів каравану, здатних до переговорів або торгівлі.</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>Are you sure you want to form this caravan?</CaravanAreYouSure>
+  <CaravanAreYouSure>Ви впевнені, що хочете сформувати цей караван?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>You must choose a route for the caravan first.</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>Спершу потрібно обрати маршрут для каравану.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
   <MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
+  <ItemWeightTip>Вага цього елемента.</ItemWeightTip>
   <!-- EN: Market value -->
   <MarketValueTip>Market value</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
