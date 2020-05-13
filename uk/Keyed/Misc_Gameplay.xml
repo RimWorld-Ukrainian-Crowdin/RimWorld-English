@@ -457,11 +457,11 @@
   <!-- EN: {0} left -->
   <DurationLeft>{0} left</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>Any of</AnyOf>
+  <AnyOf>Будь-який з</AnyOf>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>User scanning speed</UserScanAbility>
+  <UserScanAbility>Швидкість сканування користувачів</UserScanAbility>
   <!-- EN: Random find interval -->
   <ScanAverageInterval>Random find interval</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
@@ -485,7 +485,7 @@
   <!-- EN: Treatment success!\n{0} chance -->
   <TextMote_TreatSuccess>Лікування успішне!\n{0} шанс</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+  <TextMote_TreatFailed>Лікування не вдалося\n{0} шанс</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>Harvest\nbotched</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
@@ -633,7 +633,7 @@
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
-  <WeaponMissRadius>Weapon miss radius</WeaponMissRadius>
+  <WeaponMissRadius>Радіус пропуску зброї</WeaponMissRadius>
   <!-- EN: Shooter -->
   <ShootReportShooterAbility>Стрілець</ShootReportShooterAbility>
   <!-- EN: Weapon -->
@@ -711,7 +711,7 @@
   <!-- EN: nothing -->
   <EquippedNothing>нічого</EquippedNothing>
   <!-- EN: Dead -->
-  <Dead>Dead</Dead>
+  <Dead>Мертвий</Dead>
   <!-- EN: Unconscious -->
   <Unconscious>Без свідомості</Unconscious>
   <!-- EN: In shock due to pain -->
@@ -1199,13 +1199,13 @@
   <!-- EN: Hibernating -->
   <HibernatableHibernating>Hibernating</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>Starting up</HibernatableStartingUp>
+  <HibernatableStartingUp>Запускається</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
   <ClickToSeeAvailableOrders_WorldObject>{0}: See available orders...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>See available orders...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Переглянути доступні замовлення...</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
@@ -1255,9 +1255,9 @@
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>biocoded {0}</Biocoded>
+  <Biocoded>біокодований {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>Biocoding: {0}</CodedFor>
+  <CodedFor>Біокодування: {0}</CodedFor>
   <!-- EN: biocoded -->
   <BiocodedCodedForSomeoneElse>біокодоване</BiocodedCodedForSomeoneElse>
 
