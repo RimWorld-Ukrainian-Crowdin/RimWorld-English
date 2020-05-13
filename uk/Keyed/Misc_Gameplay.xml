@@ -207,21 +207,21 @@
   <!-- EN: Traveling. -->
   <CaravanTraveling>Подорожуючи.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Waiting.</CaravanWaiting>
+  <CaravanWaiting>В очікуванні.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>Being carried due to illness</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
   <UsingBedrollsDueToIllness>Using bedrolls due to illness</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Поточний рух часу</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>Visibility</Visibility>
+  <Visibility>Видимість</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>Temperature</Temperature>
+  <Temperature>Температура</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>bad temperature</BadTemperature>
+  <BadTemperature>погана температура</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+  <IdealFermentingTemperature>Ідеальний температури бродіння</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
   <DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
@@ -231,9 +231,9 @@
   <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Атакує {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>Offering gifts to {0}.</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Пропонуючи подарунки {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>Trading with {0}</CaravanTrading>
+  <CaravanTrading>Торгівля з {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
   <!-- EN: T -->
@@ -249,27 +249,27 @@
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform the caravan and leave this area in {0}.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Ваші колоністи автоматично реформують караван і залишать цю область в {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
-  <Room>Room</Room>
+  <Room>Кімната</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>Beauty here</BeautyHere>
   <!-- EN: No power -->
-  <NoPower>No power</NoPower>
+  <NoPower>Немає живлення</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
-  <DisabledCommand>DISABLED</DisabledCommand>
+  <DisabledCommand>ВИМКНЕНО</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
+  <ReadyForLaunch>Готовий до запуску.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
+  <NotReadyForLaunch>Не готовий до запуску</NotReadyForLaunch>
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>немає пального</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>триває завантаження</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
