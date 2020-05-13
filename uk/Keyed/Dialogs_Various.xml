@@ -303,7 +303,7 @@
   <!-- EN: Charging -->
   <ChargingTime>Charging</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>Next recharge (for {1}) in: {0}\nCharge cycle: {2}</ChargingNext>
+  <ChargingNext>Наступна перезарядка (для {1}) в: {0}\nЦикл зарядки: {2}</ChargingNext>
   <!-- EN: Shut down -->
   <ShutDown>Shut down</ShutDown>
   <!-- EN: Fire rate -->
@@ -313,7 +313,7 @@
   <!-- EN: Stopping power -->
   <StoppingPower>Stopping power</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>Попадання з цієї зброї похитнуть ціль, сповільнюючи її рух на декілька секунд. \n\nЦілі, що мають тіло розміром більше, ніж сила, що зупиняє, не будуть ушкоджені.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Direct hit chance</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -327,29 +327,29 @@
   <!-- EN: Growing time -->
   <GrowingTime>Growing time</GrowingTime>
   <!-- EN: Harvest yield -->
-  <HarvestYield>Harvest yield</HarvestYield>
+  <HarvestYield>Урожай</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>Min growth temperature</MinGrowthTemperature>
+  <MinGrowthTemperature>Мінімальна температура для росту</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>Max growth temperature</MaxGrowthTemperature>
+  <MaxGrowthTemperature>Максимальна температура для росту</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth.</GrowingTimeDesc>
+  <GrowingTimeDesc>Рослини ростуть тільки частину дня, і тільки коли світло.\n\nЦя статистика вимірює час, який потрібен рослині, щоб дорости до її спілого розміру.\nфактичний реальний зростання буде приблизно в два рази довше.\nнизькі температури також сповільнюють ріст рослин.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>днів</Days>
   <!-- EN: Minimum growing skill to sow -->
   <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
+  <FertilityRequirement>Вимога плодючості</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
+  <FertilitySensitivity>Чутливість родючості</FertilitySensitivity>
   <!-- EN: Light requirement -->
-  <LightRequirement>Light requirement</LightRequirement>
+  <LightRequirement>Потреба у світлі</LightRequirement>
   <!-- EN: Attributes -->
   <Attributes>Attributes</Attributes>
   <!-- EN: Lifespan -->
   <LifeSpan>Lifespan</LifeSpan>
   <!-- EN: Nutrition -->
-  <Nutrition>Nutrition</Nutrition>
+  <Nutrition>Харчування</Nutrition>
   <!-- EN: Recreation -->
   <Joy>Recreation</Joy>
   <!-- EN: Food quality -->
@@ -357,15 +357,15 @@
   <!-- EN: Walk speed -->
   <WalkSpeedProperty>Швидкість ходьби</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
+  <MinFoodQuality>Мінімальна якість їжі</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>Дієта</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>Nutrition need per day</NutritationEatenPerDay>
+  <NutritationEatenPerDay>Норма харчування на день</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Тип шкіри</LeatherType>
   <!-- EN: Body size -->
-  <BodySize>Body size</BodySize>
+  <BodySize>Розмір тіла</BodySize>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -373,7 +373,7 @@
   <!-- EN: Covers -->
   <Covers>Прикриває</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>Created at</CreatedAt>
+  <CreatedAt>Створено в</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Шар</Layer>
   <!-- EN: Cover effectiveness -->
