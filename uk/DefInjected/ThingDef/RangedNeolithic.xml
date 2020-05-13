@@ -15,7 +15,7 @@
   <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
   <Bow_Great.description>Потужний довгий лук. Стріляє важкими стрілами на довгі відстані.</Bow_Great.description>
   <!-- EN: limb -->
-  <Bow_Great.tools.limb.label>limb</Bow_Great.tools.limb.label>
+  <Bow_Great.tools.limb.label>плечо</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
   <Bow_Great.verbs.Verb_Shoot.label>довгий лук</Bow_Great.verbs.Verb_Shoot.label>
   
@@ -24,7 +24,7 @@
   <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
   <Bow_Recurve.description>Рекурсивний лук. Його конструкція, як пружина, дозволяє накопичувати енергію більш ефективно, що забезпечує більшу швидкість стріли.</Bow_Recurve.description>
   <!-- EN: limb -->
-  <Bow_Recurve.tools.limb.label>limb</Bow_Recurve.tools.limb.label>
+  <Bow_Recurve.tools.limb.label>плечо</Bow_Recurve.tools.limb.label>
   <!-- EN: recurve bow -->
   <Bow_Recurve.verbs.Verb_Shoot.label>рекурсивний лук</Bow_Recurve.verbs.Verb_Shoot.label>
   
@@ -33,7 +33,7 @@
   <!-- EN: A simple short selfbow made from a single piece of wood. -->
   <Bow_Short.description>Простий короткий лук, зроблений з одного шматка дерева.</Bow_Short.description>
   <!-- EN: limb -->
-  <Bow_Short.tools.limb.label>limb</Bow_Short.tools.limb.label>
+  <Bow_Short.tools.limb.label>плечо</Bow_Short.tools.limb.label>
   <!-- EN: short bow -->
   <Bow_Short.verbs.Verb_Shoot.label>короткий лук</Bow_Short.verbs.Verb_Shoot.label>
   
