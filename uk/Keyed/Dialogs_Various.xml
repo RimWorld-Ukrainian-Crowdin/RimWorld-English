@@ -102,15 +102,15 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Незворотна смерть)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>Ми проходимо версію {0} але збережені дані — з {1}, що є зовсім іншою версією.\n\nНамагання завантажити ці дані, напевно, не виявляться успішними.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>Ми проходимо версію {0} але збережені дані — з {1}, що є зовсім іншою версією.\n\nМожна досі пробувати завантажити ці дані.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>Дані були збережені версією нашої гри й повинні працювати без проблем.</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
+  <ProblemSavingFile>Помилка при збереженні файлу {0}:\n\n{1}\n\nдив. журнал помилок для отримання додаткової інформації.</ProblemSavingFile>
   <!-- EN: Load anyway -->
   <LoadAnyway>Запустити, як є</LoadAnyway>
   <!-- EN: Load mod list from save -->
