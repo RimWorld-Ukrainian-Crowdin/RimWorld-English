@@ -121,11 +121,11 @@
   <!-- EN: Wool growth -->
   <WoolGrowth>Вовняна тканина</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>Egg progress</EggProgress>
+  <EggProgress>Прогрес яйця</EggProgress>
   <!-- EN: Fertilized -->
   <Fertilized>запліднено</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Прогрес зупинився, допоки не буде удобрено</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -183,7 +183,7 @@
   <!-- EN: Out of food. -->
   <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFood>Їжі на днів: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>Days of food: {0} (rot in {1} days)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
@@ -201,7 +201,7 @@
   <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} в'язнів</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>{0} in mental state</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} у психічному стані</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
   <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
@@ -211,7 +211,7 @@
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>Being carried due to illness</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>Using bedrolls due to illness</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>Використовує спальники у зв'зяку з хворобою</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
   <CurrentTileMovementTime>Поточний рух часу</CurrentTileMovementTime>
   <!-- EN: Visibility -->
@@ -243,7 +243,7 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>зовнішнє середовище</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Деградує через</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>Мапа</Map>
   <!-- EN: {0} until leaving -->
@@ -253,7 +253,7 @@
   <!-- EN: Room -->
   <Room>Кімната</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>Beauty here</BeautyHere>
+  <BeautyHere>Краса тут</BeautyHere>
   <!-- EN: No power -->
   <NoPower>Немає живлення</NoPower>
   <!-- EN: Work speed penalty -->
@@ -285,7 +285,7 @@
   <!-- EN: worn by {1_labelShort} -->
   <WornBy>носив {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>equipped by {1_labelShort}</EquippedBy>
+  <EquippedBy>споряджений {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} хоче це зруйнувати.\n    Нагорода: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
