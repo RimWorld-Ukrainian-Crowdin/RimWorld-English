@@ -10,8 +10,8 @@
   
   <!-- EN: high on go-juice -->
   <GoJuiceHigh.label>під впливом від енергетика</GoJuiceHigh.label>
-  <!-- EN: Go-Juice in the bloodstream. It supercharges combat-related abilities. -->
-  <GoJuiceHigh.description>Енергетик в крові. Він додає можливості бойових здібностей.</GoJuiceHigh.description>
+  <!-- EN: Go-juice in the bloodstream. It supercharges combat-related abilities, and builds psyfocus for psycasters. -->
+  <GoJuiceHigh.description>Go-juice in the bloodstream. It supercharges combat-related abilities, and builds psyfocus for psycasters.</GoJuiceHigh.description>
   <!-- EN: a go-juice high -->
   <GoJuiceHigh.labelNoun>вплив енергетика</GoJuiceHigh.labelNoun>
   
