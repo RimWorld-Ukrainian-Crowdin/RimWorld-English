@@ -46,7 +46,7 @@
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Вам потрібен орбітальний маяк з живленням, щоб торгувати з кораблем.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>Caller must have the title of {0} or higher.</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>Той хто викликає мусить володіти званням {0} або вище.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} було знищено.</MessageConditionCauserDespawned>
@@ -374,9 +374,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
-  <MessageMechanoidsAssembled>Mechanoids have been assembled and will defend their cluster.</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>Збірка механоїдів завершена, і вони будуть захищати свій кластер.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>Remaining mechanoids to assemble</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Решта механоїдів для збірки</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Mech drop beacon has summoned reinforcements in drop pods nearby.</MessageMechanoidsReinforcementsDrop>
 
