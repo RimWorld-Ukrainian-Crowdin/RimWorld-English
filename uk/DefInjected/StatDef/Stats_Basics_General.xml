@@ -39,7 +39,6 @@
   <MarketValue.label>ринкова вартість</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
-  <!-- EN: ${0} -->
   <MarketValue.formatString>{0}₴</MarketValue.formatString>
   
   <!-- EN: mass -->
