@@ -45,8 +45,8 @@
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Вам потрібен орбітальний маяк з живленням, щоб торгувати з кораблем.</MessageNeedBeaconToTradeWithShip>
-  <!-- EN: Caller must have the title of {0} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>Той хто викликає мусить володіти званням {0} або вище.</MessageNeedRoyalTitleToCallWithShip>
+  <!-- EN: Caller must have the title of {0_label} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>Caller must have the title of {0_label} or higher.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} було знищено.</MessageConditionCauserDespawned>
@@ -160,8 +160,8 @@
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} народила.</MessageGaveBirth>
   
-  <!-- EN: {PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity.</MessagePsychicAmplifierNoSensitivity>
+  <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort} has lost a {1} implant level due to {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
@@ -485,6 +485,8 @@
   <GoodwillChangedReason_PawnCrushed>{1_labelShort} crushed</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
   <GoodwillChangedReason_PawnDied>{1_labelShort} died</GoodwillChangedReason_PawnDied>
+  <!-- EN: {0_labelShort} stripped -->
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} stripped</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>traded</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -578,6 +580,9 @@
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}.</MessageCapturingWillAngerFaction>
 
+  <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
+  <MessageStrippingWillAngerFaction>Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}.</MessageStrippingWillAngerFaction>
+
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>Не може стріляти в ближньому бою.</MessageCantShootInMelee>
 
@@ -610,5 +615,8 @@
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} наразі приховано.</MessageCannotSelectInvisibleStat>
+
+  <!-- UNUSED -->
+  <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity.</MessagePsychicAmplifierNoSensitivity>
 
 </LanguageData>
