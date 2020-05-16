@@ -145,6 +145,8 @@
   <TorturedArtist.degreeDatas.tortured_artist.label>tortured artist</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
   <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
   <!-- EN: tough -->
   <Tough.degreeDatas.tough.label>tough</Tough.degreeDatas.tough.label>
