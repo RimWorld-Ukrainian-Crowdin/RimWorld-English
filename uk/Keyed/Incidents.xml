@@ -133,7 +133,7 @@
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
   <LetterAnimalSelfTameAndNameNumerical>{0} став прирученим. Тепер його названо {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>{0} став приборканим. Колоністи вирішили назвати його {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
@@ -151,23 +151,23 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} from {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>A caravan from {0} is approaching. They are a {1}.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Караван з {0} наближається. Вони {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Вони будуть вештатися в колонії протягом деякого часу перед відходом. Ви можете напасти на них - але це буде злити їхню фракцію!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
-  <RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
+  <RansomDemandTitle>Вимога про викуп у {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver.</RansomDemand>
+  <RansomDemand>{1} контактує вас на радіо. Вони тримають в руках колишнього колоніста {PAWN_labelShort} для викупу.\n\nвони готові відпустити {PAWN_objective} назад до вас в обмін на {2} срібло.</RansomDemand>
   <!-- EN: Accept -->
-  <RansomDemand_Accept>Accept</RansomDemand_Accept>
+  <RansomDemand_Accept>Прийняти</RansomDemand_Accept>
   <!-- EN: Reject -->
   <RansomDemand_Reject>Брак</RansomDemand_Reject>
   
   <!-- Journey-related -->
   <!-- EN: Ship found -->
-  <EscapeShipFoundLabel>Ship found</EscapeShipFoundLabel>
+  <EscapeShipFoundLabel>Знайдено корабель</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Ви дійшли до координат, надісланих <Name>Шарлон Вайтстоун</Name> і знайшли прихований зоряний корабель.\n\nКорабельний реактор все ще знаходиться в режимі гібернації, тому він ще не може взлетіти. Ви можете запустити його, взаємодіючи з ядром комп'ютера.\n\n<Name>Шарлон Вайтстоун</Name> попереджає, що процес запуску триватиме близько 15 днів, і енергетичний слід буде помітно з великої відстані. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
