@@ -101,9 +101,9 @@
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
   <CurrentGoodwillTip_NaturalGoodwill>Ця фракція буде прихильною в межах від {0} до {1}.</CurrentGoodwillTip_NaturalGoodwill>
   <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>If goodwill is under {0}, it will rise by {1} per year.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Якщо прихильність нижче {0}, вона буде рости на {1} на рік.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>If goodwill is over {0}, it will fall by {1} per year.</CurrentGoodwillTip_NaturalGoodwillFall>
+  <CurrentGoodwillTip_NaturalGoodwillFall>Якщо прихильність вище {0}, вона буде падати на {1} на рік.</CurrentGoodwillTip_NaturalGoodwillFall>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
