@@ -44,7 +44,7 @@
   <!-- EN: mining yield -->
   <MiningYield.label>дохідність від добування копалин</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
-  <MiningYield.description>The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills.</MiningYield.description>
+  <MiningYield.description>Відсоток корисних копалин, який зможе видобути шахтар.\n\nЦе застосовується як до поверхневої, так і підземної шахт.\nНе впливає на видобуток пустих порід при глибинному бурінні.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>урожайність збору</PlantHarvestYield.label>
