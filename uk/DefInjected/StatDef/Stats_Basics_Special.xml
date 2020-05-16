@@ -18,4 +18,9 @@
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
   <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
   
+  <!-- EN: meditation focus strength -->
+  <MeditationFocusStrength.label>meditation focus strength</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation. For some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>The amount of extra psyfocus someone gains by focusing on this object during meditation. For some objects, this number can change depending on the surroundings and the person doing the meditating.</MeditationFocusStrength.description>
+  
 </LanguageData>
