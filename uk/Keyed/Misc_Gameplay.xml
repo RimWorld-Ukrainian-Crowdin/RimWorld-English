@@ -295,7 +295,7 @@
   <!-- EN: Departing in {0} -->
   <ShuttleLeaveDelayInspectString>Departing in {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>Should depart on shuttle</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>Варто вирушити на човнику</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Залишилось часу: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -311,7 +311,7 @@
   <!-- EN: {0} {1} -->
   <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>Skill Requirements</SkillRequirements>
+  <SkillRequirements>Вимоги до навичок</SkillRequirements>
   <!-- EN: Products -->
   <Products>Товари</Products>
   <!-- EN: {0} of {1} -->
@@ -321,7 +321,7 @@
   <!-- EN: Refugee -->
   <Refugee>Біженець</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>Terrain movement difficulty</TileMovementDifficulty>
+  <TileMovementDifficulty>Труднощі руху по місцевості</TileMovementDifficulty>
   <!-- EN: Impassable -->
   <Impassable>Impassable</Impassable>
   <!-- EN: Caravan movement speed -->
@@ -335,7 +335,7 @@
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>Caravan members speed</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>Швидкість членів каравану</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
