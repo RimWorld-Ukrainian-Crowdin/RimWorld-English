@@ -45,6 +45,8 @@
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>You need a powered orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: Caller must have the title of {0} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>Caller must have the title of {0} or higher.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} has been destroyed.</MessageConditionCauserDespawned>
@@ -371,8 +373,10 @@
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
-  <!-- EN: Mechanoids have been assembled and are attacking. -->
-  <MessageMechanoidsAssembled>Mechanoids have been assembled and are attacking.</MessageMechanoidsAssembled>
+  <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
+  <MessageMechanoidsAssembled>Mechanoids have been assembled and will defend their cluster.</MessageMechanoidsAssembled>
+  <!-- EN: Remaining mechanoids to assemble -->
+  <MessageMechanoidsLeftToAssemble>Remaining mechanoids to assemble</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Mech drop beacon has summoned reinforcements in drop pods nearby.</MessageMechanoidsReinforcementsDrop>
 

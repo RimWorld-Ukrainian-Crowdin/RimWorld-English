@@ -23,8 +23,8 @@
   
   <!-- EN: peaceful -->
   <Peaceful.label>peaceful</Peaceful.label>
-  <!-- EN: Build a community in sandbox environment.\n\nRecommended for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
-  <Peaceful.description>Build a community in sandbox environment.\n\nRecommended for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
+  <!-- EN: Build a community in a sandbox environment.\n\nRecommended for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <Peaceful.description>Build a community in a sandbox environment.\n\nRecommended for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
   
   <!-- EN: rough -->
   <Rough.label>rough</Rough.label>

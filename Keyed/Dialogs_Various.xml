@@ -5,6 +5,8 @@
   <Confirm>Confirm</Confirm>
   <!-- EN: Go back -->
   <GoBack>Go back</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>Do you want to continue?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
@@ -448,14 +450,16 @@
   <PowerConsumption>Power consumption</PowerConsumption>
   <!-- EN: Target -->
   <Target>Target</Target>
-  <!-- EN: Human -->
-  <TargetHuman>Human</TargetHuman>
-  <!-- EN: Animal -->
-  <TargetAnimal>Animal</TargetAnimal>
-  <!-- EN: Self -->
-  <TargetSelf>Self</TargetSelf>
-  <!-- EN: Ground -->
-  <TargetGround>Ground</TargetGround>
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>The types of targets on which this ability can be used.</AbilityTargetDesc>
+  <!-- EN: human -->
+  <TargetHuman>human</TargetHuman>
+  <!-- EN: animal -->
+  <TargetAnimal>animal</TargetAnimal>
+  <!-- EN: self -->
+  <TargetSelf>self</TargetSelf>
+  <!-- EN: ground -->
+  <TargetGround>ground</TargetGround>
   <!-- EN: Click to learn more. -->
   <ClickToLearnMore>Click to learn more.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
