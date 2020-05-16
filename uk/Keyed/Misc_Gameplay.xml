@@ -539,7 +539,7 @@
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Cannot order characters you do not control.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Не можна замовити персонажів, яких ви не контролюєте.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} не здатний на насильство.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
@@ -563,11 +563,11 @@
   <!-- EN: Installed -->
   <GunInstalled>Встановлено</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>Minimum range</MinimumRange>
+  <MinimumRange>Мінімальний діапазон</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Can fire in</CanFireIn>
+  <CanFireIn>Може стріляти в</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>Cannot fire</CannotFire>
+  <CannotFire>Не може стріляти</CannotFire>
   <!-- EN: roofed -->
   <Roofed>roofed</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
@@ -669,7 +669,7 @@
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>body purist will be unhappy</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>пурист тіла буде незадоволений</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
@@ -703,7 +703,7 @@
   <!-- EN: Faction -->
   <Faction>Фракція</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>The faction {PAWN_labelShort} currently belongs to.</FactionDesc>
+  <FactionDesc>Фракція {PAWN_labelShort} в даний час належить.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
   <ExtraFactionDesc>The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction.</ExtraFactionDesc>
   <!-- EN: Equipped -->
@@ -741,7 +741,7 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Change how this person will react to nearby enemies when not drafted.</HostilityReponseTip>
+  <HostilityReponseTip>Змінити те, як ця людина буде реагувати на найближчих ворогів не підготовленою.</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
 
@@ -919,7 +919,7 @@
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
+  <GameConditionsTip>Особливі умови, що зараз впливають на зону.</GameConditionsTip>
   <!-- EN: time left -->
   <TimeLeft>залишилось часу</TimeLeft>
   <!-- EN: impact date -->
@@ -943,11 +943,11 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Must place with head attached to ship structural beam.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Must be placed next to something that needs a hopper.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Повинно бути розміщеним поряд із чимось, що потребує бункер.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Must be placed directly on a steam geyser.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>Виставленими мають бути і тепла, і холодна сторони кулера.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
   <MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
