@@ -15,7 +15,7 @@
   <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>Актуальне обладнання</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>Актуальні умови для життя</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>Відповідні умови здоров'я</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
   <StatsReport_LifeStage>Етап життя</StatsReport_LifeStage>
   <!-- EN: Material -->
@@ -218,27 +218,27 @@
   <!-- EN: Total bleed factor -->
   <Stat_Hediff_TotalBleedFactor_Name>Загальний коефіцієнт кровотечі</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>Множник загальної швидкості втрати крові.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>Мультиплікатор загальної швидкості втрати крові.</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
   <Stat_Hediff_NaturalHealingFactor_Name>Фактор природного зцілення</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>Множник загальної швидкості зцілення ран.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>Мультиплікатор загальної швидкості зцілення ран.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Фактор імовірності харчового отруєння</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of getting food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Мультиплікатор шансу отримати харчове отруєння.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition is drains blood. -->
-  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition is drains blood.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>Швидкість втрати крові у цьому стані.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
-  <Stat_Hediff_Pain_Desc>Кількість болю, завданого цією умовою.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_Pain_Desc>Кількість болю, завданого цим станом.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
-  <Stat_Hediff_PartEfficiency_Desc>The offset in efficiency applied to body parts affected by this.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>Зміщення в ефективності для частин тіла, які постраждали від цього.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: The mental abilities this affects. -->
   <Stat_Hediff_Affects_Desc>Ментальні здібності, на які це впливає.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
   <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateFactor_Desc>A multiplier on the rate at which the food need depletes.</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateFactor_Desc>Мультиплікатор швидкості виснаження від потреби в їжі.</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
