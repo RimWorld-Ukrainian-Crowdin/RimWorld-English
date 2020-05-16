@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>deep drilling</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
+  
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>телевізор з пласким екраном</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
   <FlatscreenTelevision.description>Produce high-resolution flatscreen televisions for greater enjoyment.</FlatscreenTelevision.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct.</GroundPenetratingScanner.description>
   
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>автоматична турель</HeavyTurrets.label>
