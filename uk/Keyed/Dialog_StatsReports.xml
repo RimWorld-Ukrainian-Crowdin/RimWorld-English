@@ -148,7 +148,7 @@
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>Які частини тіла це покриває.\n\nБроня не захищає частини тіла, які вона не покриває.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Який шар одягу це заповнює.\n\nДля кожної частини тіла можливо вдягнути лише один предмет одягу в кожний шар.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
   <Stat_Thing_Plant_FertilityRequirement_Desc>Мінімальна родючість ґрунту, що ця рослина вимагає для росту.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
@@ -176,7 +176,7 @@
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>Середня тривалість життя цієї істоти.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>The recreational value of ingesting this. Higher numbers will fulfill the recreation need more.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>Величина відпочинку від споживання цього. Більші значення сильніше задовольняють потреби у відпочинку.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>Розмір тіла цієї істоти, порівняно з середньою дорослою людиною.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
@@ -208,7 +208,7 @@
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Множник на шанс того, що ця операція буде успішною. Складніші операції мають менші множники.\n\nРеальний шанс на успіх операції залежить від лікаря, обладнання й застосовуваних ліків.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Can't fail</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Неможливо провалитися</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Виконання цієї операції безпечне для пацієнта.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
@@ -216,13 +216,13 @@
   <!-- EN: The addictiveness of this drug. -->
   <Stat_Thing_Drug_Addictiveness_Desc>Залежність від цього препарату.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>Total bleed factor</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>Загальний коефіцієнт кровотечі</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>A multiplier applied to the overall rate of blood loss.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>Множник загальної швидкості втрати крові.</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
   <Stat_Hediff_NaturalHealingFactor_Name>Фактор природного зцілення</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>A multiplier applied to the overall rate of natural wound healing.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>Множник загальної швидкості зцілення ран.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Фактор імовірності харчового отруєння</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
