@@ -87,8 +87,8 @@
   <PsychicEntropyRecoveryRate.label>швидкість відновлення психічної ентропії</PsychicEntropyRecoveryRate.label>
   <!-- EN: The rate at which this person reduces psychic entropy. -->
   <PsychicEntropyRecoveryRate.description>The rate at which this person reduces psychic entropy.</PsychicEntropyRecoveryRate.description>
-  <!-- EN: {0}/30s -->
-  <PsychicEntropyRecoveryRate.formatString>{0}/30s</PsychicEntropyRecoveryRate.formatString>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
   
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>психічна чутливість</PsychicSensitivity.label>
