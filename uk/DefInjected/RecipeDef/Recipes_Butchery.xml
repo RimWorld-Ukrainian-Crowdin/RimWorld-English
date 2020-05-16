@@ -9,9 +9,9 @@
   <ButcherCorpseFlesh.jobString>Оброблює.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>shred mechanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>розчленувати механоїда</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Shred a dead mechanoid to try to salvage usable material.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Розчленувати мертвого механоїда, щоб спробувати вилучити корисний матеріал.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Shredding mechanoid.</ButcherCorpseMechanoid.jobString>
   
