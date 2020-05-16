@@ -189,19 +189,19 @@
   <!-- EN: Move on -->
   <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>no caravan members capable of trading</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>нема членів каравану, здатних до торгівлі</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>need a trader with the title of {0} from {1_name}</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>потрібен трейдер з назвою {0} від {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
-  <LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
+  <LetterLabelCaravanRequest>Запит каравану</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+  <LetterCaravanRequest>Сусіднє поселення, {0}, контактує з вами з особливою пропозицією торгівлі. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>Requesting: {0} ({2}) ({1} left)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>normal quality or better</NormalQualityOrBetter>
+  <NormalQualityOrBetter>нормальна або краща якість</NormalQualityOrBetter>
   <!-- EN: not tainted -->
   <NotTainted>not tainted</NotTainted>
 
@@ -211,35 +211,35 @@
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
   <CaravanDemand>{0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
-  <CaravanDemand_Give>Give and pass</CaravanDemand_Give>
+  <CaravanDemand_Give>Дати і пройти</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
-  <CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
+  <CaravanDemand_Fight>Відмовитись і боротися</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>Quest no longer available</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Квест більше не доступний</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>Quests no longer available</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Квести більше не доступні</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>Because you are no longer hostile with {0}, the {1} site is no longer available.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Оскільки ви більше не ворожі з {0}, місце {1} більше не доступне.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>Because you are no longer hostile with {0}, the following sites are no longer available</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Оскільки ви більше не ворожі з {0}, наступні місця більше не доступні</LetterSiteNoLongerHostileMulti>
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>Quest failed</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Доручення не було виконано</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>The quest is now incompletable because {FACTION_name} is hostile.</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Доручення тепер не можна завершити, бо {FACTION_name} ворожий.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>Quest failed</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Доручення не було виконано</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>The quest is now incompletable because {SUBJECT_definite} has been captured.</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Доручення тепер не можна завершити, бо {SUBJECT_definite} був захоплений.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>Quest failed</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Доручення не було виконано</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>The quest is now incompletable because {SUBJECT_definite} has died.</LetterQuestAskerDied>
 
