@@ -12,14 +12,14 @@
   <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>mechanoid shredding efficiency</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>ефективність розчленовування механоїдів</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>Кількість матеріалів, отриманих цією людиною при розчленовуванні мертвого механоїда.\n\nКількість також залежить від розміру механоїда.</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>mechanoid shredding speed</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>швидкість розчленовування механоїдів</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>The speed at which this person can shred a mechanoid for resources.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>Швидкість, з якою ця людина може розчленувати механоїда на корисні матеріали.</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
   <CookSpeed.label>швидкість приготування</CookSpeed.label>
