@@ -371,9 +371,9 @@
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>там може бути небезпека.</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>lump of {0}</PreciousLumpLabel>
+  <PreciousLumpLabel>грудка {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>no active research project</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>немає активного дослідницького проєкту</NoActiveResearchProjectToFinish>
   <!-- EN: Cannot research: No research bench -->
   <CannotResearchNoBench>Cannot research: No research bench</CannotResearchNoBench>
   <!-- EN: turret -->
@@ -411,7 +411,7 @@
   <!-- EN: Brings raids every {0} -->
   <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>Generates {0} every {1}</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>Генерує {0} кожні {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>Foliage kill radius</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
@@ -433,21 +433,21 @@
   <!-- EN: harvested -->
   <PlantsHarvested>harvested</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} killed</PawnsKilled>
+  <PawnsKilled>{0} вбито</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
   <PawnsLent>Sent {0}, will return in {1}</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>Dormant</DormantCompInactive>
+  <DormantCompInactive>Неактивний</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>Sealed</DormantCompSealed>
+  <DormantCompSealed>Запечатано</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>Ready to drop mechanoids</DormantCompBeacon>
+  <DormantCompBeacon>Готовий скинути механоїди</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>Expired</DormantCompExpired>
+  <DormantCompExpired>Термін дії закінчився</DormantCompExpired>
   <!-- EN: Initiates in -->
   <InitiatesIn>Initiates in</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>Активується в {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->
   <PsychicEntropy>Psychic entropy</PsychicEntropy>
   <!-- EN: {0} pain focus -->
@@ -455,7 +455,7 @@
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>radius {0}</ConditionCauserRadius>
   <!-- EN: {0} left -->
-  <DurationLeft>{0} left</DurationLeft>
+  <DurationLeft>залишилося {0}</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>Будь-який з</AnyOf>
 
@@ -531,9 +531,9 @@
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>Територія {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
-  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
+  <NoAreaAllowed>Без обмежень</NoAreaAllowed>
   <!-- EN: New area -->
-  <NewArea>New area</NewArea>
+  <NewArea>Нова область</NewArea>
   <!-- EN: Invert -->
   <InvertArea>Invert</InvertArea>
 
