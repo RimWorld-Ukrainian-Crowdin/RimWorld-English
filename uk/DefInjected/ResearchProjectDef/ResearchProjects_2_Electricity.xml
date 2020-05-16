@@ -79,7 +79,7 @@
   <!-- EN: machining -->
   <Machining.label>верстак</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources.</Machining.description>
+  <Machining.description>Дозволяє створювати верстати, на яких можна збирати зброю, гранати, укріплену броню, розбирати мертвих механоїдів на ресурси.</Machining.description>
   
   <!-- EN: mortars -->
   <Mortars.label>міномети</Mortars.label>
