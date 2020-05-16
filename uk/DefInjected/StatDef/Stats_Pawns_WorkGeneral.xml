@@ -22,9 +22,9 @@
   <ConstructSuccessChance.description>The chance that this person will succeed in constructing something.\nFailing means wasting time and resources.</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
-  <DeepDrillingSpeed.label>deep drilling speed</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.label>швидкість глибинного буріння</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>A speed at which this person uses a deep drill to extract underground resources.</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>Швидкість, з якою ця людина застосовує бурову установку для видобування корисних копалин.</DeepDrillingSpeed.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>шанс успішного відновлення</FixBrokenDownBuildingSuccessChance.label>
