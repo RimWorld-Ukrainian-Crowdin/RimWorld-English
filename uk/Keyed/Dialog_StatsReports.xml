@@ -242,25 +242,25 @@
   <!-- EN: An offset on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>Rest fall rate</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>Швидкість зниження рівня відпочинку</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
   <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
   <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
-  <Stat_Hediff_PreventsInfection_Desc>Whether or not this will prevent infections.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>Чи зупинить це інфекцію.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
   <Stat_Thing_Terrain_Supports_Desc>Речі, які підтримує ця місцевість.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>This can only be placed on terrain of these types.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Це може бути розташованим лише на земній поверхні таких типів.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>Considered</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>Розглядається</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
   <Stat_Thing_Terrain_Fine_Value>Добре</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>This floor is considered fine and suitable for royalty.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>Ця підлога визнається достатньо придатним для королівської особи.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>The amount of power this building will draw from the power grid.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>Величина потужності, яку ця споруда потребує від електричної мережі.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>Загальна ефективність цієї частини тіла.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
