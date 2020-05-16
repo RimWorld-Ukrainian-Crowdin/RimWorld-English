@@ -26,6 +26,8 @@
   <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Update translations files (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -392,6 +394,8 @@
   <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>Disabled work types:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by quest status: {0} -->
+  <IncapableOfTooltipQuest>Caused by quest status: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Traits</Traits>
   <!-- EN: Permanent mood effect -->
@@ -463,5 +467,7 @@
 
   <!-- EN: Click for more info -->
   <ClickForMoreInfo>Click for more info</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>No more information is available.</NoMoreInfoAvailable>
 
 </LanguageData>

@@ -51,6 +51,9 @@
   <!-- EN: vomit -->
   <Filth_Vomit.label>vomit</Filth_Vomit.label>
   
+  <!-- EN: water puddle -->
+  <Filth_Water.label>water puddle</Filth_Water.label>
+  
   <!-- EN: scattered sandbags -->
   <SandbagRubble.label>scattered sandbags</SandbagRubble.label>
   

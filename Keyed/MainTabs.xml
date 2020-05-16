@@ -228,6 +228,8 @@
   <QuestExpiresIn>Expires in {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Expires on {0}</QuestExpiresOn>
+  <!-- EN: Average guest mood: {0} -->
+  <QuestAveragePawnMood>Average guest mood: {0}</QuestAveragePawnMood>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Shuttle arrives in {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -242,6 +244,10 @@
   <AcceptQuest>Accept quest</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>Accept with {0_labelShort}</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>Accept for</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>Click to accept this quest for this reward.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>The offer expired.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
@@ -278,5 +284,9 @@
   <RoyalFavorOn>You are currently opting in to receive {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>You are currently opting out of receiving {FACTION_royalFavorLabel}.</RoyalFavorOff>
-  
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely.</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort} joins</PawnQuestReward>
+
 </LanguageData>

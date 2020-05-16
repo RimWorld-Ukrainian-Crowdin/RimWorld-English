@@ -37,5 +37,7 @@
   <WorkTagHunting>hunting</WorkTagHunting>
   <!-- EN: commoner work -->
   <WorkTagCommoner>commoner work</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>all work</WorkTagAllWork>
 
 </LanguageData>
