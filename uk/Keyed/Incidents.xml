@@ -107,31 +107,31 @@
   <!-- EN: Opened {0} days ago -->
   <OpenedDaysAgo>Відкрито {0} днів тому</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>Psychic drone level: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Психічний рівень дрона: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Підсилювачі дрона</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Розбите судно зараз вивільнює більш потужний тип психічного дрона. Кожен людиноподібний в околицях тепер відчуває стурбованість, страх і параною.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Агент</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now.</LetterAgentRevealed>
+  <LetterAgentRevealed>вивявилось, що {0} є агентом вашого ворога. {1}.\n\nЗараз вони пробують утекти.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
-  <LetterLabelBeaversArrived>Beavers!</LetterLabelBeaversArrived>
+  <LetterLabelBeaversArrived>Бобри!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region.</BeaversArrived>
+  <BeaversArrived>Зграя голодних альфабобрів щойно прибула.\n\nСпробуйте прибрати їх, перш ніж вони знищать будь-яке дерево в регіоні.</BeaversArrived>
   
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} self-tamed</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} став прирученим.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0} став прирученим. Тепер його названо {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
   <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
 
