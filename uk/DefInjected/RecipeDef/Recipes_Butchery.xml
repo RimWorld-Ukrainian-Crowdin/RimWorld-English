@@ -11,8 +11,8 @@
   <!-- EN: shred mechanoid -->
   <ButcherCorpseMechanoid.label>розчленувати механоїда</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Розчленувати мертвого механоїда, щоб спробувати вилучити корисний матеріал.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Розчленувати мертвого механоїда, щоб спробувати вилучити корисний матеріали.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Shredding mechanoid.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Розчленовує механоїда.</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>
