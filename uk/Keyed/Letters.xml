@@ -146,6 +146,9 @@
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>Останні події за життя {PAWN_definite}</LastEventsInLife>
 
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!</LetterInspirationBeginThanksToHighMoodPart>
+
   <!-- Related pawns -->
   <!-- EN: Relationship -->
   <LetterLabelNoticedRelatedPawns>Відносини</LetterLabelNoticedRelatedPawns>
@@ -496,10 +499,24 @@
   <LetterQuestCompletedFail>You have failed the quest '{0}'.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
   <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded>
-  
+
+  <!-- Average pawn mood -->
+  <!-- EN: {asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}. -->
+  <LetterAveragePawnMoodSuccess>{asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
+  <!-- EN: While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward. -->
+  <LetterAveragePawnMoodFail>While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward.</LetterAveragePawnMoodFail>
+  <!-- EN: the guests -->
+  <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
+  <!-- EN: {asker_nameDef}'s -->
+  <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
+  <!-- EN: their -->
+  <LetterAveragePawnMoodPossessivePlural>their</LetterAveragePawnMoodPossessivePlural>
+  <!-- EN: {asker_possessive} -->
+  <LetterAveragePawnMoodPossessive>{asker_possessive}</LetterAveragePawnMoodPossessive>
+
   <!-- Bladelink -->
-  <!-- EN: Bladelink bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>Bladelink bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>Persona bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
   <LetterBladelinkWeaponBonded>{PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
