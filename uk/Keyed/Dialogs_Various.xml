@@ -6,7 +6,7 @@
   <!-- EN: Go back -->
   <GoBack>Повернутися</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>Do you want to continue?</WantToContinue>
+  <WantToContinue>Бажаєте продовжити?</WantToContinue>
   <!-- EN: OK -->
   <OK>ОК</OK>
   <!-- EN: Close -->
@@ -451,15 +451,15 @@
   <!-- EN: Target -->
   <Target>Target</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>The types of targets on which this ability can be used.</AbilityTargetDesc>
+  <AbilityTargetDesc>Види цілей, щодо яких можна використовувати цю можливість.</AbilityTargetDesc>
   <!-- EN: human -->
-  <TargetHuman>human</TargetHuman>
+  <TargetHuman>людина</TargetHuman>
   <!-- EN: animal -->
-  <TargetAnimal>animal</TargetAnimal>
+  <TargetAnimal>тварина</TargetAnimal>
   <!-- EN: self -->
-  <TargetSelf>self</TargetSelf>
+  <TargetSelf>користувач</TargetSelf>
   <!-- EN: ground -->
-  <TargetGround>ground</TargetGround>
+  <TargetGround>земля</TargetGround>
   <!-- EN: Click to learn more. -->
   <ClickToLearnMore>Click to learn more.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
