@@ -91,7 +91,7 @@
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>Виберіть модифікацію...</SelectMod>
+  <SelectMod>Виберіть мод...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Модифікації, які можна налаштовувати, не завантажені.</NoConfigurableMods>
   
@@ -101,6 +101,6 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Налаштування було перезавантажено. Гра перезапуститься автоматично.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue?</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Усі ваші налаштування буде скинуто до типового стану, і гра буде перезапущена. Весь незбережений прогрес буде втрачено!\n\nПродовжити?</ResetAndRestartConfirmationDialog>
   
 </LanguageData>
