@@ -275,17 +275,17 @@
   <!-- EN: Count equipped -->
   <IncludeEquipped>Включно з екіпірованим</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Count tainted</IncludeTainted>
+  <IncludeTainted>Включно з заплямованим</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
   <LimitToAllowedStuff>Лише дозволені інгредієнти</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
-  <IncludeFromAll>Look everywhere</IncludeFromAll>
+  <IncludeFromAll>Шукати всюди</IncludeFromAll>
   <!-- EN: Look in {0} -->
-  <IncludeSpecific>Look in {0}</IncludeSpecific>
+  <IncludeSpecific>Шукати в області {0}</IncludeSpecific>
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>Damage</Damage>
+  <Damage>Пошкодження</Damage>
   <!-- EN: Armor penetration -->
   <ArmorPenetration>Пробиття броні</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
