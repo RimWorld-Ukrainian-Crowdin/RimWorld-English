@@ -383,17 +383,17 @@
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
   <CoverEffectivenessExplanation>Наскільки цей об'єкт ефективний в якості укриття під час перестрілки.\n\nЧим вищий процент тим більше вистрілів буде заблоковано.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
+  <MedicineXpGainFactor>Множник приросту досвіду</MedicineXpGainFactor>
   <!-- EN: Mood change -->
-  <MoodChange>Mood change</MoodChange>
+  <MoodChange>Зміна настрою</MoodChange>
   <!-- EN: Wildness -->
-  <Wildness>Wildness</Wildness>
+  <Wildness>Дикість</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <WildnessExplanation>Диких істот важче приручити, тренувати і доглядати.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
+  <TrainingDecayInterval>Період втрати навиків</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
+  <TamenessWillNotDecay>Прирученість ніколи не втратиться.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
   <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
