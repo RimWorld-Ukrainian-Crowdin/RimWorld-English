@@ -381,7 +381,7 @@
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Ефективність укриття</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>Наскільки цей об'єкт ефективний в якості укриття під час перестрілки.\n\nЧим вищий процент тим більше вистрілів буде заблоковано.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>Наскільки цей об'єкт ефективний в якості укриття під час перестрілки.\n\nЧим вищий відсоток, тим більше пострілів блокуватиметься.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Множник приросту досвіду</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -391,7 +391,7 @@
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Диких істот важче приручити, тренувати і доглядати.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Період втрати навиків</TrainingDecayInterval>
+  <TrainingDecayInterval>Період втрати навичок</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
   <TamenessWillNotDecay>Прирученість ніколи не втратиться.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
@@ -405,7 +405,7 @@
   <!-- EN: Addictiveness -->
   <Addictiveness>Аддиктивність</Addictiveness>
   <!-- EN: Pack animal -->
-  <PackAnimal>Зграйна тварина</PackAnimal>
+  <PackAnimal>В’ючні тварини</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
   <PackAnimalExplanation>Чи доцільно використовувати цю тварину для перевезення предметів у каравані на великі відстані.</PackAnimalExplanation>
   <!-- EN: Skill -->
@@ -423,7 +423,7 @@
   <!-- EN: Requires this level of {0} in order to build. -->
   <SkillRequiredToBuildExplanation>Для будови потребує навичка рівня {0}.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
-  <NuzzleInterval>Перерив пещенні</NuzzleInterval>
+  <NuzzleInterval>Перерва в пещенні</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
