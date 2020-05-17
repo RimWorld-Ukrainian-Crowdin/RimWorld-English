@@ -194,7 +194,7 @@
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>Попередження: Ви приземлитесь в замороженому середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся зіткнутися з екстремальним випробуванням, виберіть інше місце або сезон.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Гра призначена для середніх розмірів карти. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Гра призначена для середніх розмірів карти. Ці розміри забезпечують чимало місця!\n\nВеликі розміри карти не тільки погіршують продуктивність гри, а й дійсно ламають ігровий дизайн. Штучний інтелект робитиме дурні рішення, і ігровий баланс буде сильно змінений. Ці розміри включені у список тільки за традицією та для тестувань. Будь ласка, не використовуйте їх без певної причини.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>Розмір карти</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -216,13 +216,13 @@
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
-  <Suspended>Призупинено</Suspended>
+  <Suspended>Продовжити</Suspended>
   <!-- EN: Not suspended -->
-  <NotSuspended>Не призупинено</NotSuspended>
+  <NotSuspended>Призупинити</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>ЗУПИНЕНО</SuspendedAllCaps>
+  <SuspendedAllCaps>ПАУЗА</SuspendedAllCaps>
   <!-- EN: Repeat: -->
-  <RepeatCount>Повторити:</RepeatCount>
+  <RepeatCount>Повторювати:</RepeatCount>
   <!-- EN: Forever -->
   <Forever>Постійно</Forever>
   <!-- EN: Details -->
@@ -240,7 +240,7 @@
   <!-- EN: incompatible -->
   <IncompatibleLower>несумісно</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>Любий робочий</AnyWorker>
+  <AnyWorker>Будь-який робочий</AnyWorker>
   <!-- EN: Unlimited -->
   <Unlimited>Необмежено</Unlimited>
   
@@ -251,7 +251,7 @@
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Мінімальні навички:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Вимагає {0} {1}</BillRequires>
+  <BillRequires>Вимагається {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>Вимагає {0} харчування</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
