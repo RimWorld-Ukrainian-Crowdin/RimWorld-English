@@ -9,7 +9,7 @@
   <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
   <AddBillSimpleMeal.rejectInputMessage>Створіть завдання на приготування їжі на плиті.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
-  <AddBillSimpleMeal.text>Вкажіть колоністам що саме готувати.\n\nРозпорядження на приготування їжі віддаються на самій плиті. Після створення розпорядження, колоністи будуть виконувати його автоматично.\n\n1. Заждіть поки поселенці побудують плиту.\n2. Теперь натисніть на плиту щоб обрати її.\n3. Відкрийте вкладку ЗАВДАННЯ у меню.\n4. Натисніть ДОДАТИ ЗАВДАННЯ.\n5. Оберіть ПРИГОТУВАТИ ПРОСТУ СТРАВУ у меню, що випаде.\n6. Теперь натискайте на клавішу + щоб збільшити кількість замовлень до 10.\n\nПам'ятайте, що швидкість гри завжди можна збільшити, щоб не чекати так довго.\n\n Ви можете обрати колоніста та власноруч наказати йому будувати плиту, або готувати їжу на ній.</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.text>Вкажіть колоністам що саме готувати.\n\nРозпорядження на приготування їжі віддаються на самій плиті. Після створення розпорядження, колоністи будуть виконувати його автоматично.\n\n1. Заждіть поки поселенці побудують плиту.\n2. Теперь натисніть на плиту щоб обрати її.\n3. Відкрийте вкладку Проекти у меню.\n4. Натисніть Додати проект.\n5. Оберіть Приготувати звичайну страву у меню, що випаде.\n6. Теперь натискайте на клавішу + щоб збільшити кількість замовлень до 10.\n\nПам'ятайте, що швидкість гри завжди можна збільшити, щоб не чекати так довго.\n\n Ви можете обрати колоніста та власноруч наказати йому будувати плиту, або готувати їжу на ній.</AddBillSimpleMeal.text>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>Побудуйте місце сну\nдля тварини в кімнаті</BuildAnimalSleepingSpot.onMapInstruction>
@@ -26,7 +26,7 @@
   <BuildBeds.text>Тепер ваші колоністи почнуть будівництво!\n\nАле їм також потрібно десь спати. Розмістіть три ліжка в середині кімнати.\n\nЗнайдіть у лівому нижньому куті меню МЕБЛІ.\n\nДля обертання предметів використовуйте клавіші {Key:Designator_RotateLeft} та {Key:Designator_RotateRight} .</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
-  <BuildFueledStove.onMapInstruction>Побудуйте дров'яну плиту в середині кімнти</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.onMapInstruction>Побудуйте дров'яну плиту всередині кімнати</BuildFueledStove.onMapInstruction>
   <!-- EN: Please build the fueled stove inside the room you built earlier. -->
   <BuildFueledStove.rejectInputMessage>Збудуйте дров’яну плиту в кімнаті.</BuildFueledStove.rejectInputMessage>
   <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
@@ -92,7 +92,7 @@
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>Вкажіть на дерева, щоб вирубати їх.</ChopTrees.rejectInputMessage>
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
-  <ChopTrees.text>Нам потрібно більше деревини. Накажіть колоністам зрубити декілька дерев.\n\nОберіть наказ РУБАТИ ДЕРЕВА і вкажіть на 10 дерев, які ви хочете пустити на дрова.\n\n(Наказ можна перетягнути на декілька дерево одразу)</ChopTrees.text>
+  <ChopTrees.text>Нам потрібно більше деревини. Накажіть колоністам зрубати декілька дерев.\n\nОберіть наказ Зрубати дерева і вкажіть на 10 дерев, які ви хочете пустити на дрова.\n\n(Наказ можна перетягнути на декілька дерев одразу)</ChopTrees.text>
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Вітаємо у грі Rimworld! Цей посібник навчить вас, як грати у гру.\n\nСпочатку необхідно створити світ, в якому будете грати.\n\nНа цій сторінці можна обрати параметри, за якими буде згенерований ваш світ.\n\nНа цей раз вистачить налаштувань за замовчуванням — просто йдіть далі, натиснувши кнопку СТВОРИТИ!</CreateWorldParams.text>
@@ -154,7 +154,7 @@
   <!-- EN: Please use the 'mine' designator on the compacted steel. -->
   <MineSteel.rejectInputMessage>Використайте наказ "видобувати", щоб добути сталь.</MineSteel.rejectInputMessage>
   <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
-  <MineSteel.text>Тепер ваші колоністи будуть готувати їжу! Смакота!\n\nТепер займемось забезпеченням видобуванням корисних копалин. Поряд із поселенням утворена порода зі сталлю.\n\nОберіть наказ ВИДОБУТИ та виділить сталь, щоб добути її.</MineSteel.text>
+  <MineSteel.text>Тепер ваші колоністи будуть готувати їжу! Смакота!\n\nТепер займемось забезпеченням видобуванням корисних копалин. Поряд із поселенням утворена порода зі сталлю.\n\nОберіть наказ Видобувати та виділить сталь, щоб добути її.</MineSteel.text>
   
   <!-- EN: Please open the 'Research' tab. -->
   <OpenMainTabResearch.rejectInputMessage>Відкрийте вкладу "досліди".</OpenMainTabResearch.rejectInputMessage>
