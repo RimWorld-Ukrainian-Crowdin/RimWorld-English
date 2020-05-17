@@ -45,9 +45,9 @@
   <Research.description>Продивитися вже вивчені та призначити нові дослідницькі проекти.</Research.description>
   
   <!-- EN: schedule -->
-  <Restrict.label>schedule</Restrict.label>
+  <Restrict.label>графік</Restrict.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Restrict.description>Schedule colonists' activities to certain times of day, and set their allowed areas.</Restrict.description>
+  <Restrict.description>Спланувати діяльність колоністів в певні години дня і визначити їх дозволені зони.</Restrict.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>дичина</Wildlife.label>
