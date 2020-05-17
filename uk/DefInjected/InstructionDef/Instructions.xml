@@ -141,7 +141,7 @@
   <!-- EN: Please make a stockpile on the indicated area. -->
   <MakeStockpile.rejectInputMessage>Будь ласка, розмістіть склад у виділеній зоні.</MakeStockpile.rejectInputMessage>
   <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
-  <MakeStockpile.text>Чудово!\n\nТепер позначте зону складу, щоб ваші люди знали, де потрібно зберігати речі.\n\n1. Відкрийте вкладку СТВОРИТИ, знизу ліворуч.\n2. Оберіть категорію ЗОНИ.\n3. Оберіть інструмент СКЛАД.\n4. Розмістіть склад у виділеній області (затисніть ліву кнопку миші, помістивши її вказівник в один кут, та перетягніть до протилежного кута).</MakeStockpile.text>
+  <MakeStockpile.text>Чудово!\n\nТепер позначте зону складу, щоб ваші люди знали, де потрібно зберігати речі.\n\n1. Відкрийте вкладку Архітектура, знизу ліворуч.\n2. Оберіть категорію ЗОНИ.\n3. Оберіть інструмент СКЛАД.\n4. Розмістіть склад у виділеній області (затисніть ліву кнопку миші, помістивши її вказівник в один кут, та перетягніть до протилежного кута).</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
   <MapCameraDolly.text>От ви і прибули!\n\nОзирніться довкола.\n\nВикористовуйте клавіші {Key:MapDolly_Up}{Key:MapDolly_Left}{Key:MapDolly_Down}{Key:MapDolly_Right}, або затисніть середню клавішу миші, та перетягуйте панораму.\n\nСпробуйте!</MapCameraDolly.text>
