@@ -5,7 +5,7 @@
   <!-- EN: Forbid -->
   <CommandForbid>Заборонити</CommandForbid>
   <!-- EN: Allow -->
-  <CommandAllow>Дозволено</CommandAllow>
+  <CommandAllow>Дозволити</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
   <CommandForbiddenDesc>Заборонено: Вашим поселенцям не дозволено взаємодіяти з цим. Натисніть, щоб дозволити.</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
