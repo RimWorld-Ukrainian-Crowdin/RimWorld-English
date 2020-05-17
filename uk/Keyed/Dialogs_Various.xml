@@ -22,7 +22,7 @@
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Оскільки ця копія гри не містить DRM, ви можете встановити її у дві окремі папки, щоб мати змогу грати і стару і нову версії.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>Якщо ви хочете продовжити грати у стару версію, можете використати функцію "Тестування" у Steam.\n\n  1. У бібліотеці натисніть правою клавішею миші на RimWorld.\n 2. Клацніть пункт Властивості.\n  3. Клацніть на вкладку Тестування.\n  4. Select the version you want from the drop-down menu.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Якщо ви хочете продовжити грати у стару версію, можете використати функцію "Тестування" у Steam.\n\n  1. У бібліотеці натисніть правою клавішею миші на RimWorld.\n 2. Клацніть пункт Властивості.\n  3. Клацніть на вкладку Тестування.\n  4. Оберіть версію, яку ви хочете з випадаючого меню.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -36,11 +36,11 @@
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>Сталася помилка при завантаженні ігрових ресурсів. Перегляньте журнал помилок для отримання додаткової інформації.</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>На данний момент у грі присутні модифікації від гравців - є вірогідність того, що вони можуть викликати сбої та помилки.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>На даний момент у грі присутні модифікації від гравців - є вірогідність того, що вони можуть викликати збої та помилки.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>Помилка при створенні мапи</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>Сталася помилка при створенні нової мапи. Подивітся журнал помилок для більш детальної інформації.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>Сталася помилка при створенні нової мапи. Подивіться журнал помилок для більш детальної інформації.</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>Помилка під час завантаження мапи</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
@@ -62,9 +62,9 @@
   <!-- EN: Initializing interface -->
   <InitializingInterface>Ініціалізація інтерфейсу</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Вивантаження незадіяних активів</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>Вивантаження незадіяних ресурсів</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>Завантаження усіх активних модифікацій</LoadingAllActiveMods>
+  <LoadingAllActiveMods>Завантаження усіх активних модів</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
   <LoadingDefs>Завантаження локалізації</LoadingDefs>
   <!-- EN: Loading assets -->
