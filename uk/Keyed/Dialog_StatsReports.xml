@@ -118,7 +118,7 @@
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Можливі відхилення</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Вражаємість кімнати</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Room impressiveness</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
   <StatsReport_Lit>Lit</StatsReport_Lit>
   <!-- EN: Contains {0} -->
