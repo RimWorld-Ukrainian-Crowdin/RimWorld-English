@@ -465,7 +465,7 @@
   <!-- EN: Any of -->
   <AnyOf>Будь-який з</AnyOf>
   <!-- EN: Goodwill -->
-  <Goodwill>Goodwill</Goodwill>
+  <Goodwill>Прихильність</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>reducing resistance of {0_nameIndef}</JobReport_ReduceResistance>
 
