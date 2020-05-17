@@ -4,7 +4,7 @@
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>{0} лається у мікрофон та відключається.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
-  <FactionGreetingHostileAppreciative>{0} просить вас про жест доброї волі у вигляді {0_possessive} колоністів, або звільнити {0_possessive} заручників з їхнього племені цілими та неушкодженними. До тих пір, {0_pronoun} не має наміру спілкуватись.\n\n(щось пробурмотів та відключився).</FactionGreetingHostileAppreciative>
+  <FactionGreetingHostileAppreciative>{0} просить вас про жест доброї волі, наприклад, принести подарунок одному з поселень {0_possessive} або звільнити неушкодженого полоненого з фракції {0_possessive}. До тих пір, {0_pronoun} не бажає спілкуватись.\n\nЩось бурмочучи, {0_pronoun} відключається.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
   <FactionGreetingWary>{0} вітає {NEGOTIATOR_labelShort} та питається, яку справу ви бажаєте владнати.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
@@ -53,9 +53,9 @@
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>Запит негайної військової допомоги (Вартість: {0} прихильності)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0} не допоможе вам боротися з іншими фракціями, які не є їх ворогами. Це включає в себе фракції, які на даний момент загрожють вашому поселеню, {1}. Усе одно запросити допомоги?</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>Фракція {0} не допоможе вам боротися з тими, хто не є їх ворогами. Серед таких фракцій є {1}. Усе одно запитати допомогу?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>Так, викликати їх будь яким методом.</CallConfirm>
+  <CallConfirm>Так, викликати їх будь-яким методом.</CallConfirm>
   <!-- EN: No, never mind. -->
   <CallCancel>Ні, ні в якому разі.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
