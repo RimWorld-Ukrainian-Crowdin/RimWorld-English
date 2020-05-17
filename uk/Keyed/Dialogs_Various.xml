@@ -395,9 +395,9 @@
   <!-- EN: Tameness will never decay. -->
   <TamenessWillNotDecay>Прирученість ніколи не втратиться.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRate>Темп забруднення поверхні</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors.\n\nThis is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>Тварини забруднюють підлоги.\n\nЦе середня кількість забруднення на {0} пройдених клітинок твариною.\n\nБільші або дикіші тварини більше забруднюють.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>Час</TimeRecordsCategory>
   <!-- EN: Misc -->
