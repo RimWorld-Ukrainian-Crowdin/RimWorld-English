@@ -63,7 +63,7 @@
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>Фанати перекладають цю гру. Цей фанатський переклад зробили перелічені далі чудові добровольці:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-бравзері).</TranslationHowToContribute>
+  <TranslationHowToContribute>Ти теж можеш допомогти. Тисни кнопку внизу, щоб дізнатися більше (посилання відкриється у веб-браузері).</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>Дізнатися більше</LearnMore>
 
@@ -468,6 +468,6 @@
   <!-- EN: Click for more info -->
   <ClickForMoreInfo>Натисніть, щоб дізнатися більше</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>No more information is available.</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Більше інформації недоступно.</NoMoreInfoAvailable>
 
 </LanguageData>
