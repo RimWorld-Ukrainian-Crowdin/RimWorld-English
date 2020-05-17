@@ -341,21 +341,21 @@
   <!-- EN: Minimum growing skill to sow -->
   <MinGrowingSkillToSow>Мінімальна навичка садівництва для посіву</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Вимога плодючості</FertilityRequirement>
+  <FertilityRequirement>Вимога родючості</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
   <FertilitySensitivity>Чутливість родючості</FertilitySensitivity>
   <!-- EN: Light requirement -->
   <LightRequirement>Потреба у світлі</LightRequirement>
   <!-- EN: Attributes -->
-  <Attributes>Attributes</Attributes>
+  <Attributes>Атрибути</Attributes>
   <!-- EN: Lifespan -->
-  <LifeSpan>Lifespan</LifeSpan>
+  <LifeSpan>Тривалістю життя</LifeSpan>
   <!-- EN: Nutrition -->
   <Nutrition>Харчування</Nutrition>
   <!-- EN: Recreation -->
-  <Joy>Recreation</Joy>
+  <Joy>Відпочинок</Joy>
   <!-- EN: Food quality -->
-  <FoodQuality>Food quality</FoodQuality>
+  <FoodQuality>Якість їжі</FoodQuality>
   <!-- EN: Walk speed -->
   <WalkSpeedProperty>Швидкість ходьби</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
@@ -369,19 +369,19 @@
   <!-- EN: Body size -->
   <BodySize>Розмір тіла</BodySize>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
+  <RecruitDifficulty>Складність вербування</RecruitDifficulty>
   <!-- EN: Base price -->
   <MarketValue>Базова ціна</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Прикриває</Covers>
+  <Covers>Прикривається</Covers>
   <!-- EN: Created at -->
   <CreatedAt>Створено в</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Шар</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
+  <CoverEffectiveness>Ефективність укриття</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>Наскільки цей об'єкт ефективний в якості укриття під час перестрілки.\n\nЧим вищий процент тим більше вистрілів буде заблоковано.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
   <!-- EN: Mood change -->
