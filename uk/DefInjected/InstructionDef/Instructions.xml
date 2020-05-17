@@ -117,12 +117,12 @@
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Розширте зону будування даху, хоча б трошки.</ExpandAreaBuildRoof.rejectInputMessage>
   <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
-  <ExpandAreaBuildRoof.text>ЗОНА БУДУВАННЯ ДАХУ потрібна, щоб розмітити де вашим колоністам потрібен дах над головою.\n\nВона створюється автоматично коли нову кімнату повністю збудовано.\n\nОберіть РОЗШИРИТИ ЗОНУ БУДУВАННЯ ДАХУ та зробіть ґанок перед вашим будинком.</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.text>Зона будування даху потрібна, щоб розмітити де вашим колоністам потрібен дах над головою.\n\nВона створюється автоматично, коли нову кімнату повністю збудовано.\n\nОберіть Збудувати дах і зробіть ґанок перед вашим будинком.</ExpandAreaBuildRoof.text>
   
   <!-- EN: Please expand the home area a bit, just for practice. -->
-  <ExpandAreaHome.rejectInputMessage>Розширте жилу зону, хоча б трошки.</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.rejectInputMessage>Розширте трохи домашню територію.</ExpandAreaHome.rejectInputMessage>
   <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
-  <ExpandAreaHome.text>А тепер ми навчимося розмічати ЖИЛУ ЗОНУ.\n\nПоселенці прибирають, гасять пожежі та використовують предмети лише в жилій зоні, все інше вони ігнорують.\n\nЖила зона автоматично створюється навколо споруд, або зон які ви розмічаєте та будуєте, але її можна розширити і вручну.\n\n Оберіть РОЗШИРИТИ ЖИЛУ ЗОНУ в меню ЗОНИ та розмітьте її в будь-якому місці.</ExpandAreaHome.text>
+  <ExpandAreaHome.text>А тепер ми навчимося розмічати Домашню територію.\n\nПоселенці прибирають, гасять пожежі та використовують предмети лише в домашній території, а все інше вони ігнорують.\n\nДомашня територія автоматично створюється навколо споруд, або зон, які ви розмічаєте, але її можна розширити і вручну.\n\n Оберіть Розширити домашню територію в меню Зони та розмітьте її в будь-якому місці.</ExpandAreaHome.text>
   
   <!-- EN: Please wait for your colonists to finish building the sandbags. -->
   <FinishSandbags.rejectInputMessage>Чекайте, доки поселенці добудовують мішки з піском.</FinishSandbags.rejectInputMessage>
@@ -159,7 +159,7 @@
   <!-- EN: Please open the 'Research' tab. -->
   <OpenMainTabResearch.rejectInputMessage>Відкрийте вкладу "досліди".</OpenMainTabResearch.rejectInputMessage>
   <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
-  <OpenMainTabResearch.text>Чудово! Вам потрібно вказати, яку саме технологію вивчати.\n\nВідкрийте вкладу ТЕХНОЛОГІЇ.</OpenMainTabResearch.text>
+  <OpenMainTabResearch.text>Чудово! Вам потрібно вказати, яку саме технологію вивчати.\n\nВідкрийте вкладку Дослідження.</OpenMainTabResearch.text>
   
   <!-- EN: Please open the 'Work' tab. -->
   <OpenMainTabWork.rejectInputMessage>Відкрийте вкладку "Праця".</OpenMainTabWork.rejectInputMessage>
