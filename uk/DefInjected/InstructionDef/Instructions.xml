@@ -108,11 +108,11 @@
   <EndStockpileDesignating.text>Натисніть праву кнопку миші щоб вимкнути інструмент створення складів.</EndStockpileDesignating.text>
   
   <!-- EN: Equip this -->
-  <EquipWeapons.onMapInstruction>Візьміть це</EquipWeapons.onMapInstruction>
+  <EquipWeapons.onMapInstruction>Екіпірувати це</EquipWeapons.onMapInstruction>
   <!-- EN: Please have your colonists equip weapons. -->
   <EquipWeapons.rejectInputMessage>Накажіть колоністам екіпірувати зброю.</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
-  <EquipWeapons.text>Теперь забезпечимо поселенців зброєю. Щоб це зробити:\n\n1. Оберіть колоніста натиснувши на нього на єкрані в полі зору або на портрет у верхній центральній частині єкрану о.\n2. Тепер натисніть правою клавішею миші на спорядження, яке ви хочете екіпірувати.\n3. Обрати "взяти зброю" в меню, що випало.\n\nОберіть зброю для кожного поселенця, враховуючи їх навички.</EquipWeapons.text>
+  <EquipWeapons.text>Теперь забезпечимо поселенців зброєю. Щоб це зробити:\n\n1. Оберіть колоніста, натиснувши на нього на екрані в полі зору або на портрет у верхній центральній частині екрану.\n2. Тепер натисніть правою клавішею миші на спорядження, яке ви хочете екіпірувати.\n3. Обрати "Спорядити" в меню, що випало.\n\nОберіть зброю для кожного поселенця, враховуючи їх навички.</EquipWeapons.text>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Розширте зону будування даху, хоча б трошки.</ExpandAreaBuildRoof.rejectInputMessage>
