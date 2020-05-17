@@ -112,7 +112,7 @@
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
   <SaveIsUnknownFormat>Дані сесії є невідомим форматом і скоріш за все не завантажаться належним чином.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>Помилка при збереженні файлу {0}:\n\n{1}\n\nдив. журнал помилок для отримання додаткової інформації.</ProblemSavingFile>
+  <ProblemSavingFile>Помилка при збереженні файлу {0}:\n\n{1}\n\nДив. журнал помилок для отримання додаткової інформації.</ProblemSavingFile>
   <!-- EN: Load anyway -->
   <LoadAnyway>Запустити, як є</LoadAnyway>
   <!-- EN: Load mod list from save -->
@@ -142,7 +142,7 @@
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Ця спільнота тепер відома як {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>Це ім'яне дійсне.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>Це ім'я неприйнятне.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
@@ -152,7 +152,7 @@
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Будь ласка, введіть дійсне ім'я.</NameIsInvalid>
+  <NameIsInvalid>Будь ласка, введіть прийнятне ім'я.</NameIsInvalid>
   <!-- EN: Name is already in use. -->
   <NameIsInUse>Ім'я вже використовується.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
@@ -176,7 +176,7 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Невідповідність модів</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>Цей файл було збережено зі набором активних модів, що відрізняється від поточного. Це може спричинити проблеми, залежно від того, що саме ці моди роблять.\n\nФайл було збережено з (у цьому порядку)\n\n{0}\n\nЗараз активні (у цьому порядку):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Цей файл було збережено з набором активних модів, що відрізняється від поточного. Це може спричинити проблеми, залежно від того, що саме ці моди роблять.\n\nФайл було збережено з (у цьому порядку)\n\n{0}\n\nЗараз активні (у цьому порядку):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -188,11 +188,11 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Ви дійсно хочете назавжди вимкнути режим розробки на даному комп'ютері?\n\nЦе варіант для людей, які хочуть зіграти в чисту гру без спокуси використовувати інструменти для розробки, щоб отримати перевагу в грі.\n\nРежим розробки можна повторно включити, але це вимагає ручного редагування конфігураційних файлів. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Ви дійсно хочете назавжди вимкнути режим розробки на даному комп'ютері?\n\nЦе варіант для людей, які хочуть зіграти в чисту гру без спокуси використовувати інструменти для розробки, щоб отримати перевагу в грі.\n\nРежим розробки можна повторно включити, але це вимагає ручного редагування конфігураційних файлів. Вас потрібно буде шукати в Інтернеті, щоб дізнатись, як.</ConfirmPermanentlyDisableDevMode>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Попередження: Ви приземлитесь в замороженому середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся зіткнутися з екстремальним випробуванням, виберіть інше місце або сезону.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Попередження: Ви приземлитесь в замороженому середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся зіткнутися з екстремальним випробуванням, виберіть інше місце або сезон.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Гра призначена для середніх розмірів карти. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
