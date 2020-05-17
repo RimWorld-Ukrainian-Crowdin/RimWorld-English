@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>{0} лається у мікрофон та відключився.</FactionGreetingHostile>
+  <FactionGreetingHostile>{0} лається у мікрофон та відключається.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>{0} просить вас про жест доброї волі у вигляді {0_possessive} колоністів, або звільнити {0_possessive} заручників з їхнього племені цілими та неушкодженними. До тих пір, {0_pronoun} не має наміру спілкуватись.\n\n(щось пробурмотів та відключився).</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
