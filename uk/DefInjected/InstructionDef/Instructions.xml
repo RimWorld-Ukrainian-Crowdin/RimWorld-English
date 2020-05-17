@@ -167,10 +167,10 @@
   <OpenMainTabWork.text>Ви можете обрати який саме колоніст буде виконувати той, чи інший вид роботи.\n\nВідкрийте вкладу РОБОТА в меню знизу.</OpenMainTabWork.text>
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
-  <Pause.text>У грі є пауза.\n\nВсе для того щоб ви могли не спішить або якщо потрібно відійти. Ви завжди можете зупинитися, щоб оглянути усю ситуацію цілком та віддати накази колоністам.\n\nСпробуйте це: натисніть {Key:TogglePause}, або скористайтеся елементами керування часом внизу праворуч.</Pause.text>
+  <Pause.text>У грі є пауза.\n\nВсе для того щоб ви могли не спішить або, якщо потрібно відійти. Ви завжди можете зупинитися, щоб оглянути усю ситуацію цілком та віддати накази колоністам.\n\nСпробуйте це: натисніть {Key:TogglePause}, або скористайтеся елементами керування часом внизу праворуч.</Pause.text>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.rejectInputMessage>Будь-ласка, натисніть на кнопку ВИПАДКОВО, щоб створити персонажа.</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.rejectInputMessage>Будь-ласка, натисніть на кнопку Рандомізувати, щоб створити випадкового персонажа.</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.text>Якщо створенні персонажі вам не до вподоби, ви можете змінити їх!\n\nНатисніть ВИПАДКОВО, щоб створити нового персонажа.</RandomizeCharacter.text>
   
