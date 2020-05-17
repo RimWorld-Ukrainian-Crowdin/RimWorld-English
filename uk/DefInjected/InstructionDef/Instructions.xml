@@ -51,7 +51,7 @@
   <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
   <BuildRoomWalls.rejectInputMessage>Будь ласка, побудуйте стіни вздовж сторін виділеного прямокутника.</BuildRoomWalls.rejectInputMessage>
   <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
-  <BuildRoomWalls.text>Супер! А тепер збудуймо кімнату.\n\n1. Відкрийте вкладку СТВОРИТИ.\n2. Натисніть на БУДІВЛІ.\n3. Оберіть СТІНА.\n4. У якості матеріалу для будівництва оберіть ДЕРЕВО.\n5. За допомогою перетягування (майже так само, як ви позначали склад) позначте чотири стіни для побудови у виділених місцях.</BuildRoomWalls.text>
+  <BuildRoomWalls.text>Супер! А тепер збудуймо кімнату.\n\n1. Відкрийте вкладку Архітектура.\n2. Натисніть на БУДІВЛІ.\n3. Оберіть СТІНА.\n4. У якості матеріалу для будівництва оберіть дерево.\n5. За допомогою перетягування (майже так само, як ви позначали склад) позначте чотири стіни для побудови у виділених місцях.</BuildRoomWalls.text>
   
   <!-- EN: Build sandbags here -->
   <BuildSandbags.onMapInstruction>Побудуйте мішки з піском тут</BuildSandbags.onMapInstruction>
@@ -200,7 +200,7 @@
   <UndraftAll.text>Перемога! Тепер виведіть колоністів з бойового режиму використовуючи ту саму команду, що і раніше\n\nПісля цього вони повернутся до свого буденного життя.</UndraftAll.text>
   
   <!-- EN: Allow this -->
-  <UnforbidStartingResources.onMapInstruction>Можу дозволити</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.onMapInstruction>Дозволити це</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Будь-ласка, зніміть заборону використання зі стартових предметів.</UnforbidStartingResources.rejectInputMessage>
   <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
