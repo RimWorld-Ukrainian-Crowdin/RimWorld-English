@@ -93,11 +93,11 @@
   <Cut.labelNounPretty>{0} на {1}</Cut.labelNounPretty>
   
   <!-- EN: cut -->
-  <ExecutionCut.label>cut</ExecutionCut.label>
+  <ExecutionCut.label>поріз</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
-  <ExecutionCut.description>A cut made during execution.</ExecutionCut.description>
+  <ExecutionCut.description>Поріз, зроблений під час страти.</ExecutionCut.description>
   <!-- EN: a cut -->
-  <ExecutionCut.labelNoun>a cut</ExecutionCut.labelNoun>
+  <ExecutionCut.labelNoun>поріз</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <ExecutionCut.labelNounPretty>{0} in the {1}</ExecutionCut.labelNounPretty>
   
