@@ -82,7 +82,7 @@
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
   <ChooseLandingSite.rejectInputMessage>Будь ласка, оберіть ділянку з помірними лісами та без пагорбів (світло-зелена клітинка з коричневими крапочками).</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Тут ви обираєте ваше початкове розташування.\n\n Клікніть на помірний ліс (світло-зелений) без коричневих пагорбів. Потім натисніть ДАЛІ.\n\n За бажанням, ви можете скористатися вкладкою МІСЦЕВІСТЬ, щоб переглянути інформацію про обрану клітинку.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Тут ви обираєте ваше початкове розташування.\n\n Клікніть на помірний ліс (світло-зелений) без коричневих пагорбів. Потім натисніть ДАЛІ.\n\n За бажанням, ви можете скористатися вкладкою Рельєф, щоб переглянути інформацію про обрану клітинку.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Оберіть оповідача в налаштуваннях гри, щоб вийти з посібника.</ChooseStoryteller.rejectInputMessage>
@@ -177,7 +177,7 @@
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
   <ReorderCharacters.rejectInputMessage>Будь ласка перетягніть персонажа з поля "невикористані"(внизу зліва) до списку "обрані" (зверху зліва).</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>Тепер оберіть персонажів яких ви хочете використати.\n\nПЕРЕТЯГНІТЬ персонажа зі списку "невикористані" (ніжня ліва) у верхній "обрані" (верхня ліва)\n\n Також ви маєте смогу переглянути свого персонажа просто натиснувши на нього.</ReorderCharacters.text>
+  <ReorderCharacters.text>Тепер оберіть персонажів яких ви хочете використати.\n\nПеретягніть персонажа зі списку "невикористані" (нижня ліва) у верхній "обрано" (верхня ліва)\n\nТакож ви маєте змогу переглянути свого персонажа просто натиснувши на нього.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>Оберіть дослідницький проект.</SelectResearchProject.rejectInputMessage>
