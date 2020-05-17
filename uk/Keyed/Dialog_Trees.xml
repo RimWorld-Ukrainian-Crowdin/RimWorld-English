@@ -43,7 +43,7 @@
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
-  <RequestAICoreInformation>Request the location of a {0} (cost: {1} silver)</RequestAICoreInformation>
+  <RequestAICoreInformation>Запитати де знаходиться {0} (вартість: {1} срібла)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
   <RequestAICoreInformationResult>{0} надсилає запитану інформацію та бажає вам успіху.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
@@ -51,7 +51,7 @@
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Запит негайної військової допомоги (Вартість: {0} карми)</RequestMilitaryAid>
+  <RequestMilitaryAid>Запит негайної військової допомоги (Вартість: {0} прихильності)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
   <MilitaryAidConfirmMutualEnemy>{0} не допоможе вам боротися з іншими фракціями, які не є їх ворогами. Це включає в себе фракції, які на даний момент загрожють вашому поселеню, {1}. Усе одно запросити допомоги?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
@@ -61,7 +61,7 @@
   <!-- EN: {0} agrees to send fighters to help you. -->
   <MilitaryAidSent>{0} зобов'язується надіслати бійців, щоб допомогти вам.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} вибачає бо не зможе встигнути надіслати допомогу вчасно.\n\n (Відсутні потрібні технології для цього)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} просить вибачення, що не зможе встигнути надіслати допомогу вчасно.\n\n(Рівень технологій цієї фракції занизький для транспортних капсул)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
   <HostileVisitorsPresent>ворожі відвідувачі поблизу</HostileVisitorsPresent>
 
