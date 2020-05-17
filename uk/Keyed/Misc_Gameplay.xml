@@ -865,11 +865,11 @@
   <!-- EN: Zone -->
   <Zone>Зона</Zone>
   <!-- EN: Growing zone -->
-  <GrowingZone>Growing zone</GrowingZone>
+  <GrowingZone>Фермерське поле</GrowingZone>
   <!-- EN: Stockpile zone -->
-  <Stockpile>Stockpile zone</Stockpile>
+  <Stockpile>Зона складу</Stockpile>
   <!-- EN: Dumping stockpile zone -->
-  <DumpingStockpile>Dumping stockpile zone</DumpingStockpile>
+  <DumpingStockpile>Зона звалища</DumpingStockpile>
   <!-- EN: Priority -->
   <Priority>Пріоритет</Priority>
   <!-- EN: Clear all -->
