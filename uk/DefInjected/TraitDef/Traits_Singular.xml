@@ -149,17 +149,17 @@
   <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>tough</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.label>міцний горішок</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.</Tough.degreeDatas.tough.description>
   
   <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>transhumanist</Transhumanist.degreeDatas.transhumanist.label>
+  <Transhumanist.degreeDatas.transhumanist.label>трансгуманіст</Transhumanist.degreeDatas.transhumanist.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
   <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>undergrounder</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>підземник</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
   <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.</Undergrounder.degreeDatas.undergrounder.description>
   
