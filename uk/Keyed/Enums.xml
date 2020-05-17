@@ -219,7 +219,7 @@
   <!-- EN: Fahrenheit -->
   <Fahrenheit>За Фаренгейтом</Fahrenheit>
   <!-- EN: Kelvin -->
-  <Kelvin>В келвінах</Kelvin>
+  <Kelvin>У кельвінах</Kelvin>
   
   <!-- Direction8Way -->
   <!-- EN: N -->
@@ -243,27 +243,27 @@
   <!-- EN: Never eats -->
   <DietCategory_NeverEats>Взагалі не їсть</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>Травоїдне</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Деревоїдне</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Яйцеїдне</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>Всеїдне</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>Хижак</DietCategory_Carnivorous>
   <!-- EN: - -->
   <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>Г</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>Т</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
   <DietCategory_Dendrovorous_Short>Д</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>Я</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>О</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>В</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>С</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>Х</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
@@ -295,21 +295,21 @@
   <!-- EN: Major threats -->
   <AutomaticPauseMode_MajorThreat>Основні загрози</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>Any threat</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Будь-які загрози</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>Any letter</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Будь-які події</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>itchy</PainCategory_LowPain>
+  <PainCategory_LowPain>свербить</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>aching</PainCategory_MediumPain>
+  <PainCategory_MediumPain>болить</PainCategory_MediumPain>
   <!-- EN: painful -->
   <PainCategory_HighPain>болісний</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>домашня фракція</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>приймаюча фракція</ExtraFactionType_HostFaction>
 </LanguageData>
