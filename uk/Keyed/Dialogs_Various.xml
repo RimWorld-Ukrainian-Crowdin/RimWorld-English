@@ -293,7 +293,7 @@
   <!-- EN: Accuracy -->
   <Accuracy>Точність</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>Burst shot count</BurstShotCount>
+  <BurstShotCount>Вистрілів в черзі</BurstShotCount>
   <!-- EN: Warmup -->
   <WarmupTime>Розминка</WarmupTime>
   <!-- EN: Melee warmup -->
@@ -301,19 +301,19 @@
   <!-- EN: Cooldown -->
   <CooldownTime>Затримка удару</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>Disarmed</DisarmedTime>
+  <DisarmedTime>Обеззброїти</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>Charging</ChargingTime>
+  <ChargingTime>Заряджання</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>Наступна перезарядка (для {1}) в: {0}\nЦикл зарядки: {2}</ChargingNext>
+  <ChargingNext>Наступне перезаряджання (для {1}) в: {0}\nЦикл зарядки: {2}</ChargingNext>
   <!-- EN: Shut down -->
-  <ShutDown>Shut down</ShutDown>
+  <ShutDown>Вимкнути</ShutDown>
   <!-- EN: Fire rate -->
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <BurstShotFireRate>Темп стрільби</BurstShotFireRate>
   <!-- EN: Range -->
-  <Range>Range</Range>
+  <Range>Дальність</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>Stopping power</StoppingPower>
+  <StoppingPower>Зупиняюча сила</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>Попадання з цієї зброї похитнуть ціль, сповільнюючи її рух на декілька секунд. \n\nЦілі, що мають тіло розміром більше, ніж сила, що зупиняє, не будуть ушкоджені.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
@@ -463,7 +463,7 @@
   <!-- EN: Click to learn more. -->
   <ClickToLearnMore>Click to learn more.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>Click to view factions.</ClickToViewFactions>
+  <ClickToViewFactions>Натисніть для перегляду фракцій.</ClickToViewFactions>
   <!-- EN: meditation focus types -->
   <MeditationFocuses>meditation focus types</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
