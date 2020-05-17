@@ -56,7 +56,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Неможливо ініціалізувати Steam API. Можливі причини:\n\nНе запущено клієнт Steam.\n-Запущено поза клієнтом Steam при відсутності на місці steam_appid.txt.\n-Гра запущена з іншими привілеями ніж зі Steam (наприклад, "від імені адміністратора").\n\nУ більшості випадків допомагає перезавантаження комп'ютера.\n\nВи можете далі грати у гру, проте функціональність, пов'язана зі Steam не буде доступна.</SteamClientMissing>
+  <SteamClientMissing>Неможливо ініціалізувати Steam API. Можливі причини:\n\n- Не запущено клієнт Steam.\n- Запущено поза клієнтом Steam при відсутності на місці steam_appid.txt.\n- Гра запущена з іншими привілеями ніж зі Steam (наприклад, "від імені адміністратора").\n\nУ більшості випадків допомагає перезавантаження комп'ютера.\n\nВи можете далі грати у гру, проте функціональність, пов'язана зі Steam не буде доступна.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
@@ -228,21 +228,21 @@
   <!-- EN: Details -->
   <Details>Подробиці</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <IngredientSearchRadius>Радіус пошуку</IngredientSearchRadius>
   <!-- EN: Currently have -->
-  <CurrentlyHave>Currently have</CurrentlyHave>
+  <CurrentlyHave>В наявності</CurrentlyHave>
   <!-- EN: Counting -->
-  <CountingProducts>Counting</CountingProducts>
+  <CountingProducts>Підрахунок</CountingProducts>
   <!-- EN: Infinite -->
-  <Infinite>Infinite</Infinite>
+  <Infinite>Безкінечно</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <AllowedSkillRange>Рівень навику {0}:</AllowedSkillRange>
   <!-- EN: incompatible -->
-  <IncompatibleLower>несумісний</IncompatibleLower>
+  <IncompatibleLower>несумісно</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>Any worker</AnyWorker>
+  <AnyWorker>Любий робочий</AnyWorker>
   <!-- EN: Unlimited -->
-  <Unlimited>Unlimited</Unlimited>
+  <Unlimited>Необмежено</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(У цього рецепту не може бути цільового підрахунку, тому що він має численні або непередбачувані продукти.)</RecipeCannotHaveTargetCount>
@@ -261,19 +261,19 @@
   <!-- EN: ingredients -->
   <UsableIngredients>інгредієнти</UsableIngredients>
   <!-- EN: To {0} -->
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>До {0}</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
+  <PauseWhenSatisfied>Пауза по досягненню кількості</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>Відновити при наявності</UnpauseWhenYouHave>
   <!-- EN: Paused -->
-  <Paused>Paused</Paused>
+  <Paused>Пауза</Paused>
   <!-- EN: Unpause -->
-  <Unpause>Unpause</Unpause>
+  <Unpause>Продовжити</Unpause>
 
   <!-- EN: Count equipped -->
-  <IncludeEquipped>Count equipped</IncludeEquipped>
+  <IncludeEquipped>Включно з екіпірованим</IncludeEquipped>
   <!-- EN: Count tainted -->
   <IncludeTainted>Count tainted</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
