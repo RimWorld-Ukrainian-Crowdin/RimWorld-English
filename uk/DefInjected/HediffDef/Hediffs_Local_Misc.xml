@@ -22,9 +22,9 @@
   <Cirrhosis.description>Дегенеративне захворювання печінки, викликане надмірним споживанням алкоголю.</Cirrhosis.description>
   
   <!-- EN: coma -->
-  <Coma.label>coma</Coma.label>
+  <Coma.label>кома</Coma.label>
   <!-- EN: A deep state of prolonged unconsciousness. -->
-  <Coma.description>A deep state of prolonged unconsciousness.</Coma.description>
+  <Coma.description>Стан глибокого тривалого безпам'ятства.</Coma.description>
   
   <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>постреанімаційний розлад</ResurrectionPsychosis.label>
