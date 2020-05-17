@@ -6,7 +6,7 @@
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Натхнення: енергійність</Frenzy_Go.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>[PAWN_pronoun] will move faster for the next 8 days.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetter>[PAWN_pronoun] буде рухатись швидше протягом наступних 8 днів.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
   <Frenzy_Go.endMessage>{0} більше не відчуває натхнення (енергійність).</Frenzy_Go.endMessage>
   
@@ -15,7 +15,7 @@
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>Натхнення: соколине око</Frenzy_Shoot.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>[PAWN_pronoun] will shoot more accurately for the next 8 days.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetter>[PAWN_pronoun] буде стріляти точніше протягом наступних 8 днів.</Frenzy_Shoot.beginLetter>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
   <Frenzy_Shoot.endMessage>{0} більше не відчуває натхнення (соколине око).</Frenzy_Shoot.endMessage>
   
@@ -24,7 +24,7 @@
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>Натхнення: завзята праця</Frenzy_Work.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>[PAWN_pronoun] will work faster for the next 8 days.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetter>[PAWN_pronoun] буде працювати швидше протягом наступних 8 днів.</Frenzy_Work.beginLetter>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
   <Frenzy_Work.endMessage>{0} більше не відчуває натхнення (завзята праця).</Frenzy_Work.endMessage>
   
