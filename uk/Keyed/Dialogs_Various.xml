@@ -301,7 +301,7 @@
   <!-- EN: Cooldown -->
   <CooldownTime>Затримка удару</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>Обеззброїти</DisarmedTime>
+  <DisarmedTime>Роззброєння</DisarmedTime>
   <!-- EN: Charging -->
   <ChargingTime>Заряджання</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
@@ -329,13 +329,13 @@
   <!-- EN: Growing time -->
   <GrowingTime>Час дозрівання</GrowingTime>
   <!-- EN: Harvest yield -->
-  <HarvestYield>Урожай</HarvestYield>
+  <HarvestYield>Урожайність</HarvestYield>
   <!-- EN: Min growth temperature -->
   <MinGrowthTemperature>Мінімальна температура для росту</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Максимальна температура для росту</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Рослини ростуть тільки частину дня, і тільки коли світло.\n\nЦя статистика вимірює час, який потрібен рослині, щоб дорости до її спілого розміру.\nфактичний реальний зростання буде приблизно в два рази довше.\nнизькі температури також сповільнюють ріст рослин.</GrowingTimeDesc>
+  <GrowingTimeDesc>Рослини ростуть тільки частину дня, і тільки коли світло.\n\nЦя статистика вимірює час, який потрібен рослині, щоб дорости до її спілого розміру.\nФактичний реальний час зростання буде приблизно в два рази довший.\nНизькі температури також сповільнюють ріст рослин.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>днів</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -343,15 +343,15 @@
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>Вимога родючості</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>Чутливість родючості</FertilitySensitivity>
+  <FertilitySensitivity>Чутливість до родючості</FertilitySensitivity>
   <!-- EN: Light requirement -->
   <LightRequirement>Потреба у світлі</LightRequirement>
   <!-- EN: Attributes -->
   <Attributes>Атрибути</Attributes>
   <!-- EN: Lifespan -->
-  <LifeSpan>Тривалістю життя</LifeSpan>
+  <LifeSpan>Тривалість життя</LifeSpan>
   <!-- EN: Nutrition -->
-  <Nutrition>Харчування</Nutrition>
+  <Nutrition>Поживність</Nutrition>
   <!-- EN: Recreation -->
   <Joy>Відпочинок</Joy>
   <!-- EN: Food quality -->
@@ -359,7 +359,7 @@
   <!-- EN: Walk speed -->
   <WalkSpeedProperty>Швидкість ходьби</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
-  <MinFoodQuality>Мінімальна якість їжі</MinFoodQuality>
+  <MinFoodQuality>Мін. якість їжі</MinFoodQuality>
   <!-- EN: Diet -->
   <Diet>Дієта</Diet>
   <!-- EN: Nutrition need per day -->
@@ -375,7 +375,7 @@
   <!-- EN: Covers -->
   <Covers>Прикривається</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>Створено в</CreatedAt>
+  <CreatedAt>Створюється в</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Шар</Layer>
   <!-- EN: Cover effectiveness -->
