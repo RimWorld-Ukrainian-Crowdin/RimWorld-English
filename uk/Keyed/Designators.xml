@@ -113,7 +113,7 @@
   <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>Видалити дозволену територію</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Розширює дозволену територію.\n\nДозволені території визначені зони, які ти можеш призначити колоністам. Колоністи не будуть працювати або виконувати їхні потреби за межою дозвеленої території.</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Видаляє клітинки дозволеної території.\n\nДозволені території - визначені зони, які ти можеш призначити колоністам. Колоністи не будуть працювати або задовольняти їхні потреби за межами дозволеної території.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Керування областями...</ManageAreas>
 
@@ -225,9 +225,9 @@
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>Розширити {0} або\nСтворити нову {1}</ExpandOrCreateZone>
+  <ExpandOrCreateZone>Розширити {0} або\nСтворити {1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
-  <CreateNewZone>Створити нову {0}</CreateNewZone>
+  <CreateNewZone>Створити {0}</CreateNewZone>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
