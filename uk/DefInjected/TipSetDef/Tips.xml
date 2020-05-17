@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>You can dismiss letters by right-clicking on them.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>Ви можете відхилити листи, клацнувши правою кнопкою миші на них.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>You can hold the shift key to queue orders on your colonists.</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Ви можете тримати натиснутою кнопку shift, щоб додати в чергу накази колоністам.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>You can right-click and drag to reorder colonists on the colonist bar.</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>Ви можете клацнути правою кнопкою миші і перетягнути, щоб змінити порядок колоністів на панелі колоністів.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>You can select previous/next colonist with the , and . keys.</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>Ви можете вибрати попереднього/наступного колоніста кнопками б та ю.</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
   <GameplayTips.SettingPainting>Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen.</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>Настрій кожного з колоністів відображається на тлі їхніх іконок на панелі колоністів угорі екрану.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
   <GameplayTips.WorkTabChangeAllColonists>Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! -->
-  <GameplayTips.GunfightCover>In a gunfight, always be behind cover!</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>У перестрілці завжди будь за укриттям!</GameplayTips.GunfightCover>
   <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
-  <GameplayTips.GunfightSpread>In a gunfight, spread your colonists out! Bunched-up targets are easy to hit.</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>У перестрілці розсіюй колоністів у різні сторони! По згрупованій цілі легко вдарити.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy.</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>Дим повністю заважає турелям визначати цілі, але люди все ще можуть стріляти зі зниженою точністю.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions.</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>При проектуванні оборони, беріть до уваги, що вороги будуть потрапляти всередину за допомогою десантних капсул або тунелів. Будуйте внутрішні оборонні позиції.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>Foggy or rainy weather reduces the accuracy of ranged weapons.</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>Туманна або дощова погода зменшує точність далекобійної зброї.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target.</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>Ви можете проаналізувати ймовірність попадання вибравши стрільця і розташувавши вказівник миші над ціллю.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them.</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>Турелі вибухають після поглинення великої шкоди. Не розташовуйте їх близько один до одної і не розміщуйте ваших людей занадто близько до них.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it.</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>Деякі тварини вибухають при смерті. Ви можете використовувати транспортні капсули, щоб кидати тварин на ворогів. Подумайте про це.</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
   <GameplayTips.CallAllies>Якщо вам потрібна допомога у боротьбі, покличте своїх союзників через термінал зв'язку.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
