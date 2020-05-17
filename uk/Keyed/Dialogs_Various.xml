@@ -198,31 +198,31 @@
   <!-- EN: Map size -->
   <MapSize>Розмір карти</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} клітинок)</MapSizeDesc>
   <!-- EN: Small -->
-  <MapSizeSmall>Small</MapSizeSmall>
+  <MapSizeSmall>Маленька</MapSizeSmall>
   <!-- EN: Medium -->
-  <MapSizeMedium>Помірний режим</MapSizeMedium>
+  <MapSizeMedium>Середня</MapSizeMedium>
   <!-- EN: Large -->
-  <MapSizeLarge>Великий</MapSizeLarge>
+  <MapSizeLarge>Велика</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
+  <MapSizeExtreme>Екстремальна (тест)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>Початок сезону</MapStartSeason>
+  <MapStartSeason>Початковий сезон</MapStartSeason>
   <!-- EN: Auto -->
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <MapStartSeasonDefault>Авто</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>Notice</Notice>
+  <Notice>Увага</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
-  <Suspended>Suspended</Suspended>
+  <Suspended>Призупинено</Suspended>
   <!-- EN: Not suspended -->
-  <NotSuspended>Not suspended</NotSuspended>
+  <NotSuspended>Не призупинено</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
+  <SuspendedAllCaps>ЗУПИНЕНО</SuspendedAllCaps>
   <!-- EN: Repeat: -->
-  <RepeatCount>Repeat:</RepeatCount>
+  <RepeatCount>Повторити:</RepeatCount>
   <!-- EN: Forever -->
   <Forever>Постійно</Forever>
   <!-- EN: Details -->
