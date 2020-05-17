@@ -99,7 +99,7 @@
   <!-- EN: a cut -->
   <ExecutionCut.labelNoun>поріз</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ExecutionCut.labelNounPretty>{0} in the {1}</ExecutionCut.labelNounPretty>
+  <ExecutionCut.labelNounPretty>{0} на {1}</ExecutionCut.labelNounPretty>
   
   <!-- EN: frostbite -->
   <Frostbite.label>обмороження</Frostbite.label>
