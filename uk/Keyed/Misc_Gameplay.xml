@@ -1235,7 +1235,7 @@
   <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero)\n\nPsyfocus: {4} -->
   <PawnTooltipPsychicEntropyStats>Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero)\n\nPsyfocus: {4}</PawnTooltipPsychicEntropyStats>
   <!-- EN: Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nAside from entropy, some psycasts cost psyfocus to perform. Psyfocus is gained through meditation or drugs. -->
-  <PawnTooltipPsychicEntropyDesc>Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nAside from entropy, some psycasts cost psyfocus to perform. Psyfocus is gained through meditation or drugs.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Психічна ентропія підвищується після виконання психокасту. Going over the normal limit can lead to psychic breakdown lasting days.\n\nAside from entropy, some psycasts cost psyfocus to perform. Психофокус досягається за допомогою медитації або наркотиків.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>Pain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
