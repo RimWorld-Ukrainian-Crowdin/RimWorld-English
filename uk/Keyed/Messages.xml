@@ -451,7 +451,7 @@
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} cannot grow underneath a roof.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>Неможливо побудувати дах понад {0}.</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>Неможливо побудувати дах над: {0}.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
   <MessageChoseRoute>Caravan will automatically travel to the first waypoint.</MessageChoseRoute>
