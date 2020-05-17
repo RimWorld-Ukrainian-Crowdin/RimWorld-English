@@ -315,19 +315,19 @@
   <!-- EN: Stopping power -->
   <StoppingPower>Зупиняюча сила</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Попадання з цієї зброї похитнуть ціль, сповільнюючи її рух на декілька секунд. \n\nЦілі, що мають тіло розміром більше, ніж сила, що зупиняє, не будуть ушкоджені.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>Попадання з цієї зброї похитнуть ціль, сповільнюючи її рух на декілька секунд. \n\nЦілі, що мають тіло розміром більше, ніж зупиняюча сила, не будуть ушкоджені.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>Direct hit chance</DirectHitChance>
+  <DirectHitChance>Шанс прямого попадання</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>Miss radius</MissRadius>
+  <MissRadius>Радіус промаху</MissRadius>
   <!-- EN: Grows wild -->
-  <GrowsWild>Grows wild</GrowsWild>
+  <GrowsWild>Дичавіє</GrowsWild>
   <!-- EN: Harvestable -->
-  <Harvestable>Harvestable</Harvestable>
+  <Harvestable>Підлягає збору</Harvestable>
   <!-- EN: Limited lifespan -->
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
+  <LimitedLifespan>Не довговічне</LimitedLifespan>
   <!-- EN: Growing time -->
-  <GrowingTime>Growing time</GrowingTime>
+  <GrowingTime>Час дозрівання</GrowingTime>
   <!-- EN: Harvest yield -->
   <HarvestYield>Урожай</HarvestYield>
   <!-- EN: Min growth temperature -->
@@ -339,7 +339,7 @@
   <!-- EN: days -->
   <Days>днів</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Мінімальна навичка садівництва для посіву</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>Вимога плодючості</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
