@@ -14,17 +14,17 @@
   <!-- EN: the price of survival is blood -->
   <Hard.label>ціна виживання — кров</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>Зустрінь жорстокі виклики виживання. Навіть, якщо ви граєте добре, люди будуть вмирати. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive.</Hard.description>
+  <Hard.description>Зустрінь жорстокі виклики виживання. Навіть, якщо ви граєте добре, люди будуть вмирати. Ви повинні передбачати загрози, перш ніж вони прибудуть, і шукати будь-яку перевагу.\n\nРекомендується для:\n\n- Досвідчених гравців, які хочуть боротися, щоб вижити.</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>adventure story</Medium.label>
+  <Medium.label>пригодницька історія</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals.</Medium.description>
+  <Medium.description>Є час рости і процвітати, але це все-таки небезпечна планета.\n\nРекомендується для:\n\n- Досвідчених геймерів у стратегії, які вперше грають у RimWorld.\n- Досвідчених гравців RimWorld, що потребують більше простору для реалізації своїх кумедних чи дивних цілей.</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>мирний</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax.</Peaceful.description>
+  <Peaceful.description>Будуйте спільноту в режимі пісочниці. Основні прямі загрози вимкнені, але виклики, як хвороби, ментальні зриви і скажені тварини все ще відбуваються.\n\nРекомендовано для:\n\n- Гравців, які хочуть зрозуміти механіку гри з мінімальними тиском.\n- Гравців, які просто хочуть будувати.\n- Гравців, які хочуть розслабитися.</Peaceful.description>
   
   <!-- EN: strive to survive -->
   <Rough.label>strive to survive</Rough.label>
