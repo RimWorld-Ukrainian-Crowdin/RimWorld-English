@@ -717,7 +717,7 @@
   <!-- EN: Faction -->
   <Faction>Фракція</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>Фракція {PAWN_labelShort} в даний час належить.</FactionDesc>
+  <FactionDesc>Фракція, до якої на даний момент {PAWN_labelShort} належить.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
   <ExtraFactionDesc>The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction.</ExtraFactionDesc>
   <!-- EN: Equipped -->
