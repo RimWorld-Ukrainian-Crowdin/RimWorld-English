@@ -21,7 +21,7 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Пауза на терміновий лист</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>Pause on</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Призупиняти на</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Власний курсор</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -49,7 +49,7 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Показати папку з файлами збережень</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>Open log file folder</OpenLogFileFolder>
+  <OpenLogFileFolder>Відкрити теку з логами</OpenLogFileFolder>
   <!-- EN: Show log file location -->
   <ShowLogFileLocation>Show log file location</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
@@ -71,7 +71,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Максимальна кількість колоній: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>Map mouse drag sensitivity</MapDragSensitivity>
+  <MapDragSensitivity>Чутливість перетягування карти</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Рослини коливаються вітром</PlantWindSway>
   <!-- EN: Enable test map sizes -->
