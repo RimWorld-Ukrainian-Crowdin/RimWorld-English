@@ -93,7 +93,7 @@
   <!-- EN: Select mod... -->
   <SelectMod>Виберіть модифікацію...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>Неналаштовані модифікації не завантажені.</NoConfigurableMods>
+  <NoConfigurableMods>Модифікації, які можна налаштовувати, не завантажені.</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
