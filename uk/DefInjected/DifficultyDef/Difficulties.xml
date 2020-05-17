@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: community builder -->
-  <Easy.label>community builder</Easy.label>
+  <Easy.label>будівник спільноти</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax.</Easy.description>
+  <Easy.description>Будуйте спільноту, відчуваючи дух загрози. Загрози не зникнуть, але будуть слабшими.\n\nРекомендовано для:\n\n- Новачків у іграх цього типу.\n- Гравців, які хочуть побудувати ідеальну колонію.\n- Гравців, які хочуть розслабитися.</Easy.description>
   
   <!-- EN: losing is fun -->
-  <Extreme.label>losing is fun</Extreme.label>
+  <Extreme.label>програвати - це весело</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists.</Extreme.description>
+  <Extreme.description>Цей режим створений, щоб бути нечесним. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists.</Extreme.description>
   
   <!-- EN: the price of survival is blood -->
   <Hard.label>the price of survival is blood</Hard.label>
