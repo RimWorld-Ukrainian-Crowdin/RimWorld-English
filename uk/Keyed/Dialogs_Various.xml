@@ -122,11 +122,11 @@
   <!-- EN: Official content -->
   <OfficialContent>Офіційний вміст</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>Active</ContentActive>
+  <ContentActive>Активний</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>Installed, but not active</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>Встановлений, але не активний</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>Not installed</ContentNotInstalled>
+  <ContentNotInstalled>Не встановлений</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
