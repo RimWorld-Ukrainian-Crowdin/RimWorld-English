@@ -63,7 +63,7 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Множник розміру тіла {0}</StatsReport_BodySize>
   <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>Carefully slaughtered without wounds</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Обережно забито без поранень</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>ПЗС (DPS) = Пошкодження ближнього бою * Шанс удару в ближньому бою/Затримка удару в секундах</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
