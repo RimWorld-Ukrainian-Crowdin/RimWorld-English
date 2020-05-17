@@ -32,7 +32,7 @@
   <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
-  <BodyPurist.degreeDatas.body_purist.label>body purist</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.label>біоконсерватор</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
   <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.body_purist.description>
   
@@ -72,7 +72,7 @@
   <Gay.degreeDatas.gay.description>{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
-  <Gourmand.degreeDatas.gourmand.label>gourmand</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.label>ненажера</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
   <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.</Gourmand.degreeDatas.gourmand.description>
   
@@ -127,12 +127,12 @@
   <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low.</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>quick sleeper</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>ефективний сон</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
   <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time.</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: slow learner -->
-  <SlowLearner.degreeDatas.slow_learner.label>slow learner</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.label>повільний учень</SlowLearner.degreeDatas.slow_learner.label>
   <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
   <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.</SlowLearner.degreeDatas.slow_learner.description>
   
@@ -142,7 +142,7 @@
   <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tortured artist -->
-  <TorturedArtist.degreeDatas.tortured_artist.label>tortured artist</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.label>горе митець</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
   <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
