@@ -253,11 +253,11 @@
   <!-- EN: Requires {0} {1} -->
   <BillRequires>Вимагається {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Вимагає {0} харчування</BillRequiresNutrition>
+  <BillRequiresNutrition>Вимагається {0} харчування</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>Примітка: невеликі за обсягом інгредієнти, як золото, потребують в {0} більше.</BillRequiresMayVary>
+  <BillRequiresMayVary>Примітка: невеликі за обсягом інгредієнти, як золото, потребують у {0} разів більше.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>Це невеликий за обсягом інгредієнт. Це означає, що кожна "одиниця" в {0} менша, ніж нормальний обсяг інгредієнта. Тому, щоб заповнити таку ж потребу інгредієнта, вам необхідно в {0} більше, ніж зазвичай.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Це невеликий за обсягом інгредієнт. Це означає, що кожна "одиниця" в {0} разів менша, ніж нормальний обсяг інгредієнта. Тому, щоб заповнити таку ж потребу інгредієнта, вам необхідно в {0} разів більше, ніж зазвичай.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
   <UsableIngredients>інгредієнти</UsableIngredients>
   <!-- EN: To {0} -->
@@ -275,7 +275,7 @@
   <!-- EN: Count equipped -->
   <IncludeEquipped>Включно з екіпірованим</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Включно з заплямованим</IncludeTainted>
+  <IncludeTainted>Включаючи зняте з мертвих</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
   <LimitToAllowedStuff>Лише дозволені інгредієнти</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
@@ -289,7 +289,7 @@
   <!-- EN: Armor penetration -->
   <ArmorPenetration>Пробиття броні</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Пробиття броні - це частина броні, яку зброя буде ігнорувати кожного разу при ударі в ціль.\n\nЯкщо пробиття броні перевищує броню цілі, то це наче ціль без броні. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Пробиття броні - це значення міцності броні, яку зброя зможе пробити при ударі в ціль.\n\nЯкщо пробиття броні перевищує броню цілі, то це наче ціль не має броні. В іншому випадку значення пробиття броні віднімається від броні цілі.</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Точність</Accuracy>
   <!-- EN: Burst shot count -->
