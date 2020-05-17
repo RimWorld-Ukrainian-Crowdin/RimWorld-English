@@ -25,7 +25,7 @@
   <!-- EN: Skills -->
   <StatsReport_Skills>Навички</StatsReport_Skills>
   <!-- EN: Post-process - other stats -->
-  <StatsReport_OtherStats>Post-process - other stats</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Постобробка - інші фактори</StatsReport_OtherStats>
   <!-- EN: Health -->
   <StatsReport_Health>Здоров'я</StatsReport_Health>
   <!-- EN: {0} importance -->
@@ -116,9 +116,9 @@
   <StatsReport_NonToolAttack>Напад</StatsReport_NonToolAttack>
   
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>Possible offsets</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Можливі відхилення</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Room impressiveness</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Вражаємість кімнати</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
   <StatsReport_Lit>Lit</StatsReport_Lit>
   <!-- EN: Contains {0} -->
