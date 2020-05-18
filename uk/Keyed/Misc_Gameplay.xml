@@ -333,29 +333,29 @@
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>Сер. швидкість людини</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>Множник для перевізної маси: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Швидкість членів каравану</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
-  <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
+  <FinalCaravanMovementSpeed>Підсумкова швидкість</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
   <Winter>Зима</Winter>
   <!-- EN: {0} in winter -->
   <MovementDifficultyOffsetInWinter>{0} взимку</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>то</RangeTo>
+  <RangeTo>..</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>Немає листа</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Без позн.</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>Expires in</ExpiresIn>
+  <ExpiresIn>Термін дії збігає через</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>{1_labelShort}'s caravan</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>Караван {1_labelShort}</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>Причина</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>Відносини з {0}</RelationsWith>
+  <RelationsWith>Відносини з фракцією {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>захоплений {0}</capturedBy>
+  <capturedBy>у полоні в фракції {0}</capturedBy>
   <!-- EN: your caravan -->
   <yourCaravan>ваш караван</yourCaravan>
   <!-- EN: {0} wildness -->
@@ -363,11 +363,11 @@
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} приручуваність</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>Follow master while drafted</CreatureFollowDrafted>
+  <CreatureFollowDrafted>Охороняти господаря при мобілізації</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>Follow master while doing field work</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>Охороняти господаря на роботі в полі</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{0} з {1}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} з фракцією {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>Ви не можете повторно ввести ще {0} днів.</EnterCooldown>
   <!-- EN: Caravan -->
