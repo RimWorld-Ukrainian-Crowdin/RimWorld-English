@@ -401,7 +401,7 @@
   <!-- EN: Required -->
   <Required>Потрібно</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Попередження: Ви не зможете завершити запит на торгівлю за допомогою транспортних капсул.\nЯкщо ви відішлете товар, поселення сприйме його як подарунок і не дасть нічого взамін.\n\nЩоб завершити угоду, вам потрібно донести весь товар караваном!\n\nВи впевнені, що хочете подарувати цій фракції наладовані речі?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>в'язень</PrisonerLower>
   <!-- EN: prisoners -->
@@ -409,9 +409,9 @@
   <!-- EN: Click to view this quest in quests tab -->
   <ClickToViewInQuestsTab>Натисніть, щоб показати це доручення на вкладці Доручення</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>Mood</Mood>
+  <Mood>Настрій</Mood>
   <!-- EN: Quest -->
-  <Quest>Quest</Quest>
+  <Quest>Доручення</Quest>
   <!-- EN: Brings raids every {0} -->
   <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
