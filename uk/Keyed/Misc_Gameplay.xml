@@ -175,13 +175,13 @@
   <!-- EN: using {0} bedrolls -->
   <UsingBedrolls>{0} люд. в спальниках</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Прибл. к-сть днів до цілі: {0}</CaravanEstimatedTimeToDestination>
   <!-- EN: Estimated days to arrive: {0} -->
-  <CaravanEstimatedDaysToDestination>Estimated days to arrive: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Прибл. к-сть днів до прибуття: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>Immobilized: Too much weight.</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Неможливо йти: занадто багато ваги.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
+  <CaravanOutOfFood>Нема їжі.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Їжі на днів: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
