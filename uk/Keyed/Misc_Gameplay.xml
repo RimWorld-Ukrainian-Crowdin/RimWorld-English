@@ -249,7 +249,7 @@
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>{0} до відправлення</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Ваші колоністи автоматично реформують караван і залишать цю область в {0}.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Ваші колоністи автоматично реформують караван і залишать цю область через {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
   <Room>Кімната</Room>
   <!-- EN: Beauty here -->
@@ -257,15 +257,15 @@
   <!-- EN: No power -->
   <NoPower>Немає живлення</NoPower>
   <!-- EN: Work speed penalty -->
-  <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Штраф до швидкості роботи</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
   <DisabledCommand>ВИМКНЕНО</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Готовий до запуску.</ReadyForLaunch>
+  <ReadyForLaunch>Готово до запуску.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Не готовий до запуску</NotReadyForLaunch>
+  <NotReadyForLaunch>Не готово до запуску</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>не підключено до порту заправки</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
   <NotAllFuelingPortSourcesInGroupHaveAnyFuel>немає пального</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
@@ -275,15 +275,15 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Недостатньо палива</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} з {1}</SettlementTrader>
+  <SettlementTrader>{0} з фракції {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>Surgery success chance multiplier from room</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>Шанс успішної операції від кімнати</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>Infection chance multiplier from room</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>Шанс інфекції від кімнати</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>Закрито</VentClosed>
+  <VentClosed>Перекрита</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>носив {1_labelShort}</WornBy>
+  <WornBy>надіто на {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>споряджений {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
