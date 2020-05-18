@@ -103,9 +103,9 @@
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} в {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Ця дія призведе  {PAWN_nameDef} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nце буде мати наступні ефекти:\n\n{EFFECTS}{PAWN_nameDef}</RenounceTitleDescription>
+  <RenounceTitleDescription>Ця дія призведе {PAWN_nameDef} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nЦе буде мати наступні ефекти:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} втратить ці дозволи</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} втратить ці привілеї</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>невідомо</UnknownLower>
   <!-- EN: On -->
@@ -115,21 +115,21 @@
   <!-- EN: Power -->
   <PowerSwitch_Power>Струм</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>Recreation type tolerances</JoyTolerances>
+  <JoyTolerances>Звичність</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>Повнота молока</MilkFullness>
+  <MilkFullness>Кількість молока</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Вовняна тканина</WoolGrowth>
+  <WoolGrowth>Довжина вовни</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>Прогрес яйця</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>запліднено</Fertilized>
+  <Fertilized>Запліднена</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Прогрес зупинився, допоки не буде удобрено</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Прогрес зупинився до запліднення</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+  <SkillTooLow>потрібно {0} рівня {2}, зараз {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Заморозка</Freezing>
+  <Freezing>Переохолодження</Freezing>
   <!-- EN: Overheating -->
   <Overheating>Перегрівання</Overheating>
   <!-- EN: Ruined by temperature. -->
@@ -137,11 +137,11 @@
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Відсутні частини тіла</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <HiveReproducesIn>Розплодиться за</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Dormant: Not reproducing.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Сплячка: не розплодиться.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Next {0} in</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Наст. {0} через</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
   <NextSpawnedResourceIn>Next resource in</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
