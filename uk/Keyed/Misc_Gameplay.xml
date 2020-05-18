@@ -413,53 +413,53 @@
   <!-- EN: Quest -->
   <Quest>Доручення</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery>
+  <BringsRaidsEvery>Здійснює напади кожні {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
   <GeneratesResourcesEvery>Генерує {0} кожні {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>Foliage kill radius</FoliageKillRadius>
+  <FoliageKillRadius>Радіус знищення рослин</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
+  <RadiusExpandRate>Швидкість поширення</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>View: {0}</ViewHyperlink>
+  <ViewHyperlink>Перейти до: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>Detonates in {0} days</DetonationCountdown>
+  <DetonationCountdown>Днів до детонації: {0}</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>Large explosion if damaged</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>При пошкодженні станеться потужний вибух</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>Mech cluster</MechCluster>
+  <MechCluster>Кластер механоїдів</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>Розплодиться через {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1} -->
-  <MechAssemblyCompleteIn>{0} assembly completes in {1}</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>Збірка {0} закінчиться через {1}</MechAssemblyCompleteIn>
   <!-- EN: produced -->
-  <ThingsProduced>produced</ThingsProduced>
+  <ThingsProduced>вироблено</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>harvested</PlantsHarvested>
+  <PlantsHarvested>зібрано</PlantsHarvested>
   <!-- EN: {0} killed -->
   <PawnsKilled>{0} вбито</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>Sent {0}, will return in {1}</PawnsLent>
+  <PawnsLent>Відправлені {0}, повернуться через {1}</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>Неактивний</DormantCompInactive>
+  <DormantCompInactive>Неактивно</DormantCompInactive>
   <!-- EN: Sealed -->
   <DormantCompSealed>Запечатано</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>Готовий скинути механоїди</DormantCompBeacon>
+  <DormantCompBeacon>Готовий скинути механоїдів</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>Термін дії закінчився</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>Initiates in</InitiatesIn>
+  <InitiatesIn>Почнеться через</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Активується в {0}</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>Активується через {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->
-  <PsychicEntropy>Psychic entropy</PsychicEntropy>
+  <PsychicEntropy>Психічна ентропія</PsychicEntropy>
   <!-- EN: {0} pain focus -->
-  <PsychicEntropyPainFocus>{0} pain focus</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} больової концентрації</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>radius {0}</ConditionCauserRadius>
+  <ConditionCauserRadius>радіус {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>low psyfocus</LowPsyfocus>
+  <LowPsyfocus>низький психофокус</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>залишилося {0}</DurationLeft>
   <!-- EN: Any of -->
@@ -467,7 +467,7 @@
   <!-- EN: Goodwill -->
   <Goodwill>Прихильність</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>reducing resistance of {0_nameIndef}</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>зменшення опору {0_nameIndef}</JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
