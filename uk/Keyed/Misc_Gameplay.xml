@@ -7,7 +7,7 @@
   <!-- EN: Work left -->
   <WorkLeft>Роботи лишилося</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>Вміст</Contents>
+  <Contents>Містить</Contents>
   <!-- EN: Contained resources -->
   <ContainedResources>Ресурси всередині</ContainedResources>
   <!-- EN: For prisoner use -->
@@ -25,7 +25,7 @@
   <!-- EN: Assigned colonist -->
   <AssignedColonist>Призначений колоніст</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>Помер на {0}</DiedOn>
+  <DiedOn>Дата смерті: {0}</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>Ніхто</Nobody>
   <!-- EN: Unowned -->
@@ -41,7 +41,7 @@
   <!-- EN: Filth on feet: -->
   <FilthOnFeet>Бруду на ногах:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>недостатньо на складах</NotEnoughStoredLower>
+  <NotEnoughStoredLower>недостатньо на складі</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>нічого</NothingLower>
   <!-- EN: Nothing -->
@@ -703,7 +703,7 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{PAWN_gender} створено {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender}, {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} з {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
@@ -713,7 +713,7 @@
   <!-- EN: {0} under {1}\nHome faction: {2} -->
   <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} створено {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective}, {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Фракція</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
@@ -807,9 +807,9 @@
   <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Заморожені (не зіпсувати)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
-  <CurrentlyRefrigerated>Refrigerated (spoils in {0})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>Охолоджене (зіпсується через {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
-  <NotRefrigerated>Not refrigerated (spoils in {0})</NotRefrigerated>
+  <NotRefrigerated>Не охолоджене (зіпсується через {0})</NotRefrigerated>
   <!-- EN: over a decade -->
   <OverADecade>більше десяти років</OverADecade>
   <!-- EN: less than a day -->
