@@ -307,13 +307,13 @@
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
   <AllowedAreaShiftClickTip>Shift + клік: Обмежити всіх домашньою територією\nShift + правий клік: Зняти обмеження для всіх</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>Shift + клік: Відмітити все\nShift + клік: Зняти всі відмітки</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{0} ({1} шт)</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Вимоги до навичок</SkillRequirements>
   <!-- EN: Products -->
-  <Products>Товари</Products>
+  <Products>Результат</Products>
   <!-- EN: {0} of {1} -->
   <Relationship>{0} з {1}</Relationship>
   <!-- EN: Prisoner -->
