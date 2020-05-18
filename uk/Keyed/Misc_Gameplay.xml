@@ -285,17 +285,17 @@
   <!-- EN: worn by {1_labelShort} -->
   <WornBy>надіто на {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>споряджений {1_labelShort}</EquippedBy>
+  <EquippedBy>зброя {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} хоче це зруйнувати.\n    Нагорода: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>Фракція {0} хоче, щоб цей табір був зруйнований.\n    Нагорода: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>{0} хоче це знищити.</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>Фракція {0} хоче, щоб цей табір був знищений.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>Departing on shuttle in {0}</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>Відправляється на човнику через {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>Departing in {0}</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>Відправляється через {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>Варто вирушити на човнику</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>Повинен вирушити на човнику</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Залишилось часу: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
@@ -303,9 +303,9 @@
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
   <WorkPriorityShiftClickTip>Shift + клік: Збільшити пріоритет\nShift + правий клік: Зменшити пріоритет</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + притиск: Увімкнути всі\nShift + праве натискання: Вимкнути всі</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + клік: Увімкнути все\nShift + правий клік: Вимкнути все</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>Shift + клік: Обмежити всіх домашньою територією\nShift + правий клік: Зняти обмеження для всіх</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
