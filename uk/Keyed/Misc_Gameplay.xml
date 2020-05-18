@@ -189,9 +189,9 @@
   <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>Зупинка: Кожен член команди збитий.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
-  <AllCaravanMembersMentalBreak>Stopped because: Everyone is in a mental break.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Зупинка: У всіх психічний зрив.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanColonistsCount>{1}: {0}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
   <CaravanAnimal>1 тварина</CaravanAnimal>
   <!-- EN: {0} animals -->
@@ -201,41 +201,41 @@
   <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} в'язнів</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>{0} у психічному стані</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} у стані психічного зриву</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} збиті</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Подорожуючи.</CaravanTraveling>
+  <CaravanTraveling>В дорозі.</CaravanTraveling>
   <!-- EN: Waiting. -->
   <CaravanWaiting>В очікуванні.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>Being carried due to illness</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>На ношах через хворобу</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>Використовує спальники у зв'зяку з хворобою</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>У спальнику через хворобу</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Поточний рух часу</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Час руху через поточну клітинку</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>Видимість</Visibility>
+  <Visibility>Помітність</Visibility>
   <!-- EN: Temperature -->
   <Temperature>Температура</Temperature>
   <!-- EN: bad temperature -->
   <BadTemperature>погана температура</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>Ідеальний температури бродіння</IdealFermentingTemperature>
+  <IdealFermentingTemperature>Ідеальна температура для бродіння</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
   <DrugEffectMultiplier>Множник ефекту від {0}: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>Visiting {0}.</CaravanVisiting>
+  <CaravanVisiting>Відвідує {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>Entering {0}.</CaravanEntering>
+  <CaravanEntering>Йде до {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Атакує {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>Пропонуючи подарунки {0}.</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Пропонує подарунок {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>Торгівля з {0}</CaravanTrading>
+  <CaravanTrading>Торгує з {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
+  <WasWornByCorpse>Знято з мертвого.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>Т</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -247,7 +247,7 @@
   <!-- EN: Map -->
   <Map>Мапа</Map>
   <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdown>{0} до відправлення</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
   <ForceExitAndRemoveMapCountdownTip>Ваші колоністи автоматично реформують караван і залишать цю область в {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
