@@ -143,37 +143,37 @@
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Наст. {0} через</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>Next resource in</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>Наступний ресурс через</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Зламався</BrokenDown>
+  <BrokenDown>Зламано</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(бонд)</BondBrackets>
+  <BondBrackets>(зв'язок)</BondBrackets>
   <!-- EN: Fuel -->
   <Fuel>Паливо</Fuel>
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>Паливо</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Заправляти паливом до рівня {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Заправляти паливом до рівня {0}\nМакс. дальність польоту:{1} клітинок</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Призначений рівень палива: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>вороги</Enemies>
   <!-- EN: time passed -->
-  <TimePassed>Час очікування</TimePassed>
+  <TimePassed>часу пройшло</TimePassed>
   <!-- EN: current radius -->
   <CurrentRadius>поточний радіус</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+  <RadiusExpandsIn>радіус збільшиться через</RadiusExpandsIn>
   <!-- EN: permanent -->
   <Permanent>постійний</Permanent>
   <!-- EN: Resting -->
   <CaravanResting>Відпочиває</CaravanResting>
   <!-- EN: using 1 bedroll -->
-  <UsingBedroll>using 1 bedroll</UsingBedroll>
+  <UsingBedroll>1 люд. в спальнику</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>using {0} bedrolls</UsingBedrolls>
+  <UsingBedrolls>{0} люд. в спальниках</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
   <!-- EN: Estimated days to arrive: {0} -->
