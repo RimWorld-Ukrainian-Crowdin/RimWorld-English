@@ -257,7 +257,7 @@
   <!-- EN: The mental abilities this affects. -->
   <Stat_Hediff_Affects_Desc>Ментальні здібності, на які це впливає.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>Швидкість зголодніння</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateFactor_Desc>Мультиплікатор швидкості виснаження від потреби в їжі.</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
