@@ -185,9 +185,9 @@
   <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Їжі на днів: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>Days of food: {0} (rot in {1} days)</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>Їжі на днів: {0} (к-сть днів до зіпсування: {1})</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>Зупинився тому, що: кожен збитий.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Зупинка: Кожен член команди збитий.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>Stopped because: Everyone is in a mental break.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
