@@ -53,7 +53,7 @@
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>здобув імунітет</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Вже потребує догляду</NeedsTendingNow>
+  <NeedsTendingNow>Потребує догляду негайно</NeedsTendingNow>
   <!-- EN: Can tend now -->
   <CanTendNow>Може доглянути зараз</CanTendNow>
   <!-- EN: Tending expires in {0} -->
@@ -69,9 +69,9 @@
   <!-- EN: {0} days to recover -->
   <DaysToRecover>{0} днів, щоб відновитися</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>Неефективний</Ineffective>
+  <Ineffective>Неефективно</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>нелегальний</Illegal>
+  <Illegal>нелегально</Illegal>
   <!-- EN: detection chance -->
   <DetectionChance>шанс виявлення</DetectionChance>
   <!-- EN: Race -->
@@ -89,7 +89,7 @@
   <!-- EN: Drop -->
   <DropThing>Зняти</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>Тимчасові члени фракції не будуть відмовлятись від своїх позицій.</DropThingLodger>
+  <DropThingLodger>Тимчасові члени фракції не будуть знімати свої речі.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
   <DropThingLocked>Ця людина відмовляється зняти цю річ.</DropThingLocked>
   <!-- EN: Rename -->
@@ -101,7 +101,7 @@
   <!-- EN: Renounce title -->
   <RenounceTitle>Відректися від титулу</RenounceTitle>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>{0} з {1}</TitleOfFaction>
+  <TitleOfFaction>{0} в {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Ця дія призведе  {PAWN_nameDef} до втрати {PAWN_possessive} {TITLE} титулу. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nце буде мати наступні ефекти:\n\n{EFFECTS}{PAWN_nameDef}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
