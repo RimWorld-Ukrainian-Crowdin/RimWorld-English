@@ -315,7 +315,7 @@
   <!-- EN: Products -->
   <Products>Результат</Products>
   <!-- EN: {0} of {1} -->
-  <Relationship>{0} з {1}</Relationship>
+  <Relationship>для {1} — {0}</Relationship>
   <!-- EN: Prisoner -->
   <Prisoner>В'язень</Prisoner>
   <!-- EN: Refugee -->
@@ -323,7 +323,7 @@
   <!-- EN: Terrain movement difficulty -->
   <TileMovementDifficulty>Труднощі руху по місцевості</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>Impassable</Impassable>
+  <Impassable>Непрохідно</Impassable>
   <!-- EN: Caravan movement speed -->
   <CaravanMovementSpeedFull>Швидкість руху каравану</CaravanMovementSpeedFull>
   <!-- EN: downed -->
@@ -331,7 +331,7 @@
   <!-- EN: resting -->
   <Carried>відпочиває</Carried>
   <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>Avg. person move speed</AverageCaravanMemberMoveSpeed>
+  <AverageCaravanMemberMoveSpeed>Сер. швидкість людини</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
