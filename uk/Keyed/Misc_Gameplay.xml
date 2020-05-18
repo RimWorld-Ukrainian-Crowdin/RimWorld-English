@@ -369,17 +369,17 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} з фракцією {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>Ви не можете повторно ввести ще {0} днів.</EnterCooldown>
+  <EnterCooldown>Ви не можете повторно відвідати це місце ще {0} днів.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Караван</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>там може бути небезпека.</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>грудка {0}</PreciousLumpLabel>
+  <PreciousLumpLabel>брила: {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>немає активного дослідницького проєкту</NoActiveResearchProjectToFinish>
   <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>Cannot research: No research bench</CannotResearchNoBench>
+  <CannotResearchNoBench>Дослідження неможливе: Немає дослідницького столу</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>турель</Turret>
   <!-- EN: turrets -->
@@ -393,13 +393,13 @@
   <!-- EN: location -->
   <Location>місцезнаходження</Location>
   <!-- EN: animals -->
-  <AnimalsLower>тваринництво</AnimalsLower>
+  <AnimalsLower>тварини</AnimalsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{0} of {1} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} від {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>Required</Required>
+  <Required>Потрібно</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
   <GiveGiftViaTransportPodsTradeRequestWarning>Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
