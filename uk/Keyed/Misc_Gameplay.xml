@@ -729,9 +729,9 @@
   <!-- EN: nothing -->
   <EquippedNothing>нічого</EquippedNothing>
   <!-- EN: Dead -->
-  <Dead>Мертвий</Dead>
+  <Dead>Мертвий(-а)</Dead>
   <!-- EN: Unconscious -->
-  <Unconscious>Без свідомості</Unconscious>
+  <Unconscious>У безпам’ятстві</Unconscious>
   <!-- EN: In shock due to pain -->
   <PainShock>У шоці через біль</PainShock>
   <!-- EN: Pain shock -->
@@ -739,11 +739,11 @@
   <!-- EN: Incapacitated -->
   <Incapacitated>Недієздатний</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>In restraints (slowed)</InRestraints>
+  <InRestraints>У кайданах (пересування сповільнене)</InRestraints>
   <!-- EN: Carrying -->
-  <Carrying>Carrying</Carrying>
+  <Carrying>Переносить</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Постраждалі від:</AffectedBy>
+  <AffectedBy>Фактори, які впливають:</AffectedBy>
   <!-- EN: Queued -->
   <Queued>У черзі</Queued>
   <!-- EN: State -->
@@ -753,15 +753,15 @@
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>Виберіть наступну річ на тій самій клітинці.\n\nКлавіші: {0}\n\nТакож можете спробувати клікнувши ще раз на цю клітинку.</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>Переглянути інформацію.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Змінити те, як ця людина буде реагувати на найближчих ворогів не підготовленою.</HostilityReponseTip>
+  <HostilityReponseTip>Змінити те, як ця людина буде реагувати на найближчих ворогів не у режимі мобілізації.</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>Поточний режим</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
