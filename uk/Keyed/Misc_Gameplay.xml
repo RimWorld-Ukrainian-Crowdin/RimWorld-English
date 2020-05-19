@@ -561,9 +561,9 @@
   <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} не в змозі заподіяти насильство.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>не здатний(а) на насильство</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>не в змозі заподіяти насильство</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} is not drafted.</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} не в режимі мобілізації.</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -581,27 +581,27 @@
   <!-- EN: Installed -->
   <GunInstalled>Встановлено</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>Мінімальний діапазон</MinimumRange>
+  <MinimumRange>Мінімальний дальність</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Може стріляти в</CanFireIn>
+  <CanFireIn>Зможе стріляти через</CanFireIn>
   <!-- EN: Cannot fire -->
   <CannotFire>Не може стріляти</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>roofed</Roofed>
+  <Roofed>накрито дахои</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Shell loaded: {1_label}</ShellLoaded>
+  <ShellLoaded>Заряджений снаряд: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>Не завантажено</ShellNotLoaded>
+  <ShellNotLoaded>Не заряджено</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>hauling {THING_label} to {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>несе {THING_label} на {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>burying {THING_label} in {DESTINATION}.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>хоронить {THING_label} в {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>hauling {1_label}.</ReportHauling>
+  <ReportHauling>несе {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>hauling.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>переносить.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
   <ReportSleeping>спить.</ReportSleeping>
   <!-- EN: resting. -->
@@ -621,9 +621,9 @@
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>використовує {0} на {1}.</UsingVerb>
   <!-- EN: area -->
-  <AreaLower>area</AreaLower>
+  <AreaLower>територія</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>cowering.</ReportCowering>
+  <ReportCowering>ховається.</ReportCowering>
   <!-- EN: standing. -->
   <ReportStanding>стоїть.</ReportStanding>
   <!-- EN: extinguishing fire. -->
@@ -651,7 +651,7 @@
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
-  <WeaponMissRadius>Радіус пропуску зброї</WeaponMissRadius>
+  <WeaponMissRadius>Радіус промаху зброї</WeaponMissRadius>
   <!-- EN: Shooter -->
   <ShootReportShooterAbility>Стрілець</ShootReportShooterAbility>
   <!-- EN: Weapon -->
@@ -659,7 +659,7 @@
   <!-- EN: Darkness -->
   <Darkness>Темрява</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>Target lying down</TargetProne>
+  <TargetProne>Ціль лежить</TargetProne>
   <!-- EN: Target size -->
   <TargetSize>Розмір цілі</TargetSize>
   <!-- EN: Weather -->
@@ -671,19 +671,19 @@
   <!-- EN: no cover -->
   <NoCoverLower>без укриття</NoCoverLower>
   <!-- EN: Execution -->
-  <Execution>Execution</Execution>
+  <Execution>Страта</Execution>
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>робить {0}</RecipeMake>
+  <RecipeMake>зробити {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>Робить {0}.</RecipeMakeDescription>
+  <RecipeMakeDescription>Зробити {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Робить {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>administer {0}</RecipeAdminister>
+  <RecipeAdminister>призначити {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Призначає {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Застосовує {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
