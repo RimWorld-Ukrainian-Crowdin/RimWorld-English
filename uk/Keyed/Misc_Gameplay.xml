@@ -903,15 +903,15 @@
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
   <ShowRoomStatsToggleButton>Показати/приховати статистику кімнати.\n\nПоказує статистику кімнати в кімнаті, на яку вказує миша.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Відображення колоністської панелі.\n\nПоказує іконки і базовий стан всіх колоністів уверху екрану.\n\nВи можете посортувати колоністів на цій панелі клікнувши правою кнопкою миші і перетягнувши їх.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Перемкнути автоматичне розширення домашньої території навколо нових конструкцій.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Toggle automatic rebuild of destroyed structures in the home area.</AutoRebuildButton>
+  <AutoRebuildButton>Перемкнути автоматичну перебудову знищених структур в домашній території.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Показувати кількість ресурсів на складах повністю або за категоріями.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Показувати клички приручених тварин.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Toggle visibility of roofs.</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
