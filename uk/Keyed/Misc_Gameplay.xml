@@ -765,33 +765,33 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>з</OfLower>
+  <OfLower> </OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Не підключено до живлення.</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Grid excess/stored: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Запас потужності/акумульовано: {0} Вт / {1} Вт*днів</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Потрібно живлення</PowerNeeded>
+  <PowerNeeded>Споживана потужність</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>Power output</PowerOutput>
+  <PowerOutput>Видобуток енергії</PowerOutput>
   <!-- EN: Stored -->
-  <PowerBatteryStored>Збережений</PowerBatteryStored>
+  <PowerBatteryStored>Акумульовано</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>Efficiency</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>Ефективність</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
   <SelfDischarging>Само-розрядження</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
-  <TargetTemperature>Target temperature</TargetTemperature>
+  <TargetTemperature>Обрана температура</TargetTemperature>
   <!-- EN: Current power use -->
   <PowerConsumptionMode>Поточне використання енергії</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>високі</PowerConsumptionHigh>
+  <PowerConsumptionHigh>високе</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>низький</PowerConsumptionLow>
+  <PowerConsumptionLow>низьке</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
@@ -807,9 +807,9 @@
   <!-- EN: Rotting -->
   <RotStateRotting>Гниє</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>Dessicated</RotStateDessicated>
+  <RotStateDessicated>Скелет</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>Заморожені (не зіпсувати)</CurrentlyFrozen>
+  <CurrentlyFrozen>Заморожене (не зіпсується)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>Охолоджене (зіпсується через {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
@@ -821,11 +821,11 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Shot by {1_labelShort}</ShotBy>
+  <ShotBy>Постріл {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>Не можливо вразити ціль.</CannotHit>
+  <CannotHit>Не може вразити ціль.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Manhunter chance per hit</ManhunterPerHit>
+  <ManhunterPerHit>Шанс нападу у відповідь</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
