@@ -837,19 +837,19 @@
   <!-- EN: Growth rate -->
   <GrowthRate>Темп росту</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
+  <FullyGrownIn>Повінстю виросте через {0}.</FullyGrownIn>
   <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>Потрібний рівень освітленості</PlantNeedsLightLevel>
   <!-- EN: Resting -->
   <PlantResting>Відпочиває</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Non-ideal temperature. Temperature growth multiplier: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Неідеальна температура. Росте зі швидкістю {0}% від норми</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>Неідеальна температура. Не росте.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Готові до збору врожаю.</ReadyToHarvest>
+  <ReadyToHarvest>Можна збирати.</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>Зрілі.</Mature>
+  <Mature>Дозріло.</Mature>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Сезон росту</OutdoorGrowingPeriod>
   <!-- EN: Never -->
@@ -857,9 +857,9 @@
   <!-- EN: Year-round -->
   <GrowYearRound>Цілий рік</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>Growing season here now.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Зараз сезон росту.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Не може рости (поганий температурний сезон).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
   <Blighted>Blighted</Blighted>
   <!-- EN: Dying because exposed to light -->
