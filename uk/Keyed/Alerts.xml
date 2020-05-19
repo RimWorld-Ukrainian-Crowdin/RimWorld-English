@@ -99,9 +99,9 @@
   <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nЇм знадобиться ліжка, позначені для використання колоністами. Також переконайтеся, що вони побудовані.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Потрібен харчовий бункер</NeedFoodHopper>
+  <NeedFoodHopper>Потрібна харчова воронка</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без бункера поруч з ним.\n\nЩоб працювати, дозатори повинні витягувати з сусіднього бункера, заповненого сирою їжею.\n\nЗбудуйте бункер, що прилягає до дозатора.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без воронки поруч з ним.\n\nЩоб працювати, дозатори повинні витягувати з сусідньої воронки, заповненої сирою їжею.\n\nЗбудуйте воронку, що прилягає до дозатора.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
