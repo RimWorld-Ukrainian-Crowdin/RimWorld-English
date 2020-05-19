@@ -711,21 +711,21 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0}, фракція {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} в {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} під {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} (підпорядковується {1})</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{0} (підпорядковується {1})\nДомашня фракція: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective}, {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Фракція</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>Фракція, до якої на даний момент {PAWN_labelShort} належить.</FactionDesc>
+  <FactionDesc>Фракція, до якої на даний момент належить {PAWN_labelShort}.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
-  <ExtraFactionDesc>The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction.</ExtraFactionDesc>
+  <ExtraFactionDesc>Фракція, якій від самого початку належить {PAWN_labelShort}. {PAWN_pronoun} перейде у свою домашню фракцію опісля вони вийдуть з теперішньої.</ExtraFactionDesc>
   <!-- EN: Equipped -->
-  <Equipped>Equipped</Equipped>
+  <Equipped>Споряджено</Equipped>
   <!-- EN: nothing -->
   <EquippedNothing>нічого</EquippedNothing>
   <!-- EN: Dead -->
