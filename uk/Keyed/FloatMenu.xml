@@ -105,7 +105,7 @@
   <!-- EN: available food is in storage of higher priority -->
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>доступна їжа на складі з більшим пріорітетом</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
-  <NoFoodToFillHopper>відсутня їжа (бажана для харчування)</NoFoodToFillHopper>
+  <NoFoodToFillHopper>немає придатної їжі</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
   <SelfTendDisabled>самостійно, як правило, відключена</SelfTendDisabled>
   <!-- EN: reserved for prisoners -->
