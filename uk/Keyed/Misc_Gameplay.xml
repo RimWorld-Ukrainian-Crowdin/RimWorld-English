@@ -685,31 +685,31 @@
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Застосовує {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
+  <TeetotalerUnhappy>прихильник ЗСЖ буде незадоволений</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>пурист тіла буде незадоволений</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>біоконсерватор буде незадоволений</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Термін дії збігає: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>thought disabled by</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>думка не виникає через</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Starts expiring in: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Почне збігати через: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Finishes expiring in: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Закінчиться через: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>Поріг екстремального психічного зриву</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>Значний поріг зриву</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>Поріг значного психічного зриву</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>Незначний поріг зриву</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>Поріг незначного психічного зриву</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender}, {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{0} з {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0}, фракція {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
