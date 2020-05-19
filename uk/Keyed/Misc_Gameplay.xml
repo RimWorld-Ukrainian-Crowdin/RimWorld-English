@@ -509,33 +509,33 @@
   <!-- EN: Yield\nwasted -->
   <TextMote_YieldWasted>Урожай\nвтрачено</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
+  <TextMote_ProductWasted>Продукт\nвтрачено</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Вербування не вдалося!\n{0} шанс</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>Resistance\n{0} to {1}</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>Опір\nзмінено з {0} до {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Приручити не вдалося\n{0} шанс</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Приручено!\n{0} шанс</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+  <TextMote_TrainFail>Дресирування не вдалося: {0}\n{1} шанс</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
-  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>Дресирування вдалося: {0}\n{1} шанс</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>Repair\nbotched</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>Не вдалося\nпоремонтувати</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>Construction\nbotched</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>Не вдалося\nзбудувати</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_Dodge>Ухилення</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>Immune</TextMote_Immune>
+  <TextMote_Immune>Імунітет</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} tended</TextMote_Tended>
+  <TextMote_Tended>{0} вилікувано</TextMote_Tended>
   <!-- EN: low mood -->
-  <lowMood>low mood</lowMood>
+  <lowMood>поганий настрій</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>low opinion</lowOpinion>
+  <lowOpinion>погана думка</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
@@ -545,7 +545,7 @@
   <!-- EN: No roof -->
   <NoRoof>Без даху</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>Snow clear</SnowClear>
+  <SnowClear>Прибирання снігу</SnowClear>
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>Територія {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
@@ -553,13 +553,13 @@
   <!-- EN: New area -->
   <NewArea>Нова область</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>Invert</InvertArea>
+  <InvertArea>Інвертувати</InvertArea>
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Не можна замовити персонажів, яких ви не контролюєте.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Не можна наказувати персонажам, яких ви не контролюєте.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} не здатний на насильство.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} не в змозі заподіяти насильство.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>не здатний(а) на насильство</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
