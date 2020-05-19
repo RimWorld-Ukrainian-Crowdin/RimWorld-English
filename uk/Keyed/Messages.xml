@@ -301,7 +301,7 @@
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Деякі транспортні модулі недоступні.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>Усі лаунчери pod'а підключені до вибраного транспортного pod'а повинні бути прилеглими.</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>Усі пускові установки підключені до вибраних транспортних капсул повинні прилягати.</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
