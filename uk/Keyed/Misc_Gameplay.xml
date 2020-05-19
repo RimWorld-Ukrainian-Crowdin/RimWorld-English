@@ -923,17 +923,17 @@
   <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>Перемкнути відображення зон дня і ночі на планеті.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Перемкнути збільшення іконок для далеких об'єктів.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>Toggle visibility of names of landforms.</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Показувати назви форм рельєфу.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>fire on {1_label}</FireOn>
+  <FireOn>вогонь на {1_label}</FireOn>
   <!-- EN: Burning -->
-  <Burning>Burning</Burning>
+  <Burning>Горить</Burning>
   <!-- EN: fire size {0} -->
-  <FireSizeLower>fire size {0}</FireSizeLower>
+  <FireSizeLower>площа пожежі {0}</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
@@ -941,13 +941,13 @@
   <!-- EN: time left -->
   <TimeLeft>залишилось часу</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>impact date</ImpactDate>
+  <ImpactDate>дата удару</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>Source unknown.</SourceUnknown>
+  <SourceUnknown>Джерело невідоме.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>Клікніть, щоб перейти то джерела.</ClickToJumpToSource>
+  <ClickToJumpToSource>Клікніть, щоб перейти до джерела.</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>Click to jump to the flashstorm.</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>Клікніть, щоб перейти до грози.</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
   <CausedByQuest>Спричинено дорученням: {0}</CausedByQuest>
 
@@ -961,7 +961,7 @@
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Неможливо розмістити під дахом.</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>Must place with head attached to ship structural beam.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>Потрібно розміщувати впритул до корабельного блоку.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
   <MustPlaceNextToHopperAccepter>Повинно бути розміщеним поряд із чимось, що потребує бункер.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
