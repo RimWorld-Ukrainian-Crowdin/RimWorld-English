@@ -973,17 +973,17 @@
   <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>Цей об'єкт слід ставити на вільному зі всіх сторін місці.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>Слід розмістити поряд з портом для заправки пускових установок.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>Must be placed on drillable resources.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>Слід розмістити над підземними ресурсами.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>Cannot be placed next to traps.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Не розміщуватись біля пастки.</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Заблоковано</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>Заважає</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Заблоковано дахом</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>Заважає дах</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
