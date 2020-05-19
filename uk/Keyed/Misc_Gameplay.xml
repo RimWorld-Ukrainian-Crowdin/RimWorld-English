@@ -861,9 +861,9 @@
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Не може рости (поганий температурний сезон).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Blighted</Blighted>
+  <Blighted>Вражено хворобою</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Dying because exposed to light</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Вмирає на світлі</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -883,25 +883,25 @@
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>{0} hit points</HitPoints>
+  <HitPoints>Цілісність {0}</HitPoints>
   <!-- EN: any quality -->
   <AnyQuality>будь-яка якість</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>{0} тільки</OnlyQuality>
+  <OnlyQuality>тільки {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
-  <Undiscovered>Невідкрите</Undiscovered>
+  <Undiscovered>Не розвідано</Undiscovered>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Перемкнути відображення помічника в навчанні.\n\nПомічник завжди буде видимий, навіть, якщо не буде активної теми для вивчення. Ця кнопка прибирає його, якщо жодна тема не активована.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>Перемкнути видимість зон.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Перемикач відображення краси.\n\nПоказує красу світу, як її сприймає персонаж, який стоїть на місці вказівника миші.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Показати/приховати статистику кімнати.\n\nПоказує статистику кімнати в кімнаті, на яку вказує миша.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
