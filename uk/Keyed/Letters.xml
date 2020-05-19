@@ -500,20 +500,6 @@
   <!-- EN: You have concluded the quest '{0}'. -->
   <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded>
 
-  <!-- Average pawn mood -->
-  <!-- EN: {asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}. -->
-  <LetterAveragePawnMoodSuccess>{asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
-  <!-- EN: While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward. -->
-  <LetterAveragePawnMoodFail>While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward.</LetterAveragePawnMoodFail>
-  <!-- EN: the guests -->
-  <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
-  <!-- EN: {asker_nameDef}'s -->
-  <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
-  <!-- EN: their -->
-  <LetterAveragePawnMoodPossessivePlural>their</LetterAveragePawnMoodPossessivePlural>
-  <!-- EN: {asker_possessive} -->
-  <LetterAveragePawnMoodPossessive>{asker_possessive}</LetterAveragePawnMoodPossessive>
-
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
   <LetterBladelinkWeaponBondedLabel>Persona bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
@@ -527,5 +513,13 @@
   <LetterLabelMechClusterArrived>Mechanoids arrived</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>Mechanoids have arrived.</LetterMechClusterArrived>
+
+  <!-- UNUSED -->
+  <LetterAveragePawnMoodSuccess>{asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
+  <LetterAveragePawnMoodFail>While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward.</LetterAveragePawnMoodFail>
+  <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
+  <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
+  <LetterAveragePawnMoodPossessivePlural>their</LetterAveragePawnMoodPossessivePlural>
+  <LetterAveragePawnMoodPossessive>{asker_possessive}</LetterAveragePawnMoodPossessive>
 
 </LanguageData>
