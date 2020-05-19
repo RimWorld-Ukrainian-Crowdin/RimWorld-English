@@ -455,13 +455,13 @@
   <!-- EN: Psychic entropy -->
   <PsychicEntropy>Психічна ентропія</PsychicEntropy>
   <!-- EN: Entropy -->
-  <PsychicEntropyShort>Entropy</PsychicEntropyShort>
+  <PsychicEntropyShort>Ентропія</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>{0} pain boost</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} больового збільшення</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>радіус {0}</ConditionCauserRadius>
   <!-- EN: Psyfocus -->
-  <Psyfocus>Psyfocus</Psyfocus>
+  <Psyfocus>Психофокус</Psyfocus>
   <!-- EN: low psyfocus -->
   <LowPsyfocus>низький психофокус</LowPsyfocus>
   <!-- EN: {0} left -->
@@ -477,7 +477,7 @@
   <!-- EN: User scanning speed -->
   <UserScanAbility>Швидкість сканування користувачів</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>Random find interval</ScanAverageInterval>
+  <ScanAverageInterval>Випадковий інтервал знаходження</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>Progress to guaranteed find</ScanningProgressToGuaranteedFind>
   
