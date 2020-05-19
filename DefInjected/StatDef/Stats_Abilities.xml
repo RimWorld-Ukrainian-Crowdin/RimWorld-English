@@ -37,8 +37,8 @@
   
   <!-- EN: psyfocus cost -->
   <Ability_PsyfocusCost.label>psyfocus cost</Ability_PsyfocusCost.label>
-  <!-- EN: How much psyfocus must be spent to performing this ability. -->
-  <Ability_PsyfocusCost.description>How much psyfocus must be spent to performing this ability.</Ability_PsyfocusCost.description>
+  <!-- EN: How much psyfocus must be spent to perform this ability. -->
+  <Ability_PsyfocusCost.description>How much psyfocus must be spent to perform this ability.</Ability_PsyfocusCost.description>
   
   <!-- EN: range -->
   <Ability_Range.label>range</Ability_Range.label>
