@@ -817,13 +817,13 @@
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
   <!-- EN: Every day -->
-  <EveryDay>Every day</EveryDay>
+  <EveryDay>Щодня</EveryDay>
   <!-- EN: {0} times per day -->
-  <TimesPerDay>{0} times per day</TimesPerDay>
+  <TimesPerDay>{0} разів на день</TimesPerDay>
   <!-- EN: Every {0} days -->
-  <EveryDays>Every {0} days</EveryDays>
+  <EveryDays>Кожні {0} днів</EveryDays>
   <!-- EN: Any -->
-  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
+  <NoDrugUseRequirement>Будь-які</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
   <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
@@ -957,6 +957,6 @@
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>{0} must target an unroofed area.</AbilityRoofed>
   <!-- EN: {0} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0} is mentally broken.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0} психічно зломлений.</AbilityCantApplyToMentallyBroken>
   
 </LanguageData>
