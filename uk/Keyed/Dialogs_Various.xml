@@ -527,7 +527,7 @@
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
   <NegotiatorHearingImpaired>Ваш переговорник {1_labelShort} не може почути належним чином через погане здоров'я.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>Це вплине на ціни для торгівлі.\n\nСпробуйте використати більш здорового переговорника.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
@@ -567,17 +567,17 @@
   <!-- EN: Restocked since your last visit -->
   <TraderRestockedSinceLastVisit>Відновлено з часу вашого останнього відвідування </TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>Next restock: {0} days</NextTraderRestock>
+  <NextTraderRestock>Наступне відновлення: {0} днів</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Creatures</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
+  <FormCaravan>Сформувати караван</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Кількість, яку можна відправити з караваном.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
-  <PawnsTab>People and animals</PawnsTab>
+  <PawnsTab>Люди і тварини</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>Предмети</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
@@ -601,11 +601,11 @@
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
   <CaravanVisibilityTip>Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>Days of food</DaysWorthOfFood>
+  <DaysWorthOfFood>Їжі на днів</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
-  <DaysWorthOfFoodInfoRot>rot in {0}</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFoodInfoRot>гнити в {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
-  <InfiniteDaysWorthOfFoodInfo>Unlimited</InfiniteDaysWorthOfFoodInfo>
+  <InfiniteDaysWorthOfFoodInfo>Необмежено</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Приблизна кількість днів перед тим, як хоча б одна людина чи тварина залищиться без їжі. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
@@ -617,7 +617,7 @@
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
   <ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
+  <ForagedFoodPerDay>Корму в день</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
   <CaravanFoodWillRotSoonWarningDialog>Велика частина їжі з каравану скоро стане черствою.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
