@@ -1093,7 +1093,7 @@
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Термін дії збігає:</LifespanExpiry>
+  <LifespanExpiry>Термін дії збігає через:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
