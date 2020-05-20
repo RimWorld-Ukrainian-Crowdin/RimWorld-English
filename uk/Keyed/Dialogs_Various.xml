@@ -477,31 +477,31 @@
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>has childhood</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>має дитинство</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>has adulthood</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>має доросле життя</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>has trait</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>does not have trait</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>не має ознаки</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>Enables meditation focus types</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Вмикає типи фокусу на медитації</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
+  <BuyPriceDesc>Ціна, яку ви платите, щоб купити це.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
+  <SellPriceDesc>Ціна, яку ви отримаєте при продажу.</SellPriceDesc>
   <!-- EN: For this item, this price is {0}. -->
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
+  <PriceTypeDesc>Для цього предмету ця ціна {0}.</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
   <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>How many of this item the trader has to trade.</TraderCount>
   <!-- EN: Accept -->
-  <AcceptButton>Accept</AcceptButton>
+  <AcceptButton>Прийняти</AcceptButton>
   <!-- EN: Reset -->
   <ResetButton>Скинути</ResetButton>
   <!-- EN: Cancel -->
@@ -515,9 +515,9 @@
   <!-- EN: Trader has no more. -->
   <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
   <!-- EN: No more to sell. -->
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
+  <ColonyHasNoMore>Більше не продати.</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
+  <TraderWillNotTrade>Торговець не бажає цього купувати.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Парламентер</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
@@ -533,39 +533,39 @@
   <!-- EN: Sort by -->
   <SortBy>Сортувати за</SortBy>
   <!-- EN: trader type -->
-  <TraderTypePrice>trader type</TraderTypePrice>
+  <TraderTypePrice>тип трейдера</TraderTypePrice>
   <!-- EN: selling -->
-  <Selling>selling</Selling>
+  <Selling>продажа</Selling>
   <!-- EN: buying -->
-  <Buying>buying</Buying>
+  <Buying>купівля</Buying>
   <!-- EN: item sell price multiplier -->
-  <ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
+  <ItemSellPriceFactor>множник ціни продажу</ItemSellPriceFactor>
   <!-- EN: difficulty level -->
-  <DifficultyLevel>difficulty level</DifficultyLevel>
+  <DifficultyLevel>рівень складності</DifficultyLevel>
   <!-- EN: global post-process curve -->
-  <PostCurve>global post-process curve</PostCurve>
+  <PostCurve>глобальна крива постобробки</PostCurve>
   <!-- EN: Your negotiator bonus -->
-  <YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
+  <YourNegotiatorBonus>Ваш бонус для переговорів</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
   <!-- EN: minimum -->
-  <minimum>minimum</minimum>
+  <minimum>мінімум</minimum>
   <!-- EN: Final price -->
-  <FinalPrice>Final price</FinalPrice>
+  <FinalPrice>Кінцева ціна</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
   <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>Return to trade mode.</TradeModeTip>
+  <TradeModeTip>Повернутися в режим торгівлі.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
   <TradeCaravanRequestDeniedDueTitle>{FACTION_name} не бажає відправляти караван, тому що {NEGOTIATOR_nameDef} не має необхідний титул {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>Things this trader will buy</SellableItemsTitle>
+  <SellableItemsTitle>Речі, які цей трейдер купить</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>Never visited - stock unknown</TraderNotVisitedYet>
+  <TraderNotVisitedYet>Ніколи не відвідувався - Акції невідомо</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>Restocked since your last visit</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>Відновлено з часу вашого останнього відвідування </TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
   <NextTraderRestock>Next restock: {0} days</NextTraderRestock>
   <!-- EN: Creatures -->
