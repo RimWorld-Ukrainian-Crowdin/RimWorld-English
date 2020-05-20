@@ -1295,13 +1295,13 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>Перехоплює {0} кожен {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Перехоплює {0} кожні {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
   <InterceptsProjectiles>Перехоплює {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>ground projectiles</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>снаряди з настильною траєкторією</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>aerial projectiles</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>снаряди з навісною траєкторією</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
@@ -1309,7 +1309,7 @@
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>Caused by: {0}</CausedByHediff>
+  <CausedByHediff>Викликано через: {0}</CausedByHediff>
   
   <!-- UNUSED -->
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
