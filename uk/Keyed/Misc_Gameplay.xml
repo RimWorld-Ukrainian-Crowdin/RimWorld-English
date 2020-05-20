@@ -1253,11 +1253,11 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>{0_age}-{0_gender ? літній : літня} {0_title} на ім'я {0_nameDef} прибуде в транспортній капсулі {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>{0_age}-{0_gender ? літній : літня} {0_title} на ім'я {0_nameDef} прибуде і приєднається до вас {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>{0_age}-{0_gender ? літній : літня} {0_title} на ім'я {0_nameDef} приєднається до вас {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
   <Reward_Items>транспортні капсули прибудуть з наступними ресурсами (загальна вартість {1}):
@@ -1267,21 +1267,21 @@
   <Reward_Items_Caravan>ви отримаєте (загальна вартість {1}):
 \n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>ваші фракційні стосунки з {0_name} покращаться на {1}</Reward_Goodwill>
+  <Reward_Goodwill>стосунки з фракцією {0_name} покращаться на {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>you will be taken to the stars</Reward_PassageOffworld>
+  <Reward_PassageOffworld>ви потрапите до зірок</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>Passage offworld</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>Покинення планети</Reward_PassageOffworld_Label>
   <!-- EN: value {0} -->
-  <TotalValue>value {0}</TotalValue>
+  <TotalValue>загальне значення {0}</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Прив'язаний до: {0}</BondedWith>
+  <BondedWith>Прив'язано до: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>Ще не прив'язаний</NotBonded>
+  <NotBonded>Ще не прив'язано</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>прив’язаний до когось іншого</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>прив’язано до когось іншого</BladelinkBondedToSomeoneElse>
   <!-- EN: P-{LABEL} -->
   <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
 
