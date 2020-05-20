@@ -1161,7 +1161,7 @@
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
   <DeepDrillExhausted>Ресурси глибинного буріння виснажені, бур автоматично заборонено. Зніміть заборону, щоб почати добувати {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>Ресурси глибокого буріння вичерпані.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>Ресурси глибинного буріння вичерпані.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1175,7 +1175,7 @@
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+  <CompassTip>Показує північний напрямок. Клікніть, щоб повернути камеру так, щоб північний полюс був угорі.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
@@ -1185,17 +1185,17 @@
   <!-- EN: Add one or more waypoints. -->
   <RoutePlannerAddOneOrMoreWaypoints>Додати одну або кілька точок.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>Загальний час маршруту: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Режим планування використовує типову швидкість каравану. Ваша швидкість може відрізнятися.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Розрахунок для: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Права кнопка миші: Додати/видалити точки.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: Вийти з режиму планування.</RoutePlannerPressEscapeToExit>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Повернутися до формування каравану.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>Прибл. час подорожі: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
@@ -1203,7 +1203,7 @@
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToTile>Прибл. час подорожі: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>Foraged food amount</ForagedFoodAmount>
+  <ForagedFoodAmount>Кількість збираної їжі</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
@@ -1217,15 +1217,15 @@
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>Hibernating</HibernatableHibernating>
+  <HibernatableHibernating>Гібернація</HibernatableHibernating>
   <!-- EN: Starting up -->
   <HibernatableStartingUp>Запускається</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: See available orders...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Дізнатися про можливі накази...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>Переглянути доступні замовлення...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Переглянути доступні накази...</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
@@ -1237,19 +1237,19 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Психічна ентропія: {0} / {1}\nШвидкість падіння: {2} / с ({3} с до нуля)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Психічна ентропія підвищується після виконання психокасту. Going over the normal limit can lead to psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Психічна ентропія підвищується після виконання психокасту. Перевищуючи допустимий ліміт, може статися психічний зрив, який триватиме днями.\n\nПсихічна ентропія з часом сама розсіюється. Цей процес може бути прискорений носінням елтекс одягу або болем.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Підсилення болю\n\nБіль фокусує розум і пришвидшує відновлення психічної ентропії.\n\nРівень болю: {0}\nБонус до відновлення ентропії: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Перемкнути обмеження психічної ентропії. Перевищення ліміту ентропії може викликати психічний зрив, що триватиме днями. Це не призведе до постійної шкоди.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>Psyfocus: {0}</PawnTooltipPsyfocus>
+  <PawnTooltipPsyfocus>Психофокус: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>{0} створено {1}</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{1}, {0}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
