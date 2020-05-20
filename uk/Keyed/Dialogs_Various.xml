@@ -461,19 +461,19 @@
   <!-- EN: ground -->
   <TargetGround>земля</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>Click to learn more.</ClickToLearnMore>
+  <ClickToLearnMore>Клiкніть, щоб дізнатись більше.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>Натисніть для перегляду фракцій.</ClickToViewFactions>
   <!-- EN: meditation focus types -->
   <MeditationFocuses>meditation focus types</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>Unlocks meditation focus types</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Розблоковує типи фокусів для медитації</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
   <MeditationFocusesPawnDesc>The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>Can use {0} focus type because</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Можна використовувати тип фокусу {0}, тому що</MeditationFocusCanUse>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
@@ -509,7 +509,7 @@
   <!-- EN: Close -->
   <CloseButton>Закрити</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
+  <YourTradeableSilver>Ваше торгівельне срібло: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
   <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
@@ -523,9 +523,9 @@
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>Negotiator: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>Your negotiator {1_labelShort} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Ваш переговорник {1_labelShort} не може говорити належним чином через погане здоров'я.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>Your negotiator {1_labelShort} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>Ваш переговорник {1_labelShort} не може почути належним чином через погане здоров'я.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
