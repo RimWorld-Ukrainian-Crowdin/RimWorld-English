@@ -1101,17 +1101,17 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} {1} зараз зростає.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}: {1} зараз зростає.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}: {1} стабілізується.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}: {1} переходить на стадії ремісії.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Тепер можна використовувати.</MarriageSpotUsable>
+  <MarriageSpotUsable>Можна використовувати.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Неможливо: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Не можна використовувати: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>заблоковано</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
@@ -1121,15 +1121,15 @@
   <!-- EN: reserved -->
   <MarriageSpotReserved>зарезервовано</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>unreachable for {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>недосяжно для {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>у тюремній камері</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>некомфортна температура</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
-  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
+  <ActivityIconMedicalRest>Відпочиває на лік. ліжку</ActivityIconMedicalRest>
   <!-- EN: Sleeping -->
   <ActivityIconSleeping>Спить</ActivityIconSleeping>
   <!-- EN: Fleeing -->
@@ -1145,21 +1145,21 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
+  <DueForMaintenance>Потрібне обслуговування.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Псується через відсутність обслуговування.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+  <ProgressToNextLump>Прогрес до наст. брили</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Resource below</ResourceBelow>
+  <ResourceBelow>Ресурс внизу</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>Progress to next portion</ProgressToNextPortion>
+  <ProgressToNextPortion>Прогрес до наступної порції</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>No resources below.</DeepDrillNoResources>
+  <DeepDrillNoResources>Немає ресурсів унизу.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}.</DeepDrillExhausted>
+  <DeepDrillExhausted>Ресурси глибинного буріння виснажені, бур автоматично заборонено. Зніміть заборону, щоб почати добувати {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>Ресурси глибокого буріння вичерпані.</DeepDrillExhaustedNoFallback>
 
