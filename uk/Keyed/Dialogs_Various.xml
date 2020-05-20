@@ -631,7 +631,7 @@
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>Вага цього елемента.</ItemWeightTip>
   <!-- EN: Market value -->
-  <MarketValueTip>Market value</MarketValueTip>
+  <MarketValueTip>Ринкова ціна</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
   <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
@@ -643,15 +643,15 @@
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>Nutrition eaten per day. For reference, simple meals have {0} nutrition.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
-  <CanEat>Can eat</CanEat>
+  <CanEat>Можуть їсти</CanEat>
   <!-- EN: Legend -->
-  <Legend>Legend</Legend>
+  <Legend>Легенда</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Mass carried</MassCarriedSimple>
   <!-- EN: Mass capacity -->
   <MassCapacity>Mass capacity</MassCapacity>
   <!-- EN: Mass -->
-  <Mass>Mass</Mass>
+  <Mass>Маса</Mass>
   <!-- EN: Caravan mass -->
   <CaravanMass>Caravan mass</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
@@ -671,19 +671,19 @@
   <!-- EN: Animals -->
   <AnimalsSection>Тварини</AnimalsSection>
   <!-- EN: Choose route -->
-  <ChooseRouteButton>Choose route</ChooseRouteButton>
+  <ChooseRouteButton>Обрати рейс</ChooseRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Покинути</AbandonButton>
   <!-- EN: Movement speed -->
-  <CaravanMovementSpeed>Movement speed</CaravanMovementSpeed>
+  <CaravanMovementSpeed>Швидкість руху</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
   <TilesPerDay>tiles/day</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty.</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>Швидкість руху залежить від середньої швидкості всіх людей і тварин, маси, що перевозится і рельєфу утруднення руху.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>Animals will be able to graze</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>Тварини зможуть випасатися</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>Animals can graze</AnimalsCanGraze>
+  <AnimalsCanGraze>Тварини можуть пастися </AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
   <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
@@ -691,11 +691,11 @@
   <!-- EN: ({0}) -->
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
-  <CantGrazeBecauseOfTemp>(too cold for {0} more days)</CantGrazeBecauseOfTemp>
+  <CantGrazeBecauseOfTemp>(занадто холодно для {0} більше днів)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
   <TotalNutrition>Total nutrition</TotalNutrition>
   <!-- EN: Not moving -->
-  <CaravanNotMoving>Not moving</CaravanNotMoving>
+  <CaravanNotMoving>Не рухається</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
   <ForagedNutritionPerDay>Foraged nutrition per day</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
@@ -741,25 +741,25 @@
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>Соціальні навички: {0}</SocialSkillIs>
   
   <!--Research-->
   <!-- EN: Research finished: {0} -->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
+  <ResearchFinished>Дослідження завершено: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchScreen>Екран Досліджень</ResearchScreen>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
+  <HistoryUploadMessage>Чи хочете ви завантажити дані вашої гри на сервер RimWorld для того, щоб допомогти розробникам покращити гру? Якщо ви згодні, ваші дані будуть завантажені кожні {0} днів (а в деяких інших рідкісних випадках, як-от кінець гри). Налаштування конфіденційності можуть бути змінені пізніше в меню параметрів.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>Хоча історія відправлена анонімно, ви можете вказати ваше ім'я.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
+  <HistoryUploadYes>Дозволяю завантажувати дані ігри</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
+  <HistoryUploadNo>Не дозволяю завантажувати дані ігри</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>Завантажувати лише цього разу</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
   
@@ -773,31 +773,31 @@
   <!-- EN: Delete outfit... -->
   <DeleteOutfit>Видалити набір одягу...</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
+  <OutfitInUse>Наряд використовується {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
   <NoOutfitSelected>No outfit selected</NoOutfitSelected>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>Drug policy</DrugPolicy>
+  <DrugPolicy>Ставлення до наркотиків</DrugPolicy>
   <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
+  <SelectDrugPolicy>Виберіть політику...</SelectDrugPolicy>
   <!-- EN: New policy -->
-  <NewDrugPolicy>New policy</NewDrugPolicy>
+  <NewDrugPolicy>Нова політика</NewDrugPolicy>
   <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
+  <DeleteDrugPolicy>Видалити політику...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Політики в галузі лікарських засобів використовується {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Food restriction is in use by {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Social drugs</SocialDrugs>
   <!-- EN: No drugs -->
-  <NoDrugs>No drugs</NoDrugs>
+  <NoDrugs>Ніяких наркотиків</NoDrugs>
   <!-- EN: One drink per day -->
-  <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
+  <OneDrinkPerDay>Один напій в день</OneDrinkPerDay>
   <!-- EN: Unrestricted -->
-  <Unrestricted>Unrestricted</Unrestricted>
+  <Unrestricted>Без обмежень</Unrestricted>
   <!-- EN: No drug policy selected -->
   <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
@@ -805,9 +805,9 @@
   <!-- EN: Drug -->
   <DrugColumnLabel>Drug</DrugColumnLabel>
   <!-- EN: Usage -->
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
+  <DrugUsageColumnLabel>Використання</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
-  <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
+  <FrequencyColumnLabel>Частота</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
   <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
