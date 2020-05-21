@@ -1273,9 +1273,9 @@
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>Покинення планети</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>ви можете забрати все з табору</Reward_CampLoot>
+  <Reward_CampLoot>ви можете пограбувати весь табір</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>Camp loot</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>Здобич з табору</Reward_CampLoot_Label>
   <!-- EN: value {0} -->
   <TotalValue>загальне значення {0}</TotalValue>
   
