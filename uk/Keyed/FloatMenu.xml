@@ -28,9 +28,9 @@
   <!-- EN: out of range -->
   <OutOfRange>поза діапазоном</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>too close</TooClose>
+  <TooClose>занадто близько</TooClose>
   <!-- EN: Cannot hit target -->
-  <CannotHitTarget>Cannot hit target</CannotHitTarget>
+  <CannotHitTarget>Не можливо вразити ціль</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>{1_labelShort} не здатний на насильство</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
@@ -40,7 +40,7 @@
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
-  <CannotAttackSelf>cannot attack self</CannotAttackSelf>
+  <CannotAttackSelf>не можна атакувати самостійно</CannotAttackSelf>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Людина {1_labelShort}</OrderManThing>
@@ -52,7 +52,7 @@
   <!-- EN: no path -->
   <NoPath>шлях не знайдено</NoPath>
   <!-- EN: burying -->
-  <Burying>burying</Burying>
+  <Burying>закопування</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>заборонено</ForbiddenLower>
