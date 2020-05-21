@@ -60,9 +60,9 @@
   <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
   <ClauseSequence6>{0}. {1} і {2}. До того ж, {3} і {4}. Нарешті, {5}.</ClauseSequence6>
   <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
-  <ClauseSequence7>{0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}.</ClauseSequence7>
+  <ClauseSequence7>{0} і {1}. {2} і {3}. До того ж, {4} і {5}. Нарешті, {6}.</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
-  <ClauseSequence8>{0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}.</ClauseSequence8>
+  <ClauseSequence8>{0} і {1}. До того ж, {2} і {3}. {4} і {5}. Нарешті, {6} і {7}.</ClauseSequence8>
 
   <!-- EN: {0} or {1} -->
   <XorY>{0} or {1}</XorY>
