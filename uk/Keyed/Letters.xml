@@ -488,7 +488,7 @@
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>Quest completed</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Доручення завершено</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
   <LetterQuestFailedLabel>Доручення не було виконано</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
