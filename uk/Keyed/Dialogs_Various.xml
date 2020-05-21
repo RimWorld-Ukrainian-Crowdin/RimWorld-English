@@ -449,7 +449,7 @@
   <!-- EN: Power consumption -->
   <PowerConsumption>Споживання електроенергії</PowerConsumption>
   <!-- EN: Target -->
-  <Target>Target</Target>
+  <Target>Ціль</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
   <AbilityTargetDesc>Види цілей, щодо яких можна використовувати цю можливість.</AbilityTargetDesc>
   <!-- EN: human -->
