@@ -137,7 +137,7 @@
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
-  <LetterLabelFarmAnimalsWanderIn>{0} join</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} приєднатись</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>Група {0}, кинуті або загублені, приблукали в цей районі.\n\nВони, схоже, звикли до контакту з людиною і приєднуються до колонії.</LetterFarmAnimalsWanderIn>
   
@@ -149,7 +149,7 @@
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>{1} from {0}</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{1} від {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>Караван з {0} наближається. Вони {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
@@ -173,7 +173,7 @@
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. Ви можете почати запуск, взаємодіючи з комп'ютерним ядром.\n\n(*Name)Шарлон Вайтстоун(/Name) попереджає, що цей процес триватиме близько 15 днів.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>Ship destroyed</EscapeShipLostLabel>
+  <EscapeShipLostLabel>Корабель знищено</EscapeShipLostLabel>
   <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
   <EscapeShipLost>(*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet.</EscapeShipLost>
 
@@ -187,7 +187,7 @@
   <!-- EN: Attack -->
   <CaravanMeeting_Attack>Атакувати</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Рухатися далі</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>нема членів каравану, здатних до торгівлі</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
