@@ -429,25 +429,25 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Шанс помсти на шкоду</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>Шанс на те, що ця істота прагне помститися після ураження нападом з діапазоном гвинтівки.\n\nЦей шанс зросте, якщо нападник ближче. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Шанс на те, що ця істота прагне помститися після ураження нападом з діапазоном гвинтівки.\n\nЦей шанс зросте, якщо нападник ближче. Якщо атакувати на дуже близькому діапазоні, шанс утричі більший.\nЦей шанс застосовувати кожного разу пошкодження, тому повільніше стрільба з боку більш високої шкоди рідше може викликати її.\nЩоб мінімізувати ймовірність істоти, яка шукає помсти, атакуйте її від гвинтівки за допомогою повільної зброї.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Шанс помсти на шкоду</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>Terrain requirement</TerrainRequirement>
+  <TerrainRequirement>Вимога родючості</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>Supports</Supports>
+  <Supports>Підтримка</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>Trap armor penetration</TrapArmorPenetration>
+  <TrapArmorPenetration>Пробиття броні</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>Rearm cost</RearmCost>
+  <RearmCost>Вартість переозброєння</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Resources needed to rearm this turret (affected by difficulty).</RearmCostExplanation>
+  <RearmCostExplanation>Ресурси, необхідні для переозброєння цієї башти (впливають на складність).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>Shots before rearm</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Знайомство перед переозброєнням</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>How many shots this turret can fire before it has to be rearmed.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Скільки пострілів може стріляти ця вежа перед її переозброєнням.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>Power consumption</PowerConsumption>
+  <PowerConsumption>Споживання електроенергії</PowerConsumption>
   <!-- EN: Target -->
   <Target>Target</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
@@ -465,13 +465,13 @@
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>Натисніть для перегляду фракцій.</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>meditation focus types</MeditationFocuses>
+  <MeditationFocuses>Типи медитаційних фокусів</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>Розблоковує типи фокусів для медитації</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Вмикає типи фокусу на медитації</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on.</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>Види медитації, в яких може бути. При медитації, людина може зосередитися на об'єкт, щоб підвищити вигоду від психічного фокусу, але лише в тому випадку, якщо цей об'єкт пропонує той тип фокусу, який він може використати. Типи медитацій кожної людини визначаються їх фоном, рисами, соціальним положенням і так далі.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on.</MeditationFocusesDesc>
+  <MeditationFocusesDesc>Види медитації, в яких може бути. Медиторна людина може зосередитися на цьому об'єкті, щоб підвищити свій психічний акцент, але тільки якщо вони можуть використовувати один з його типів медитації. Кожна людина може використовувати різні типи медитацій в залежності від їх фону, ознак, соціальної позиції і так далі.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
   <MeditationFocusCanUse>Можна використовувати тип фокусу {0}, тому що</MeditationFocusCanUse>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
@@ -481,7 +481,7 @@
   <!-- EN: has adulthood -->
   <MeditationFocusEnabledByAdulthood>має доросле життя</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>has trait</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>має рису</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>не має ознаки</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -489,7 +489,7 @@
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>Додатні числа купуються.\nВід'ємні числа продаються.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>Ціна, яку ви платите, щоб купити це.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
@@ -497,9 +497,9 @@
   <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>Для цього предмету ця ціна {0}.</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
+  <ColonyCount>Скільки з цього предмету колонія готова до торгівлі.\n\nВи можете продавати предмети тільки орбітальним торговцям, якщо вони поблизу маяку орбітальної торгівлі.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
+  <TraderCount>Скільки з цього предмету, він повинен торгувати.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Прийняти</AcceptButton>
   <!-- EN: Reset -->
@@ -511,9 +511,9 @@
   <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>Ваше торгівельне срібло: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>Ти можеш торгувати із сріблом, який знаходиться поблизу орбітальної торгівлі, а не під дахом.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
+  <TraderHasNoMore>Трейдер не має більше.</TraderHasNoMore>
   <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Більше не продати.</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
@@ -529,7 +529,7 @@
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>Це вплине на ціни для торгівлі.\n\nСпробуйте використати більш здорового переговорника.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>Трейдер має недостатню кількість срібла для повного покриття цієї транзакції. Все одно продовжити?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>Сортувати за</SortBy>
   <!-- EN: trader type -->
