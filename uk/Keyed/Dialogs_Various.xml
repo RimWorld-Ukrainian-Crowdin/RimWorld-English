@@ -553,7 +553,7 @@
   <!-- EN: Final price -->
   <FinalPrice>Кінцева ціна</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
+  <GiftModeTip>Режим подарунка - пропонуйте подарунки {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Повернутися в режим торгівлі.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
@@ -569,7 +569,7 @@
   <!-- EN: Next restock: {0} days -->
   <NextTraderRestock>Наступне відновлення: {0} днів</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>Creatures</PawnsTabShort>
+  <PawnsTabShort>Істоти</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -593,7 +593,7 @@
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Ніхто з призначених колоністів не може дістатись {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>Ніхто з призначених колоністів не може дістатись {0}x {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
   <TooBigCaravanMassUsage>Караван не може нести так багато.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
@@ -685,7 +685,7 @@
   <!-- EN: Animals can graze -->
   <AnimalsCanGraze>Тварини можуть пастися </AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
-  <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
+  <PossibleToGrazeFor>(ще {0} днів)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
   <PossibleToGrazeForever>(назавжди)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
@@ -713,13 +713,13 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony!</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>Ви впевнені, що бажаєте атакувати {0}?\n\nЦе зробить {1} ворожим до вас, і в кінцевому підсумку вони почнуть нападати на вашу колонію!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Завантажити {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>Призначені люди і предмети, занадто важкі для шатла.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
   <TooBigTransporterSingleMassUsage>Призначені люди і предмети, занадто важкі для шатла.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
@@ -727,9 +727,9 @@
   <!-- EN: You can't send empty shuttle. -->
   <CantSendEmptyTransporterSingle>Ви не можете відправити порожнє повідомлення.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort} can't reach the transport pods.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} не може дістатися до транспортних стручків.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>{1_labelShort} can't reach the shuttle.</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} не може дістатися до транспортних стручків.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Немає шляху між транспортним поясом і {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
@@ -835,15 +835,15 @@
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
   <MoodThresholdColumnDesc>Колоністи приймуть цей препарат лише в тому випадку, якщо рівень настрою нижче цього порогу.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their recreation level is below this threshold.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Колоністи приймуть цей препарат лише в тому випадку, якщо рівень настрою нижче цього порогу.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>Обсяг препарату, що витягне додатково для споживання для того, щоб уникнути необхідності щоразу відвідувати запаси наркотиків.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Для залежностей\n\nвикористовувати цей препарат для живлення вже налаштованих залежностей.\n\nНавіть якщо це вимкнено, деякі символи з певними рисами або психічними перервами, все одно можуть використовувати ліки.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>Для залежностей\n\nвикористовувати цей препарат для живлення вже налаштованих залежностей.\n\nНавіть якщо це вимкнено, деякі символи з певними рисами або психічними перервами, все одно можуть використовувати ліки.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>Заплановано\n\nВикористовуйте цей препарат за заданим графіком, коли виконуються конкретні умови.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
@@ -883,17 +883,17 @@
   <!-- EN: Neutral faction -->
   <MedGroupNeutralFaction>Нейтральна фракція</MedGroupNeutralFaction>
   <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupHostileFaction>Ворожа поверхня</MedGroupHostileFaction>
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} потребує вміння {1} майстерності вирощування сіяти.\n\nЖоден з ваших непохованих виробників має це вміння, так що ця рослина не буде надіслана.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>Деякі з ваших колоній, або тварин знаходяться в цій області. Ви впевнені, що хочете відмовитися?\n\nНаступні люди і тварини залишаться позаду:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts>Вигнання {0} призведе до того, що наступні люди можуть отримати наступні думки:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Усі:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
@@ -919,17 +919,17 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Оскільки це розташування знаходиться в межах {0} плиток іншої бази ватаг, вони відчують, що ви зазіхаєте на їх землі та відносини з цими фракціями що {1} днів погіршиться.\n\nSettle тут все одно?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Ви дійсно бажаєте очистити всі файли перекладу для мови {0}?\n\nЦе буде:\n  - Додати заповнювачі для відсутніх перекладів з ключами, фіксуються переклади, а також резервні історії\n  - Додати або оновити коментарі, що містять оригінал, неперекладений текст\n  - Перемістити всі ключові та ін'єктивні переклади в відповідні XML-файли\n  - Застосовувати автоматичне форматування у всі XML-файли\n  - Оновити бек-сумісні назви def\n  - Видалити всі XML-коментарі (крім повношкірих ін'єкцій)\n\nНеXML файли не будуть вилучені чи змінені.\n\nНе забудьте перезапустити гру після зміни мовних файлів перед запуском цього інструменту для перезавантаження всіх даних.\n\nПереконайтесь що зробили резервну копію всіх файлів перекладу перед використанням цього інструменту.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Так, у мене є резервне копіювання</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>The caravan will be immobile if you send the pods to an empty tile. Continue anyway?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Караван буде нерухомим, якщо відправити стручки на порожню плитку. Продовжувати все-таки?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
