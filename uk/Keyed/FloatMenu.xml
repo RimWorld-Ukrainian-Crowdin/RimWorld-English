@@ -6,7 +6,7 @@
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Не можливо використати:{0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Cannot use: EMP</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Не можливо використати: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>Cannot use: No power</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
@@ -127,13 +127,13 @@
   <!-- EN: angers faction -->
   <AngersFaction>angers faction</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>no body part</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>немає частини тіла</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>not a colonist</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>не колоніст</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>максимальний рівень</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
   
@@ -226,7 +226,7 @@
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Підібрати {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Pick up {1_labelShort} x{{0}}</PickUpCount>
+  <PickUpCount>Підібрати {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Cannot load {1_label} onto pack animal</CannotGiveToPackAnimal>
@@ -242,19 +242,19 @@
   <GiveToPackAnimalCount>Load {1_labelShort} x{{0}} onto pack animal</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>Cannot load {1_label} into caravan</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>Неможливо завантажити {1_label} в караван</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>Cannot load {1_label} (all) into caravan</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>Неможливо завантажити {1_label} (all) в караван</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>Load {1_label} into caravan</LoadIntoCaravan>
+  <LoadIntoCaravan>Завантажити {1_label} в караван</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>Load {1_label} (all) into caravan</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>Завантажити {1_label} (all) на караван</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>Load {1_labelShort} into caravan...</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>Завантажити {1_labelShort} в караван...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>Load {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Завантажити {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
-  <OverweightLower>overweight</OverweightLower>
+  <OverweightLower>перенавантаження</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
   <CannotCarryToExit>Не можливо нести {1_label} і покинути територію</CannotCarryToExit>
@@ -268,7 +268,7 @@
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Не можливо роздягнути {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>Cannot drop {1_label}</CannotDrop>
+  <CannotDrop>Неможливо видалити {1_label}</CannotDrop>
   <!-- EN: temporary faction member -->
   <QuestRelated>temporary faction member</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
@@ -295,9 +295,9 @@
   <CannotTrade>Торгівля не можлива</CannotTrade>
 
   <!-- EN: Open {0_label} -->
-  <Open>Open {0_label}</Open>
+  <Open>Відкрити {0_label}</Open>
   <!-- EN: Cannot open {0_label} -->
-  <CannotOpen>Cannot open {0_label}</CannotOpen>
+  <CannotOpen>Неможливо відкрити {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>Увійти в {0}</EnterMap>
@@ -310,11 +310,11 @@
   <!-- EN: Attack {0} -->
   <AttackSettlement>Атакувати {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>Approach {0}</ApproachSite>
+  <ApproachSite>Підхід {0}</ApproachSite>
   <!-- EN: Approaching {0} -->
-  <ApproachingSite>Approaching {0}</ApproachingSite>
+  <ApproachingSite>Наближається {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>Offer gifts</OfferGifts>
+  <OfferGifts>Зробити дар</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>Торгівля з {0}</TradeWithSettlement>
 
@@ -324,7 +324,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Відкрити капсулу криптосну</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>Get in shuttle</EnterShuttle>
+  <EnterShuttle>Сісти у човник</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -349,7 +349,7 @@
   <!-- EN: Cannot prioritize: will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Cannot prioritize: will never {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>will never {0}</WillNever>
+  <WillNever>ніколи не {0}</WillNever>
 
   <!-- EN: Cannot prioritize: not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize: not assigned to {0}</CannotPrioritizeNotAssignedToWorkType>
@@ -375,9 +375,9 @@
   <!-- EN: Drop in center -->
   <DropInCenter>Викинути на центр</DropInCenter>
   <!-- EN: Attack {0}: Drop at edge -->
-  <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
+  <AttackAndDropAtEdge>Атака {0}: падіння на ребро</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>Attack {0}: Drop in center</AttackAndDropInCenter>
+  <AttackAndDropInCenter>Атака {0}: падіння в центрі</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
   <VomitingLower>блювота</VomitingLower>
@@ -394,11 +394,11 @@
   <!-- EN: Designate all -->
   <DesignateAll>Designate all</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>{0} affected</CountToDesignate>
+  <CountToDesignate>{0} постраждали</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>Forbid all items</ForbidAllItems>
+  <ForbidAllItems>Заборонити всі товари</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>Unforbid all items</UnforbidAllItems>
+  <UnforbidAllItems>Скасувати заборону всіх товарів</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
@@ -416,9 +416,9 @@
   <!-- EN: Free prisoner -->
   <FreePrisoner>Free prisoner</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>Offer help</OfferHelp>
+  <OfferHelp>Пропонувати допомогу</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>apply {0}</ApplyTechprint>
+  <ApplyTechprint>подати {0}</ApplyTechprint>
   
 </LanguageData>
