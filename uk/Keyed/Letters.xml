@@ -402,7 +402,7 @@
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>{0} blocked {1} on: {2}.</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0} заблокуваний {1} на: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Disease: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
@@ -428,7 +428,7 @@
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRefugeeJoins>{PAWN_nameDef} joins</LetterLabelRefugeeJoins>
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} приєднався</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
   <LetterRefugeeJoins>{PAWN_nameDef} від {PAWN_title} прибув до нашої колонії та приєднався.</LetterRefugeeJoins>
   
@@ -454,17 +454,17 @@
   <!-- EN: {0} leaving -->
   <LetterLabelPawnLeaving>{0} leaving</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
-  <LetterPawnLeaving>{0} is leaving.</LetterPawnLeaving>
+  <LetterPawnLeaving>{0} йде.</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnsLeaving>{0} leaving</LetterLabelPawnsLeaving>
+  <LetterLabelPawnsLeaving>{0} покидає</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>{0} are leaving.</LetterPawnsLeaving>
+  <LetterPawnsLeaving>{0} йдуть.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
-  <LetterLabelPawnsKidnapped>{PAWN_nameDef} kidnapped</LetterLabelPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} викрадений</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
   <LetterPawnsKidnapped>{PAWN_nameDef} has been kidnapped by {FACTION_name}!
@@ -490,13 +490,13 @@
   <!-- EN: Quest completed -->
   <LetterQuestCompletedLabel>Quest completed</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>Quest failed</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>Доручення не було виконано</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
   <LetterQuestConcludedLabel>Quest concluded</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>You have successfully completed the quest '{0}'!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>Ви успішно виконали доручення '{0}'!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>You have failed the quest '{0}'.</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Ви не змогли виконати доручення '{0}'.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
   <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded>
 
@@ -510,12 +510,12 @@
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>Mechanoids arrived</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Механоїди прибули</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>Mechanoids have arrived.</LetterMechClusterArrived>
+  <LetterMechClusterArrived>Механоїди прибули.</LetterMechClusterArrived>
 
   <!-- UNUSED -->
-  <LetterAveragePawnMoodSuccess>{asker_nameDef} said {asker_pronoun} was willing to reward quality accomodation. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
+  <LetterAveragePawnMoodSuccess>{asker_nameDef} сказав, що {asker_pronoun} готовий прийняти винагороду за якісне виконання. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
   <LetterAveragePawnMoodFail>While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward.</LetterAveragePawnMoodFail>
   <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
   <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
