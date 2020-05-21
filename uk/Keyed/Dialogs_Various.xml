@@ -653,15 +653,15 @@
   <!-- EN: Mass -->
   <Mass>Маса</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>Caravan mass</CaravanMass>
+  <CaravanMass>Караван маси</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
+  <EquipmentAndApparelMass>Спорядження та одяг маси</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
-  <InventoryMass>Inventory mass</InventoryMass>
+  <InventoryMass>Маса інвентарю</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>Your colonists will now gather the items and leave the area.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>Ваші колоністи тепер збирають предмети і залишать територію.</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
-  <ReformCaravan>Reform caravan</ReformCaravan>
+  <ReformCaravan>Сформувати караван</ReformCaravan>
   <!-- EN: Colonists -->
   <ColonistsSection>Колоністи</ColonistsSection>
   <!-- EN: Prisoners -->
@@ -677,7 +677,7 @@
   <!-- EN: Movement speed -->
   <CaravanMovementSpeed>Швидкість руху</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>tiles/day</TilesPerDay>
+  <TilesPerDay>плитки/день</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>Швидкість руху залежить від середньої швидкості всіх людей і тварин, маси, що перевозится і рельєфу утруднення руху.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
@@ -687,29 +687,29 @@
   <!-- EN: (for {0} more days) -->
   <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>(forever)</PossibleToGrazeForever>
+  <PossibleToGrazeForever>(назавжди)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
   <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
   <CantGrazeBecauseOfTemp>(занадто холодно для {0} більше днів)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>Total nutrition</TotalNutrition>
+  <TotalNutrition>Загальний обсяг харчування</TotalNutrition>
   <!-- EN: Not moving -->
   <CaravanNotMoving>Не рухається</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>Foraged nutrition per day</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>Кормове харчування на день</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
-  <FactionType>Faction type</FactionType>
+  <FactionType>База фракції</FactionType>
   <!-- EN: Total body size -->
-  <TotalBodySize>Total body size</TotalBodySize>
+  <TotalBodySize>Загальний розмір тіла</TotalBodySize>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
+  <SplitCaravan>Розділити караван</SplitCaravan>
   <!-- EN: You must leave at least one non-downed colonist. -->
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SourceCaravanMustHaveAtLeastOneColonist>Ви повинні призначити хоча б одного неприлюдного колоніста.</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>Скільки з цього предмету, цей караван готовий піддати новому валу.</SplitCaravanThingCountTip>
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
@@ -717,27 +717,27 @@
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
-  <LoadTransporters>Load {0}</LoadTransporters>
+  <LoadTransporters>Завантажити {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>The assigned people and items are too heavy for the shuttle.</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>Призначені люди і предмети, занадто важкі для шатла.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>Ви не можете відправити порожні транспортні подробиці.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>You can't send empty shuttle.</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>Ви не можете відправити порожнє повідомлення.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} can't reach the transport pods.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
   <PawnCantReachTransporterSingle>{1_labelShort} can't reach the shuttle.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>Немає шляху між транспортним поясом і {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>There is no path between the shuttle and the {0}.</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>Немає шляху між транспортним поясом і {0}.</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>Немає шляху між транспортним поясом і {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>There is no path between the shuttle and {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>Немає шляху між транспортним поясом і {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -761,7 +761,7 @@
   <!-- EN: Upload only this time -->
   <HistoryUploadYesOnce>Завантажувати лише цього разу</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadNoOnce>Не вивантажувати цього разу, запитайте мене пізніше</HistoryUploadNoOnce>
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
@@ -775,7 +775,7 @@
   <!-- EN: Outfit is in use by {0}. -->
   <OutfitInUse>Наряд використовується {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <NoOutfitSelected>Жодного об'єкту не обрано</NoOutfitSelected>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
