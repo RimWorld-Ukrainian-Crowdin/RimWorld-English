@@ -118,21 +118,21 @@
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Можливі відхилення</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Room impressiveness</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Вражальність номерів</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>Lit</StatsReport_Lit>
+  <StatsReport_Lit>Світло</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>Contains {0}</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Містить {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>Contains a human corpse</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Містить труп людини</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>Meditator is related to the corpse inside</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Медитатор пов’язаний з трупом всередині</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>From quality</StatsReport_FromQuality>
+  <StatsReport_FromQuality>Від якості</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>Nearby artificial structures</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Поруч штучні споруди</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>Satisfies user's title requirements</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Задовольняє вимоги до назви користувача</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
   <Stat_RecreationType_Desc>Різні джерела відпочинку задовольняють різні види відпочинку. Колоністам стає нудно робити один і той же тип відпочинку, тому важливо забезпечити різноманітні джерела відпочинку з різними видами відпочинку.</Stat_RecreationType_Desc>
@@ -143,7 +143,7 @@
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>Товар, що буде отриманий в результаті добування.</Stat_MineableThing_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>Source species</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Вихідні види</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
   <Stat_SourceSpecies_Desc>Вид істоти, з якого це взято</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
@@ -249,7 +249,7 @@
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Мультиплікатор шансу отримати харчове отруєння.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition causes blood loss. -->
-  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition causes blood loss.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>Швидкість, з якою цей стан спричиняє втрату крові.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
   <Stat_Hediff_Pain_Desc>Кількість болю, завданого цим станом.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
@@ -261,13 +261,13 @@
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateFactor_Desc>Мультиплікатор швидкості виснаження від потреби в їжі.</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>Мультиплікатор швидкості виснаження від потреби в їжі.</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
   <Stat_Hediff_TirednessOffset_Name>Швидкість зниження рівня відпочинку</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>Зсув, застосований до швидкості, з якою істоти потребують відпочинку, падає.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>Зсув, застосований до швидкості, з якою істоти потребують відпочинку, падає.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
   <Stat_Hediff_PreventsInfection_Desc>Чи зупинить це інфекцію.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
