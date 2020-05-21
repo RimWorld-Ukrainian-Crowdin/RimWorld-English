@@ -547,7 +547,7 @@
   <!-- EN: Your negotiator bonus -->
   <YourNegotiatorBonus>Ваш бонус для переговорів</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
-  <TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+  <TradeWithFactionBaseBonus>Торгівля з бонусом до бази ватаги</TradeWithFactionBaseBonus>
   <!-- EN: minimum -->
   <minimum>мінімум</minimum>
   <!-- EN: Final price -->
@@ -581,7 +581,7 @@
   <!-- EN: Items -->
   <ItemsTab>Предмети</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>Ви повинні призначити хоча б одного неприлюдного колоніста.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>Обране місце виходу ({0}) не доступне.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
@@ -597,9 +597,9 @@
   <!-- EN: The caravan can't carry that much. -->
   <TooBigCaravanMassUsage>Караван не може нести так багато.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus.</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>Включає перевезені речі та оснащені предмети. Перевезення менше максимального дає бонус за швидкість.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan.</CaravanVisibilityTip>
+  <CaravanVisibilityTip>Видимість це те, як легко ваш караван помітний.\n\nВін множить шанс, що ваш караван буде направлений ворогами.\n\nВидимість не впливає на здатність знайти речі, які вам потрібні.\n\nВидимість ґрунтується на загальному розмірі тіла всіх людей і тварин у каравані.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
   <DaysWorthOfFood>Їжі на днів</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
@@ -609,13 +609,13 @@
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Приблизна кількість днів перед тим, як хоча б одна людина чи тварина залищиться без їжі. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(тільки перша шляхова точка приймається в рахунок)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Ваш караван має тільки {0} днів з їжею і швидко стане голодним.</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>У вашого каравану немає їжі і він дуже швидко зголодніє.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>Середня кількість їжі у день ваші люди будуть втрачені. Ця величина буде змінюватись при подорожах через біоми з різними прибутковими цінами.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
   <ForagedFoodPerDay>Корму в день</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
@@ -627,29 +627,29 @@
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>Спершу потрібно обрати маршрут для каравану.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>Ваш караван не може покинути цю зону. Переконайтеся, що принаймні одна сторона доступна.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>Вага цього елемента.</ItemWeightTip>
   <!-- EN: Market value -->
   <MarketValueTip>Ринкова ціна</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
+  <DaysUntilRotTip>Кількість днів, допоки цей предмет не почне гнити, заснована на середній температурі в цій зоні.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day.</ItemNutritionTip>
+  <ItemNutritionTip>Скільки харчування забезпечує ця їжа.\n\nДля довідки: для дорослого населення потрібно {0} харчування на день.</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges.</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>Ця тварина може випасати їжу з навколишнього середовища, замість того, щоб їсти їжу. Випас тварин можливий лише в деяких біомах і діапазонах температур.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>Харчова цінність відбувається за день. На фактичну кількість корму також впливає кормозабезпеченість біома.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>Nutrition eaten per day. For reference, simple meals have {0} nutrition.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Харчування вживається в день. Для довідки, прості страви мають {0} харчування.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
   <CanEat>Можуть їсти</CanEat>
   <!-- EN: Legend -->
   <Legend>Легенда</Legend>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>Mass carried</MassCarriedSimple>
+  <MassCarriedSimple>Масоздійснюється</MassCarriedSimple>
   <!-- EN: Mass capacity -->
-  <MassCapacity>Mass capacity</MassCapacity>
+  <MassCapacity>Максимальна місткість</MassCapacity>
   <!-- EN: Mass -->
   <Mass>Маса</Mass>
   <!-- EN: Caravan mass -->
