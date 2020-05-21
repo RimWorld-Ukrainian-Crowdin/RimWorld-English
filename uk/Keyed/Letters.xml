@@ -339,7 +339,7 @@
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>Legendary Work</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>Легендарна робота</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
   <LetterCraftedLegendaryMessage>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
@@ -372,7 +372,7 @@
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>Gift from {0}</LetterLabelVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Подарунок від {0}</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
   <LetterVisitorsGaveGift>{0} from {PAWN_factionName} have left a gift:\n\n{1}</LetterVisitorsGaveGift>
 
@@ -404,7 +404,7 @@
   <!-- EN: {0} blocked {1} on: {2}. -->
   <LetterDisease_Blocked>{0} заблокуваний {1} на: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
-  <LetterLabelTraitDisease>Disease: {0}</LetterLabelTraitDisease>
+  <LetterLabelTraitDisease>Хвороба: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible.</LetterTraitDisease>
 
@@ -418,7 +418,7 @@
   <!-- EN: Quest active: {0} -->
   <LetterQuestAutomaticallyAcceptedTitle>Quest active: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>It will expire in {0}.</LetterQuestActiveNowTime>
+  <LetterQuestActiveNowTime>Термін дії мине через {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
@@ -434,25 +434,25 @@
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRescueeJoins>{PAWN_nameDef} joins</LetterLabelRescueeJoins>
+  <LetterLabelRescueeJoins>{PAWN_nameDef} приєднався</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
   <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
-  <LetterLabelPawnsArriveAndJoin>People join</LetterLabelPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>Люди приєднуються</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
   <LetterPawnsArriveAndJoin>The following people have arrived and joined the colony:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
-  <LetterLabelPawnsArrive>People arrived</LetterLabelPawnsArrive>
+  <LetterLabelPawnsArrive>Люди прибули</LetterLabelPawnsArrive>
   <!-- EN: The following people have arrived:\n\n{0} -->
-  <LetterPawnsArrive>The following people have arrived:\n\n{0}</LetterPawnsArrive>
+  <LetterPawnsArrive>Прибули наступні люди:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnLeaving>{0} leaving</LetterLabelPawnLeaving>
+  <LetterLabelPawnLeaving>{0} покидає</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
   <LetterPawnLeaving>{0} йде.</LetterPawnLeaving>
 
@@ -484,7 +484,7 @@
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
   <LetterTechprintAppliedPartAlreadyResearched>This project is already fully researched, so the techprint didn't advance your knowledge at all.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill.</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>Застосовуючи техніку, {PAWN_labelShort} отримав {0} досвід у {1} навичці.</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
