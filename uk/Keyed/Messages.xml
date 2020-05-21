@@ -348,7 +348,7 @@
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>Cannot equip: Incapable.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
-  <MessageCantWearApparelMissingBodyParts>Cannot wear: {1_labelShort} is missing required body parts.</MessageCantWearApparelMissingBodyParts>
+  <MessageCantWearApparelMissingBodyParts>Неможливо одягти: {1_labelShort} не вистачає потрібних частин тіла.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
   <MessageCantUnequipLockedApparel>Ця людина відмовляється зняти цю річ.</MessageCantUnequipLockedApparel>
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
@@ -498,7 +498,7 @@
   <!-- EN: tended to {1_labelShort} -->
   <GoodwillChangedReason_Tended>tended to {1_labelShort}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>received a gift</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>отримано подарунок</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
   <GoodwillChangedReason_FulfilledTradeRequest>fulfilled a trade offer</GoodwillChangedReason_FulfilledTradeRequest>
   <!-- EN: finished a quest -->
@@ -510,7 +510,7 @@
   <!-- EN: euthanized {PAWN_labelShort} -->
   <GoodwillChangedReason_EuthanizedPawn>euthanized {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>requested military aid</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>просить військових допомоги</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>requested trader caravan</GoodwillChangedReason_RequestedTrader>
 
@@ -525,7 +525,7 @@
   <!-- EN: {0} has formed and is now traveling on the world map. -->
   <MessageFormedCaravan>{0} has formed and is now traveling on the world map.</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>Orders</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>Накази</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
   <MessageBillValidationStoreZoneDeleted>{1}'s "{0}" can no longer deliver to deleted stockpile {2}.</MessageBillValidationStoreZoneDeleted>
