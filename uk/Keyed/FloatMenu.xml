@@ -4,7 +4,7 @@
   <!-- EN: Call {0} -->
   <CallOnRadio>Виклик {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>Cannot use: {0}</CannotUseReason>
+  <CannotUseReason>Не можливо використати:{0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
   <CannotUseSolarFlare>Cannot use: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
