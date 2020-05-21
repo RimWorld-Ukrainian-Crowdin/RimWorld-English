@@ -569,7 +569,7 @@
     <!-- EN: outlaw -->
     <titleShort>вигнанець</titleShort>
     <!-- EN: [PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life. -->
-    <desc>[PAWN_nameDef] став найбільш фізично залякуючим рабів, витрачаючи [PAWN_possessive] небагато вільного часу одержимо будуючи [PAWN_possessive] тіло. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life.</desc>
+    <desc>[PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life.</desc>
   </BanishedSoldier85>
   
   <Bartender62>
@@ -578,7 +578,7 @@
     <!-- EN: barkeep -->
     <titleShort>бармен</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
-    <desc>[PAWN_nameDef] працював барменом у зубожілій установі. Робота на одну третину складалась зі змішування напоїв, на одну третину — з дипломатії та ще на одну третину — з нагоняїв від начальства.</desc>
+    <desc>[PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing.</desc>
   </Bartender62>
   
   <BattlefieldTech52>
@@ -4694,7 +4694,7 @@
     <!-- EN: pirate -->
     <titleShort>пірат</titleShort>
     <!-- EN: [PAWN_nameDef] and [PAWN_possessive] fans set out as a space pirate crew. [PAWN_pronoun] raided corporations for money and staged performances to spread [PAWN_possessive] name.\n\n[PAWN_nameDef] became afraid of fire when a rival burned [PAWN_possessive] stage down. [PAWN_pronoun] relied on [PAWN_possessive] fans to do the work [PAWN_pronoun] found unappealing. -->
-    <desc>[PAWN_nameDef] та [PAWN_possessive] фанатів почали використовувати як космічний піратський екіпаж. [PAWN_pronoun] raided corporations for money and staged performances to spread [PAWN_possessive] name.\n\n[PAWN_nameDef] became afraid of fire when a rival burned [PAWN_possessive] stage down. [PAWN_pronoun] relied on [PAWN_possessive] fans to do the work [PAWN_pronoun] found unappealing.</desc>
+    <desc>[PAWN_nameDef] and [PAWN_possessive] fans set out as a space pirate crew. [PAWN_pronoun] raided corporations for money and staged performances to spread [PAWN_possessive] name.\n\n[PAWN_nameDef] became afraid of fire when a rival burned [PAWN_possessive] stage down. [PAWN_pronoun] relied on [PAWN_possessive] fans to do the work [PAWN_pronoun] found unappealing.</desc>
   </PopIdolPirate39>
   
   <PowerMadScholar30>
