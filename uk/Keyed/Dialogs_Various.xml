@@ -789,9 +789,9 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Політики в галузі лікарських засобів використовується {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Food restriction is in use by {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Обмеження їжі використовується {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
-  <SocialDrugs>Social drugs</SocialDrugs>
+  <SocialDrugs>Соціальні наркотики</SocialDrugs>
   <!-- EN: No drugs -->
   <NoDrugs>Ніяких наркотиків</NoDrugs>
   <!-- EN: One drink per day -->
@@ -799,23 +799,23 @@
   <!-- EN: Unrestricted -->
   <Unrestricted>Без обмежень</Unrestricted>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
+  <NoDrugPolicySelected>Не вибрано жодної політики щодо наркоманії</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
-  <AddDrug>Add drug...</AddDrug>
+  <AddDrug>Додати наркотик...</AddDrug>
   <!-- EN: Drug -->
-  <DrugColumnLabel>Drug</DrugColumnLabel>
+  <DrugColumnLabel>Наркотики</DrugColumnLabel>
   <!-- EN: Usage -->
   <DrugUsageColumnLabel>Використання</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>Частота</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>Тільки якщо настрій нижче</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>Only if recreation below</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Тільки якщо відновлення нижче</JoyThresholdColumnLabel>
   <!-- EN: Take to inventory -->
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
+  <TakeToInventoryColumnLabel>Візьміть на інвентар</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
+  <NoDrugsBrackets>(ніяких наркотиків)</NoDrugsBrackets>
   <!-- EN: Every day -->
   <EveryDay>Щодня</EveryDay>
   <!-- EN: {0} times per day -->
@@ -825,15 +825,15 @@
   <!-- EN: Any -->
   <NoDrugUseRequirement>Будь-які</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>Видаліть цей препарат.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>Назва наркотика.</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>Як можна використовувати наркотики.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>Як часто колоністи повинні приймати цей препарат.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>Колоністи приймуть цей препарат лише в тому випадку, якщо рівень настрою нижче цього порогу.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
   <JoyThresholdColumnDesc>The colonists will take this drug only if their recreation level is below this threshold.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
@@ -895,27 +895,27 @@
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
   <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Усі:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Деякі тварини або в'язні намагаються приєднатися до цієї каравану. Якщо ви перемістите її, вони більше не зможуть працювати.\n\nТварини, в'язні, і придані колоністи залишилися на мапі без приданих колоністів вважаються покинутими та можуть бути захоплені ворогами.\n\nВи впевнені, що хочете переміститися на караван?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>Do you really want to banish {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>Ви дійсно бажаєте видалити {1_label}?</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}, скоріш за все, помре.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} will take the following items with {1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} візьме наступні позиції з {1_objective}:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Усі колоністи отримають наступні думки:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Banishing {1_labelShort} will cause the following people to get the following thoughts:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Вигнання {1_labelShort} призведе до того, що наступні люди можуть отримати наступні думки:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Група постів не повністю завантажена. {1_labelShort} відсутня. Запустити в будь-якому випадку?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
@@ -933,29 +933,29 @@
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>Do you really want to remove this monument marker?</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>Ви дійсно хочете видалити цей маркер пам’ятника?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>Line of sight required</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Необхідна лінія призову</AbilityRequiresLOS>
   <!-- EN: Entropy gain -->
-  <AbilityEntropyGain>Entropy gain</AbilityEntropyGain>
+  <AbilityEntropyGain>Ентропія</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>Psyfocus cost</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Вартість психофокусу</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
-  <AbilityDuration>Effect duration</AbilityDuration>
+  <AbilityDuration>Тривалість ефекту</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>Effect radius</AbilityEffectRadius>
+  <AbilityEffectRadius>Радіус ефектів</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>Casting time</AbilityCastingTime>
+  <AbilityCastingTime>Час прицілювання</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>No line of sight to target.</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Жодна лінія зору не націлена.</AbilityCannotHitTarget>
   <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>{0} must target an empty area.</AbilityOccupiedCells>
+  <AbilityOccupiedCells>{0} має націлюватися на одноразову зону.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>{0} must target a walkable area.</AbilityUnwalkable>
+  <AbilityUnwalkable>{0} має націлюватися на одноразову зону.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>{0} must target an unroofed area.</AbilityRoofed>
+  <AbilityRoofed>{0} має націлюватися на одноразову зону.</AbilityRoofed>
   <!-- EN: {0} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>{0} психічно зломлений.</AbilityCantApplyToMentallyBroken>
   
