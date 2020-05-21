@@ -938,8 +938,8 @@
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Необхідна лінія призову</AbilityRequiresLOS>
-  <!-- EN: Entropy gain -->
-  <AbilityEntropyGain>Ентропія</AbilityEntropyGain>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>Neural heat gain</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>Вартість психофокусу</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
