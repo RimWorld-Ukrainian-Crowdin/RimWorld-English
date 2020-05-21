@@ -42,6 +42,8 @@
   <DevelopmentMode>Режим розробки</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>Simulate not owning Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Ведення докладного журналу</LogVerbose>
   <!-- EN: Open save data folder -->
