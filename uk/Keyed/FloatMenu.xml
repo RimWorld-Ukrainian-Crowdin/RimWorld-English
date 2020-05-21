@@ -6,7 +6,7 @@
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Не можливо використати:{0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Не можливо використати: EMP</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Cannot use: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>Неможливо використати: немає живлення</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
