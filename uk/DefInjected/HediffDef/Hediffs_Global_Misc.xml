@@ -106,8 +106,8 @@
   
   <!-- EN: psychic hangover -->
   <PsychicHangover.label>психічне похмілля</PsychicHangover.label>
-  <!-- EN: An after-effect of psychic entropy. Psychic hangover is bothersome, but not dangerous. -->
-  <PsychicHangover.description>Наслідки психічної ентропії. Психічне похмілля набридливе, але не небезпечне.</PsychicHangover.description>
+  <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
+  <PsychicHangover.description>An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous.</PsychicHangover.description>
   <!-- EN: a psychic hangover -->
   <PsychicHangover.labelNoun>психічне похмілля</PsychicHangover.labelNoun>
   <!-- EN: forming -->
@@ -117,8 +117,8 @@
   
   <!-- EN: psychic shock -->
   <PsychicShock.label>психічний шок</PsychicShock.label>
-  <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of psychic entropy, this effect is debilitating until it wears off. -->
-  <PsychicShock.description>Стан психічного хаосу в мозку і розумі. Викликаний психічними атаками або критичним рівнем психічної ентропії, цей ефект буде виснажливим, аж поки не спаде.</PsychicShock.description>
+  <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
+  <PsychicShock.description>A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off.</PsychicShock.description>
   <!-- EN: a psychic shock -->
   <PsychicShock.labelNoun>психічний шок</PsychicShock.labelNoun>
   
