@@ -65,6 +65,6 @@
   <ClauseSequence8>{0} і {1}. До того ж, {2} і {3}. {4} і {5}. Нарешті, {6} і {7}.</ClauseSequence8>
 
   <!-- EN: {0} or {1} -->
-  <XorY>{0} or {1}</XorY>
+  <XorY>{0} або {1}</XorY>
 
 </LanguageData>
