@@ -248,8 +248,8 @@
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Food poisoning chance factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of getting food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
-  <!-- EN: The rate at which this condition is drains blood. -->
-  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition is drains blood.</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition causes blood loss.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
   <Stat_Hediff_Pain_Desc>The amount of pain caused by this condition.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->

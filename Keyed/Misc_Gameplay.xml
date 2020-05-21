@@ -1238,8 +1238,8 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero)</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain.</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Psychic entropy increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>Psychic entropy increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
@@ -1272,6 +1272,10 @@
   <Reward_PassageOffworld>you will be taken to the stars</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>Passage offworld</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>you can loot everything from the camp</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>Camp loot</Reward_CampLoot_Label>
   <!-- EN: value {0} -->
   <TotalValue>value {0}</TotalValue>
   
