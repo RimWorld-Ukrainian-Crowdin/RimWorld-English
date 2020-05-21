@@ -342,11 +342,11 @@
   <MessageCantBanishLastColonist>Не можна вигнати єдиного колоніста.</MessageCantBanishLastColonist>
 
   <!-- EN: Cannot equip: {0}. -->
-  <MessageCantEquipCustom>Cannot equip: {0}.</MessageCantEquipCustom>
+  <MessageCantEquipCustom>Не можливо обладнати: {0}.</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>Cannot equip: {1_labelShort} is incapable of violence.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Не можливо обладнати:{1_labelShort} не в змозі заподіяти насильство.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: Incapable. -->
-  <MessageCantEquipIncapableOfManipulation>Cannot equip: Incapable.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>Неможливо обладнати: Непрацездатний.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
   <MessageCantWearApparelMissingBodyParts>Неможливо одягти: {1_labelShort} не вистачає потрібних частин тіла.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
@@ -372,7 +372,7 @@
   <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+  <MessageDefendersAttacking>{0} з {1} атакують ваш {2}.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>Збірка механоїдів завершена, і вони будуть захищати свій кластер.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
