@@ -42,6 +42,8 @@
   <DevelopmentMode>Development mode</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>Simulate not owning Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Verbose logging</LogVerbose>
   <!-- EN: Open save data folder -->
