@@ -8,19 +8,19 @@
   <!-- EN: Cannot use: EMP -->
   <CannotUseSolarFlare>Не можливо використати: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>Cannot use: No power</CannotUseNoPower>
+  <CannotUseNoPower>Неможливо використати: немає живлення</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>Cannot use: No path</CannotUseNoPath>
+  <CannotUseNoPath>Неможливо використати: немає шляху</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>Cannot use: Reserved</CannotUseReserved>
+  <CannotUseReserved>Неможливо використати: Зарезервовано</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>Cannot use: full</CannotUseFull>
+  <CannotUseFull>Неможливо використати: повне</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>лідер {1_labelShort} недоступний</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>лідер недоступний</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>Not allowed</NotAllowed>
+  <NotAllowed>Не допускається</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Пожежа в {1_label}</FireAt>
