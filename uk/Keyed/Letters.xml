@@ -424,7 +424,7 @@
   <!-- EN: Pods arrived -->
   <LetterLabelQuestDropPodsArrived>Pods arrived</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>Transport pods with the following contents have arrived:\n\n{0}</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Транспортні капсули з таким вмістом прибули:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
@@ -436,13 +436,13 @@
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRescueeJoins>{PAWN_nameDef} приєднався</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony.</LetterRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} вдячний, що ви врятували {PAWN_objective}. {PAWN_pronoun} вирішив, що {PAWN_pronoun} ліпше залишиться, ніж піде, і приєднується до вашої колонії.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
   <LetterLabelPawnsArriveAndJoin>Люди приєднуються</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
-  <LetterPawnsArriveAndJoin>The following people have arrived and joined the colony:\n\n{0}</LetterPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>Такі люди прибули й приєднуються до колонії:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
@@ -467,18 +467,18 @@
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} викрадений</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>{PAWN_nameDef} has been kidnapped by {FACTION_name}!
-\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years.</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} був захоплений {FACTION_name}!
+\nОднак {PAWN_pronoun} не втрачений навічно. Можливість врятувати {PAWN_objective} може з'явитися в найближчі дні чи роки.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>Techprint applied: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>Застосований техпринт: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>A techprint has been applied to the research project: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>Техпринт було застосовано до дослідницького проєкту: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches.</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>Ви виконали вимоги техпринту проєкту! Ваші дослідники тепер можуть починати досліджувати те, як власне використовувати технологію на дослідницьких столах.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>Ще не задоволені вимоги техпринту цього проєкту. {0} техпринти поки що були застосовані. Проєкт вимагає {1} в сумі.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
   <LetterTechprintAppliedPartAlreadyUnlocked>This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
