@@ -217,11 +217,11 @@
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
   <ModLoadFolderMalformedVersion>Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>The list of load folders for version {0} is empty.</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Список папок завантаження для версії {0} порожній.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Version {0} lists the same folder more than once: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Версія {0} перелічує таку ж папку більше одного разу: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Invalid version order: {0} should come before {1}.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Недійсний порядок версій: {0} має йти перед {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Invalid version order: 'default' should be defined first.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
