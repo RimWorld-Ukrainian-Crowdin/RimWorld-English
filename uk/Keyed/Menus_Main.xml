@@ -223,7 +223,7 @@
   <!-- EN: Invalid version order: {0} should come before {1}. -->
   <ModLoadFolderOutOfOrder>Недійсний порядок версій: {0} має йти перед {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Invalid version order: 'default' should be defined first.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Недійсний порядок версій: 'default' має бути визначено спочатку.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
