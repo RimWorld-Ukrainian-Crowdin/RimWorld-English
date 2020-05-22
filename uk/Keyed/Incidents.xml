@@ -145,7 +145,7 @@
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterThrumboPasses>Невеличка зграя трумбо примандрувала на цю територію. \n\n За своєю природою ці рідкісні створіння мирні, але при зіткненні надзвичайно небезпечні. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
@@ -181,7 +181,7 @@
   <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>{0} мирно зустрівся з караваном з {1}. Інший караван складається з:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>Торгівля</CaravanMeeting_Trade>
   <!-- EN: Attack -->
@@ -241,6 +241,6 @@
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerDied>Доручення не було виконано</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>The quest is now incompletable because {SUBJECT_definite} has died.</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Доручення тепер неможливо виконати до кінця, бо {SUBJECT_definite} вмер.</LetterQuestAskerDied>
 
 </LanguageData>
