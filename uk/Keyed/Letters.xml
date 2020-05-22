@@ -480,9 +480,9 @@
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
   <LetterTechprintAppliedPartNotUnlockedYet>Ще не задоволені вимоги техпринту цього проєкту. {0} техпринти поки що були застосовані. Проєкт вимагає {1} в сумі.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>Вимоги до техпринту цього проєкту вже були задоволені. Додатковий техпринт покращив ваші дослідницькі зусилля в {PROJECT_label}. Половина дослідницької роботи, що лишилася, {0} пунктів, була завершена.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>This project is already fully researched, so the techprint didn't advance your knowledge at all.</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>Цей проєкт уже повністю досліджений, тому техпринт взагалі не поліпшив ваші знання.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
   <LetterTechprintAppliedPartExpAwarded>Застосовуючи техніку, {PAWN_labelShort} отримав {0} досвід у {1} навичці.</LetterTechprintAppliedPartExpAwarded>
   
@@ -492,21 +492,21 @@
   <!-- EN: Quest failed -->
   <LetterQuestFailedLabel>Доручення не було виконано</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>Quest concluded</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>Доручення завершено</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
   <LetterQuestCompletedSuccess>Ви успішно виконали доручення '{0}'!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
   <LetterQuestCompletedFail>Ви не змогли виконати доручення '{0}'.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Ви завершили доручення '{0}'.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>Persona bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>Особистий зв'язок: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
-\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} встановив зв'язок з персоною {WEAPON_labelShort}.
+\nВідтепер {WEAPON_labelShort} відмовиться бути підвладним кому-небудь, крім {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
@@ -516,7 +516,7 @@
 
   <!-- UNUSED -->
   <LetterAveragePawnMoodSuccess>{asker_nameDef} сказав, що {asker_pronoun} готовий прийняти винагороду за якісне виконання. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
-  <LetterAveragePawnMoodFail>While {asker_nameDef} was willing to reward quality accomodation, {pawnLabel} average mood was only {averageMood} during {possessive} stay. You will receive no faction goodwill reward.</LetterAveragePawnMoodFail>
+  <LetterAveragePawnMoodFail>У той час як {asker_nameDef} хотів винагородити якісне погодження, середній настрій {pawnLabel} був лише {averageMood} впродовж {possessive} перебування. Ви не отримаєте жодної нагороди прихильності фракції.</LetterAveragePawnMoodFail>
   <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
   <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
   <LetterAveragePawnMoodPossessivePlural>their</LetterAveragePawnMoodPossessivePlural>
