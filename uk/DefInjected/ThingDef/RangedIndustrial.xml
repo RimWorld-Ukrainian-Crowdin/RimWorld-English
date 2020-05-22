@@ -54,7 +54,7 @@
   <!-- EN: autopistol -->
   <Gun_Autopistol.label>автоматичний пістолет</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
-  <Gun_Autopistol.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</Gun_Autopistol.description>
+  <Gun_Autopistol.description>Давній тип самозаряджувального пістолета з вільним затвором. Йому не вистачає вражаючих властивостей й дальності, але стріляє швидко.</Gun_Autopistol.description>
   <!-- EN: grip -->
   <Gun_Autopistol.tools.grip.label>рукоятка</Gun_Autopistol.tools.grip.label>
   <!-- EN: barrel -->
@@ -65,7 +65,7 @@
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle.label>гвинтівка з ковзним затвором</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
-  <Gun_BoltActionRifle.description>An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.description>Давній тип гвинтівки з ковзним затвором. Має велику дальність і низьку скорострільність і таким чином не спонукає тварин до помсти, що робить гвинтівку чудовою для полювання.</Gun_BoltActionRifle.description>
   <!-- EN: stock -->
   <Gun_BoltActionRifle.tools.stock.label>приклад</Gun_BoltActionRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -76,7 +76,7 @@
   <!-- EN: chain shotgun -->
   <Gun_ChainShotgun.label>автоматичний дробовик</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
-  <Gun_ChainShotgun.description>A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.description>Автоматичний дробовик з магазинною подачею набоїв. Має ще меншу дальність, ніж типовий дробовик, але є надзвичайно небезпечним при стрільбі чергами.</Gun_ChainShotgun.description>
   <!-- EN: stock -->
   <Gun_ChainShotgun.tools.stock.label>приклад</Gun_ChainShotgun.tools.stock.label>
   <!-- EN: barrel -->
