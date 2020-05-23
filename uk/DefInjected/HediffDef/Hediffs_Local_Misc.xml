@@ -4,12 +4,12 @@
   <!-- EN: paralytic abasia -->
   <Abasia.label>paralytic abasia</Abasia.label>
   <!-- EN: A condition that affects the motor cortex of a patient, resulting in the inability to walk. -->
-  <Abasia.description>A condition that affects the motor cortex of a patient, resulting in the inability to walk.</Abasia.description>
+  <Abasia.description>Стан, що уражає моторну кору мозку пацієнта, призводячи до неможливості ходити.</Abasia.description>
   
   <!-- EN: blood rot -->
   <BloodRot.label>blood rot</BloodRot.label>
   <!-- EN: A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death. The body's immune system will clear blood rot after a long time, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive. -->
-  <BloodRot.description>A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death. The body's immune system will clear blood rot after a long time, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive.</BloodRot.description>
+  <BloodRot.description>Бактеріальна хвороба, що розвивається повільно. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death. The body's immune system will clear blood rot after a long time, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive.</BloodRot.description>
   <!-- EN: minor -->
   <BloodRot.stages.minor.label>minor</BloodRot.stages.minor.label>
   <!-- EN: major -->
