@@ -4,14 +4,14 @@
   <!-- EN: anti-abasia mechanite infusion -->
   <CureAbasia.label>anti-abasia mechanite infusion</CureAbasia.label>
   <!-- EN: This special medical operation uses a massive dose of mechanites to saturate brain tissue and execute a coordinated restructure of neural activity without damaging the brain. It permanently cures a patient's abasia-induced paralysis, but consumes a large amount of glitterworld medicine. -->
-  <CureAbasia.description>This special medical operation uses a massive dose of mechanites to saturate brain tissue and execute a coordinated restructure of neural activity without damaging the brain. It permanently cures a patient's abasia-induced paralysis, but consumes a large amount of glitterworld medicine.</CureAbasia.description>
+  <CureAbasia.description>У цій особливій медичній операції застосовується велика доза механітів, аби наситити мозкову тканину й виконати координовану реструктуризацію нейронної активності без ушкодження мозку. Це назавжди вилікує параліч пацієнта, викликаний абазією, але споживає велику кількість медикаментів Блискучого Світу.</CureAbasia.description>
   <!-- EN: Infusing anti-abasia mechanites. -->
   <CureAbasia.jobString>Infusing anti-abasia mechanites.</CureAbasia.jobString>
   <!-- EN: {0} has successfully cured {1}'s paralytic abasia. -->
-  <CureAbasia.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s paralytic abasia.</CureAbasia.successfullyRemovedHediffMessage>
+  <CureAbasia.successfullyRemovedHediffMessage>{0} успішно вилікував паралітичну абазію {1}.</CureAbasia.successfullyRemovedHediffMessage>
   
   <!-- EN: cure blood rot -->
-  <CureBloodRot.label>cure blood rot</CureBloodRot.label>
+  <CureBloodRot.label>лікувати гниття крові</CureBloodRot.label>
   <!-- EN: This special medical operation cures blood rot by a massive infusion of bacteriophage mechanites. -->
   <CureBloodRot.description>This special medical operation cures blood rot by a massive infusion of bacteriophage mechanites.</CureBloodRot.description>
   <!-- EN: Curing blood rot. -->
