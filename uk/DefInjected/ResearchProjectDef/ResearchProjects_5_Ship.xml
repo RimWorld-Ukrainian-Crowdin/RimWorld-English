@@ -23,7 +23,7 @@
   <!-- EN: Johnson-Tanaka drive -->
   <ShipEngine.label>Johnson-Tanaka drive</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
-  <ShipEngine.description>Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere.</ShipEngine.description>
+  <ShipEngine.description>Сконструюйте двигун Джонсона-Танаки для корабля. Цей двигун може гнати вас до інших зірок, задіюючи впливи квантового масштабу, щоб випромінювати імпульс до далеких зірок. Звичайно, як і для всіх зоряних кораблів, це все одно забере багато років, щоб дістатись куди-небудь.</ShipEngine.description>
   
   <!-- EN: starship reactor -->
   <ShipReactor.label>реактор для космічного корабля</ShipReactor.label>
