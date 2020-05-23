@@ -13,14 +13,14 @@
   <!-- EN: cure blood rot -->
   <CureBloodRot.label>лікувати гниття крові</CureBloodRot.label>
   <!-- EN: This special medical operation cures blood rot by a massive infusion of bacteriophage mechanites. -->
-  <CureBloodRot.description>This special medical operation cures blood rot by a massive infusion of bacteriophage mechanites.</CureBloodRot.description>
+  <CureBloodRot.description>Ця особлива медична операція лікує гниття крові методом великого настоювання бактеріофагних механітів.</CureBloodRot.description>
   <!-- EN: Curing blood rot. -->
-  <CureBloodRot.jobString>Curing blood rot.</CureBloodRot.jobString>
+  <CureBloodRot.jobString>Лікування гниття крові.</CureBloodRot.jobString>
   <!-- EN: {0} has successfully cured {1}'s blood rot. -->
-  <CureBloodRot.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s blood rot.</CureBloodRot.successfullyRemovedHediffMessage>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0} успішно вилікував гниття крові {1}.</CureBloodRot.successfullyRemovedHediffMessage>
   
   <!-- UNUSED -->
-  <CureComa.label>coma-wake mechanite infusion</CureComa.label>
+  <CureComa.label>настоювання механітів, що викликає вихід з коми</CureComa.label>
   <CureComa.description>This special medical operation uses a massive dose of mechanites to saturate brain tissue and execute a coordinated kickstart of neural activity without damaging the brain. It immeditately revives a patient from a coma, but consumes a large amount of glitterworld medicine.</CureComa.description>
   <CureComa.jobString>Infusing coma-wake mechanites.</CureComa.jobString>
   <CureComa.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s coma.</CureComa.successfullyRemovedHediffMessage>
