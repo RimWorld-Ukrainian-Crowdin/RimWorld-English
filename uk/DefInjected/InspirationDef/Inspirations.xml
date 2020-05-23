@@ -33,7 +33,7 @@
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>Натхнення: творчість</Inspired_Creativity.baseInspectLine>
   <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. Це навіть дозволяє створювати легендарні предмети.\n\nНатхнення закінчиться через 8 днів, або буде закінчено предмет.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetter>Наступний елемент - з мистецтва чи меблів, який створить [PAWN_pronoun], буде на два рівні вище, ніж це було б інакше. Це навіть дозволяє створювати легендарні предмети.\n\nНатхнення закінчиться через 8 днів, або буде закінчено предмет.</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
   <Inspired_Creativity.endMessage>{0} більше не відчуває натхнення (творчість).</Inspired_Creativity.endMessage>
   
@@ -42,7 +42,7 @@
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Натхнення: вербування</Inspired_Recruitment.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] успішно завербує наступного в'язна, незалежно від складності чи спротиву. \n\nНатхнення закінчиться через 8 днів, або коли ув'язнений буде завербований.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0} більше не відчуває натхнення (вербування).</Inspired_Recruitment.endMessage>
   
@@ -51,7 +51,7 @@
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Натхненний: хірургія</Inspired_Surgery.baseInspectLine>
   <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. Маленька вірогідність провалу все ж таки присутня.\n\nНатхнення закінчиться через 8 днів, або коли буде виконана операція.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetter>Наступного разу коли [PAWN_pronoun] буде виконувати операцію, [PAWN_possessive] шанс на успіх буде подвоєний. Маленька вірогідність провалу все ж таки присутня.\n\nНатхнення закінчиться через 8 днів, або коли буде виконана операція.</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} більше не відчуває натхнення (хірургія).</Inspired_Surgery.endMessage>
   
