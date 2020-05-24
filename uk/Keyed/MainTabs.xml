@@ -256,6 +256,8 @@
   <QuestOutcomeInfo_UnknownOrSuccess>You completed this quest.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>You failed this quest.</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>This quest became invalid before it was accepted.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>Jump to {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -290,5 +292,9 @@
   <GoodwillTip>Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort} joins</PawnQuestReward>
+  
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>Creates need</CreatesNeed>
 
 </LanguageData>
