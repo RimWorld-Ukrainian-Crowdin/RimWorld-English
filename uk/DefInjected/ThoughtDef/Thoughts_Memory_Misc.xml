@@ -114,6 +114,11 @@
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>I saw a rotting corpse laying on the ground. It was disgusting.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>on duty</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>I have a job to do.</OnDuty.stages.on_duty.description>
+  
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>prisoner banished to death</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
