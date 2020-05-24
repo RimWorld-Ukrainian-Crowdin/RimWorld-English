@@ -432,8 +432,8 @@
   <SpawningNextPawnIn>Розплодиться через {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
-  <!-- EN: Will assemble {0}. text_todo -->
-  <MechAssemblyNextType>Will assemble {0}. text_todo</MechAssemblyNextType>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>вироблено</ThingsProduced>
   <!-- EN: harvested -->
@@ -1286,8 +1286,6 @@
   <NotBonded>Ще не прив'язано</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>прив’язано до когось іншого</BladelinkBondedToSomeoneElse>
-  <!-- EN: P-{LABEL} -->
-  <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1316,6 +1314,7 @@
   <CausedByHediff>Викликано через: {0}</CausedByHediff>
   
   <!-- UNUSED -->
+  <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
   <Psyfocus>Психофокус</Psyfocus>
   <PawnTooltipPsychicEntropy>Психічна ентропія: {0}/{1}\nШвидкість падіння: {2}/{3}с({4}с до нуля)\n\nПсихічна ентропія збільшується після виконання психокасту.\nПереходження безпечної межі може спричинити довготривалі наслідки для здоров'я.\nВсякий раз, коли ентропія досягає нуля, вона залишає після себе психічне похмілля.</PawnTooltipPsychicEntropy>
 
