@@ -402,8 +402,46 @@
   <TimeRecordsCategory>Time</TimeRecordsCategory>
   <!-- EN: Misc -->
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
-  <!-- EN: Addictiveness -->
-  <Addictiveness>Addictiveness</Addictiveness>
+  <!-- EN: Chemical -->
+  <Chemical>Chemical</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>High gain per dose</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>High fall rate</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>High duration per dose</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>Tolerance gain per dose</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>Tolerance fall rate</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval -->
+  <SafeDoseInterval>Safe dose interval</SafeDoseInterval>
+  <!-- EN: New addiction chance -->
+  <Addictiveness>New addiction chance</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>Addiction need fill per dose</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>Addiction need fall rate</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>Addiction need dose interval</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>Addiction recovery time</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>Addiction cost</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>Random overdose chance</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>Always safe</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>Never safe</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>{0} / day</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>Pack animal</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->

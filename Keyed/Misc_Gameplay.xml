@@ -432,8 +432,8 @@
   <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
-  <!-- EN: Will assemble {0}. text_todo -->
-  <MechAssemblyNextType>Will assemble {0}. text_todo</MechAssemblyNextType>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>produced</ThingsProduced>
   <!-- EN: harvested -->
@@ -1286,8 +1286,6 @@
   <NotBonded>Not yet bonded</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>bonded to someone else</BladelinkBondedToSomeoneElse>
-  <!-- EN: P-{LABEL} -->
-  <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1316,6 +1314,7 @@
   <CausedByHediff>Caused by: {0}</CausedByHediff>
   
   <!-- UNUSED -->
+  <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
   <Psyfocus>Psyfocus</Psyfocus>
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
 

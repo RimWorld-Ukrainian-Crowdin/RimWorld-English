@@ -31,6 +31,9 @@
   <!-- EN: capacity effects -->
   <CapacityEffects.label>capacity effects</CapacityEffects.label>
   
+  <!-- EN: Drug -->
+  <Drug.label>Drug</Drug.label>
+  
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
   
