@@ -431,9 +431,9 @@
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Розплодиться через {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>Збірка {0} закінчиться через {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
+  <MechAssemblyNextType>Збереться</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>вироблено</ThingsProduced>
   <!-- EN: harvested -->
