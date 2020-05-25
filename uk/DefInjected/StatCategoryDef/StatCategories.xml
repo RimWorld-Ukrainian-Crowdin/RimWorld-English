@@ -32,7 +32,7 @@
   <CapacityEffects.label>потенціальні ефекти</CapacityEffects.label>
   
   <!-- EN: Drug -->
-  <Drug.label>Drug</Drug.label>
+  <Drug.label>Препарат</Drug.label>
   
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Модифікатор при екіпіруваннні</EquippedStatOffsets.label>
