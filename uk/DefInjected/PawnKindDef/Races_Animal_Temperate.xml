@@ -2,45 +2,70 @@
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
-  <!-- EN: caribou -->
-  <Caribou.labelPlural>caribou</Caribou.labelPlural>
-  <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>caribou calf</Caribou.lifeStages.caribou_calf.label>
-  <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>caribou calves</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.label>північний олень</Caribou.label>
+  <Caribou.labelFemale>північна олениця</Caribou.labelFemale>
+  <Caribou.labelPlural>північні олені</Caribou.labelPlural>
+  <Caribou.lifeStages.caribou_calf.label>північне оленя</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.labelPlural>північні оленята</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.1.label>молодий північний олень</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelFemale>молода північна олениця</Caribou.lifeStages.1.labelFemale>
+  <Caribou.lifeStages.1.labelPlural>молоді північні олені</Caribou.lifeStages.1.labelPlural>
   
   <!-- EN: deer -->
-  <Deer.label>deer</Deer.label>
-  <!-- EN: doe -->
-  <Deer.labelFemale>doe</Deer.labelFemale>
-  <!-- EN: buck -->
-  <Deer.labelMale>buck</Deer.labelMale>
-  <!-- EN: deer -->
-  <Deer.labelPlural>deer</Deer.labelPlural>
+  <Deer.label>олень</Deer.label>
+  <Deer.labelPlural>олені</Deer.labelPlural>
+  <Deer.labelFemale>олениця</Deer.labelFemale>
+  <Deer.labelFemalePlural>олениці</Deer.labelFemalePlural>
+  <Deer.labelMale>олень</Deer.labelMale>
+  <Deer.labelMalePlural>олені</Deer.labelMalePlural>
+  <Deer.lifeStages.0.label>оленя</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelPlural>оленята</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.1.label>молодий олень</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelPlural>молоді олені</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.1.labelFemale>молода олениця</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>молоді олениці</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.1.labelMale>молодий олень</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>молоді олені</Deer.lifeStages.1.labelMalePlural>
   
   <!-- EN: elk -->
-  <Elk.label>elk</Elk.label>
-  <!-- EN: elk -->
-  <Elk.labelPlural>elk</Elk.labelPlural>
-  <!-- EN: elk calf -->
-  <Elk.lifeStages.elk_calf.label>elk calf</Elk.lifeStages.elk_calf.label>
-  <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>elk calves</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.label>вапіті</Elk.label>
+  <Elk.labelPlural>вапіті</Elk.labelPlural>
+  <Elk.lifeStages.elk_calf.label>дитинча вапіті</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.labelPlural>дитинчата вапіті</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.1.label>молодий вапіті</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelPlural>молоді вапіті</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.1.labelFemale>молода вапіті</Elk.lifeStages.1.labelFemale>
   
   <!-- EN: ibex -->
-  <Ibex.label>ibex</Ibex.label>
-  <!-- EN: ibex doe -->
-  <Ibex.labelFemale>ibex doe</Ibex.labelFemale>
-  <!-- EN: ibex ram -->
-  <Ibex.labelMale>ibex ram</Ibex.labelMale>
-  <!-- EN: ibexes -->
-  <Ibex.labelPlural>ibexes</Ibex.labelPlural>
+  <Ibex.label>гірський козел</Ibex.label>
+  <Ibex.labelPlural>гірські козли</Ibex.labelPlural>
+  <Ibex.labelFemale>гірська коза</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>гірські кози</Ibex.labelFemalePlural>
+  <Ibex.labelMale>гірський козел</Ibex.labelMale>
+  <Ibex.labelMalePlural>гірські козли</Ibex.labelMalePlural>
+  <Ibex.lifeStages.0.label>гірське козленя</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelPlural>гірські козленята</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.1.label>молодий козел</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelPlural>молоді козли</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.1.labelFemale>молода коза</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>молоді кози</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>молодий козел</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>молоді козли</Ibex.lifeStages.1.labelMalePlural>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>tortoise</Tortoise.label>
+  <Tortoise.label>черепаха</Tortoise.label>
+  <Tortoise.labelPlural>черепахи</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>черепашеня</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelPlural>черепашенята</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.1.label>молода черепаха</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelPlural>молоді черепахи</Tortoise.lifeStages.1.labelPlural>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>wild boar</WildBoar.label>
+  <WildBoar.label>кабан</WildBoar.label>
+  <WildBoar.labelPlural>кабани</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>дике порося</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelPlural>дикі поросята</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.1.label>молодий кабан</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelPlural>молоді кабани</WildBoar.lifeStages.1.labelPlural>
   
 </LanguageData>
