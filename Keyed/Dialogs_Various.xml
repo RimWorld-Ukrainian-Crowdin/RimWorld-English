@@ -512,6 +512,8 @@
   <MeditationFocusesDesc>The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
   <MeditationFocusCanUse>Can use {0} focus type because</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>{0} focus objects</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
