@@ -2,28 +2,24 @@
 <LanguageData>
   
   <!-- EN: slave -->
-  <Slave.label>раб</Slave.label>
-  <Slave.labelPlural>раби</Slave.labelPlural>
-  <Slave.labelFemale>рабиня</Slave.labelFemale>
-  <Slave.labelFemalePlural>рабині</Slave.labelFemalePlural>
-  <Slave.labelMale>раб</Slave.labelMale>
-  <Slave.labelMalePlural>раби</Slave.labelMalePlural>
+  <Slave.label>slave</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>незнацомець у чорному</StrangerInBlack.label>
-  <StrangerInBlack.labelPlural>незнацомці в чорному</StrangerInBlack.labelPlural>
-  <StrangerInBlack.labelFemale>жінка в чорному</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelFemalePlural>жінки в чорному</StrangerInBlack.labelFemalePlural>
-  <StrangerInBlack.labelMale>чоловік у чорному</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelMalePlural>чоловіки в чорному</StrangerInBlack.labelMalePlural>
-
+  <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>дикун</WildMan.label>
-  <WildMan.labelPlural>дикуни</WildMan.labelPlural>
-  <WildMan.labelFemale>дикунка</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>дикунки</WildMan.labelFemalePlural>
-  <WildMan.labelMale>дикун</WildMan.labelMale>
-  <WildMan.labelMalePlural>дикуни</WildMan.labelMalePlural>
+  <WildMan.label>wild man</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>wild men</WildMan.labelPlural>
   
 </LanguageData>
