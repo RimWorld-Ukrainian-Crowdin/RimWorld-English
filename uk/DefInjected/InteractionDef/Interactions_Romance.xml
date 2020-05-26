@@ -104,7 +104,7 @@
     <li>wooed->Намагається пікапити</li>
     <li>wooed->обворожений</li>
     <li>wooed->заграє</li>
-    <li>&lt;li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]&lt;/li></li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
     <li>wootactic(p=2)->розповідає історію [TalkTopicLight]</li>
     <li>wootactic(p=2)->розповідає історію [TalkTopicHeavy]</li>
     <li>wootactic->шуткує про [TalkTopicAny]</li>
