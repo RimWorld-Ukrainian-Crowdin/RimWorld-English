@@ -5,7 +5,7 @@
   <Adaptation.label>відновлення</Adaptation.label>
   <Adaptation.graphLabelY>Дні</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>{0} days</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} днів</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>настрій</ColonistMood.label>
@@ -19,13 +19,13 @@
   <PopAdaptation.label>відновлення населення</PopAdaptation.label>
   <PopAdaptation.graphLabelY>Дні</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>{0} days</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>{0} днів</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>напруження по населенню x10</PopIntent.label>
   <PopIntent.graphLabelY>Дні</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>{0} days</PopIntent.valueFormat>
+  <PopIntent.valueFormat>{0} днів</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>полонені</Prisoners.label>
@@ -35,7 +35,7 @@
   <ThreatPoints.label>балів щастя /10</ThreatPoints.label>
   <ThreatPoints.graphLabelY>Бали</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>{0} points</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} балів</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>будівлі</Wealth_Buildings.label>
