@@ -2,23 +2,15 @@
 <LanguageData>
   
   <!-- EN: drifter -->
-  <Drifter.label>безхатько</Drifter.label>
-  <Drifter.labelPlural>безхатьки</Drifter.labelPlural>
+  <Drifter.label>drifter</Drifter.label>
   
   <!-- EN: pirate gunner -->
-  <Pirate.label>пірат</Pirate.label>
-  <Pirate.labelPlural>пірати</Pirate.labelPlural>
-  <Pirate.labelFemale>піратка</Pirate.labelFemale>
-  <Pirate.labelFemalePlural>піратки</Pirate.labelFemalePlural>
-  <Pirate.labelMale>пірат</Pirate.labelMale>
-  <Pirate.labelMalePlural>пірати</Pirate.labelMalePlural>
+  <Pirate.label>pirate gunner</Pirate.label>
   
   <!-- EN: scavenger gunner -->
-  <Scavenger.label>стерв'ятник</Scavenger.label>
-  <Scavenger.labelPlural>стерв'ятники</Scavenger.labelPlural>
+  <Scavenger.label>scavenger gunner</Scavenger.label>
   
   <!-- EN: scavenger thrasher -->
-  <Thrasher.label>викидайло</Thrasher.label>
-  <Thrasher.labelPlural>викидайли</Thrasher.labelPlural>
+  <Thrasher.label>scavenger thrasher</Thrasher.label>
   
 </LanguageData>
