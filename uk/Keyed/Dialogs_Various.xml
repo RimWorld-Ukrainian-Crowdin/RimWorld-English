@@ -512,6 +512,8 @@
   <MeditationFocusesDesc>Види медитації, в яких може бути. Медиторна людина може зосередитися на цьому об'єкті, щоб підвищити свій психічний акцент, але тільки якщо вони можуть використовувати один з його типів медитації. Кожна людина може використовувати різні типи медитацій в залежності від їх фону, ознак, соціальної позиції і так далі.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
   <MeditationFocusCanUse>Можна використовувати тип фокусу {0}, тому що</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>{0} focus objects</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
