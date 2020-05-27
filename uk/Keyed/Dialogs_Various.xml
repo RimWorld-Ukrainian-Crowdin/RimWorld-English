@@ -923,7 +923,7 @@
   <!-- EN: Neutral faction -->
   <MedGroupNeutralFaction>Нейтральна фракція</MedGroupNeutralFaction>
   <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Ворожа поверхня</MedGroupHostileFaction>
+  <MedGroupHostileFaction>Ворожа фракція</MedGroupHostileFaction>
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
