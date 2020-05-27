@@ -11,13 +11,13 @@
   <DateReadoutTip>Днів минуло з моменту вашого приїзду: {0}\n Наразі: {4} день.\n Місцевий сезон: {2}\n\nРік ділиться на 4 сезони з {3} днями кожен. Квадруми скрізь однакові, в той час як сезони різні в різних місцях.\n\nЛокальні сезони для кожного квадруму:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{0} з {1}, {2}</FullDate>
+  <FullDate>{0} {1}, {2}</FullDate>
   <!-- EN: {0} {1} {2} -->
   <ShortDate>{0} {1} {2}</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>{0} з {1}, {2}</DateReadout>
+  <DateReadout>{0} {1}, {2}</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>{0} з {1}</SeasonFullDate>
+  <SeasonFullDate>{0} {1}</SeasonFullDate>
   <!-- EN: Whole year -->
   <WholeYear>Весь рік</WholeYear>
   
