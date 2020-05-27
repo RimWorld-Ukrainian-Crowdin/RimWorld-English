@@ -103,7 +103,7 @@
   <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
   <Horse.description>Великий копитний ссавець з короткою шерстю та довгими гривою й хвостом. Коні були одомашнені з давніх часів.</Horse.description>
   <!-- EN: horse meat -->
-  <Horse.race.meatLabel>м'ясо коня</Horse.race.meatLabel>
+  <Horse.race.meatLabel>конина</Horse.race.meatLabel>
   <!-- EN: head -->
   <Horse.tools.head.label>голова</Horse.tools.head.label>
   <!-- EN: left hoof -->
