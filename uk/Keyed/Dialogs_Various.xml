@@ -895,17 +895,17 @@
   <!-- EN: Simple -->
   <FoodRestrictionSimple>Просте</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>Часткове</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Паста</FoodRestrictionPaste>
   <!-- EN: Raw -->
   <FoodRestrictionRaw>Сира</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Нічого</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Вибрати обмеження в їжі</SelectFoodRestriction>
+  <SelectFoodRestriction>Вибрати обмеження</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Нове обмеження в їжі</NewFoodRestriction>
+  <NewFoodRestriction>Нове обмеження</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Видалити обмеження в їжі</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Видалити обмеження</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
   <NoFoodRestrictionSelected>Немає обраних обмежень в їжі</NoFoodRestrictionSelected>
 
