@@ -41,9 +41,9 @@
   <!-- EN: Development mode -->
   <DevelopmentMode>Режим розробки</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>Авто скидання конфігурації модифікацій при аварії</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Авто скидання конфігурацій модифікацій при аварії</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Simulate not owning Royalty</SimulateNotOwningRoyalty>
+  <SimulateNotOwningRoyalty>Симулювати відсутність доповнення "Вельможі"</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>Ведення докладного журналу</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -53,7 +53,7 @@
   <!-- EN: Open log file folder -->
   <OpenLogFileFolder>Відкрити теку з логами</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>Show log file location</ShowLogFileLocation>
+  <ShowLogFileLocation>Показати розташування логів</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Улюблені персонажі. Ці персонажі будуть з'являтися у грі частіше:</NamesYouWantToSee>
   <!-- EN: Add name -->
