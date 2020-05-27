@@ -691,7 +691,7 @@
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Термін дії збігає: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>Закінчиться через: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
   <ThoughtNullifiedBy>думка не виникає через</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
