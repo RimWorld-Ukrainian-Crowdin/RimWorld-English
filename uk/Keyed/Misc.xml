@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Автозбереження</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Троє з вас прокинулися в саркофагу криптосну під звуки сирен і скрегіт металу. Ви ледь добігли до рятівних капсул до того, як корабель розвалився на частини. \n\nЧерез деякий час, ви приземляєтеся на цю невідому рімворлд.\n\nЯк шматки зорельота падають навколо вас, ви починаєте створювати плани для виживання.</GameStartDialog>
+  <GameStartDialog>Троє з вас прокинулися в саркофагу криптосну під звуки сирен і скрегіт металу. Ви ледь добігли до рятівних капсул до того, як корабель розвалився на частини. \n\nЧерез деякий час, ви приземляєтеся на цей невідомий край світу.\n\nВ той час, як шматки зорельота падають навколо вас, ви починаєте створювати план виживання.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Колонія</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
