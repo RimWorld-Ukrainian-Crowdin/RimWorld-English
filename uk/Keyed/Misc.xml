@@ -97,14 +97,14 @@
   <MeatHumanDesc>Сире м'ясо. З нього можна зробити страви або з'їсти сирим, хоча більшості людей так не подобається.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel>
+  <TechprintLabel>креслення ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Це техпринт для дослідницього проєкту '{PROJECT_label}'.
-\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
-\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+  <TechprintDesc>Це креслення для дослідницього проєкту '{PROJECT_label}'.
+\nФізична форма креслень може різнитися від куска паперу з графічним зображенням до самостійних продвинутих навчальних машин. Незалежно від форми, вони грають одну й ту саму роль. Вони дають вашим дослідникам упевненість, що цю ідею можливо втілити в реальність і також приблизне уявлення про її застосування в більш розвинутих суспільствах.
+\nВашим дослідникам потрібні базові знання, які надають ці креслення, щоб почати розвивати дані технології. Тільки після того, як будуть знайдені всі потрібні креслення, ваші дослідники зможуть приступити до розробки деталей того, як можна застосовувати цю технологію у вашому конкретному випадку.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Unlocks</Unlocks>
