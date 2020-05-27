@@ -72,7 +72,7 @@
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>Якщо ви не можете захиститися від загрози, зробіть караван і біжіть. Ви можете втратити ваш будинок, але так ваша історія може продовжуватися.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>Уникайте використання каміння для дверей. Вони дуже повільно відкриваються, що марнує час колоністів.</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Уникайте використання кам'яних дверей. Вони дуже повільно відкриваються, що марнує час колоністів.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
   <GameplayTips.ChairsWorkbench>Ставте стільці навпроти верстатів, щоб працівникам було комфортно працювати.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
