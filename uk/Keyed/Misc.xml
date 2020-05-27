@@ -102,15 +102,15 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Це креслення для дослідницього проєкту '{PROJECT_label}'.
-\nФізична форма креслень може різнитися від куска паперу з графічним зображенням до самостійних продвинутих навчальних машин. Незалежно від форми, вони грають одну й ту саму роль. Вони дають вашим дослідникам упевненість, що цю ідею можливо втілити в реальність і також приблизне уявлення про її застосування в більш розвинутих суспільствах.
-\nВашим дослідникам потрібні базові знання, які надають ці креслення, щоб почати розвивати дані технології. Тільки після того, як будуть знайдені всі потрібні креслення, ваші дослідники зможуть приступити до розробки деталей того, як можна застосовувати цю технологію у вашому конкретному випадку.
-\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc>
+  <TechprintDesc>Це техпринт для дослідницього проєкту '{PROJECT_label}'.
+\nФізична форма техпринтів може різнитися від куска паперу з графічним зображенням до самостійних продвинутих навчальних машин. Незалежно від форми, вони грають одну й ту саму роль. Вони дають вашим дослідникам упевненість, що цю ідею можливо втілити в реальність і також приблизне уявлення про її застосування в більш розвинутих суспільствах.
+\nВашим дослідникам потрібні базові знання, які надають ці техпринти, щоб почати розвивати дані технології. Тільки після того, як будуть знайдені всі потрібні техпринти, ваші дослідники зможуть приступити до розробки деталей того, як можна застосовувати цю технологію у вашому конкретному випадку.
+\nЗастосування техпринтів до бажаного проєкту заповнює половину прогресу, який залишився до кінця дослідження. Крім того, дослідники завжди отримують приріст інтелектуальних навичок при застосуванні техпринтів, навіть для вже завершених технологій.</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>Unlocks</Unlocks>
+  <Unlocks>Відчиняє</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} труп</CorpseLabel>
+  <CorpseLabel>труп {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Мертве тіло {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
@@ -121,21 +121,21 @@
   <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Нерівна, природна {0} поверхня.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>необтесаний {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>необтесана {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Підлога з грубо обтесаного {0}.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>Обтесаний природний {0}.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>рівна {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>Рівна, природна {0} поверхня.</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>Рівна, природна {0}.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra>(кресленя)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra>(споруди)</FrameLabelExtra>
+  <FrameLabelExtra>(будується)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
+  <FactionUnaffiliated>Неприєднана</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -143,12 +143,12 @@
   <ThingMadeOfStuffLabel>{1} з {0}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{PAWN_labelShort} {1}</SomeonesRoom>
+  <SomeonesRoom>{1} {PAWN_labelShort}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{PAWN1_labelShort} і {PAWN2_labelShort} {2}</CouplesRoom>
+  <CouplesRoom>{2} {PAWN1_labelShort} і {PAWN2_labelShort}</CouplesRoom>
   
   <!-- EN: (various) -->
-  <VariousLabel>(різні)</VariousLabel>
+  <VariousLabel>(різне)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
@@ -165,6 +165,6 @@
   <East>Схід</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint>
+  <ApplyingTechprint>застосовується техпринт ({0})</ApplyingTechprint>
   
 </LanguageData>
