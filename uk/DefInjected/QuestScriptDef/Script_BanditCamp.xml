@@ -25,21 +25,21 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->The [bandit] [camp]</li>
-    <li>questName->[bandit] [camp]</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[camp] [bandit]</li>
     <li>questName->[asker_nameDef] and the [camp]</li>
     <li>camp->Табір</li>
     <li>camp->Форпост</li>
     <li>camp->Лігво</li>
-    <li>табір->Табір</li>
-    <li>бандит->Бандит</li>
-    <li>бандит->Рейдер</li>
-    <li>бандит->Вигнанець</li>
-    <li>бандит->Головоріз</li>
-    <li>бандит->Біженець</li>
-    <li>бандит->Мародер</li>
-    <li>бандит->Грабіжник</li>
-    <li>бандит->Розбіжник</li>
+    <li>camp->Табір</li>
+    <li>bandit->Бандит</li>
+    <li>bandit->Рейдер</li>
+    <li>bandit->Вигнанець</li>
+    <li>bandit->Головоріз</li>
+    <li>bandit->Біженець</li>
+    <li>bandit->Мародер</li>
+    <li>bandit->Грабіжник</li>
+    <li>bandit->Розбійник</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
@@ -48,7 +48,7 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Quest failed: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Після виявлення бандитьского табору він був розігнаний. Квест [resolvedQuestName] закінчився.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Після виявлення бандитського табору, він був розігнаний. Доручення [resolvedQuestName] закінчилося.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
   <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Payment arrived</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
