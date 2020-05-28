@@ -38,7 +38,7 @@
   <!-- EN: psyfocus cost -->
   <Ability_PsyfocusCost.label>вартість психофокусу</Ability_PsyfocusCost.label>
   <!-- EN: How much psyfocus must be spent to perform this ability. -->
-  <Ability_PsyfocusCost.description>How much psyfocus must be spent to perform this ability.</Ability_PsyfocusCost.description>
+  <Ability_PsyfocusCost.description>Скільки психофокусу витрачати на виконання цієї здібності.</Ability_PsyfocusCost.description>
   
   <!-- EN: range -->
   <Ability_Range.label>range</Ability_Range.label>
