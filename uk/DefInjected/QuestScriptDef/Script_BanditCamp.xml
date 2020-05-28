@@ -28,9 +28,9 @@
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>
     <li>questName->[asker_nameDef] and the [camp]</li>
-    <li>табір->Табір</li>
-    <li>табір->Форпост</li>
-    <li>табір->Лігво</li>
+    <li>camp->Табір</li>
+    <li>camp->Форпост</li>
+    <li>camp->Лігво</li>
     <li>табір->Табір</li>
     <li>бандит->Бандит</li>
     <li>бандит->Рейдер</li>
