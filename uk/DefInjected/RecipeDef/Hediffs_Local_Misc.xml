@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: anti-abasia mechanite infusion -->
-  <CureAbasia.label>anti-abasia mechanite infusion</CureAbasia.label>
+  <CureAbasia.label>проти-абазійна механітова інфузія</CureAbasia.label>
   <!-- EN: This special medical operation uses a massive dose of mechanites to saturate brain tissue and execute a coordinated restructure of neural activity without damaging the brain. It permanently cures a patient's abasia-induced paralysis, but consumes a large amount of glitterworld medicine. -->
   <CureAbasia.description>У цій особливій медичній операції застосовується велика доза механітів, аби наситити мозкову тканину й виконати координовану реструктуризацію нейронної активності без ушкодження мозку. Це назавжди вилікує параліч пацієнта, викликаний абазією, але споживає велику кількість медикаментів Блискучого Світу.</CureAbasia.description>
   <!-- EN: Infusing anti-abasia mechanites. -->
-  <CureAbasia.jobString>Infusing anti-abasia mechanites.</CureAbasia.jobString>
+  <CureAbasia.jobString>Вводить анти-абазійні механіти.</CureAbasia.jobString>
   <!-- EN: {0} has successfully cured {1}'s paralytic abasia. -->
   <CureAbasia.successfullyRemovedHediffMessage>{0} успішно вилікував паралітичну абазію {1}.</CureAbasia.successfullyRemovedHediffMessage>
   
@@ -20,9 +20,9 @@
   <CureBloodRot.successfullyRemovedHediffMessage>{0} успішно вилікував гниття крові {1}.</CureBloodRot.successfullyRemovedHediffMessage>
   
   <!-- UNUSED -->
-  <CureComa.label>настоювання механітів, що викликає вихід з коми</CureComa.label>
+  <CureComa.label>виводяча з коми механітова інфузія</CureComa.label>
   <CureComa.description>У цій особливій медичній операції використовується велика доза механітів, аби наситити мозкову тканину й виконати координований запуск нейронної активності без ушкодження мозку. Це відразу опритомнює пацієнта з коми, але споживає велику кількість медикаментів Блискучого світу.</CureComa.description>
-  <CureComa.jobString>Настоювальні механітіи, що викликають вихід з коми.</CureComa.jobString>
+  <CureComa.jobString>Вводить механіти для виводу з коми.</CureComa.jobString>
   <CureComa.successfullyRemovedHediffMessage>{0} успішно вилікував кому {1}.</CureComa.successfullyRemovedHediffMessage>
   
   <!-- EN: cure scaria -->
@@ -30,7 +30,7 @@
   <!-- EN: This special medical operation cures scaria. -->
   <CureScaria.description>Ця особлива медична операція лікує скарію.</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>Curing scaria.</CureScaria.jobString>
+  <CureScaria.jobString>Лікує скарію.</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
   <CureScaria.successfullyRemovedHediffMessage>{0} успішно вилікував скарію {1}.</CureScaria.successfullyRemovedHediffMessage>
   
