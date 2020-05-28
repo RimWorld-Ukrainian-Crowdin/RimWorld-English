@@ -27,19 +27,19 @@
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
     <li>questName->[camp] [bandit]</li>
     <li>questName->[camp] [bandit]</li>
-    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>questName->[asker_nameDef] і [camp] [bandit]</li>
     <li>camp->Табір</li>
     <li>camp->Форпост</li>
     <li>camp->Лігво</li>
-    <li>camp->Табір</li>
-    <li>bandit->Бандит</li>
-    <li>bandit->Рейдер</li>
-    <li>bandit->Вигнанець</li>
-    <li>bandit->Головоріз</li>
-    <li>bandit->Біженець</li>
-    <li>bandit->Мародер</li>
-    <li>bandit->Грабіжник</li>
-    <li>bandit->Розбійник</li>
+    <li>camp->Притулок</li>
+    <li>bandit->Бандитів</li>
+    <li>bandit->Рейдерів</li>
+    <li>bandit->Вигнанців</li>
+    <li>bandit->Головорізів</li>
+    <li>bandit->Біженців</li>
+    <li>bandit->Мародерів</li>
+    <li>bandit->Грабіжників</li>
+    <li>bandit->Розбійників</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
