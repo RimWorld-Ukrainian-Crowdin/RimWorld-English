@@ -28,18 +28,18 @@
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>
     <li>questName->[asker_nameDef] and the [camp]</li>
-    <li>camp->Camp</li>
-    <li>camp->Outpost</li>
-    <li>camp->Lair</li>
-    <li>camp->Encampment</li>
-    <li>bandit->Bandit</li>
-    <li>bandit->Raider</li>
-    <li>bandit->Outlaw</li>
-    <li>bandit->Desperado</li>
-    <li>bandit->Fugitive</li>
-    <li>bandit->Marauder</li>
-    <li>bandit->Robber</li>
-    <li>bandit->Brigand</li>
+    <li>табір->Табір</li>
+    <li>табір->Форпост</li>
+    <li>табір->Лігво</li>
+    <li>табір->Табір</li>
+    <li>бандит->Бандит</li>
+    <li>бандит->Рейдер</li>
+    <li>бандит->Вигнанець</li>
+    <li>бандит->Головоріз</li>
+    <li>бандит->Біженець</li>
+    <li>бандит->Мародер</li>
+    <li>бандит->Грабіжник</li>
+    <li>бандит->Розбіжник</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
