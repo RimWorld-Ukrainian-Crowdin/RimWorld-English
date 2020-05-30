@@ -21,12 +21,14 @@
   
   <!-- EN: elite mercenary -->
   <Mercenary_Elite.label>елітний найманець</Mercenary_Elite.label>
+  <!-- EN: elite mercenaries -->
   <Mercenary_Elite.labelPlural>елітні найманці</Mercenary_Elite.labelPlural>
   <Mercenary_Elite.labelFemale>елітна найманка</Mercenary_Elite.labelFemale>
   <Mercenary_Elite.labelFemalePlural>елітні найманки</Mercenary_Elite.labelFemalePlural>
   
   <!-- EN: elite mercenary -->
   <Mercenary_Elite_Acidifier.label>елітний найманець</Mercenary_Elite_Acidifier.label>
+  <!-- EN: elite mercenaries -->
   <Mercenary_Elite_Acidifier.labelPlural>елітні найманці</Mercenary_Elite_Acidifier.labelPlural>
   <Mercenary_Elite_Acidifier.labelFemale>елітна найманка</Mercenary_Elite_Acidifier.labelFemale>
   <Mercenary_Elite_Acidifier.labelFemalePlural>елітні найманки</Mercenary_Elite_Acidifier.labelFemalePlural>
@@ -46,6 +48,7 @@
   <!-- EN: heavy mercenary -->
   <Mercenary_Heavy.label>важко озброєний найманець</Mercenary_Heavy.label>
   <Mercenary_Heavy.labelFemale>важко озброєна найманка</Mercenary_Heavy.labelFemale>
+  <!-- EN: heavy mercenaries -->
   <Mercenary_Heavy.labelPlural>важко озброєні найманці</Mercenary_Heavy.labelPlural>
   <Mercenary_Heavy.labelFemalePlural>важко озброєні найманки</Mercenary_Heavy.labelFemalePlural>
   
@@ -67,8 +70,9 @@
   
   <!-- EN: boss -->
   <PirateBoss.label>вожак</PirateBoss.label>
-  <PirateBoss.labelPlural>вожаки</PirateBoss.labelPlural>
   <PirateBoss.labelFemale>вожачка</PirateBoss.labelFemale>
+  <!-- EN: bosses -->
+  <PirateBoss.labelPlural>вожаки</PirateBoss.labelPlural>
   <PirateBoss.labelFemalePlural>вожачки</PirateBoss.labelFemalePlural>
   
 </LanguageData>
