@@ -11,11 +11,11 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Надзвичайний ризик зриву</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>Ці колоністи в поганому настрої і можуть отримати незначний психічний зрив у будь який час:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Ці колоністи в поганому настрої і у них може статися незначний психічний зрив у будь-який момент:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>Ці колоністи в дуже поганому настрої і можуть отримати значний психічний зрив у будь який час:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Ці колоністи в дуже поганому настрої і у них може статися значний психічний зрив у будь-який момент:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>Ці колоністи панічно нервують і можуть отримати надзвичайний (і, скоріш за все, небезпечний) психічний зрив у будь-який час:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Ці колоністи панічно нервують і у них може статися надзвичайний (і, скоріш за все, небезпечний) психічний зрив у будь-який момент:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Перевірте вкладку «Потреби» цих колоністів, щоб побачити, що їх турбує.\n\n Щоб колоністи почувалися краще, ви можете зробити такі речі, як приготувати для них смачну страву, надати їм більше часів відпочинку в день та кращі предмети для відпочинку, розмістити їх в затишному оточенні, дозволити їм пити та палити, та багато іншого.</BreakRiskDescEnding>
 
