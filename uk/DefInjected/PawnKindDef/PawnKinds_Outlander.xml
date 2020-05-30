@@ -3,8 +3,9 @@
   
   <!-- EN: town councilman -->
   <Town_Councilman.label>міський радник</Town_Councilman.label>
-  <Town_Councilman.labelPlural>міські радники</Town_Councilman.labelPlural>
   <Town_Councilman.labelFemale>міська радниця</Town_Councilman.labelFemale>
+  <!-- EN: town councilmen -->
+  <Town_Councilman.labelPlural>міські радники</Town_Councilman.labelPlural>
   <Town_Councilman.labelFemalePlural>міські радниці</Town_Councilman.labelFemalePlural>
   
   <!-- EN: town guard -->
