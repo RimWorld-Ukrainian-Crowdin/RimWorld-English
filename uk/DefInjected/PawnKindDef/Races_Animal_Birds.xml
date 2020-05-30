@@ -3,6 +3,7 @@
   
   <!-- EN: cassowary -->
   <Cassowary.label>казуар</Cassowary.label>
+  <!-- EN: cassowaries -->
   <Cassowary.labelPlural>казуари</Cassowary.labelPlural>
   <Cassowary.lifeStages.0.label>пташеня казуара</Cassowary.lifeStages.0.label>
   <Cassowary.lifeStages.0.labelPlural>пташенята казуара</Cassowary.lifeStages.0.labelPlural>
@@ -19,6 +20,7 @@
   
   <!-- EN: ostrich -->
   <Ostrich.label>страус</Ostrich.label>
+  <!-- EN: ostriches -->
   <Ostrich.labelPlural>страуси</Ostrich.labelPlural>
   <Ostrich.labelFemale>страусиця</Ostrich.labelFemale>
   <Ostrich.labelFemalePlural>страусиці</Ostrich.labelFemalePlural>
