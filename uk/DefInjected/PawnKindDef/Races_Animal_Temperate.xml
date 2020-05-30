@@ -4,8 +4,11 @@
   <!-- EN: caribou -->
   <Caribou.label>північний олень</Caribou.label>
   <Caribou.labelFemale>північна олениця</Caribou.labelFemale>
+  <!-- EN: caribou -->
   <Caribou.labelPlural>північні олені</Caribou.labelPlural>
+  <!-- EN: caribou calf -->
   <Caribou.lifeStages.caribou_calf.label>північне оленя</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves -->
   <Caribou.lifeStages.caribou_calf.labelPlural>північні оленята</Caribou.lifeStages.caribou_calf.labelPlural>
   <Caribou.lifeStages.1.label>молодий північний олень</Caribou.lifeStages.1.label>
   <Caribou.lifeStages.1.labelFemale>молода північна олениця</Caribou.lifeStages.1.labelFemale>
@@ -13,10 +16,13 @@
   
   <!-- EN: deer -->
   <Deer.label>олень</Deer.label>
-  <Deer.labelPlural>олені</Deer.labelPlural>
+  <!-- EN: doe -->
   <Deer.labelFemale>олениця</Deer.labelFemale>
   <Deer.labelFemalePlural>олениці</Deer.labelFemalePlural>
+  <!-- EN: buck -->
   <Deer.labelMale>олень</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>олені</Deer.labelPlural>
   <Deer.labelMalePlural>олені</Deer.labelMalePlural>
   <Deer.lifeStages.0.label>оленя</Deer.lifeStages.0.label>
   <Deer.lifeStages.0.labelPlural>оленята</Deer.lifeStages.0.labelPlural>
@@ -29,8 +35,11 @@
   
   <!-- EN: elk -->
   <Elk.label>вапіті</Elk.label>
+  <!-- EN: elk -->
   <Elk.labelPlural>вапіті</Elk.labelPlural>
+  <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>дитинча вапіті</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves -->
   <Elk.lifeStages.elk_calf.labelPlural>дитинчата вапіті</Elk.lifeStages.elk_calf.labelPlural>
   <Elk.lifeStages.1.label>молодий вапіті</Elk.lifeStages.1.label>
   <Elk.lifeStages.1.labelPlural>молоді вапіті</Elk.lifeStages.1.labelPlural>
@@ -38,10 +47,13 @@
   
   <!-- EN: ibex -->
   <Ibex.label>гірський козел</Ibex.label>
-  <Ibex.labelPlural>гірські козли</Ibex.labelPlural>
+  <!-- EN: ibex doe -->
   <Ibex.labelFemale>гірська коза</Ibex.labelFemale>
   <Ibex.labelFemalePlural>гірські кози</Ibex.labelFemalePlural>
+  <!-- EN: ibex ram -->
   <Ibex.labelMale>гірський козел</Ibex.labelMale>
+    <!-- EN: ibexes -->
+  <Ibex.labelPlural>гірські козли</Ibex.labelPlural>
   <Ibex.labelMalePlural>гірські козли</Ibex.labelMalePlural>
   <Ibex.lifeStages.0.label>гірське козленя</Ibex.lifeStages.0.label>
   <Ibex.lifeStages.0.labelPlural>гірські козленята</Ibex.lifeStages.0.labelPlural>
