@@ -4,7 +4,9 @@
   <!-- EN: boomalope -->
   <Boomalope.label>бумалопа</Boomalope.label>
   <Boomalope.labelPlural>бамалопи</Boomalope.labelPlural>
+  <!-- EN: boomalope calf -->
   <Boomalope.lifeStages.boomalope_calf.label>бумалопеня</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
   <Boomalope.lifeStages.boomalope_calf.labelPlural>бумалопенята</Boomalope.lifeStages.boomalope_calf.labelPlural>
   <Boomalope.lifeStages.1.label>молода бумалопа</Boomalope.lifeStages.1.label>
   <Boomalope.lifeStages.1.labelPlural>молоді бумалопи</Boomalope.lifeStages.1.labelPlural>
