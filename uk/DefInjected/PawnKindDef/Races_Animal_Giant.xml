@@ -5,6 +5,7 @@
   <Elephant.label>слон</Elephant.label>
   <Elephant.labelFemale>слониха</Elephant.labelFemale>
   <Elephant.labelPlural>слони</Elephant.labelPlural>
+  <!-- EN: elephant calf -->
   <Elephant.lifeStages.elephant_calf.label>слоненя</Elephant.lifeStages.elephant_calf.label>
   <Elephant.lifeStages.elephant_calf.labelPlural>слоненята</Elephant.lifeStages.elephant_calf.labelPlural>
   <Elephant.lifeStages.1.label>молодий слон</Elephant.lifeStages.1.label>
@@ -21,6 +22,7 @@
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>носоріг</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
   <Rhinoceros.labelPlural>носороги</Rhinoceros.labelPlural>
   <Rhinoceros.lifeStages.0.label>дитинча носорога</Rhinoceros.lifeStages.0.label>
   <Rhinoceros.lifeStages.0.labelPlural>дитинчата носорога</Rhinoceros.lifeStages.0.labelPlural>
@@ -30,7 +32,9 @@
   <!-- EN: thrumbo -->
   <Thrumbo.label>трумбо</Thrumbo.label>
   <Thrumbo.labelPlural>трумбо</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf -->
   <Thrumbo.lifeStages.thrumbo_calf.label>трумбеня</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
   <Thrumbo.lifeStages.thrumbo_calf.labelPlural>трумбенята</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   <Thrumbo.lifeStages.1.label>молодий трумбо</Thrumbo.lifeStages.1.label>
   <Thrumbo.lifeStages.1.labelPlural>молоді трумбо</Thrumbo.lifeStages.1.labelPlural>
