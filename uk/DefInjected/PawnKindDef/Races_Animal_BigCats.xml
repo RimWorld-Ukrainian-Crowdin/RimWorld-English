@@ -11,7 +11,9 @@
   
   <!-- EN: lynx -->
   <Lynx.label>рись</Lynx.label>
+  <!-- EN: lynx -->
   <Lynx.labelPlural>рисі</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
   <Lynx.lifeStages.lynx_kitten.label>кошеня рисі</Lynx.lifeStages.lynx_kitten.label>
   <Lynx.lifeStages.lynx_kitten.labelPlural>кошенята рисі</Lynx.lifeStages.lynx_kitten.labelPlural>
   <Lynx.lifeStages.1.label>молода рись</Lynx.lifeStages.1.label>
