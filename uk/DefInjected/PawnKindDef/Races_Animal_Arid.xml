@@ -3,8 +3,11 @@
   
   <!-- EN: dromedary -->
   <Dromedary.label>верблюд</Dromedary.label>
+  <!-- EN: dromedaries -->
   <Dromedary.labelPlural>верблюди</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
   <Dromedary.lifeStages.dromedary_calf.label>теля верблюда</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
   <Dromedary.lifeStages.dromedary_calf.labelPlural>телята верблюда</Dromedary.lifeStages.dromedary_calf.labelPlural>
   <Dromedary.lifeStages.1.label>молодий верблюд</Dromedary.lifeStages.1.label>
   <Dromedary.lifeStages.1.labelPlural>молоді верблюди</Dromedary.lifeStages.1.labelPlural>
@@ -28,7 +31,9 @@
   <!-- EN: muffalo -->
   <Muffalo.label>муффало</Muffalo.label>
   <Muffalo.labelPlural>муффало</Muffalo.labelPlural>
+  <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>теля муффало</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
   <Muffalo.lifeStages.muffalo_calf.labelPlural>телята муффало</Muffalo.lifeStages.muffalo_calf.labelPlural>
   <Muffalo.lifeStages.1.label>молодий муффало</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.1.labelPlural>молоді муффало</Muffalo.lifeStages.1.labelPlural>
