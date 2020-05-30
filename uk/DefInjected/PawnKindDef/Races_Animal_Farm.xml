@@ -12,24 +12,30 @@
   <!-- EN: bison -->
   <Bison.label>бізон</Bison.label>
   <Bison.labelPlural>бізони</Bison.labelPlural>
-  <Bison.lifeStages.bison_calf.label>бізоненя</Bison.lifeStages.bison_calf.label>
-  <Bison.lifeStages.bison_calf.labelPlural>бізоненята</Bison.lifeStages.bison_calf.labelPlural>
+  <!-- EN: bison calf -->
+  <Bison.lifeStages.bison_calf.label>теля бізона</Bison.lifeStages.bison_calf.label>
+  <!-- EN: bison calves -->
+  <Bison.lifeStages.bison_calf.labelPlural>телята бізона</Bison.lifeStages.bison_calf.labelPlural>
   <Bison.lifeStages.1.label>молодий бізон</Bison.lifeStages.1.label>
   <Bison.lifeStages.1.labelPlural>молоді бізони</Bison.lifeStages.1.labelPlural>
   
   <!-- EN: chicken -->
   <Chicken.label>курка</Chicken.label>
   <Chicken.labelPlural>кури</Chicken.labelPlural>
+  <!-- EN: hen -->
   <Chicken.labelFemale>квочка</Chicken.labelFemale>
   <Chicken.labelFemalePlural>квочки</Chicken.labelFemalePlural>
+  <!-- EN: rooster -->
   <Chicken.labelMale>півень</Chicken.labelMale>
   <Chicken.labelMalePlural>півні</Chicken.labelMalePlural>
+  <!-- EN: chick -->
   <Chicken.lifeStages.chick.label>курча</Chicken.lifeStages.chick.label>
   <Chicken.lifeStages.chick.labelPlural>курчата</Chicken.lifeStages.chick.labelPlural>
   <Chicken.lifeStages.cockerel.label>курочка</Chicken.lifeStages.cockerel.label>
   <Chicken.lifeStages.cockerel.labelPlural>курочки</Chicken.lifeStages.cockerel.labelPlural>
   <Chicken.lifeStages.cockerel.labelFemale>молода квочка</Chicken.lifeStages.cockerel.labelFemale>
   <Chicken.lifeStages.cockerel.labelFemalePlural>молоді квочки</Chicken.lifeStages.cockerel.labelFemalePlural>
+  <!-- EN: cockerel -->
   <Chicken.lifeStages.cockerel.labelMale>півник</Chicken.lifeStages.cockerel.labelMale>
   <Chicken.lifeStages.cockerel.labelMalePlural>півники</Chicken.lifeStages.cockerel.labelMalePlural>
   
@@ -38,9 +44,12 @@
   <Cow.labelPlural>корови</Cow.labelPlural>
   <Cow.labelFemale>корова</Cow.labelFemale>
   <Cow.labelFemalePlural>корови</Cow.labelFemalePlural>
+  <!-- EN: bull -->
   <Cow.labelMale>бик</Cow.labelMale>
   <Cow.labelMalePlural>бики</Cow.labelMalePlural>
+  <!-- EN: calf -->
   <Cow.lifeStages.calf.label>теля</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
   <Cow.lifeStages.calf.labelPlural>телята</Cow.lifeStages.calf.labelPlural>
   <Cow.lifeStages.1.label>молода корова</Cow.lifeStages.1.label>
   <Cow.lifeStages.1.labelPlural>молоді корови</Cow.lifeStages.1.labelPlural>
@@ -53,6 +62,7 @@
   <Donkey.label>осел</Donkey.label>
   <Donkey.labelFemale>ослиця</Donkey.labelFemale>
   <Donkey.labelPlural>осли</Donkey.labelPlural>
+  <!-- EN: donkey foal -->
   <Donkey.lifeStages.donkey_foal.label>лоша</Donkey.lifeStages.donkey_foal.label>
   <Donkey.lifeStages.donkey_foal.labelPlural>лошата</Donkey.lifeStages.donkey_foal.labelPlural>
   <Donkey.lifeStages.1.label>молодий осел</Donkey.lifeStages.1.label>
@@ -62,6 +72,7 @@
   <Duck.label>качка</Duck.label>
   <Duck.labelMale>селезень</Duck.labelMale>
   <Duck.labelPlural>качки</Duck.labelPlural>
+  <!-- EN: duckling -->
   <Duck.lifeStages.duckling.label>каченя</Duck.lifeStages.duckling.label>
   <Duck.lifeStages.duckling.labelPlural>каченята</Duck.lifeStages.duckling.labelPlural>
   <Duck.lifeStages.1.label>молода качка</Duck.lifeStages.1.label>
@@ -73,10 +84,12 @@
   <Goat.labelPlural>кози</Goat.labelPlural>
   <Goat.labelMale>козел</Goat.labelMale>
   <Goat.labelMalePlural>козли</Goat.labelMalePlural>
+  <!-- EN: goat doe -->
   <Goat.labelFemale>коза</Goat.labelFemale>
   <Goat.labelFemalePlural>кози</Goat.labelFemalePlural>
-  <Goat.lifeStages.baby_goat.label>козленя</Goat.lifeStages.baby_goat.label>
-  <Goat.lifeStages.baby_goat.labelPlural>козленята</Goat.lifeStages.baby_goat.labelPlural>
+  <!-- EN: baby goat -->
+  <Goat.lifeStages.baby_goat.label>козеня</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.baby_goat.labelPlural>козенята</Goat.lifeStages.baby_goat.labelPlural>
   <Goat.lifeStages.1.label>молода коза</Goat.lifeStages.1.label>
   <Goat.lifeStages.1.labelPlural>молоді кози</Goat.lifeStages.1.labelPlural>
   <Goat.lifeStages.1.labelMale>молодий козел</Goat.lifeStages.1.labelMale>
@@ -87,6 +100,7 @@
   <!-- EN: goose -->
   <Goose.label>гуска</Goose.label>
   <Goose.labelMale>гусак</Goose.labelMale>
+  <!-- EN: geese -->
   <Goose.labelPlural>гуси</Goose.labelPlural>
   <Goose.lifeStages.0.label>гусеня</Goose.lifeStages.0.label>
   <Goose.lifeStages.0.labelPlural>гусенята</Goose.lifeStages.0.labelPlural>
@@ -105,10 +119,13 @@
   <!-- EN: horse -->
   <Horse.label>кінь</Horse.label>
   <Horse.labelPlural>коні</Horse.labelPlural>
+  <!-- EN: mare -->
   <Horse.labelFemale>кобила</Horse.labelFemale>
   <Horse.labelFemalePlural>кобили</Horse.labelFemalePlural>
+  <!-- EN: stallion -->
   <Horse.labelMale>жеребець</Horse.labelMale>
   <Horse.labelMalePlural>жеребці</Horse.labelMalePlural>
+  <!-- EN: foal -->
   <Horse.lifeStages.foal.label>лоша</Horse.lifeStages.foal.label>
   <Horse.lifeStages.foal.labelPlural>лошата</Horse.lifeStages.foal.labelPlural>
   <Horse.lifeStages.1.label>лошак</Horse.lifeStages.1.label>
@@ -121,10 +138,12 @@
   <!-- EN: pig -->
   <Pig.label>свиня</Pig.label>
   <Pig.labelPlural>свині</Pig.labelPlural>
+  <!-- EN: sow -->
   <Pig.labelFemale>свиня-самиця</Pig.labelFemale>
   <Pig.labelFemalePlural>свині-самиці</Pig.labelFemalePlural>
   <Pig.labelMale>кнур</Pig.labelMale>
   <Pig.labelMalePlural>кнури</Pig.labelMalePlural>
+  <!-- EN: piglet -->
   <Pig.lifeStages.piglet.label>порося</Pig.lifeStages.piglet.label>
   <Pig.lifeStages.piglet.labelPlural>поросята</Pig.lifeStages.piglet.labelPlural>
   <Pig.lifeStages.1.labelFemale>молода свиня-самиця</Pig.lifeStages.1.labelFemale>
@@ -136,12 +155,17 @@
   
   <!-- EN: sheep -->
   <Sheep.label>вівця</Sheep.label>
-  <Sheep.labelPlural>вівці</Sheep.labelPlural>
+  <!-- EN: ewe -->
   <Sheep.labelFemale>вівця</Sheep.labelFemale>
   <Sheep.labelFemalePlural>вівці</Sheep.labelFemalePlural>
+  <!-- EN: ram -->
   <Sheep.labelMale>баран</Sheep.labelMale>
+  <!-- EN: sheep -->
+  <Sheep.labelPlural>вівці</Sheep.labelPlural>
   <Sheep.labelMalePlural>барани</Sheep.labelMalePlural>
+  <!-- EN: lamb -->
   <Sheep.lifeStages.lamb.label>ягня</Sheep.lifeStages.lamb.label>
+  <!-- EN: lambs -->
   <Sheep.lifeStages.lamb.labelPlural>ягнята</Sheep.lifeStages.lamb.labelPlural>
   <Sheep.lifeStages.1.label>молода вівця</Sheep.lifeStages.1.label>
   <Sheep.lifeStages.1.labelPlural>молоді вівці</Sheep.lifeStages.1.labelPlural>
@@ -152,8 +176,12 @@
   
   <!-- EN: yak -->
   <Yak.label>як</Yak.label>
+  <!-- EN: yak -->
+  <Yak.labelMale>як</Yak.labelMale>
   <Yak.labelPlural>яки</Yak.labelPlural>
+  <!-- EN: yak calf -->
   <Yak.lifeStages.yak_calf.label>теля яка</Yak.lifeStages.yak_calf.label>
+  <!-- EN: yak calves -->
   <Yak.lifeStages.yak_calf.labelPlural>телята яка</Yak.lifeStages.yak_calf.labelPlural>
   <Yak.lifeStages.1.label>молодий як</Yak.lifeStages.1.label>
   <Yak.lifeStages.1.labelPlural>молоді яки</Yak.lifeStages.1.labelPlural>
