@@ -23,7 +23,7 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Попередження: середнє число відповідних навичок дуже низьке.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>Priority 1 is done first. Priority 4 is done last.</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Пріоритет 1 робиться першим. Пріоритет 4 робиться останнім.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
   <Priority0>Не буде робити</Priority0>
   <!-- EN: Top priority -->
@@ -39,13 +39,13 @@
   <!-- EN: Manage outfits -->
   <ManageOutfits>Керувати одягом</ManageOutfits>
   <!-- EN: Unchangeable -->
-  <Unchangeable>Unchangeable</Unchangeable>
+  <Unchangeable>Незмінний</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Примусово зняти</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>примусово</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>locked</ApparelLockedLower>
+  <ApparelLockedLower>заблокований</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Примусовий одяг</ForcedApparel>
   <!-- EN: Edit... -->
@@ -75,7 +75,7 @@
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Це хижак. Ця тварина полюватиме на тварин, що менше за неї, в тому числі - й людей.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
-  <IsInMentalState>This creature is currently in mental state: {0}</IsInMentalState>
+  <IsInMentalState>Ця істота зараз знаходиться в психічному стані: {0}</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -183,11 +183,11 @@
   <!-- EN: In Progress -->
   <InProgress>В процесі</InProgress>
   <!-- EN: Locked -->
-  <Locked>Locked</Locked>
+  <Locked>Заблоковано</Locked>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Необхідно технічних креслень {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
   <InsufficientTechprintsApplied>Insufficient techprints applied ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
