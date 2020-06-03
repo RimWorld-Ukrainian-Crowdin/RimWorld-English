@@ -441,7 +441,7 @@
   <!-- EN: Never safe -->
   <NeverSafe>Never safe</NeverSafe>
   <!-- EN: {0} / day -->
-  <PerDay>{0} / day</PerDay>
+  <PerDay>{0} за день</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>В’ючні тварини</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -515,7 +515,7 @@
   <!-- EN: {0} focus objects -->
   <MeditationFocusObjects>{0} цільових об'єктів</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>містить назву:{TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
   <MeditationFocusEnabledByChildhood>має дитинство</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
@@ -561,7 +561,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>Парламентер</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>Negotiator: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>Договір: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Ваш переговорник {1_labelShort} не може говорити належним чином через погане здоров'я.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
