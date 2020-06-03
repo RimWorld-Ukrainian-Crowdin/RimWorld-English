@@ -389,9 +389,9 @@
   <!-- EN: Caused by title: {0} -->
   <IncapableOfTooltipTitle>Спричинено назвою: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>Caused by trait: {0}</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Спричинено рисою: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Спричинено: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>Неактивні види праці:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
