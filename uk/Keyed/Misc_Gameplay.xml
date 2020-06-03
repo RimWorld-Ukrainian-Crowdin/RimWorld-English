@@ -455,7 +455,7 @@
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Активується через {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>Нервова спека</PsychicEntropy>
+  <PsychicEntropy>Neural heat</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>Спека</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
@@ -1075,7 +1075,7 @@
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Усі мертві чи пішли. Ця історія закінчена.\n\nМожливо, хтось інший знайде руїни цього місця корисними.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>Вбивця планет врізався в землю з силою трильйона водневих бомб, майже на швидкості світла. Як водяна кулька в яку вистрілили з гвинтівки, цей світ ліквідувався під впливом і вивалив свої розплавлені нутрощі по всьому космосу.\n\nЧастина {0} зараз є лише частиною астероїдного поясу. Решта - це розплавлене, радіоактивне пекло, що постійно повне кілометровими землетрусами.\n\nВи не вижили.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Вбивця планет врізався в землю з силою трильйона водневих бомб, майже на швидкості світла. Як водяна кулька, в яку вистрілили з гвинтівки, цей світ ліквідувався під впливом і вивалив свої розплавлені нутрощі по всьому космосу.\n\nЧастина {0} зараз є лише частиною астероїдного поясу. Решта - це розплавлене, радіоактивне пекло, що постійно повне кілометровими землетрусами.\n\nВи не вижили.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>Ви запустили корабель!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
