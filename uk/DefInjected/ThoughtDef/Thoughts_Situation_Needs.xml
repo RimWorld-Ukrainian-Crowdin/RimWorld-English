@@ -104,34 +104,34 @@
   <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
   <NeedFood.stages.malnourished.description>Я їв так давно. Я зовсім розгублений і важко зосередитись. Моє тіло починає марніти.</NeedFood.stages.malnourished.description>
   <!-- EN: badly malnourished -->
-  <NeedFood.stages.badly_malnourished.label>badly malnourished</NeedFood.stages.badly_malnourished.label>
+  <NeedFood.stages.badly_malnourished.label>сильно недогодований</NeedFood.stages.badly_malnourished.label>
   <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
-  <NeedFood.stages.badly_malnourished.description>I can feel my body wasting away. My stomach hurts like never before.</NeedFood.stages.badly_malnourished.description>
+  <NeedFood.stages.badly_malnourished.description>Я відчуваю, як моє тіло марніє. Живіт болить як ніколи.</NeedFood.stages.badly_malnourished.description>
   <!-- EN: starving -->
-  <NeedFood.stages.starving.label>голодуючий</NeedFood.stages.starving.label>
+  <NeedFood.stages.starving.label>голодує</NeedFood.stages.starving.label>
   <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
-  <NeedFood.stages.starving.description>I can barely think about anything but food. My skin is stretching over my bones. Am I going to die?</NeedFood.stages.starving.description>
+  <NeedFood.stages.starving.description>Я майже не можу думати про щось, крім їжі. Моя шкіра натягується по кістках. Я що помираю?</NeedFood.stages.starving.description>
   <!-- EN: advanced starvation -->
-  <NeedFood.stages.advanced_starvation.label>advanced starvation</NeedFood.stages.advanced_starvation.label>
+  <NeedFood.stages.advanced_starvation.label>збільшене голодування</NeedFood.stages.advanced_starvation.label>
   <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
-  <NeedFood.stages.advanced_starvation.description>I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out.</NeedFood.stages.advanced_starvation.description>
+  <NeedFood.stages.advanced_starvation.description>Я майже не можу рухатись або думати про щось, окрім їжі. Мій живіт болить як ніколи. Почуваюся, наче скоро знепритомнію.</NeedFood.stages.advanced_starvation.description>
   <!-- EN: extreme starvation -->
-  <NeedFood.stages.extreme_starvation.label>extreme starvation</NeedFood.stages.extreme_starvation.label>
+  <NeedFood.stages.extreme_starvation.label>екстремальне голодування</NeedFood.stages.extreme_starvation.label>
   <!-- EN: Food... food... anything... please... -->
-  <NeedFood.stages.extreme_starvation.description>Food... food... anything... please...</NeedFood.stages.extreme_starvation.description>
+  <NeedFood.stages.extreme_starvation.description>Їжа.. Їжа... Хоч щось... Будь-ласка...</NeedFood.stages.extreme_starvation.description>
   
   <!-- EN: recreation-starved -->
   <NeedJoy.stages.recreationstarved.label>recreation-starved</NeedJoy.stages.recreationstarved.label>
   <!-- EN: It's been so long since I did anything for fun on my own time. -->
-  <NeedJoy.stages.recreationstarved.description>It's been so long since I did anything for fun on my own time.</NeedJoy.stages.recreationstarved.description>
+  <NeedJoy.stages.recreationstarved.description>Стільки часу минуло відтоді, як я робив щось заради дозвілля у свій вільний час.</NeedJoy.stages.recreationstarved.description>
   <!-- EN: recreation-deprived -->
   <NeedJoy.stages.recreationdeprived.label>recreation-deprived</NeedJoy.stages.recreationdeprived.label>
   <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
-  <NeedJoy.stages.recreationdeprived.description>We need more variation in recreation activities, and I need time to enjoy them. This place is really dull.</NeedJoy.stages.recreationdeprived.description>
+  <NeedJoy.stages.recreationdeprived.description>Нам потрібно більше різноманіття у відпочинкових активностях, і я потребую часу, щоб ними насолодитися. Це місце справді похмуре.</NeedJoy.stages.recreationdeprived.description>
   <!-- EN: recreation unfulfilled -->
-  <NeedJoy.stages.recreation_unfulfilled.label>recreation unfulfilled</NeedJoy.stages.recreation_unfulfilled.label>
+  <NeedJoy.stages.recreation_unfulfilled.label>відпочинок не вдався</NeedJoy.stages.recreation_unfulfilled.label>
   <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
-  <NeedJoy.stages.recreation_unfulfilled.description>We need more variation in the recreation activities, and I need time to enjoy them.</NeedJoy.stages.recreation_unfulfilled.description>
+  <NeedJoy.stages.recreation_unfulfilled.description>Нам потрібно більше різноманіття у відпочинкових активностях, і я потребую часу, щоб ними насолодитися.</NeedJoy.stages.recreation_unfulfilled.description>
   <!-- EN: recreation satisfied -->
   <NeedJoy.stages.recreation_satisfied.label>recreation satisfied</NeedJoy.stages.recreation_satisfied.label>
   <!-- EN: I've been having a great time doing various things I like to do. -->
