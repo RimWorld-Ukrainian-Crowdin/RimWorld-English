@@ -108,37 +108,37 @@
   <!-- EN: night owl at night -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.label>сова вночі</NightOwlDuringTheNight.stages.night_owl_at_night.label>
   <!-- EN: I feel much better at night. -->
-  <NightOwlDuringTheNight.stages.night_owl_at_night.description>I feel much better at night.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Я почуваюся значно ліпше вночі.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
   <!-- EN: transhumanist pleased -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>transhumanist pleased</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <ProsthophileHappy.stages.transhumanist_pleased.label>трансгуманіст задоволений</ProsthophileHappy.stages.transhumanist_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
-  <ProsthophileHappy.stages.transhumanist_pleased.description>This artificial part is cool. I want more.</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <ProsthophileHappy.stages.transhumanist_pleased.description>Ця штучна частина класна. Я хочу більше.</ProsthophileHappy.stages.transhumanist_pleased.description>
   <!-- EN: transhumanist quite pleased -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>transhumanist quite pleased</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>трансгуманіст достатньо задоволений</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Two artificial parts are better than one. I wish I had more.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Дві штучні частини — краще, ніж одна. Хотів би я мати більше.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
   <!-- EN: transhumanist delighted -->
-  <ProsthophileHappy.stages.transhumanist_delighted.label>transhumanist delighted</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <ProsthophileHappy.stages.transhumanist_delighted.label>трансгуманіст у захваті</ProsthophileHappy.stages.transhumanist_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.transhumanist_delighted.description>Three artificial parts, and my weak human flesh is receding. But I still want more machine power.</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <ProsthophileHappy.stages.transhumanist_delighted.description>Три штучні частини й моя людська плоть слабшають. Та я досі хочу більше машинної потужности.</ProsthophileHappy.stages.transhumanist_delighted.description>
   <!-- EN: transhumanist enchanted -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>transhumanist enchanted</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>трансгуманіст зачарований</ProsthophileHappy.stages.transhumanist_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing.</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Чотири штучні частини тіла — і я стаю більш ніж людиною. Але досі залишається трохи плоті, яку треба замінити.</ProsthophileHappy.stages.transhumanist_enchanted.description>
   <!-- EN: transhumanist overjoyed -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>transhumanist overjoyed</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>трансгуманіст дуже щасливий</ProsthophileHappy.stages.transhumanist_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Five artificial body parts! How could an enhanced being like me ever feel sad?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>П'ять штучних частин тіла! Як така вдосконалена істота, як я, може хоч колись бути засмученою?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
   <!-- EN: machine body is complete -->
-  <ProsthophileHappy.stages.machine_body_is_complete.label>machine body is complete</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <ProsthophileHappy.stages.machine_body_is_complete.label>машинне тіло завершене</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
-  <ProsthophileHappy.stages.machine_body_is_complete.description>I asked for this.</ProsthophileHappy.stages.machine_body_is_complete.description>
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Я просив про це.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
   <!-- EN: transhumanist frustrated -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>transhumanist frustrated</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>трансгуманіст розчарований</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Flesh is so limiting. I wish I had some kind of artificial body part.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Плоть так обмежує. Якби ж то я мав якісь штучні частини тіла.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>body purist squeamish</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
