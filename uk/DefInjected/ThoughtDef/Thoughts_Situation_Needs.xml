@@ -144,28 +144,28 @@
   <!-- EN: entombed underground -->
   <NeedOutdoors.stages.entombed_underground.label>похований під землею</NeedOutdoors.stages.entombed_underground.label>
   <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
-  <NeedOutdoors.stages.entombed_underground.description>I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind.</NeedOutdoors.stages.entombed_underground.description>
+  <NeedOutdoors.stages.entombed_underground.description>Я був під землею надто довго. Почуваюсь, наче вага гори мене розчавлює. Мені потрібно побачити небо й відчути вітер.</NeedOutdoors.stages.entombed_underground.description>
   <!-- EN: trapped underground -->
-  <NeedOutdoors.stages.trapped_underground.label>trapped underground</NeedOutdoors.stages.trapped_underground.label>
+  <NeedOutdoors.stages.trapped_underground.label>у пастці під землею</NeedOutdoors.stages.trapped_underground.label>
   <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
-  <NeedOutdoors.stages.trapped_underground.description>How long have I been underground? I need to get out in the fresh air and spend some time under the sky.</NeedOutdoors.stages.trapped_underground.description>
+  <NeedOutdoors.stages.trapped_underground.description>Скільки часу я вже під землею? Мені треба вийти назовні на свіже повітря й провести трохи часу під небом.</NeedOutdoors.stages.trapped_underground.description>
   <!-- EN: cabin fever -->
-  <NeedOutdoors.stages.cabin_fever.label>cabin fever</NeedOutdoors.stages.cabin_fever.label>
+  <NeedOutdoors.stages.cabin_fever.label>лихоманка від перебування всередині</NeedOutdoors.stages.cabin_fever.label>
   <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
-  <NeedOutdoors.stages.cabin_fever.description>I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky.</NeedOutdoors.stages.cabin_fever.description>
+  <NeedOutdoors.stages.cabin_fever.description>Я провів стільки часу всередині, що почуваюся, ніби дах натискає. Мені треба вийти й побачити небо.</NeedOutdoors.stages.cabin_fever.description>
   <!-- EN: trapped indoors -->
-  <NeedOutdoors.stages.trapped_indoors.label>trapped indoors</NeedOutdoors.stages.trapped_indoors.label>
+  <NeedOutdoors.stages.trapped_indoors.label>у пастці всередині</NeedOutdoors.stages.trapped_indoors.label>
   <!-- EN: It's been too long since I've seen the sky. -->
-  <NeedOutdoors.stages.trapped_indoors.description>It's been too long since I've seen the sky.</NeedOutdoors.stages.trapped_indoors.description>
+  <NeedOutdoors.stages.trapped_indoors.description>Надто давно вже я бачив небо.</NeedOutdoors.stages.trapped_indoors.description>
   <!-- EN: stuck indoors -->
-  <NeedOutdoors.stages.stuck_indoors.label>stuck indoors</NeedOutdoors.stages.stuck_indoors.label>
+  <NeedOutdoors.stages.stuck_indoors.label>застряг у приміщенні</NeedOutdoors.stages.stuck_indoors.label>
   <!-- EN: I'd like to go outside and get some fresh air. -->
-  <NeedOutdoors.stages.stuck_indoors.description>I'd like to go outside and get some fresh air.</NeedOutdoors.stages.stuck_indoors.description>
+  <NeedOutdoors.stages.stuck_indoors.description>Я хотів би вийти назовні й отримати трохи свіжого повітря.</NeedOutdoors.stages.stuck_indoors.description>
   
   <!-- EN: drowsy -->
-  <NeedRest.stages.drowsy.label>drowsy</NeedRest.stages.drowsy.label>
+  <NeedRest.stages.drowsy.label>сонний</NeedRest.stages.drowsy.label>
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
-  <NeedRest.stages.drowsy.description>I haven't slept in a while. It's hard to keep focus.</NeedRest.stages.drowsy.description>
+  <NeedRest.stages.drowsy.description>Я деякий час не спав. Важко підтримувати увагу.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
   <NeedRest.stages.tired.label>{PAWN_gender ? стомлений : стомлена}</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
