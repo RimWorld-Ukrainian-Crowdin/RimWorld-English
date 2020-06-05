@@ -2,51 +2,51 @@
 <LanguageData>
   
   <!-- EN: chemical want -->
-  <DrugDesireFascination.stages.chemical_want.label>chemical want</DrugDesireFascination.stages.chemical_want.label>
+  <DrugDesireFascination.stages.chemical_want.label>хімічне бажання</DrugDesireFascination.stages.chemical_want.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
   <DrugDesireFascination.stages.chemical_want.description>Мене захоплюють наркотики. Я хочу частіше бути під їх дією.</DrugDesireFascination.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireFascination.stages.chemical_hunger.label>chemical hunger</DrugDesireFascination.stages.chemical_hunger.label>
+  <DrugDesireFascination.stages.chemical_hunger.label>хімічний голод</DrugDesireFascination.stages.chemical_hunger.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
   <DrugDesireFascination.stages.chemical_hunger.description>Мене захоплюють наркотики. Я дуже сильно хочу бути під їх дією.</DrugDesireFascination.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireFascination.stages.chemical_starvation.label>chemical starvation</DrugDesireFascination.stages.chemical_starvation.label>
+  <DrugDesireFascination.stages.chemical_starvation.label>хімічне голодування</DrugDesireFascination.stages.chemical_starvation.label>
   <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
   <DrugDesireFascination.stages.chemical_starvation.description>Мене захоплюють наркотики. Я їх хочу! Більше яскравих барв!</DrugDesireFascination.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>chemical comfort</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>хімічний комфорт</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
   <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>Мене захоплюють наркотики, і я люблю задовільняти мої бажання.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>chemical satisfaction</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>хімічне задоволення</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
   <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>Мене захоплюють наркотики, і повністю задоволений моїм споживанням наркотиків.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: chemical want -->
-  <DrugDesireInterest.stages.chemical_want.label>chemical want</DrugDesireInterest.stages.chemical_want.label>
+  <DrugDesireInterest.stages.chemical_want.label>хімічне бажання</DrugDesireInterest.stages.chemical_want.label>
   <!-- EN: I'm interested in drugs. I want to try more. -->
   <DrugDesireInterest.stages.chemical_want.description>Мене цікавлять наркотики. Я хочу спробувати ще.</DrugDesireInterest.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireInterest.stages.chemical_hunger.label>chemical hunger</DrugDesireInterest.stages.chemical_hunger.label>
+  <DrugDesireInterest.stages.chemical_hunger.label>хімічний голод</DrugDesireInterest.stages.chemical_hunger.label>
   <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
   <DrugDesireInterest.stages.chemical_hunger.description>Мене захоплюють наркотики. Я хочу набагато частіше бути під їх дією.</DrugDesireInterest.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireInterest.stages.chemical_starvation.label>chemical starvation</DrugDesireInterest.stages.chemical_starvation.label>
+  <DrugDesireInterest.stages.chemical_starvation.label>хімічне голодування</DrugDesireInterest.stages.chemical_starvation.label>
   <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
   <DrugDesireInterest.stages.chemical_starvation.description>Мене цікавлять наркотики. Я дуже сильно хочу їх вживати.</DrugDesireInterest.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>chemical comfort</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>хімічний комфорт</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
   <DrugDesireInterestSatisfied.stages.chemical_comfort.description>Мене захоплюють наркотики. Мені сподобалось задовільняти мої бажання.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>chemical satisfaction</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>хімічне задоволення</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
   <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>Мене захоплюють наркотики. Я дуже задоволений усіми препаратами, які я приймав останнім часом.</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: hideous environment -->
-  <NeedBeauty.stages.hideous_environment.label>hideous environment</NeedBeauty.stages.hideous_environment.label>
+  <NeedBeauty.stages.hideous_environment.label>бридке середовище</NeedBeauty.stages.hideous_environment.label>
   <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
   <NeedBeauty.stages.hideous_environment.description>This place is unbearably grotesque. I can't look at this any more.</NeedBeauty.stages.hideous_environment.description>
   <!-- EN: ugly environment -->
