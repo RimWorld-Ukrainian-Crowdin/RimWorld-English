@@ -169,23 +169,23 @@
   <!-- EN: tired -->
   <NeedRest.stages.tired.label>{PAWN_gender ? стомлений : стомлена}</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
-  <NeedRest.stages.tired.description>I'm so tired. I just want to lay down and rest for a few minutes...</NeedRest.stages.tired.description>
+  <NeedRest.stages.tired.description>Я такий змучений. Хочу тільки прилягти й відпочити кілька хвилин...</NeedRest.stages.tired.description>
   <!-- EN: exhausted -->
   <NeedRest.stages.exhausted.label>виснаженний</NeedRest.stages.exhausted.label>
   <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
-  <NeedRest.stages.exhausted.description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</NeedRest.stages.exhausted.description>
+  <NeedRest.stages.exhausted.description>Я такий виснажений, що ледве можу стояти. На моїх повіках свинець. Дозволь поспати...</NeedRest.stages.exhausted.description>
   
   <!-- EN: confined interior -->
-  <NeedRoomSize.stages.confined_interior.label>confined interior</NeedRoomSize.stages.confined_interior.label>
+  <NeedRoomSize.stages.confined_interior.label>замкнутий інтер'єр</NeedRoomSize.stages.confined_interior.label>
   <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
-  <NeedRoomSize.stages.confined_interior.description>This space is so tiny. I feel like a rat in a cage.</NeedRoomSize.stages.confined_interior.description>
+  <NeedRoomSize.stages.confined_interior.description>Цей простір такий маленький. Почуваюся як щур у клітці.</NeedRoomSize.stages.confined_interior.description>
   <!-- EN: cramped interior -->
-  <NeedRoomSize.stages.cramped_interior.label>cramped interior</NeedRoomSize.stages.cramped_interior.label>
+  <NeedRoomSize.stages.cramped_interior.label>тісний інтер'єр</NeedRoomSize.stages.cramped_interior.label>
   <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.cramped_interior.description>This room is too small. I wish I had more space to move around and breathe.</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.cramped_interior.description>Ця кімната замала. Я хотів юи мати більше простору для руху й щоб подихати.</NeedRoomSize.stages.cramped_interior.description>
   <!-- EN: spacious interior -->
-  <NeedRoomSize.stages.spacious_interior.label>spacious interior</NeedRoomSize.stages.spacious_interior.label>
+  <NeedRoomSize.stages.spacious_interior.label>просторий інтер'єр</NeedRoomSize.stages.spacious_interior.label>
   <!-- EN: This room is so expansive, I feel free. -->
-  <NeedRoomSize.stages.spacious_interior.description>This room is so expansive, I feel free.</NeedRoomSize.stages.spacious_interior.description>
+  <NeedRoomSize.stages.spacious_interior.description>Ця кімната така велика, я почуваюся вільним.</NeedRoomSize.stages.spacious_interior.description>
   
 </LanguageData>
