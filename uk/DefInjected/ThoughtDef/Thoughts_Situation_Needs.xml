@@ -133,16 +133,16 @@
   <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
   <NeedJoy.stages.recreation_unfulfilled.description>Нам потрібно більше різноманіття у відпочинкових активностях, і я потребую часу, щоб ними насолодитися.</NeedJoy.stages.recreation_unfulfilled.description>
   <!-- EN: recreation satisfied -->
-  <NeedJoy.stages.recreation_satisfied.label>recreation satisfied</NeedJoy.stages.recreation_satisfied.label>
+  <NeedJoy.stages.recreation_satisfied.label>відпочинок задовільний</NeedJoy.stages.recreation_satisfied.label>
   <!-- EN: I've been having a great time doing various things I like to do. -->
-  <NeedJoy.stages.recreation_satisfied.description>I've been having a great time doing various things I like to do.</NeedJoy.stages.recreation_satisfied.description>
+  <NeedJoy.stages.recreation_satisfied.description>Я відмінно провів час, займаючись речами, які люблю.</NeedJoy.stages.recreation_satisfied.description>
   <!-- EN: recreation fully satisfied -->
-  <NeedJoy.stages.recreation_fully_satisfied.label>recreation fully satisfied</NeedJoy.stages.recreation_fully_satisfied.label>
+  <NeedJoy.stages.recreation_fully_satisfied.label>відпочинок повністю задовільний</NeedJoy.stages.recreation_fully_satisfied.label>
   <!-- EN: I've been enjoying myself so much, I love it! -->
-  <NeedJoy.stages.recreation_fully_satisfied.description>I've been enjoying myself so much, I love it!</NeedJoy.stages.recreation_fully_satisfied.description>
+  <NeedJoy.stages.recreation_fully_satisfied.description>Я так чудово проводив час, круто!</NeedJoy.stages.recreation_fully_satisfied.description>
   
   <!-- EN: entombed underground -->
-  <NeedOutdoors.stages.entombed_underground.label>entombed underground</NeedOutdoors.stages.entombed_underground.label>
+  <NeedOutdoors.stages.entombed_underground.label>похований під землею</NeedOutdoors.stages.entombed_underground.label>
   <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
   <NeedOutdoors.stages.entombed_underground.description>I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind.</NeedOutdoors.stages.entombed_underground.description>
   <!-- EN: trapped underground -->
