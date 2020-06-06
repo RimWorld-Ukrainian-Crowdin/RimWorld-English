@@ -54,7 +54,7 @@
   <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
   <NeedBeauty.stages.ugly_environment.description>Це місце справді огидне. Я більше б не хотів на нього й глянути.</NeedBeauty.stages.ugly_environment.description>
   <!-- EN: unsightly environment -->
-  <NeedBeauty.stages.unsightly_environment.label>огидне середовище</NeedBeauty.stages.unsightly_environment.label>
+  <NeedBeauty.stages.unsightly_environment.label>незугарне середовище</NeedBeauty.stages.unsightly_environment.label>
   <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
   <NeedBeauty.stages.unsightly_environment.description>Це місце якесь незугарне. Я волів би на нього не дивитися.</NeedBeauty.stages.unsightly_environment.description>
   <!-- EN: pretty environment -->
@@ -178,11 +178,11 @@
   <!-- EN: confined interior -->
   <NeedRoomSize.stages.confined_interior.label>замкнутий інтер'єр</NeedRoomSize.stages.confined_interior.label>
   <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
-  <NeedRoomSize.stages.confined_interior.description>Цей простір такий маленький. Почуваюся як щур у клітці.</NeedRoomSize.stages.confined_interior.description>
+  <NeedRoomSize.stages.confined_interior.description>Цей простір такий маленький. Почуваюся, як щур у клітці.</NeedRoomSize.stages.confined_interior.description>
   <!-- EN: cramped interior -->
   <NeedRoomSize.stages.cramped_interior.label>тісний інтер'єр</NeedRoomSize.stages.cramped_interior.label>
   <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.cramped_interior.description>Ця кімната замала. Я хотів юи мати більше простору для руху й щоб подихати.</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.cramped_interior.description>Ця кімната замала. Я хотів би мати більше простору для руху й щоб подихати.</NeedRoomSize.stages.cramped_interior.description>
   <!-- EN: spacious interior -->
   <NeedRoomSize.stages.spacious_interior.label>просторий інтер'єр</NeedRoomSize.stages.spacious_interior.label>
   <!-- EN: This room is so expansive, I feel free. -->
