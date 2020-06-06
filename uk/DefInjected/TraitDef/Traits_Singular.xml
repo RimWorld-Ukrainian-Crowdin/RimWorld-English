@@ -159,7 +159,7 @@
   <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>підземник</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>підпільник</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
   <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.</Undergrounder.degreeDatas.undergrounder.description>
   
