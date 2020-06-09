@@ -223,11 +223,11 @@
   <!-- EN: Accepted {0} ago by {1} -->
   <AcceptedAgoBy>Прийнято {0} тому {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>Accepted on {0} by {1}</AcceptedOnBy>
+  <AcceptedOnBy>Прийнято на {0} {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>Expires in {0}</QuestExpiresIn>
+  <QuestExpiresIn>Закінчиться в {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
-  <QuestExpiresOn>Expires on {0}</QuestExpiresOn>
+  <QuestExpiresOn>Закінчиться {0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
   <QuestAveragePawnMood>Average guest mood (previous {0}): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
