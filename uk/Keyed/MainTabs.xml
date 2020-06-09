@@ -199,9 +199,9 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Базова вартість проекту {0} стає {1} для вас, через ваш технічний рівень.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>Techprints are available from these factions via trade and quests:</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Техпринти можуть бути отримані від цієї фракції через торгівлю і завдання:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
-  <TechLevelTooLow>Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}.</TechLevelTooLow>
+  <TechLevelTooLow>Технічний рівень вашої фракції {0}, але технічний рівень цього проєкту {1}. Швидкість дослідження буде помножена на {2}.</TechLevelTooLow>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -221,7 +221,7 @@
   <!-- EN: Accepted on {0} -->
   <AcceptedOn>Прийнято на {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>Accepted {0} ago by {1}</AcceptedAgoBy>
+  <AcceptedAgoBy>Прийнято {0} тому {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
   <AcceptedOnBy>Accepted on {0} by {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
