@@ -147,7 +147,7 @@
   <LastEventsInLife>Останні події за життя {PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Завдяки хорошому настрою, [PAWN_nameIndef] відчув натхнення!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -333,7 +333,7 @@
   <LetterCatatonicMentalBreak>{0} переніс тотальний нервовий зрив й увійшов у стан ступору. {PAWN_pronoun} відновиться за кілька днів.</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>Persona Core Offer</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>Пропозиція персоналу ядра</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
   <LetterAICoreOffer>{PAWN_definite} з {1} зв'язується з вами, пропонуючи інформацію: місце розташування ядра, яке вам знадобиться для побудови космічного корабля. Вони повідомляють вас, що цей елемент доволі рідкісний і зазвичай власники пильно його охороняють.\n\nПодзвоніть їм за допомогою консоля зв'яку, якщо ви зацікавлені.</LetterAICoreOffer>
 
@@ -346,7 +346,7 @@
   <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} створив {CRAFTED_labelShort}.\n\n{0}\n\nНовини про цей цінний артефакт розповсюдяться по всьому світу.</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>Masterwork</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Майстерна робота</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
   <LetterCraftedMasterworkMessage>{WORKER_labelShort} створив {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
@@ -354,7 +354,7 @@
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Caravan lost</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Караван загублений</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
   <LetterPawnsLostBecauseMapClosed_Caravan>Ваш караван загубився. Ці люди й тварини загубилися разом із ним</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
@@ -416,7 +416,7 @@
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>Нове доручення стало доступним. Воно називається "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>Quest active: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Активні завдання: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>Термін дії мине через {0}.</LetterQuestActiveNowTime>
 
@@ -517,9 +517,9 @@
   <!-- UNUSED -->
   <LetterAveragePawnMoodSuccess>{asker_nameDef} сказав, що {asker_pronoun} готовий прийняти винагороду за якісне виконання. {pawnLabel} average mood was {averageMood} during {possessive} stay, so your goodwill with {faction_name} has increased by {goodwill}.</LetterAveragePawnMoodSuccess>
   <LetterAveragePawnMoodFail>У той час як {asker_nameDef} хотів винагородити якісне погодження, середній настрій {pawnLabel} був лише {averageMood} впродовж {possessive} перебування. Ви не отримаєте жодної нагороди прихильності фракції.</LetterAveragePawnMoodFail>
-  <LetterAveragePawnMoodPawnPluralLabel>the guests</LetterAveragePawnMoodPawnPluralLabel>
-  <LetterAveragePawnMoodPawnLabel>{asker_nameDef}'s</LetterAveragePawnMoodPawnLabel>
-  <LetterAveragePawnMoodPossessivePlural>their</LetterAveragePawnMoodPossessivePlural>
+  <LetterAveragePawnMoodPawnPluralLabel>гості</LetterAveragePawnMoodPawnPluralLabel>
+  <LetterAveragePawnMoodPawnLabel>{asker_nameDef}</LetterAveragePawnMoodPawnLabel>
+  <LetterAveragePawnMoodPossessivePlural>їх</LetterAveragePawnMoodPossessivePlural>
   <LetterAveragePawnMoodPossessive>{asker_possessive}</LetterAveragePawnMoodPossessive>
 
 </LanguageData>
