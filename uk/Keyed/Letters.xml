@@ -416,7 +416,7 @@
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>Нове доручення стало доступним. Воно називається "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>Активні завдання: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Активнe завдання: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>Термін дії мине через {0}.</LetterQuestActiveNowTime>
 
