@@ -147,7 +147,7 @@
   <LastEventsInLife>Останні події за життя {PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>Завдяки хорошому настрою, [PAWN_nameIndef] відчув натхнення!</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -333,7 +333,7 @@
   <LetterCatatonicMentalBreak>{0} переніс тотальний нервовий зрив й увійшов у стан ступору. {PAWN_pronoun} відновиться за кілька днів.</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>Пропозиція персоналу ядра</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>Координати ядра ШІ</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
   <LetterAICoreOffer>{PAWN_definite} з {1} зв'язується з вами, пропонуючи інформацію: місце розташування ядра, яке вам знадобиться для побудови космічного корабля. Вони повідомляють вас, що цей елемент доволі рідкісний і зазвичай власники пильно його охороняють.\n\nПодзвоніть їм за допомогою консоля зв'яку, якщо ви зацікавлені.</LetterAICoreOffer>
 
