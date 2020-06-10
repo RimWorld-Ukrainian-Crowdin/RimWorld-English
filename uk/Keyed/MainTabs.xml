@@ -221,11 +221,11 @@
   <!-- EN: Accepted on {0} -->
   <AcceptedOn>Прийнято на {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>Прийнято {0} тому {1}</AcceptedAgoBy>
+  <AcceptedAgoBy>Прийнято {0} тому колоністом {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>Прийнято на {0} {1}</AcceptedOnBy>
+  <AcceptedOnBy>Прийнято {0} колоністом {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>Закінчиться в {0}</QuestExpiresIn>
+  <QuestExpiresIn>Закінчиться через {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Закінчиться {0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
