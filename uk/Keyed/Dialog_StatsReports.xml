@@ -321,6 +321,6 @@
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
   <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Як швидко впаде потреба хімічних препаратів.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>Ринкова ціна наркотиків, які мають бути вжиті кожен день, щоб підтримувати залежність від цього препарату без викликання ломки.\n\nЦя ціна розраховується з задовільнення, що виникає від дози, швидкості його зниження, та ринкової ціни препарату.\n\nЗверніть увагу, що можуть існувати інші шляхи отримати той самий препарат з різними цінами.</Stat_Thing_Drug_AddictionCost_Desc>
 
 </LanguageData>
