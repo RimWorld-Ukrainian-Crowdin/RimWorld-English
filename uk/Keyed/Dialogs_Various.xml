@@ -431,15 +431,15 @@
   <!-- EN: Addiction need dose interval -->
   <AddictionNeedDoseInterval>Інтервал задовільнення залежності</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>Addiction recovery time</AddictionRecoveryTime>
+  <AddictionRecoveryTime>Швидкість відновлення від залежності</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>Addiction cost</AddictionCost>
+  <AddictionCost>Ціна залежності</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Random overdose chance</RandomODChance>
+  <RandomODChance>Шанс випадкового передозування</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>Always safe</AlwaysSafe>
+  <AlwaysSafe>Завжди безпечний</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>Never safe</NeverSafe>
+  <NeverSafe>Ніколи не безпечно</NeverSafe>
   <!-- EN: {0} / day -->
   <PerDay>{0} / день</PerDay>
   <!-- EN: Pack animal -->
