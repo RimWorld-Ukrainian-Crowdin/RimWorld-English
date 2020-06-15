@@ -423,13 +423,13 @@
   <!-- EN: Addiction initial severity -->
   <AddictionSeverityInitial>Первісна серйозність залежності</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>Серйозність залежності за дозу</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>Addiction need fill per dose</AddictionNeedOffset>
+  <AddictionNeedOffset>Заповнення потреби за дозу</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>Addiction need fall rate</AddictionNeedFallRate>
+  <AddictionNeedFallRate>Швидкість зниження задовільнення залежності</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>Addiction need dose interval</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>Інтервал задовільнення залежності</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
   <AddictionRecoveryTime>Addiction recovery time</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
