@@ -405,15 +405,15 @@
   <!-- EN: Chemical -->
   <Chemical>Хімія</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>High gain per dose</HighGain>
+  <HighGain>Приріст кайфу за дозу</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>High fall rate</HighFallRate>
+  <HighFallRate>Швидкість зниження кайфу</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>High duration per dose</HighDuration>
+  <HighDuration>Тривалість кайфу за дозу</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>Tolerance gain per dose</ToleranceGain>
+  <ToleranceGain>Приріст звикання за дозу</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>Tolerance fall rate</ToleranceFallRate>
+  <ToleranceFallRate>Зниження звикання за дозу</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval -->
