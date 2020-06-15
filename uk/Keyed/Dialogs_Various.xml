@@ -415,11 +415,11 @@
   <!-- EN: Tolerance fall rate -->
   <ToleranceFallRate>Зниження звикання за дозу</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>Мінімальне звикання для залежності</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval -->
-  <SafeDoseInterval>Safe dose interval</SafeDoseInterval>
+  <SafeDoseInterval>Інтервал безпечного прийому</SafeDoseInterval>
   <!-- EN: New addiction chance -->
-  <Addictiveness>New addiction chance</Addictiveness>
+  <Addictiveness>Шанс отримання залежності</Addictiveness>
   <!-- EN: Addiction initial severity -->
   <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
