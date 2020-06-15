@@ -421,7 +421,7 @@
   <!-- EN: New addiction chance -->
   <Addictiveness>Шанс отримання залежності</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
+  <AddictionSeverityInitial>Первісна серйозність залежності</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
   <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
