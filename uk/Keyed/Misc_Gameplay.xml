@@ -455,7 +455,7 @@
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Активується через {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>Neural heat</PsychicEntropy>
+  <PsychicEntropy>Психічна напруга</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>Спека</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
