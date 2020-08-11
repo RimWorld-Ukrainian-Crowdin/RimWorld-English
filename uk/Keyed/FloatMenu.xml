@@ -4,9 +4,9 @@
   <!-- EN: Call {0} -->
   <CallOnRadio>Виклик {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>Не можливо використати:{0}</CannotUseReason>
+  <CannotUseReason>Неможливо використати:{0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Cannot use: EMP</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Неможливо використати: сонячний спалах</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>Неможливо використати: немає живлення</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
@@ -14,7 +14,7 @@
   <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>Неможливо використати: Зарезервовано</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>Неможливо використати: повне</CannotUseFull>
+  <CannotUseFull>Неможливо використати: заповнене</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>лідер {1_labelShort} недоступний</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
@@ -30,7 +30,7 @@
   <!-- EN: too close -->
   <TooClose>занадто близько</TooClose>
   <!-- EN: Cannot hit target -->
-  <CannotHitTarget>Не можливо вразити ціль</CannotHitTarget>
+  <CannotHitTarget>Неможливо вразити ціль</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>{1_labelShort} не здатний на насильство</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
@@ -71,11 +71,11 @@
   <!-- EN: need material -->
   <MissingMaterials>потрібний матеріал</MissingMaterials>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
+  <UnderRequiredSkill>вміння нижче необхідного {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>under allowed skill {0}</UnderAllowedSkill>
+  <UnderAllowedSkill>вміння нижче дозволеного {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>above allowed skill {0}</AboveAllowedSkill>
+  <AboveAllowedSkill>вміння вище дозволеного {0}</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -83,19 +83,19 @@
   <!-- EN: no usable food -->
   <NoUsableFood>відсутня їжа (придатна для харчування)</NoUsableFood>
   <!-- EN: no food -->
-  <NoFood>відсутня їжі</NoFood>
+  <NoFood>відсутня їжа</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>below requirements of {0}</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>нижче від вимог {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
-  <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>навичка тваринництва занадто низька - потрібно {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>animal downed</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>тварина непритомна</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>animal sleeping</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>тварина спить</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
+  <CantInteractAnimalBusy>тварина зайнята</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>{0} skill too low</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>{0} вміння занадто низьке</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>потрібні компоненти</NoComponentsToRepair>
   <!-- EN: need {0} -->
