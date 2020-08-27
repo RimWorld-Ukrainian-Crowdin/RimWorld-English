@@ -55,7 +55,7 @@
   <!-- EN: Combine various types of leather to create weak patchleather. -->
   <Make_Patchleather.description>Об'єднайте різні види шкіри, щоб створити слабкий шкіряний пластир.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>Створення шкіряного пластира.</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Створення залатаної шкіри.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>зробити кам'яні блоки з будь-чого</Make_StoneBlocksAny.label>
