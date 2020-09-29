@@ -81,7 +81,7 @@
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>тварина щойно взаємодіяла</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
-  <NoUsableFood>відсутня їжа (придатна для харчування)</NoUsableFood>
+  <NoUsableFood>немає придатної їжі</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>відсутня їжа</NoFood>
   <!-- EN: below requirements of {0} -->
@@ -115,25 +115,25 @@
   <!-- EN: not ready for surgery -->
   <NotSurgeryReady>не готовий до операції</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>skill incapable</SkillDisabled>
+  <SkillDisabled>неможливо виконати</SkillDisabled>
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>занадто світло</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
   <CantSowCavePlantBecauseUnroofed>без даху</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
-  <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
+  <IncapableOfDeconstruction>неможливо знести</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>incapable of mining</IncapableOfMining>
+  <IncapableOfMining>неможливо видобувати</IncapableOfMining>
   <!-- EN: angers faction -->
-  <AngersFaction>angers faction</AngersFaction>
+  <AngersFaction>злити фракцію</AngersFaction>
   <!-- EN: no body part -->
   <InstallImplantNoBodyPart>немає частини тіла</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
   <InstallImplantNotAllowedForNonColonists>не колоніст</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>вже встановлено</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>максимальний рівень</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>максимальний рівень імпланта</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
   
