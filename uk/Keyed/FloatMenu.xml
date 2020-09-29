@@ -65,7 +65,7 @@
   <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>відсутні доступні місця налаштовані для зберігання цього</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>no stack available to merge into</NoMergeTarget>
+  <NoMergeTarget>немає наявної стопки для згуртування</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>заповнено</AlreadyFilledLower>
   <!-- EN: need material -->
@@ -77,9 +77,9 @@
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>вміння вище дозволеного {0}</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>відсутній необхідний рівень вміння</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
-  <AnimalInteractedTooRecently>тварина вже спілкувалася нещодавно</AnimalInteractedTooRecently>
+  <AnimalInteractedTooRecently>тварина щойно взаємодіяла</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>відсутня їжа (придатна для харчування)</NoUsableFood>
   <!-- EN: no food -->
