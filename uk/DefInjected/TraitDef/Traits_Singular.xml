@@ -84,22 +84,22 @@
   <!-- EN: greedy -->
   <Greedy.degreeDatas.greedy.label>жадібний</Greedy.degreeDatas.greedy.label>
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
-  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants.</Greedy.degreeDatas.greedy.description>
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} потребує дійсно розкішної спочивальні. {PAWN_pronoun} втрачає настрій, якщо {PAWN_pronoun} не отримує, що {PAWN_pronoun} хоче.</Greedy.degreeDatas.greedy.description>
   
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>заздрісний</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>Для {PAWN_nameDef} принизливий той факт, що чужа спочивальня краща за його власну. {PAWN_pronoun} втрачає настрій, якщо інший житель колонії має кращу спочивалню.</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>добрий</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance.</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} є винятково добрим. {PAWN_pronoun} має здатність за допомогою слів покращити чийсь день. {PAWN_pronoun} ніколи не ображає інших, і ніколи не оцінює людей за їхньою зовнішністю.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>мазохіст</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef} отримує задоволення, від отримання болю. {PAWN_pronoun} сам не знає чому так, може {PAWN_pronoun} влаштований по-іншому.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>сова</NightOwl.degreeDatas.night_owl.label>
