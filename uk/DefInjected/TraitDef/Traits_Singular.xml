@@ -34,27 +34,27 @@
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>біоконсерватор</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} вважає, що людське тіло обмежене з певної причини. Для {PAWN_objective}, наявність штучних частин тіла є неетичними і огидними.</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
-  <Brawler.degreeDatas.brawler.label>буян</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.label>забіяка</Brawler.degreeDatas.brawler.label>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon.</Brawler.degreeDatas.brawler.description>
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} полюбляє битися один-на-один. {PAWN_possessive} точність ударів зблизька значно збільшена, але {PAWN_pronoun} буде дуже незадоволеним, якщо дати йому дальнобійну зброю.</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
   <Cannibal.degreeDatas.cannibal.label>людожер</Cannibal.degreeDatas.cannibal.label>
   <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
-  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} вихований на тому що поїдання людського мяса це неправильно та жахливо. Але одного разу {PAWN_pronoun} спробував це... і {PAWN_pronoun} сподобав це.</Cannibal.degreeDatas.cannibal.description>
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} вихований на тому, що поїдання людського мяса - це неправильно та жахливо. Але одного разу {PAWN_pronoun} спробував його... і {PAWN_pronoun} отримав задоволення від нього.</Cannibal.degreeDatas.cannibal.description>
   
   <!-- EN: creepy breathing -->
   <CreepyBreathing.degreeDatas.creepy_breathing.label>моторошне дихання</CreepyBreathing.degreeDatas.creepy_breathing.label>
   <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} постійно має тяжке дихання та пітніє весь час. Інші вважають це моторошним.</CreepyBreathing.degreeDatas.creepy_breathing.description>
   
   <!-- EN: misandrist -->
-  <DislikesMen.degreeDatas.misandrist.label>чоловіконенависть</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.label>чоловіконенависництво</DislikesMen.degreeDatas.misandrist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
-  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} really dislikes and distrusts men.</DislikesMen.degreeDatas.misandrist.description>
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} дуже не любить і сумнівється в чоловіках.</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
   <DislikesWomen.degreeDatas.misogynist.label>жінконенависть</DislikesWomen.degreeDatas.misogynist.label>
