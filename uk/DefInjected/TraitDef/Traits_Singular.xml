@@ -57,24 +57,24 @@
   <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} дуже не любить і сумнівється в чоловіках.</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
-  <DislikesWomen.degreeDatas.misogynist.label>жінконенависть</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.label>женоненависництво</DislikesWomen.degreeDatas.misogynist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} really dislikes and distrusts women.</DislikesWomen.degreeDatas.misogynist.description>
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} дуже не любить і сумнівється в жінках.</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
-  <FastLearner.degreeDatas.fast_learner.label>швидко навчається</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.label>здібний учень</FastLearner.degreeDatas.fast_learner.label>
   <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
-  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} має здібності до навчання. {PAWN_pronoun} навчається швидше за інших.</FastLearner.degreeDatas.fast_learner.description>
   
   <!-- EN: gay -->
-  <Gay.degreeDatas.gay.label>гомосексуаліст</Gay.degreeDatas.gay.label>
+  <Gay.degreeDatas.gay.label>гомосексуал</Gay.degreeDatas.gay.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
-  <Gay.degreeDatas.gay.description>{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.</Gay.degreeDatas.gay.description>
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} закохується в людей {PAWN_possessive} своєї статі.</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>ненажера</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>Життя {PAWN_nameDef} обертається навколо їжі. {PAWN_pronoun} стає голодним швидше від інших, а час від часу, борится з бажанням ненажерливого пожирання, навіть коли не буде голодним.</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
   <GreatMemory.degreeDatas.great_memory.label>відмінна пам'ять</GreatMemory.degreeDatas.great_memory.label>
