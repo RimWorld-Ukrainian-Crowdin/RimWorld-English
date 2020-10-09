@@ -9,10 +9,10 @@
   <!-- EN: annoying voice -->
   <AnnoyingVoice.degreeDatas.annoying_voice.label>неприємний голос</AnnoyingVoice.degreeDatas.annoying_voice.label>
   <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef} має скрипучий та гугнявий голос, і говорить {PAWN_pronoun}, гримаючи відривчасті фрази. Пердбачувано, що інші негативно ставляться до {PAWN_objective}.</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
-  <Ascetic.degreeDatas.ascetic.label>скромний</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.label>аскетичний</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
   <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance.</Ascetic.degreeDatas.ascetic.description>
   
