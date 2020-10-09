@@ -14,22 +14,22 @@
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>аскетичний</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} перестав насолоджуватись матеріальним комфортом та насолодою, віддаючи перевагу простому та чистому способу життя. {PAWN_pronoun} буде незадоволеним, якщо {PAWN_pronoun} отримає розкішну спочивалню. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance.</Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} перестав насолоджуватись матеріальним комфортом та насолодою, віддаючи перевагу простому та чистому способу життя. {PAWN_pronoun} буде незадоволеним, якщо {PAWN_pronoun} отримає розкішну спочивалню. {PAWN_pronoun} також не любить екстравагантну їжу та надає перевагу сирому їству. {PAWN_pronoun} ніколи не оцінює інших за їх зовнішністю.</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
-  <Asexual.degreeDatas.asexual.label>асексуал</Asexual.degreeDatas.asexual.label>
+  <Asexual.degreeDatas.asexual.label>асексуальний</Asexual.degreeDatas.asexual.label>
   <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
-  <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} has no sexual attraction to anyone at all.</Asexual.degreeDatas.asexual.description>
+  <Asexual.degreeDatas.asexual.description>Інші не мають сексуальної привабливості для {PAWN_nameDef}.</Asexual.degreeDatas.asexual.description>
   
   <!-- EN: bisexual -->
   <Bisexual.degreeDatas.bisexual.label>бісексуал</Bisexual.degreeDatas.bisexual.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
-  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} is romantically attracted to both men and women.</Bisexual.degreeDatas.bisexual.description>
+  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} романтично цікавиться як чоловіками, так і жінками.</Bisexual.degreeDatas.bisexual.description>
   
   <!-- EN: bloodlust -->
-  <Bloodlust.degreeDatas.bloodlust.label>жорстокий</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.label>кровожерливий</Bloodlust.degreeDatas.bloodlust.label>
   <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
-  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.</Bloodlust.degreeDatas.bloodlust.description>
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} отримує задоволення від завдання шкоди людям та не звертає увагу, чия це кров чи смерть. {PAWN_pronoun} буде затіювати свару вчотири рази частіше.</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>біоконсерватор</BodyPurist.degreeDatas.body_purist.label>
