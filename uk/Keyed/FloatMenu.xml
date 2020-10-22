@@ -206,7 +206,7 @@
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Не можливо обладнати {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
-  <CannotManThing>Cannot man {1_labelShort}</CannotManThing>
+  <CannotManThing>Не вдається обробити {1_labelShort}</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Змусити одягнути {1_labelShort}</ForceWear>
@@ -229,9 +229,9 @@
   <PickUpCount>Підібрати {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Cannot load {1_label} onto pack animal</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Неможливо завантажити {1_label} на зграйну тварину</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Cannot load {1_label} (all) onto pack animal</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Неможливо завантажити {1_label} (все) на зграйну тварину</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
   <GiveToPackAnimal>Load {1_label} onto pack animal</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
