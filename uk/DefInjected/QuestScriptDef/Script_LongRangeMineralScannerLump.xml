@@ -5,7 +5,7 @@
     <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.\n\n[allSitePartsDescriptionsExceptFirst]</li>
   -->
   <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
-    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription->Використовуючи ваш дальний сканер мінералів, [worker_definite] знайшов неподалік грудку [targetMineable_label].\n\nНа жаль, це не триватиме - інші будуть добувати його першими через [timeoutTicks_duration], якщо ми цього не зробимо.\n\n[allSitePartsDescriptionsExceptFirst]</li>
   </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [subName]</li>
@@ -27,15 +27,15 @@
     <li>adj->Found</li>
   -->
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
-    <li>questName->The [subName]</li>
     <li>questName->[subName]</li>
-    <li>subName->[adj] Resources</li>
-    <li>subName->[adj] Minerals</li>
-    <li>subName->[adj] Ores</li>
-    <li>subName->[adj] Wealth</li>
-    <li>subName->[adj] Mineables</li>
-    <li>subName->[adj] Lump</li>
-    <li>subName->[adj] Mining Project</li>
+    <li>questName->[subName]</li>
+    <li>subName->[adj] Ресурси</li>
+    <li>subName->[adj] Мінерали</li>
+    <li>subName->[adj] Руди</li>
+    <li>subName->[adj] Багатство</li>
+    <li>subName->[adj] Мінеральні речовини</li>
+    <li>subName->[adj] Кусковий</li>
+    <li>subName->[adj] Гірничий проект</li>
     <li>adj->Distant</li>
     <li>adj->Far</li>
     <li>adj->Long-Range</li>
