@@ -392,7 +392,7 @@
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>Cancel all designations</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>Designate all</DesignateAll>
+  <DesignateAll>Позначити всіх</DesignateAll>
   <!-- EN: {0} affected -->
   <CountToDesignate>{0} постраждали</CountToDesignate>
   <!-- EN: Forbid all items -->
@@ -402,13 +402,13 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Zoom in and choose a landing spot in {0}</LandInExistingMap>
+  <LandInExistingMap>Збільште масштаб і виберіть місце посадки в {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>The contents will be lost</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>Вміст буде втрачено</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>Form caravan here</FormCaravanHere>
+  <FormCaravanHere>Сформуйте тут караван</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>Give to {0}</GiveToCaravan>
+  <GiveToCaravan>Віддати {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
 
