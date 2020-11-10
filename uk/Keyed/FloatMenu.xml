@@ -229,26 +229,26 @@
   <PickUpCount>Підібрати {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Неможливо завантажити {1_label} на зграйну тварину</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Неможливо завантажити {1_label} на в’ючних тварин</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Неможливо завантажити {1_label} (все) на зграйну тварину</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Неможливо завантажити {1_label} (все) на в’ючних тварин</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Завантажити {1_label} на караван</GiveToPackAnimal>
+  <GiveToPackAnimal>Завантажити {1_label} на в’ючних тварин</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Завантажити {1_label} (все) на караван</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Завантажити {1_label} (все) на в’ючних тварин</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>Завантажити {1_labelShort} на караван...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>Завантажити {1_labelShort} на в’ючних тварин...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Завантажити {1_labelShort} x{{0}} на караван</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Завантажити {1_labelShort} x{{0}} на в’ючних тварин</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>Неможливо завантажити {1_label} на караван</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>Неможливо завантажити {1_label} на в’ючних тварин</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>Неможливо завантажити {1_label} (all) в караван</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>Неможливо завантажити {1_label} (all) на в’ючних тварин</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
   <LoadIntoCaravan>Завантажити {1_label} в караван</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>Завантажити {1_label} (all) на караван</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>Завантажити {1_label} (all) в караван</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Завантажити {1_labelShort} в караван...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
@@ -270,11 +270,11 @@
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>Неможливо видалити {1_label}</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>temporary faction member</QuestRelated>
+  <QuestRelated>тимчасовий учасник ватаги</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>Cannot change outfits on temporary faction members</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Не можна змінити екіпірування тимчасових членів ватаги</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>would replace locked apparel</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>замінить заблоковане спорядження</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Самоліквідуватися тут</SelfDestructHere>
@@ -333,7 +333,7 @@
   <CannotGenericWorkCustom>Не можливо {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
-  <CannotMissingHealthActivities>Cannot prioritize: incapable of {0}</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Не можливо розставити пріоритети: не в змозі {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
@@ -342,7 +342,7 @@
   <CannotGenericAlreadyAmCustom>Вже {0}</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize: will never do {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Не можливо розставити пріоритети: ніколи не зробить {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
   <CannotTradeMissingTitleAbility>Cannot trade: lacking necessary title</CannotTradeMissingTitleAbility>
 
