@@ -42,18 +42,18 @@
   <RefugeePodCrash_NonHostile>{PAWN_nameDef} з {PAWN_factionName}. Якщо ви врятуєте {PAWN_objective}, {PAWN_pronoun} може приєднатися до вас. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>Cargo pods</LetterLabelCargoPodCrash>
+  <LetterLabelCargoPodCrash>Вантажні відсіки</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage.</CargoPodCrash>
+  <CargoPodCrash>Ви виявили скупчення вантажних відсіків, що зазнали аварії поруч.\n\nМожливо, ви знайдете щось корисне в уламках.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>an electrical conduit</AnElectricalConduit>
+  <AnElectricalConduit>електричний траса</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
   <ShortCircuit>Несправність у {0} викликала коротке замикання.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
   <ShortCircuitStartedFire>Несправність у {0} викликала коротке замикання, яке почало пожежу.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion.</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>Уся {0} Wd енергії у під'єднаних батареях розрядилася під час електричного вибуху.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
   <ShortCircuitWasLarge>Ця величезна кількість енергії створила вибух значних розмірів.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
@@ -93,7 +93,7 @@
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Зграя скажених звірів</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
+  <ManhunterPackArrived>Зграя мисливців на людей {0} ввійшли на територію! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
