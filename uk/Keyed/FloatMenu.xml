@@ -233,16 +233,16 @@
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
   <CannotGiveToPackAnimalAll>Неможливо завантажити {1_label} (все) на зграйну тварину</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Load {1_label} onto pack animal</GiveToPackAnimal>
+  <GiveToPackAnimal>Завантажити {1_label} на караван</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Load {1_label} (all) onto pack animal</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Завантажити {1_label} (все) на караван</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>Load {1_labelShort} onto pack animal...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>Завантажити {1_labelShort} на караван...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Load {1_labelShort} x{{0}} onto pack animal</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Завантажити {1_labelShort} x{{0}} на караван</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>Неможливо завантажити {1_label} в караван</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>Неможливо завантажити {1_label} на караван</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
   <CannotLoadIntoCaravanAll>Неможливо завантажити {1_label} (all) в караван</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
@@ -261,7 +261,7 @@
   <!-- EN: Carry {1_label} and leave the area -->
   <CarryToExit>Нести {1_label} і покинути територію</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>Capture {1_label} and leave the area</CarryToExitAndCapture>
+  <CarryToExitAndCapture>Захопити {1_label} і покинути територію</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
   <Strip>Роздягнути {1_label}</Strip>
