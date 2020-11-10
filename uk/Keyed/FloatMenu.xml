@@ -344,27 +344,27 @@
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Не можливо розставити пріоритети: ніколи не зробить {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>Cannot trade: lacking necessary title</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>Не можна торгувати: не вистачає потрібної назви</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>Cannot prioritize: will never {0}</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Не можливо розставити пріоритети: ніколи {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>ніколи не {0}</WillNever>
 
   <!-- EN: Cannot prioritize: not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize: not assigned to {0}</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Не можливо розставити пріоритети: не назначений {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>not assigned</NotAssigned>
+  <NotAssigned>не призначено</NotAssigned>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
-  <CannotPrioritizeResearch>Cannot prioritize: research is a long-term task</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Не можливо розставити пріоритети: дослідження є довгостроковим завданням</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>Cannot prioritize: {1_label} is forbidden</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Не можливо розставити пріоритети: {1_label} заборонено</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: forbidden -->
-  <CannotPrioritizeCellForbidden>Cannot prioritize: forbidden</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Не можливо розставити пріоритети: заборонено</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Outside allowed area</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>За межами допустимої зони</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -390,19 +390,19 @@
   <RemoveWaypoint>Видалити цю відмітку</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
-  <RemoveAllDesignations>Cancel all designations</RemoveAllDesignations>
+  <RemoveAllDesignations>Скасувати всі призначення</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>Позначити всіх</DesignateAll>
+  <DesignateAll>Призначити всіх</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>{0} постраждали</CountToDesignate>
+  <CountToDesignate>{0} уражено</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>Заборонити всі товари</ForbidAllItems>
+  <ForbidAllItems>Заборонити всі елементи</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>Скасувати заборону всіх товарів</UnforbidAllItems>
+  <UnforbidAllItems>Скасувати заборону всіх елементів</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Збільште масштаб і виберіть місце посадки в {0}</LandInExistingMap>
+  <LandInExistingMap>Збільшити та вибрати місце для посадки у {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
   <TransportPodsContentsWillBeLost>Вміст буде втрачено</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
@@ -410,15 +410,15 @@
   <!-- EN: Give to {0} -->
   <GiveToCaravan>Віддати {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Дати в подарунок {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
-  <FreePrisoner>Free prisoner</FreePrisoner>
+  <FreePrisoner>Звільнити в'язня</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>Пропонувати допомогу</OfferHelp>
+  <OfferHelp>Запропонувати допомогу</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>подати {0}</ApplyTechprint>
+  <ApplyTechprint>застосувати {0}</ApplyTechprint>
   
 </LanguageData>
