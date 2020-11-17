@@ -11,6 +11,8 @@
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Close</Close>
+  <!-- EN: Accept -->
+  <Accept>Accept</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -542,6 +544,8 @@
   <TraderCount>How many of this item the trader has to trade.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Accept</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>Load selected</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Reset</ResetButton>
   <!-- EN: Cancel -->
@@ -614,12 +618,16 @@
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
+  <!-- EN: Send -->
+  <Send>Send</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>People and animals</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>Items</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <FoodAndMedicineTab>Travel supplies</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -712,6 +720,8 @@
   <AnimalsSection>Animals</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>Choose route</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>Change route</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Abandon</AbandonButton>
   <!-- EN: Movement speed -->
@@ -742,6 +752,8 @@
   <FactionType>Faction type</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>Total body size</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectFoodAndMedicine>Automatically select travel supplies</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -778,6 +790,8 @@
   <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>There is no path between the shuttle and {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>Only {0} colonists maximum allowed.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -852,8 +866,8 @@
   <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Only if recreation below</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
+  <!-- EN: Keep in inventory -->
+  <TakeToInventoryColumnLabel>Keep in inventory</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
   <!-- EN: Every day -->
@@ -968,8 +982,8 @@
   <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>The caravan will be immobile if you send the pods to an empty tile. Continue anyway?</TransportersCaravanWillBeImmobile>
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>The caravan will be immobile if you launch to an empty tile. Continue anyway?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
@@ -990,13 +1004,60 @@
   <AbilityCastingTime>Casting time</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>No line of sight to target.</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>Can't reach the target.</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>Not enough free space.</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
   <AbilityOccupiedCells>{0} must target an empty area.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} must target a walkable area.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>{0} must target an unroofed area.</AbilityRoofed>
-  <!-- EN: {0} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0} is mentally broken.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} is mentally broken.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} is not mentally broken.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>{0} doesn't work on the '{1}' mental state.</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>{0_labelShort} has zero resistance.</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>Psyfocus cost per mental break intensity</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>{0_labelShort} is already inspired.</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>{0_labelShort} can't get an inspiration right now.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>{0_labelShort} is unconscious.</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>{0_labelShort} is asleep.</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>This tile is impassable.</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>Skip to random ally</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>Skip to join caravan</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>Need ally at target for navigation</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>No chunks to skip.</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>Induce psychic love in</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>Psychic love for</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>minor</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>major</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>extreme</MentalBreakIntensityExtreme>
   
 </LanguageData>

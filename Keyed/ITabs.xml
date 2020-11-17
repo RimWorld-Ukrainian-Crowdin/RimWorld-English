@@ -112,6 +112,8 @@
   <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>Considered guilty</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -277,18 +279,10 @@
   <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
-  <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
-  <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
   <FormingCaravanStatus_GatheringDownedPawns>Gathering downed people</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
@@ -303,10 +297,10 @@
   <CaravanMembers>Members</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Animals</CaravanAnimals>
-  <!-- EN: Items to load -->
-  <ItemsToLoad>Items to load</ItemsToLoad>
-  <!-- EN: Loaded items -->
-  <LoadedItems>Loaded items</LoadedItems>
+  <!-- EN: To load -->
+  <ItemsToLoad>To load</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>Loaded</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
   <!-- EN: mentally broken -->

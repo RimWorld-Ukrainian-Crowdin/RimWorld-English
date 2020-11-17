@@ -312,4 +312,6 @@
   <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>group</ExtraFactionType_MiniFaction>
 </LanguageData>

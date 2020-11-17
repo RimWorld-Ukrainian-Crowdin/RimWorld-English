@@ -44,6 +44,11 @@
   <!-- EN: An unfinished piece of metal armor. -->
   <UnfinishedMetallicTechArmor.description>An unfinished piece of metal armor.</UnfinishedMetallicTechArmor.description>
   
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>unfinished pack</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>An unfinished piece of a pack.</UnfinishedPack.description>
+  
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
   <!-- EN: An unfinished sculpture. -->

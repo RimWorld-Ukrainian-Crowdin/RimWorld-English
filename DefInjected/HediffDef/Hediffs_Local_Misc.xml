@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <Abasia.label>paralytic abasia</Abasia.label>
-  <Abasia.description>A condition that affects the motor cortex of a patient, resulting in the inability to walk.</Abasia.description>
-  
-  <!-- UNUSED -->
-  <BloodRot.label>blood rot</BloodRot.label>
-  <BloodRot.description>A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death. The body's immune system will clear blood rot after a long time, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive.</BloodRot.description>
-  <BloodRot.stages.minor.label>minor</BloodRot.stages.minor.label>
-  <BloodRot.stages.major.label>major</BloodRot.stages.major.label>
-  <BloodRot.stages.extreme.label>extreme</BloodRot.stages.extreme.label>
-  
   <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
   <!-- EN: Chemical damage at the cellular level. -->
@@ -26,10 +15,6 @@
   <Cirrhosis.label>cirrhosis</Cirrhosis.label>
   <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
   <Cirrhosis.description>A degenerative liver disease caused by excessive alcohol consumption.</Cirrhosis.description>
-  
-  <!-- UNUSED -->
-  <Coma.label>coma</Coma.label>
-  <Coma.description>A deep state of prolonged unconsciousness.</Coma.description>
   
   <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>resurrection psychosis</ResurrectionPsychosis.label>

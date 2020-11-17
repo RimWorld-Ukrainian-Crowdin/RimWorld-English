@@ -16,6 +16,18 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>Doing something.</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>Doing something.</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>Doing something.</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>Doing something.</CastJump.reportString>
+  
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
   
@@ -112,6 +124,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>reloading TargetA.</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
   
@@ -127,8 +142,8 @@
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
-  <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>taking TargetA to inventory.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
@@ -153,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>Doing something.</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>vomiting.</Vomit.reportString>

@@ -41,6 +41,8 @@
   <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>cannot attack self</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>cannot attack faction ally</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Man {1_labelShort}</OrderManThing>
@@ -136,6 +138,8 @@
   <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>violation of faction ally</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consume {1_labelShort}</ConsumeThing>
@@ -190,6 +194,8 @@
   <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>Too heavy</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort} is in the same faction.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>incapable</Incapable>
@@ -212,8 +218,19 @@
   <ForceWear>Force wear {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Cannot wear {1_label}</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>Force equip {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>Cannot equip {1_label}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>Reload {GEAR_labelShort} with {AMMO_label}</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>Full</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>Too few</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Cannot pick up {1_label}</CannotPickUp>
@@ -374,6 +391,8 @@
   <DropAtEdge>Drop at edge</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>Drop in center</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>Attack {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +439,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>apply {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>Too dangerous</EnterCooldownBlocksEntering>
   
 </LanguageData>

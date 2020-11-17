@@ -36,9 +36,6 @@
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>massive</AlcoholTolerance.stages.massive.label>
   
-  <!-- UNUSED -->
-  <AlcoholTolerance.stages.small-1.label>small</AlcoholTolerance.stages.small-1.label>
-  
   <!-- EN: hangover -->
   <Hangover.label>hangover</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->

@@ -3,54 +3,43 @@
   
   <!-- EN: recovery -->
   <Adaptation.label>recovery</Adaptation.label>
-  <Adaptation.graphLabelY>Days</Adaptation.graphLabelY>
   <!-- EN: {0} days -->
   <Adaptation.valueFormat>{0} days</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>mood</ColonistMood.label>
-  <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
   
   <!-- EN: free colonists -->
   <FreeColonists.label>free colonists</FreeColonists.label>
-  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>pop recovery</PopAdaptation.label>
-  <PopAdaptation.graphLabelY>Days</PopAdaptation.graphLabelY>
   <!-- EN: {0} days -->
   <PopAdaptation.valueFormat>{0} days</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>pop intent x10</PopIntent.label>
-  <PopIntent.graphLabelY>Days</PopIntent.graphLabelY>
   <!-- EN: {0} days -->
   <PopIntent.valueFormat>{0} days</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>prisoners</Prisoners.label>
-  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>fun points /10</ThreatPoints.label>
-  <ThreatPoints.graphLabelY>Points</ThreatPoints.graphLabelY>
   <!-- EN: {0} points -->
   <ThreatPoints.valueFormat>{0} points</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
-  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
   
   <!-- EN: wealth (items) -->
   <Wealth_Items.label>wealth (items)</Wealth_Items.label>
-  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
   
   <!-- EN: wealth (creatures) -->
   <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
-  <Wealth_Pawns.graphLabelY>Amount</Wealth_Pawns.graphLabelY>
   
   <!-- EN: wealth (total) -->
   <Wealth_Total.label>wealth (total)</Wealth_Total.label>
-  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
   
 </LanguageData>
