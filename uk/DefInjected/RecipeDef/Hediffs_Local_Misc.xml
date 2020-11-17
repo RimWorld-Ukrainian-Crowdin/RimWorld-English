@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <CureAbasia.label>проти-абазійна механітова інфузія</CureAbasia.label>
-  <CureAbasia.description>У цій особливій медичній операції застосовується велика доза механітів, аби наситити мозкову тканину й виконати координовану реструктуризацію нейронної активності без ушкодження мозку. Це назавжди вилікує параліч пацієнта, викликаний абазією, але споживає велику кількість медикаментів Блискучого Світу.</CureAbasia.description>
-  <CureAbasia.jobString>Вводить анти-абазійні механіти.</CureAbasia.jobString>
-  <CureAbasia.successfullyRemovedHediffMessage>{0} успішно вилікував паралітичну абазію {1}.</CureAbasia.successfullyRemovedHediffMessage>
-  
-  <!-- UNUSED -->
-  <CureBloodRot.label>лікувати гниття крові</CureBloodRot.label>
-  <CureBloodRot.description>Ця особлива медична операція лікує гниття крові методом великого настоювання бактеріофагних механітів.</CureBloodRot.description>
-  <CureBloodRot.jobString>Лікування гниття крові.</CureBloodRot.jobString>
-  <CureBloodRot.successfullyRemovedHediffMessage>{0} успішно вилікував гниття крові {1}.</CureBloodRot.successfullyRemovedHediffMessage>
-  
-  <!-- UNUSED -->
-  <CureComa.label>виводяча з коми механітова інфузія</CureComa.label>
-  <CureComa.description>У цій особливій медичній операції використовується велика доза механітів, аби наситити мозкову тканину й виконати координований запуск нейронної активності без ушкодження мозку. Це відразу опритомнює пацієнта з коми, але споживає велику кількість медикаментів Блискучого світу.</CureComa.description>
-  <CureComa.jobString>Вводить механіти для виводу з коми.</CureComa.jobString>
-  <CureComa.successfullyRemovedHediffMessage>{0} успішно вилікував кому {1}.</CureComa.successfullyRemovedHediffMessage>
-  
   <!-- EN: cure scaria -->
   <CureScaria.label>лікувати скарію</CureScaria.label>
   <!-- EN: This special medical operation cures scaria. -->
