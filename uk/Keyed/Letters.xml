@@ -17,14 +17,14 @@
   <FirstSummerWarning>Літо почалося! Але наближається зима.\n\nВаші продовольчі культури не будуть рости в мороз. Не забудьте зберегти достатню кількість їжі, щоб вижити. Ви можете побудувати холодильник з охолоджувачами, щоб їжа не зіпсувалась.\n\nКупуйте, крадіть або зробіть парки, або ви замерзнете, коли вийдете на вулицю.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Відносини з {0} повністю зруйновані. Вони тепер ворожі до вас.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Вони проводитимуть періодичні набіги на вашій колонії та каравани, і відмовлятимуться торгувати з вами. Якщо ви хочете поліпшити відносини, ви все ще можете запропонувати їм подарунки за допомогою караванів або транспортних капсул.\n\nЦе сталося тому, що прихильність ({0}) впала нижче {1}. Щоб відновити нейтральні відносини, прихильність має піднятися до {2}.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
-  <LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Відносини з {0} потеплішали. Тепер вони вважають вас нейтральними і більше не нападатимуть на вас.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Це сталося бо прихильність ({1}) піднялася понад {2}. Якщо прихильність впаде нижче {3}, {0} стануть ворожими знову. Якщо прихильність підніметься вище {4}, то вони стануть вашим союзником і битимуться з вами разом.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.</LetterRelationsChange_NeutralFromAlly>
