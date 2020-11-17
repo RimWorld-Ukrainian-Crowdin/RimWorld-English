@@ -65,8 +65,8 @@
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>Колоніст не похований</AlertColonistLeftUnburied>
-  <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>Мертвого колоніста не поховали.\n\nЦе може негативно вплинути на настрій живих колоністів.</AlertColonistLeftUnburiedDesc>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>У мисливця нема зброї дальнього бою</HunterLacksWeapon>
@@ -226,6 +226,15 @@
   <QuestPartShuttleLeaveDelay>Човник злітає через {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>Човник злетить через {1}. Доручення {0} вимагає, щоб ви завантажили наступних людей та товари на човник перед його зльотом:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>The shuttle will leave in {0}.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>Shuttle arriving in {0}</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>A shuttle will arrive in {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>Монумент буде зруйновано</DisallowedBuildingInsideMonument>
