@@ -71,7 +71,7 @@
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>Призначити цей трон за конкретним колоністом.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc>Assign this meditation spot to be owned by a specific colonist.</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>Виділити це місце медитації для конкретного колоніста.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Призначити колоніста</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -256,9 +256,9 @@
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>No {CHARGENOUN_plural} left.</CommandReload_NoCharges>
+  <CommandReload_NoCharges>Не лишилося {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>Needs to be reloaded with {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>Необхідно зарядити {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -306,7 +306,7 @@
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>Оберіть усі каравани, які потрібно об'єднати. Каравани повинні бути близько один до одного.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>Join</CommandJoinCaravan>
+  <CommandJoinCaravan>Приєднатися</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -408,9 +408,9 @@
   
   <!-- Launch group -->
   <!-- EN: Launch -->
-  <CommandLaunchGroup>Launch</CommandLaunchGroup>
+  <CommandLaunchGroup>Пуск</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
-  <CommandLaunchGroupDesc>Take off and fly to a destination.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>Злетіти та взяти курс до місця призначення.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Деякі транспортні капсули у цій групі не приєднаний до порту для заправки.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
@@ -506,9 +506,9 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>Dismiss</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Відхилити</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>Unload all contents and send the shuttle away.</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>Розвантажити все та відправити човник.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
@@ -538,8 +538,8 @@
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>Take drug...</TakeDrug>
+  <TakeDrug>Прийняти припарат...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>Choose a drug from inventory to ingest immediately.</TakeDrugDesc>
+  <TakeDrugDesc>Оберіть препарат з інвентярю, щоб прийняти його негайно.</TakeDrugDesc>
   
 </LanguageData>
