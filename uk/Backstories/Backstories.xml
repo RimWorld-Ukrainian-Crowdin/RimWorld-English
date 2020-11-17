@@ -2839,14 +2839,14 @@
     <desc>[PAWN_nameDef] crafted sculptures from spent hex-cells and traded them to a local museum for food.\n\nAfter [PAWN_possessive] popularity grew, [PAWN_pronoun] was approached by a pirate and abducted. The pirate kept [PAWN_objective] prisoner and forced [PAWN_objective] to create sculptures for sale.</desc>
   </HexCellArtist91>
   
-  <Hideaway9>
+  <Hideaway7>
     <!-- EN: hideaway -->
-    <title>затвірник</title>
+    <title>hideaway</title>
     <!-- EN: hideaway -->
-    <titleShort>затвірник</titleShort>
-    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
-    <desc>Занадно турботливі батьки [PAWN_nameDef] заохочували [PAWN_objective] залишатися вдома майже кожен день. Хоча [PAWN_pronoun] мав багато часу на читання та заняття ремеслом, [PAWN_pronoun] ніколи не розвинув нормальних соціальних навичок.</desc>
-  </Hideaway9>
+    <titleShort>hideaway</titleShort>
+    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+    <desc>[PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills.</desc>
+  </Hideaway7>
   
   <HighBaroness37>
     <!-- EN: high baroness -->
@@ -3800,6 +3800,15 @@
     <desc>[PAWN_nameDef] spent [PAWN_possessive] teenage years as a mercenary, being hired to kill and maim others. [PAWN_pronoun] was tall, menacing, and frightening. [PAWN_pronoun] could instill fear into the hearts of any man who crossed [PAWN_objective], and kill anyone [PAWN_pronoun] wanted.</desc>
   </Mercenary55>
   
+  <MercenaryCaptain56>
+    <!-- EN: Mercenary captain -->
+    <title>Mercenary captain</title>
+    <!-- EN: Captain -->
+    <titleShort>Captain</titleShort>
+    <!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <desc>[PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires.</desc>
+  </MercenaryCaptain56>
+  
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
     <title>голова найманців</title>
@@ -4339,6 +4348,15 @@
     <!-- EN: Left alone in the world without parents, [PAWN_nameDef] did the best [PAWN_pronoun] could to adapt.\n\nHaving to take care both of [PAWN_objective]self and younger kids at the orphanage, [PAWN_pronoun] learned a lot about humans and how to interact with them. -->
     <desc>Left alone in the world without parents, [PAWN_nameDef] did the best [PAWN_pronoun] could to adapt.\n\nHaving to take care both of [PAWN_objective]self and younger kids at the orphanage, [PAWN_pronoun] learned a lot about humans and how to interact with them.</desc>
   </Orphan25>
+  
+  <OrphanedAcrobat84>
+    <!-- EN: Orphaned acrobat -->
+    <title>Orphaned acrobat</title>
+    <!-- EN: Acrobat -->
+    <titleShort>Acrobat</titleShort>
+    <!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end. -->
+    <desc>Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end.</desc>
+  </OrphanedAcrobat84>
   
   <OrphanOfWar60>
     <!-- EN: orphan of war -->
@@ -4967,14 +4985,14 @@
     <desc>[PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location.</desc>
   </ReconSniper89>
   
-  <Recruiter4>
+  <Recruiter14>
     <!-- EN: recruiter -->
-    <title>рекрутер</title>
+    <title>recruiter</title>
     <!-- EN: recruiter -->
-    <titleShort>рекрутер</titleShort>
-    <!-- EN: [PAWN_nameDef] was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
-    <desc>[PAWN_nameDef] was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training.</desc>
-  </Recruiter4>
+    <titleShort>recruiter</titleShort>
+    <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+    <desc>[PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training.</desc>
+  </Recruiter14>
   
   <ReEducatedYouth23>
     <!-- EN: re-educated youth -->
