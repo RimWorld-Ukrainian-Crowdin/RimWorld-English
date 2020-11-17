@@ -39,8 +39,8 @@
   <GameplayTips.CallAllies>Якщо вам потрібна допомога у боротьбі, покличте своїх союзників через термінал зв'язку.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
   <GameplayTips.MaddenedAnimals>Збожеволілі тварини будуть нападати на будь-яку людину, включаючи ваших ворогів. Ви можете використовувати це.</GameplayTips.MaddenedAnimals>
-  <!-- EN: EMP bursts will temporarily disable turrets, mortar shields, and bullet shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets, mortar shields, and bullet shields.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets and shields.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
   <GameplayTips.EMPDisablesPersonalShields>Спалахи ЕМІ миттєво зламають особисті щити.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
@@ -61,8 +61,8 @@
   <GameplayTips.CaravanFasterAnimals>Швидші тварини формують швидші каравани.</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Менші каравани будуть атаковані рідше, тому що вони менш помітні.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>Перед формуванням каравану, зберіть речі, які ви хочете відправити на складі біля місця формування каравану. Це дозволить пришвидшити збирання припасів.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Якщо у вас є нетреновані тварини у вашому каравані, ви можете розділити їх у окремий караван перед нападом на ворога, щоб утримати їх від боротьби.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
@@ -125,8 +125,8 @@
   <GameplayTips.BestStoriesFromDarkestSituations>Навіть серйозні невдачі не означають, що гра має закінчитися. Спробуйте розіграти програний бій - часто найкращі історії складаються з найтемніших ситуацій.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Чисті лабораторії зі стерильною плиткою дають бонус швидкості дослідження.</GameplayTips.CleanLabs>
-  <!-- EN: You can change storyteller and difficulty at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>Ви можете змінити складність і казкаря в будь-який час за допомогою меню.</GameplayTips.ChangeStoryteller>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>You can change storyteller and playstyle at any time through the options menu.</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
   <GameplayTips.MoreAlliesMoreTraders>Чим більше фракцій ви маєте в союзі, тим більше випадкових торговців і військової допомоги ви отримаєте.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
