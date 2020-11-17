@@ -27,14 +27,14 @@
   <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Це сталося бо прихильність ({1}) піднялася понад {2}. Якщо прихильність впаде нижче {3}, {0} стануть ворожими знову. Якщо прихильність підніметься вище {4}, то вони стануть вашим союзником і битимуться з вами разом.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
-  <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Відносини з {0} охололи. Тепер вони вважають вас нейтральними, а не союзниками.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Хоч вони й поводитимуться з вами мирно, вони більше не будуть надсилати бійців на допомогу, коли ви під загрозою.\n\nЦе сталося, бо прихильність ({1}) впала нижче {2}. Якщо прихильність впаде нижче {3}, {0} стануть ворожим. Якщо прихильність зросте вище {4}, то вони стануть вашим союзником і битимуться разом з вами.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
-  <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькими. Вони тепер вважають вас союзником.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral.</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Союзники іноді прибувають на допомогу в бою з вашими ворогами, коли на вас нападають. Ви також можете будь-коли покликати їх на допомогу, витративши прихильність.\n\nВи стали союзниками, бо прихильність ({0}) піднялася понад {1}. Якщо прихильність впаде нижче {2}, ваші відносини стануть нейтральними.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>прихильність</goodwill>
@@ -130,15 +130,15 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} помер: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} of {0}, has died.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} у {0}, помер.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Новий {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} is no longer {1} of {0}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} більше не є {1} у {0}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>The new {0} is {NEWLEADER_nameFull}.</LetterNewLeader>
+  <LetterNewLeader>Новим {0} є {NEWLEADER_nameFull}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Останньою краплею було: {0}</FinalStraw>
@@ -288,9 +288,9 @@
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>База зруйнована</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Вороже поселення {0} було зруйновано.\n\nЧерез {1} ваш караван атакуюуть вороги. Вони почнуть відправляти власні сили для атаку каравану, якщо караван не переформується на те рушить з місця.</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>Since this was their last settlement, {0} has been defeated.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Оскільки це було їхнє останнє поселення, {0} було переможено.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
