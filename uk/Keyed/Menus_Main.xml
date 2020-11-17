@@ -111,7 +111,7 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>Випадкове зерно</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. Це відсоток поверхні, який ви бажаєте згенерувати.</PlanetCoverageTip>
+  <PlanetCoverageTip>Планета завжди однакового діаметру, але оскільки вона набагато більша, ніж потрібно для гри, ми не генеруємо всю поверхню, оскільки це може зайняти дуже багато часу. Це відсоток поверхні, який ви бажаєте згенерувати.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Фракції</WorldFactionsTab>
 
@@ -205,7 +205,7 @@
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Цей мод розроблений не для цієї версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>This mod is not made for this version of RimWorld.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Цей мод не пристосований до поточної версії RimWorld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Цей мод розроблений для новішої версії RimWorld і, ймовірно, буде правильно працювати.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
@@ -265,7 +265,7 @@
   <!-- EN: Incompatible -->
   <Incompatible>Несумісний</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>Tag as translation</TagAsTranslation>
+  <TagAsTranslation>Позначити як переклад</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>Забагато (максимум {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -300,7 +300,7 @@
   <DifficultyReset>Set to standard playstyle...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>Threats</DifficultyThreatSection>
+  <DifficultyThreatSection>Загрози</DifficultyThreatSection>
   <!-- EN: Threat scale -->
   <Difficulty_ThreatScale_Label>Threat scale</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
@@ -349,7 +349,7 @@
   <!-- EN: Adjust the speed of research. -->
   <Difficulty_ResearchSpeedFactor_Info>Adjust the speed of research.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>Quest rewards</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>Нагороди за квести</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
   <Difficulty_QuestRewardValueFactor_Info>Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
@@ -361,7 +361,7 @@
   <!-- EN: Adjust the cost of rearming turrets. -->
   <Difficulty_MaintenanceCostFactor_Info>Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>Scaria rot chance</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Імовірність гноїння від скарії</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
   <Difficulty_ScariaRotChance_Info>The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
