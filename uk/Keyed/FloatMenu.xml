@@ -36,13 +36,13 @@
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>не здатний(а) на насильство</IncapableOfViolenceLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{1_labelShort} не складено</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort} не мобілізовано</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>не може впорядкувати символи, якими ви не керуєте</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>не можна атакувати самостійно</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>cannot attack faction ally</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>не можна атакувати союзника</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Людина {1_labelShort}</OrderManThing>
