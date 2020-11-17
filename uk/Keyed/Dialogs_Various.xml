@@ -619,7 +619,7 @@
   <!-- EN: Form caravan -->
   <FormCaravan>Сформувати караван</FormCaravan>
   <!-- EN: Send -->
-  <Send>Send</Send>
+  <Send>Відправити</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Кількість, яку можна відправити з караваном.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
@@ -721,7 +721,7 @@
   <!-- EN: Choose route -->
   <ChooseRouteButton>Обрати рейс</ChooseRouteButton>
   <!-- EN: Change route -->
-  <ChangeRouteButton>Change route</ChangeRouteButton>
+  <ChangeRouteButton>Змінити маршрут</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Покинути</AbandonButton>
   <!-- EN: Movement speed -->
@@ -867,7 +867,7 @@
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Тільки якщо відновлення нижче</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
-  <TakeToInventoryColumnLabel>Keep in inventory</TakeToInventoryColumnLabel>
+  <TakeToInventoryColumnLabel>Мати з собою</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(ніяких наркотиків)</NoDrugsBrackets>
   <!-- EN: Every day -->
