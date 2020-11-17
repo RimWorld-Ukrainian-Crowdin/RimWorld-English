@@ -214,14 +214,14 @@
   <InteractionSpotWillOverlap>Місце взаємодії буде конфліктувати з місцем взаємодії {1_labelShort}.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>Місце взаємодії конфліктує з місцем взаємодії {1_labelShort}.</InteractionSpotOverlaps>
-  <!-- EN: Monuments cannot be placed over other buildings. -->
-  <MonumentOverlapsBuilding>Монументи не можуть бути розташовані поверх інших будівель.</MonumentOverlapsBuilding>
-  <!-- EN: Monument cannot be placed adjacent to a building. -->
-  <MonumentAdjacentToBuilding>Монументи не можуть бути розташовані впритул до будівлі.</MonumentAdjacentToBuilding>
-  <!-- EN: Monuments cannot be placed on incompatible terrain. -->
-  <MonumentBadTerrain>Монументи не можуть бути розташовані на несумісних ландшафтах.</MonumentBadTerrain>
-  <!-- EN: Monuments cannot be placed over permanent obstructions. -->
-  <MonumentBlockedPermanently>Монументи не можуть бути розташовані на перманентних перешкодах.</MonumentBlockedPermanently>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>Cannot place monument over: {0}.</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>Cannot build on: {0}.</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>Cannot place monument over: {0}.</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>Monument cannot be placed adjacent to: {0}.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
