@@ -215,13 +215,13 @@
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>Місце взаємодії конфліктує з місцем взаємодії {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>Cannot place monument over: {0}.</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>Не можна встановити монумент над: {0}.</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>Cannot build on: {0}.</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>Не можна будувати на: {0}.</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>Cannot place monument over: {0}.</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Не можна встановити монумент над: {0}.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>Monument cannot be placed adjacent to: {0}.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Монумент не можна розташувати впритул до: {0}.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
