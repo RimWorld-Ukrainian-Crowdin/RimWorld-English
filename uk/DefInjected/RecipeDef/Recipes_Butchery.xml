@@ -15,4 +15,11 @@
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Розчленовує механоїда.</ButcherCorpseMechanoid.jobString>
   
+  <!-- EN: smash mechanoid -->
+  <SmashCorpseMechanoid.label>smash mechanoid</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Smash a dead mechanoid with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString>Smashing mechanoid.</SmashCorpseMechanoid.jobString>
+  
 </LanguageData>
