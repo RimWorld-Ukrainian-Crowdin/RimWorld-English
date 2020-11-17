@@ -101,10 +101,10 @@
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach.</Prosthetics.description>
   
-  <!-- EN: smokepop belts -->
-  <SmokepopBelt.label>димова завіса</SmokepopBelt.label>
-  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
-  <SmokepopBelt.description>Build smokepop belts which generate an automatic defensive smokescreen when the user is shot.</SmokepopBelt.description>
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>smokepop packs</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>Build smokepop packs which allow the wearer to deploy a defensive smokescreen.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->
   <SolarPanels.label>сонячна панель</SolarPanels.label>
