@@ -56,10 +56,10 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>Craft precisely-machined guns like assault rifles and sniper rifles.</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
-  <ShieldBelt.label>пояс-щит</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
-  <ShieldBelt.description>Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
+  <!-- EN: shields -->
+  <ShieldBelt.label>shields</ShieldBelt.label>
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
+  <ShieldBelt.description>Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry.</ShieldBelt.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>транспортні ракети</TransportPod.label>
