@@ -62,7 +62,7 @@
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Менші каравани будуть атаковані рідше, тому що вони менш помітні.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>Перед формуванням каравану, зберіть речі, які ви хочете відправити на складі біля місця формування каравану. Це дозволить пришвидшити збирання припасів.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Якщо у вас є нетреновані тварини у вашому каравані, ви можете розділити їх у окремий караван перед нападом на ворога, щоб утримати їх від боротьби.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
