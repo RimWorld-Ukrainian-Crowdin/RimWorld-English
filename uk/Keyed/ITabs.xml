@@ -298,9 +298,9 @@
   <!-- EN: Animals -->
   <CaravanAnimals>Тварин</CaravanAnimals>
   <!-- EN: To load -->
-  <ItemsToLoad>To load</ItemsToLoad>
+  <ItemsToLoad>Буде завантажено</ItemsToLoad>
   <!-- EN: Loaded -->
-  <LoadedItems>Loaded</LoadedItems>
+  <LoadedItems>Завантажено</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>в’ючні тварини</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
@@ -310,7 +310,7 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Remove {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>Contained items</ContainedItems>
+  <ContainedItems>Вміст</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Ви дійсно бажаєте видалити {0}?</ConfirmRemoveItemDialog>
   
