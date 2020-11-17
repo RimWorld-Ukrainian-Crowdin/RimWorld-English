@@ -402,7 +402,7 @@
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>Caravan battle won</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Ваш караван переміг у битві.\n\nТепер ви можете реформувати караван на Світовому екрані вибравши поле битви й обравши опцію "Реформувати караван".\n\nНемає потреби збирати елементи вручну - інструмент реформи каравану може це зробити в одну мить.\n\nЧерез {0} на караван нападуть вороги. They will begin sending forces to attack the caravan, unless it reforms and leaves.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
