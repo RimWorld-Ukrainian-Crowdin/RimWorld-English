@@ -177,7 +177,7 @@
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Прибл. к-сть днів до цілі: {0}</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Route travel time: {0} days</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Час подорожі: {0} днів</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Неможливо йти: занадто багато ваги.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -247,9 +247,9 @@
   <!-- EN: Map -->
   <Map>Мапа</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>{0} until enemies arrive</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} до прибуття ворогів</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>Enemy reinforcements will arrive in this area in {0}.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Ворожі підкріплення прибудуть сюди через {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Кімната</Room>
   <!-- EN: Beauty here -->
