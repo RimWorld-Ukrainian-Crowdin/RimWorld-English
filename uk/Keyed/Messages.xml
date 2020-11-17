@@ -80,7 +80,7 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} успішно приручив {1} ( шанс{2} ). Тепер він називається {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>{RECRUITEE} has joined your colony.</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} приєднався до вашої колонії.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Колонія не може дозволити собі цю угоду.</MessageColonyCannotAfford>
@@ -557,7 +557,7 @@
   <MessageCaravanArrivalActionNoLongerValid>{0} couldn't reach its destination.</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <MessageEnterCooldownBlocksEntering>Too dangerous to re-enter for {0}.</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Надто небезпечно відвідувати ще {0}.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort} can now freely use "{1}".</MessagePermitCooldownFinished>
