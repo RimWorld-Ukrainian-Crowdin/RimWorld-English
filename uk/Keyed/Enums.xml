@@ -312,4 +312,6 @@
   <ExtraFactionType_HomeFaction>домашня фракція</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>приймаюча фракція</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>group</ExtraFactionType_MiniFaction>
 </LanguageData>
