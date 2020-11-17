@@ -104,6 +104,13 @@
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>третій триместр</Pregnant.stages.latestage.label>
   
+  <!-- EN: psychic coma -->
+  <PsychicComa.label>psychic coma</PsychicComa.label>
+  <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
+  <PsychicComa.description>A form of benign coma during which the brain recovers from a psychic overload.</PsychicComa.description>
+  <!-- EN: a psychic coma -->
+  <PsychicComa.labelNoun>a psychic coma</PsychicComa.labelNoun>
+  
   <!-- EN: psychic hangover -->
   <PsychicHangover.label>психічне похмілля</PsychicHangover.label>
   <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
