@@ -291,7 +291,7 @@
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
   <PermadeathModeInfo>Зберігати гру можна тільки перед виходом.\n\nОскільки RimWorld є генератором історій, навіть втрата всіх, крім одного, колоністів - не кінець. Це лише частина історії. Гра розроблена так, щоб дозволити відновлення після втрат.\n\nПрогравання таких жахливих ситуацій робить історію одночасно і трагедією і тріумфом. RimWorld було задумано грати саме так.\n\nНа те є причина, що Люк Скайвокер не вийшов і перезавантажився, коли його сім'ю вбили. Втрати на відновлення додають драматизму.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Storyteller and playstyle can be changed any time.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Оповідача та стиль гри можна змінити будь-коли.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
@@ -600,7 +600,7 @@
   <!-- EN: Back -->
   <Back>Назад</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>Change material...</ShowMaterials>
+  <ShowMaterials>Змінити матеріали...</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Геймплей</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
