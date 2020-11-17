@@ -983,7 +983,7 @@
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>The caravan will be immobile if you launch to an empty tile. Continue anyway?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Караван буде нерухомим, якщо відправитися на порожню клітинку. Продовжувати все-таки?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
