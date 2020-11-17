@@ -36,9 +36,6 @@
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>масивний</AlcoholTolerance.stages.massive.label>
   
-  <!-- UNUSED -->
-  <AlcoholTolerance.stages.small-1.label>малий</AlcoholTolerance.stages.small-1.label>
-  
   <!-- EN: hangover -->
   <Hangover.label>похмілля</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
