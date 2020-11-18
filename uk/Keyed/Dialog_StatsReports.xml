@@ -51,9 +51,9 @@
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>Множник здоров'я {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>Cost to reload ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>Ціна зарядки ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>Multiplier for remaining {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>Множник для решти {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Множник настрою {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -147,9 +147,9 @@
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>Товар, що буде отриманий в результаті добування.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>Mining yield</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>Вихід від добування</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner.</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>Максимальна кількість отриманого товару під час добування цього ресурсу. Шахтарські навички шахтаря вплинуть на остаточний вихід.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>Вихідні види</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -289,15 +289,15 @@
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>Величина потужності, яку ця споруда потребує від електричної мережі.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} remaining</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} залишилось</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used.</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>Кількість {CHARGENOUN_plural}, що лишилися на цьому об'єкті. Якщо вони закінчаться, то спеціальну навичку застосувати більше не можна буде.</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
   <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>The maximum number of {CHARGENOUN_plural} this object has.</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>Максимальна кількість {CHARGENOUN_plural}, що цей об'єкт може мати.</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} reload cost</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>Вартість перезарядки {CHARGENOUN}</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
   <Stat_Thing_ReloadRefill_Desc>The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty.</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
