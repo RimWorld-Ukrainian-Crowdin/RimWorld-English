@@ -303,11 +303,11 @@
   <!-- EN: Reload cost per {CHARGENOUN} -->
   <Stat_Thing_ReloadPerCharge_Name>Вартість перезарядки за {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>Кількість предметів, необхідних для перезарядки одного {CHARGENOUN}. Кілька {CHARGENOUN_plural} можна перезарядити одночасно.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
   <Stat_Thing_ReloadDestroyOnEmpty_Name>Зникнути після спустошення</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>This item will vanish when its last {CHARGENOUN} is used.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Цей предмет зникне, коли буде використано останній {CHARGENOUN}.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>Загальна ефективність цієї частини тіла.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
