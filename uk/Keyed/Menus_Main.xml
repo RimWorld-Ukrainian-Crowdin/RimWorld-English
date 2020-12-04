@@ -345,7 +345,7 @@
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
   <Difficulty_ButcherYieldFactor_Info>Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>Research speed</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>Швидкість дослідження</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
   <Difficulty_ResearchSpeedFactor_Info>Adjust the speed of research.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
@@ -357,7 +357,7 @@
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
   <Difficulty_RaidLootPointsFactor_Info>Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>Вартість перезарядки турелі</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>Вартість перезаряджання турелі</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
   <Difficulty_MaintenanceCostFactor_Info>Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
@@ -470,7 +470,7 @@
   <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>У вас вже є там база.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>Ця плитка зайнята.</TileOccupied>
+  <TileOccupied>Ця клітинка зайнята.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Поселення не можуть безпосередньо прилягати один до одного.</FactionBaseAdjacent>
   <!-- EN: Biome -->
