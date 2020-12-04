@@ -263,7 +263,7 @@
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>The offer expired.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>You completed this quest.</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>Ви виконали це доручення.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>You failed this quest.</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
