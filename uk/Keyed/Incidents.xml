@@ -67,7 +67,7 @@
   <TraderArrivalNoFaction>Вони не пов'язані з жодною фракцією.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>У {PAWN_title} з {1} проходить повз. {PAWN_pronoun} називається {PAWN_nameFull}.</SingleTravelerPassing>
+  <SingleTravelerPassing>{PAWN_title} з {1} проходить повз. {PAWN_pronoun} звуть {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
   <GroupTravelersPassing>Група мандрівників з {0} проходять повз.</GroupTravelersPassing>
 
