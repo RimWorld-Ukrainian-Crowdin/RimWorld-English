@@ -861,7 +861,7 @@
   <!-- EN: Year-round -->
   <GrowYearRound>Цілий рік</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>Зараз сезон росту.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Зараз тут сезон росту.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Не може рости (поганий температурний сезон).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
