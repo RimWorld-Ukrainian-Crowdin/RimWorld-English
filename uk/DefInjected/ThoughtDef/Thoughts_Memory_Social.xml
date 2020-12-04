@@ -84,7 +84,7 @@
   <!-- EN: insulted -->
   <InsultedMood.stages.insulted.label>insulted</InsultedMood.stages.insulted.label>
   <!-- EN: I've been directly insulted! What an awful person! -->
-  <InsultedMood.stages.insulted.description>I've been directly insulted! What an awful person!</InsultedMood.stages.insulted.description>
+  <InsultedMood.stages.insulted.description>Мене безпосередньо образили! Що за жахлива людина!</InsultedMood.stages.insulted.description>
   
   <!-- EN: I rejected their proposal -->
   <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>I rejected their proposal</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
