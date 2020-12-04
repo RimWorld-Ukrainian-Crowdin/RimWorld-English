@@ -148,7 +148,7 @@
   <CouplesRoom>{2} {PAWN1_labelShort} і {PAWN2_labelShort}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>Important for this type of room.</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Важливо для приміщення такого типу.</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
   <DeepResourceRemaining>{COUNT} {RESOURCE_label} underground here.</DeepResourceRemaining>
