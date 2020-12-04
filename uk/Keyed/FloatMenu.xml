@@ -441,6 +441,6 @@
   <ApplyTechprint>застосувати {0}</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>Too dangerous</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Надто небезпечно</EnterCooldownBlocksEntering>
   
 </LanguageData>
