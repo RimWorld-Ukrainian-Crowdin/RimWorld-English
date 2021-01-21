@@ -47,11 +47,11 @@
   <CargoPodCrash>Ви виявили скупчення вантажних капсул, що зазнали аварії неподалік.\n\nМожливо, ви знайдете щось корисне серед уламків.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>електричний траса</AnElectricalConduit>
+  <AnElectricalConduit>електричний кабель</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
   <ShortCircuit>Несправність у {0} викликала коротке замикання.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
-  <ShortCircuitStartedFire>Несправність у {0} викликала коротке замикання, яке почало пожежу.</ShortCircuitStartedFire>
+  <ShortCircuitStartedFire>Несправність у {0} викликала коротке замикання, через яке почалась пожежа.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
   <ShortCircuitDischargedEnergy>Уся {0} Wd енергії у під'єднаних батареях розрядилася під час електричного вибуху.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
