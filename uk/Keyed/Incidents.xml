@@ -175,21 +175,21 @@
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Корабель знищено</EscapeShipLostLabel>
   <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>(*Name)Шарлон Вайтстоун(/Name) надіслав вам повідомлення.\n\nВін помітив, що ви втратили контроль над посадженим кораблем. Аби не допустити попадання в чужі руки, він запустив механізм саморуйнування корабеля. The ship is now a crater.\n\nYou'll need to find another way off this planet.</EscapeShipLost>
+  <EscapeShipLost>(*Name)Шарлон Вайтстоун(/Name) надіслав вам повідомлення.\n\nВін помітив, що ви втратили контроль над посадженим кораблем. Аби не допустити попадання в чужі руки, він запустив механізм саморуйнування корабеля. Корабель став кратером.\n\nВам треба знайти інший шлях як вибратись з цієї планети.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Караван зустрівся з {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
   <CaravanMeeting>{0} мирно зустрівся з караваном з {1}. Інший караван складається з:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
-  <CaravanMeeting_Trade>Торгівля</CaravanMeeting_Trade>
+  <CaravanMeeting_Trade>Торгувати</CaravanMeeting_Trade>
   <!-- EN: Attack -->
   <CaravanMeeting_Attack>Атакувати</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>Рухатися далі</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Йти далі</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>нема членів каравану, здатних до торгівлі</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>у каравані немає учасників, здатних до торгівлі</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
   <CaravanMeeting_NoPermit>потрібен трейдер з назвою {0} від {1_name}</CaravanMeeting_NoPermit>
   
