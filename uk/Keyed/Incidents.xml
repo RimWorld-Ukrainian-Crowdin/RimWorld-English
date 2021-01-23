@@ -145,7 +145,7 @@
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>Рідкісні трумбо</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>Невеличка зграя трумбо примандрувала на цю територію. \n\n За своєю природою ці рідкісні створіння мирні, але при зіткненні надзвичайно небезпечні. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  <LetterThrumboPasses>Невеличка зграя трумбо примандрувала на цю територію.\n\nЗа своєю природою ці рідкісні створіння мирні, але при зіткненні надзвичайно небезпечні. Деякі торгоці готові викласти чималу суму за їх цінну шкіру й ріг.\n\nТрумбо покинуть територію через кілька днів.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
@@ -197,7 +197,7 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Запит каравану</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>Сусіднє поселення, {0}, контактує з вами з особливою пропозицією торгівлі. Вони хочуть замовити:\n\n  {1} (на суму {2})\n\nНатомість вони пропонують:\n\n  {3} (на суму {4})\n\nЦя пропозиція дійсна впродовж: {5}\n\nЯкщо ви погоджуєтесь із пропозицією, надішліть караван із необхідними товарами. Приблизний час подорожі становить {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+  <LetterCaravanRequest>Сусіднє поселення, {0}, контактує з вами з особливою пропозицією торгівлі. Вони хочуть замовити:\n\n  {1} (на суму {2})\n\nНатомість вони пропонують:\n\n  {3} (на суму {4})\n\nЦя пропозиція дійсна впродовж: {5}\n\nЯкщо ви погоджуєтесь із пропозицією, надішліть караван із необхідними товарами. Приблизний час подорожі становить {6}. Ви можете переглянути цю пропозицію, обравши {0} на мапі світу.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>Необхідно: {0} ({2}) ({1} залишилось)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
