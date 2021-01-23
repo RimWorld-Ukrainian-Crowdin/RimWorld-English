@@ -111,7 +111,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Підсилювачі дрона</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>З розбитого човна доноситься сильніший психічний дрон. Кожен {0} гуманоїд довкола тепер почуватиметься більш стривоженим, наляканим та схильним до параної.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
