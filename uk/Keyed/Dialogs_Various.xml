@@ -1043,7 +1043,7 @@
   <!-- EN: Skip to join caravan -->
   <AbilitySkipToJoinCaravan>Пропустити для приєднання до каравану</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip>Need ally at target for navigation</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>Потрібно мати ціль для навігації</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
   <AbilityNoChunkToSkip>No chunks to skip.</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
@@ -1054,10 +1054,10 @@
   <FarskipConfirmTeleportingLodger>If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor>minor</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>слабкий</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor>major</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>сильний</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme>extreme</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>надзвичайний</MentalBreakIntensityExtreme>
   
 </LanguageData>
