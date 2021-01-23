@@ -247,15 +247,15 @@
   <Unlimited>Необмежено</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(У цього рецепту не може бути цільового підрахунку, тому що він має численні або непередбачувані продукти.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(У цього рецепту не може бути цільового підрахунку, тому що він має численні або непередбачувані результати.)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
   <WorkAmount>Обсяг роботи</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Мінімальні навички:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Вимагається {0} {1}</BillRequires>
+  <BillRequires>Необхідно {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Вимагається {0} харчування</BillRequiresNutrition>
+  <BillRequiresNutrition>Необхідно {0} харчування</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Примітка: невеликі за обсягом інгредієнти, як золото, потребують у {0} разів більше.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -268,7 +268,7 @@
   <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>Пауза по досягненню кількості</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Відновити при наявності</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>Відновити за наявності</UnpauseWhenYouHave>
   <!-- EN: Paused -->
   <Paused>Пауза</Paused>
   <!-- EN: Unpause -->
