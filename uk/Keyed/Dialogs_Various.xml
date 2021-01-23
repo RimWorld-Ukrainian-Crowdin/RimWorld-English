@@ -1013,35 +1013,35 @@
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} має націлюватись на прохідну ділянку.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>{0} має націлюватися на одноразову зону.</AbilityRoofed>
+  <AbilityRoofed>{0} має націлюватись на ділянку без даху.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0_labelShort} is mentally broken.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} психічно зломлений.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} is not mentally broken.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} не зломлений психічно.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>{0} doesn't work on the '{1}' mental state.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>{0_labelShort} has zero resistance.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>{0_labelShort} не має супротиву.</AbilityCantApplyNoResistance>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>Неможливо використати: {0} асексуал.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} не тієї статі для {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Psyfocus cost per mental break intensity</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>{0_labelShort} is already inspired.</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>{0_labelShort} вже повний натхнення.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort} can't get an inspiration right now.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious>{0_labelShort} is unconscious.</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>{0_labelShort} без свідомості.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep>{0_labelShort} is asleep.</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>{0_labelShort} cпить.</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
   <AbilityWorldTileImpassable>This tile is impassable.</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
   <AbilitySkipToRandomAlly>Skip to random ally</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan>Skip to join caravan</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>Пропустити для приєднання до каравану</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
   <AbilityNeedAllyToSkip>Need ally at target for navigation</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
