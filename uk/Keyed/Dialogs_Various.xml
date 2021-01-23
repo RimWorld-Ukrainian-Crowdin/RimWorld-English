@@ -136,45 +136,45 @@
   <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>Ваша фракція тепер відома як {0}.</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionNameIsInvalid>Це ім'я неприйнятне.</PlayerFactionNameIsInvalid>
+  <PlayerFactionNameIsInvalid>Це назва неприйнятна.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0} думає, що ви повинні дати цьому поселенню ім'я. Як назвати це місцеве поселення?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0} вважає, що ви повинні дати назву цьому поселенню. Як назвете це поселення?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Ця спільнота тепер відома як {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>Це ім'я неприйнятне.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>Це назва неприйнятна.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} також думає, що ви повинні дати цьому поселенню ім'я. Як назвати це місцеве поселення?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>Ваша фракція тепер відома як {0}, і ця спільнота тепер відома як {1}.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>Віднині ваша фракція відома як {0}, а це поселення як {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Будь ласка, введіть прийнятне ім'я.</NameIsInvalid>
+  <NameIsInvalid>Будь ласка, введіть прийнятну назву.</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>Ім'я вже використовується.</NameIsInUse>
+  <NameIsInUse>Ця назва вже використовується.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>Зона тепер називається {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Нік цієї особи тепер {0}. Назва {PAWN_possessive} — {PAWN_title}.</PawnGainsName>
+  <PawnGainsName>Прізвисько цієї особи тепер {0}. Назва {PAWN_possessive} — {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>Ім'я тварини тепер — {0}.</AnimalGainsName>
+  <AnimalGainsName>Віднині прізвисько тварини {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Невідповідність версій</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Ця гра була збережена з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього збереження може викликати помилки і збої.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>Ця гра була збережена у версії гри {0}\nМи використовуємо версію гри {1}\n\nЗавантаження цього збереження може викликати помилки та збої.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>Файл світу був створений з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього світу може викликати помилки і збої. Ви повинні, ймовірно, створити новий світ з нуля.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>Файл світу був створений у версії гри {0}\nМи використовуємо версію гри {1}\n\nЗавантаження цього світу може викликати помилки і збої. Вам слід згенерувати новий світ з початку.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>Цей файл був збережений з версії гри {0}\nМи проходимо версію гри {1}\n\nЗавантаження цього файлу може викликати помилки і збої.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>Цей файл був збережений у версії гри {0}\nМи використовуємо версію гри {1}\n\nЗавантаження цього файлу може викликати помилки і збої.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Невідповідність модів</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
@@ -182,7 +182,7 @@
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>Ви змінили налаштування екрану. Чи добре працюють нові налаштування?\n\nСтарі налаштування буде відновлено автоматично через {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>Ви змінили налаштування екрану. Все працює добре?\n\nСтарі налаштування буде автоматично відновлено через {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>Залишити</ResolutionKeep>
   <!-- EN: Revert -->
