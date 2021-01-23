@@ -98,7 +98,7 @@
   <!-- EN: Saved as {0}. -->
   <SavedAs>Збережено як {0}.</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>Введіть ім'я.</NeedAName>
+  <NeedAName>Будь ласка, введіть ім'я.</NeedAName>
   <!-- EN: Loading -->
   <LoadingLongEvent>Завантаження</LoadingLongEvent>
   <!-- EN: Saving -->
@@ -106,7 +106,7 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(Незворотна смерть)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>Ми проходимо версію {0} але збережені дані — з {1}, що є зовсім іншою версією.\n\nНамагання завантажити ці дані, напевно, не виявляться успішними.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>Ми працюємо з версією {0}, але дані збереження взяті з {1}, а це зовсім інша версія.\n\nСпроба завантажити ці дані, ймовірно, не спрацює.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>Ми проходимо версію {0} але збережені дані — з {1}, що є зовсім іншою версією.\n\nМожна досі пробувати завантажити ці дані.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
