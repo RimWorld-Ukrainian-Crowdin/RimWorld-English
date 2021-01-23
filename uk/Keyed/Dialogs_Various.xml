@@ -190,15 +190,15 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Ви дійсно хочете назавжди вимкнути режим розробки на даному комп'ютері?\n\nЦе варіант для людей, які хочуть зіграти в чисту гру без спокуси використовувати інструменти для розробки, щоб отримати перевагу в грі.\n\nРежим розробки можна повторно включити, але це вимагає ручного редагування конфігураційних файлів. Вас потрібно буде шукати в Інтернеті, щоб дізнатись, як.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Ви дійсно хочете назавжди вимкнути режим розробника на цьому комп'ютері?\n\nЦей варіант для людей, які хочуть зіграти в чисту гру без спокуси використання інструментів для розробки, щоб отримати перевагу в грі.\n\nРежим розробки можна повторно включити, але це вимагає ручного редагування конфігураційних файлів. Вам потрібно буде шукати в Інтернеті, щоб дізнатись, як.</ConfirmPermanentlyDisableDevMode>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Попередження: Ви приземлитесь в замороженому середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся зіткнутися з екстремальним випробуванням, виберіть інше місце або сезон.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Попередження: Ви приземлитесь у холодному середовищі. Може бути складно або майже неможливо вижити. Якщо ви не збираєтеся кинути собі виклик, виберіть інше місце або сезон.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Гра призначена для середніх розмірів карти. Ці розміри забезпечують чимало місця!\n\nВеликі розміри карти не тільки погіршують продуктивність гри, а й дійсно ламають ігровий дизайн. Штучний інтелект робитиме дурні рішення, і ігровий баланс буде сильно змінений. Ці розміри включені у список тільки за традицією та для тестувань. Будь ласка, не використовуйте їх без певної причини.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Гра призначена для мапи середніх розмірів. Ці розміри забезпечують чимало місця!\n\nВеликі розміри карти не тільки погіршують продуктивність гри, а й дійсно ламають ігровий дизайн. Штучний інтелект робитиме дурні рішення, і ігровий баланс буде сильно змінений. Ці розміри включені у список тільки за традицією та для тестувань. Будь ласка, не використовуйте їх без певної причини.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Розмір карти</MapSize>
+  <MapSize>Розмір мапи</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} клітинок)</MapSizeDesc>
   <!-- EN: Small -->
@@ -208,13 +208,13 @@
   <!-- EN: Large -->
   <MapSizeLarge>Велика</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Екстремальна (тест)</MapSizeExtreme>
+  <MapSizeExtreme>Екстремальна (тестова)</MapSizeExtreme>
   <!-- EN: Starting season -->
   <MapStartSeason>Початковий сезон</MapStartSeason>
   <!-- EN: Auto -->
-  <MapStartSeasonDefault>Авто</MapStartSeasonDefault>
+  <MapStartSeasonDefault>Автоматично</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>Увага</Notice>
+  <Notice>Зауваж</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
@@ -236,7 +236,7 @@
   <!-- EN: Counting -->
   <CountingProducts>Підрахунок</CountingProducts>
   <!-- EN: Infinite -->
-  <Infinite>Безкінечно</Infinite>
+  <Infinite>Незкінченно</Infinite>
   <!-- EN: Allowed {0} skill: -->
   <AllowedSkillRange>Рівень навику {0}:</AllowedSkillRange>
   <!-- EN: incompatible -->
