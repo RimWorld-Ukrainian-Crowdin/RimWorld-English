@@ -199,17 +199,17 @@
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>Сусіднє поселення, {0}, контактує з вами з особливою пропозицією торгівлі. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>Requesting: {0} ({2}) ({1} left)</CaravanRequestInfo>
+  <CaravanRequestInfo>Необхідно: {0} ({2}) ({1} залишилось)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>нормальна або краща якість</NormalQualityOrBetter>
+  <NormalQualityOrBetter>нормальна якість або краще</NormalQualityOrBetter>
   <!-- EN: not tainted -->
-  <NotTainted>not tainted</NotTainted>
+  <NotTainted>не пошкоджене</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
+  <CaravanDemandTitle>Караван викликано {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3}</CaravanDemand>
+  <CaravanDemand>{0} потрапив у засідку {2} {4} з {1}. Вони нападатипуть поки ви не віддасте їм:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
   <CaravanDemand_Give>Дати і пройти</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
