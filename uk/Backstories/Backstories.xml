@@ -412,7 +412,7 @@
     <!-- EN: art slave -->
     <title>art slave</title>
     <!-- EN: artist -->
-    <titleShort>artist</titleShort>
+    <titleShort>митець</titleShort>
     <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
     <desc>[PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others.</desc>
   </ArtSlave57>
