@@ -267,7 +267,7 @@
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>{0} помер від гнилості.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} has died because of poison.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} помер через отруту.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
   <MessagePlantDiedOfBlight>{1_label} has died because of blight.</MessagePlantDiedOfBlight>
 
