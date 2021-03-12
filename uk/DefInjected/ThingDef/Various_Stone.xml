@@ -27,7 +27,7 @@
   
   <!-- EN: slate blocks -->
   <BlocksSlate.label>блоки сланцю</BlocksSlate.label>
-  <BlocksSlate.stuffProps.stuffAdjective>блоки сланцю</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksSlate.stuffProps.stuffAdjective>сланцю</BlocksSlate.stuffProps.stuffAdjective>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
   <BlocksSlate.description>Блоки цільного сланцю. Тьмяний камінь, що легко відламується.</BlocksSlate.description>
   
